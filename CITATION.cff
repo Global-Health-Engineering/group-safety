@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "To cite the safety concept, use:"
+license: CC-BY-4.0
+title: "Global Health Engineering safety concept"
+date-released: "2023-12-31"
+authors:
+  - family-names: Tkaczuk
+    given-names: Jakub
+    email: jtkaczuk@ethz.ch
+    orcid: https://orcid.org/0000-0001-7997-9423
+  - family-names: Tilley
+    given-names: Elizabeth
+    email: tilleye@ethz.ch
+    orcid: https://orcid.org/0000-0002-2095-9724
+contact:
+  - family-names: Tkaczuk
+    given-names: Jakub
+    email: jtkaczuk@ethz.ch
+    orcid: https://orcid.org/0000-0001-7997-9423
+version: 0.0.1
