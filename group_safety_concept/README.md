@@ -1,5 +1,10 @@
 # Operational Safety Concept for the laboratories and workshops of Global Health Engineering
 
+This safety concept is developed by:
+- Dr Jakub Tkaczuk
+- Prof. Elizabeth Tilley
+and is valid from 1-01-2024.
+
 ## Table of contents
 
 1. [Scope of the operational safety concept](#scope)
@@ -34,6 +39,7 @@
 8. [Instruction, training, and information on operational safety](#training)
 9. [Health protection](#protection)
 10. [Review and audits](#audits)
+11. [Appendices](#appendices)
 
 ## <a name="scope"></a>1. Scope of the operational safety concept
 
@@ -235,7 +241,6 @@ Before a person enters the mechanical workshop, they are obliged to complete the
 For both the wet lab and the workshop, a general training is provided upon entry. The equipment-specific training is provided to interested and qualified personnel. The permission for equipment use is granted on individual basis according to the level of training and experience.
 - Appendix 9: Attestation of information, instruction, and training
 
-
 ## <a name="protection"></a>9. Health protection
 
 The inclusion of ergonomic, occupational hygiene and occupational psychology principles and rules is a prerequisite for the optimal design of work. Health-damaging factors must be recorded systematically, and measures taken where necessary. Inspection of personal workplaces and the related ergonomic adjustments can help reduce symptoms or even eliminate them completely. If necessary, the representatives of GHE may consult the ETH occupational physician [Dr. Ines Raabe](https://ethz.ch/staffnet/en/service/safety-security-health-environment/contact-persons/details.html?persid=175624).
@@ -243,6 +248,19 @@ The inclusion of ergonomic, occupational hygiene and occupational psychology pri
 ## <a name="audits"></a>10. Review and audits
 
 Global Health Engineering checks regularly if the safety and health protection goals have been reached, and if safety rules are being applied. Furthermore, periodic clean-up activities are held in the lab and workshop facilities.
+- Appendix 10: Task schedule
+
+## <a name="appendices"></a>11. Appendices
+
+- Appendix 1: Project list
+- Appendix 2: Description of workflows and activities
+- Appendix 3: Hazard identification and risk assessment
+- Appendix 4: Collection of operating instructions, user manuals and SOP
+- Appendix 5: General lab/workshop rules
+- Appendix 6: Special safety regulations for lab/workshop cleaning by a cleaning service 
+- Appendix 7: Maintenance and servicing schedules
+- Appendix 8: Chemical storage concept, inventory of chemicals
+- Appendix 9: Attestation of information, instruction, and training
 - Appendix 10: Task schedule
 
 
