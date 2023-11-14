@@ -3,6 +3,7 @@ message: "To cite the safety concept, use:"
 license: CC-BY-4.0
 title: "Global Health Engineering safety concept"
 date-released: "2023-12-31"
+type: report
 authors:
   - family-names: Tkaczuk
     given-names: Jakub
