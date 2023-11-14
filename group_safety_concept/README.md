@@ -47,7 +47,7 @@ Limitations: This safety concept does not address the topics of radiation protec
 
 ## <a name="objectives"></a>2. Safety objectives
 
-In the labs and workshops of GHE, the high-pressure gas (O2, CH4, CO2), ammonia, human excreta, urine, drills, manual saws, hammers, benchtop drill, 3D printer, laser cutters, water cutters are worked with. The risk to people and the environment cannot be entirely excluded for these activities. Global Health Engineering therefore takes the necessary action to protect people and the environment from the negative effects. The head of GHE, as the representative of the employer, assumes responsibility for occupational safety and health protection of employees and students and takes the required steps[^3].
+In the labs and workshops of GHE, the high-pressure gas (${\rm O_2, CH_4, CO_2}$), ammonia, human excreta, urine, drills, manual saws, hammers, benchtop drill, 3D printer, laser cutters, water cutters are worked with. The risk to people and the environment cannot be entirely excluded for these activities. Global Health Engineering therefore takes the necessary action to protect people and the environment from the negative effects. The head of GHE, as the representative of the employer, assumes responsibility for occupational safety and health protection of employees and students and takes the required steps[^3].
 
 ## <a name="organization"></a>3. <a name="organization"></a>Safety organization
 
@@ -107,15 +107,15 @@ In case of injury, fire, damages and other critical incidents, fast and qualifie
 
 ### <a name="emergency_i"></a>4.i How to play it safe at ETH Zurich
 
-The most important rules of conduct in case of emergency can be found in the leaflet «How to Play it Safe at ETH Zurich». It can be downloaded from the SSHE [Website](https://ethz.ch/content/dam/ethz/associates/services/Service/sicherheit-gesundheit-umwelt/files/sicher_unterwegs_an_der_eth/en/sgu-sicher_unterwegs_an_der_eth_en.pdf) and may also be obtained from SSHE in printed form.
+The most important rules of conduct in case of emergency can be found in the leaflet «How to Play it Safe at ETH Zurich». It can be downloaded from the [SSHE website](https://ethz.ch/content/dam/ethz/associates/services/Service/sicherheit-gesundheit-umwelt/files/sicher_unterwegs_an_der_eth/en/sgu-sicher_unterwegs_an_der_eth_en.pdf) and may also be obtained from SSHE in printed form.
 
 ### <a name="emergency_ii"></a>4.ii Emergencies in the lab and workshop
 
-An overview of correct behavior in case of incidents in the lab or workshop has been put together on the poster «Emergency in the lab – What to do? », which is displayed in all labs and workshops. This poster can be obtained from SSHE (cabs@ethz.ch).
+An overview of correct behavior in case of incidents in the lab or workshop has been put together on the poster «Emergency in the lab – What to do? », which is displayed in all labs and workshops. This poster can be ordered from SSHE by [email](mailto:cabs@ethz.ch).
 
 ### <a name="emergency_iii"></a>4.iii Reporting lab and workshop incidents
 
-All lab and workshop incidents must be reported to the line manager and the GSR, then they report the event to SSHE by email to [sgu-schaden@ethz.ch](mailto:sgu-schaden@ethz.ch). That includes lab accidents, workshop accidents, office accidents, and transit accidents.
+All lab and workshop incidents must be reported to the line manager and the GSR, then they report the event to SSHE by [email](mailto:sgu-schaden@ethz.ch). That includes lab accidents, workshop accidents, office accidents, and transit accidents.
 
 #### <a name="emergency_iii_a"></a>4.iii.a Personal injury (personal accident, occupational accident, near miss)
 
@@ -129,7 +129,7 @@ Should material damage, e.g., to research equipment, be caused by the incident, 
 
 ## <a name="hazard"></a>5. Hazard identification and risk assessment
 
-Hazards can only be dealt with if they have been identified. To make work safer, one of the key tasks is determining where the hazards in the lab, workshop, and field research lie and assessing the corresponding risks. When new activities are undertaken or significant changes made, hazards must be identified, or the existing hazard identification re-evaluated. This serves as the basis from which the necessary safety measures are defined and implemented. 
+Hazards can only be dealt with if they have been identified. To make work safer, one of the key tasks is determining where the hazards in the lab, workshop, and field research lie and assessing the corresponding risks. When new activities are undertaken or significant changes made, hazards must be identified, or the existing hazard identification re-evaluated. This serves as the basis from which the necessary safety measures are defined and implemented.
 
 Identifying hazards is the responsibility of the professor. If required, SSHE can be consulted.
 
@@ -155,7 +155,7 @@ Safety rules make it possible for employees and third parties to always act in a
 
 ### <a name="measures_i"></a>6.i Access control and work area identification
 
-Access to the lab and workshop facilities with special hazards is restricted to authorized (and trained) personnel only. The group’s key manager applies for keys for the respective persons. The rooms with restricted access are designated with yellow signs «Access for authorized personnel only” on the door or the prohibition sign «No access for unauthorized persons». Furthermore, the required warning and mandatory signs must be displayed on all doors [^4].
+Access to the lab and workshop facilities with special hazards is restricted to authorized (and trained) personnel only. The group’s key manager applies for keys for the respective persons. The rooms with restricted access are designated with yellow signs «Access for authorized personnel only” on the door or the prohibition sign «No access for unauthorized persons». Furthermore, the required warning and mandatory signs must be displayed on all doors[^4].
 
 At GHE, this applies to the following rooms:
 - wet laboratory (BSL2) - CLA J26
@@ -210,7 +210,7 @@ The chemical inventory is carried out twice per year. Chemicals no longer requir
 
 #### <a name="measures_v_b"></a>6.v.b Disposal
 
-Hazardous wastes are collected and disposed of according to the valid ETH-wide disposal guideline. This can be found [online](https://ethz.ch/content/dam/ethz/associates/services/Service/sicherheit-gesundheit-umwelt/files/sonderabfallentsorgung/en/Richtlinie_Entsorgung_EN.pdf).
+Hazardous wastes are collected and disposed of according to the valid ETH-wide [disposal guidelines](https://ethz.ch/content/dam/ethz/associates/services/Service/sicherheit-gesundheit-umwelt/files/sonderabfallentsorgung/en/Richtlinie_Entsorgung_EN.pdf).
 
 ### <a name="measures_vi"></a>6.vi Planning, building, rebuilding, dismantling, and relocating
 
