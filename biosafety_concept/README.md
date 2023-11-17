@@ -14,6 +14,22 @@ and is valid from 1-01-2024.
 	2. [Organizational chart](#organization_ii)
 	3. [Duties of the Biosafety Officer (BSO), the laboratory leader, and the project leaders](#organization_iii)
 	4. [List of employees](#organization_iv)
+4. [Emergency organization: Planning and incident management](#emergency)
+	1. [Emergency telephone numbers and contacts for safety issues](#emergency_i)
+	2. [Emergency planning: Procedures in case of incidents in the laboratory and crisis situations](#emergency_ii)
+	3. [Report sheet for laboratory incidents](#emergency_iii)
+	4. [Health file](#emergency_iv)
+5. [Risk assessment](#risk)
+	1. [Compulsory reporting of BSL2 activities](#risk_i)
+	2. [Project list and inventory of biological agents](#risk_ii)
+6. [Safety measures and rules of conduct](#measures)
+	1. [Access control and signalization of BSL2 working areas](#measures_i)
+	2. [Instructions for safe working](measures_ii)
+		1. [Operating instructions and rules of conduct](#measures_ii_a)
+		2. [Laboratory safety rules](#measures_ii_b)
+		3. [Use of class 2 safety cabinet](#measures_ii_c)
+	3. [Training and information to ensure safety at work](#measures_iii)
+
 
 ## <a name="validity"></a>1. Validity
 
@@ -44,14 +60,83 @@ As a matter of principle, ETH Zurich as an institution (not an individual ETH em
 
 The organizational structure of GHE is described in [section 3.ii of the GHE's Operational Safety Concept](../group_safety_concept/README.md).
 
-### <a name="organization_iii"></a>3.iii Duties of the Biosafety Officer (BSO), the Laboratory Leader, and the Project Leaders
+### <a name="organization_iii"></a>3.iii Duties of the Biosafety Officer, the Laboratory Leader, and the Project Leaders
 
-The status, duties and responsibilities of the Biosafety Officer and the Project Leaders (PL) are set out in the job description of the respective employees. GHE conforms to the respective guideline of the Swiss Agency for the Environment, Forests and Landscape (SAEFL)[^4].
+The status, duties and responsibilities of the Biosafety Officer (BSO) and the Project Leaders (PL) are set out in the job description of the respective employees. GHE conforms to the respective guideline of the Swiss Agency for the Environment, Forests and Landscape (SAEFL)[^4].
 
-The duties of the BSO and PL are described in detail in:
-- Annex 1. Duties of Biosafety Officer(s) (BSO) and Project Leader(s) (PL)
+The duties of the BSO and PL are described in detail in Annex 1. Duties of Biosafety Officer(s) (BSO) and Project Leader(s) (PL).
 
 ### <a name="organization_iv"></a>3.iv List of employees
+
+Group 2 microorganisms represent a potential hazard for employees. GHE keeps a list of persons who work with Group 2 organisms (see Annex 2. List of employees according to SAMV) and, if required, arranges for a health file to be created according to the Ordinance on the Protection of Personnel from Hazards due to Microorganisms (SAMV) (see Chapter 4.4). GHE shall provide this list to SSHE-BSO on request.
+
+## <a name="emergency"></a>4. Emergency organization: Planning and incident management
+
+### <a name="emergency_i"></a>4.i Emergency telephone numbers and contacts for safety issues
+
+The emergency telephone numbers and contact addresses of persons able to provide information on safety matters are available in every laboratory and near the telephones. This is of paramount importance for dealing with an incident quickly. This list is provided in Annex 3. Emergency telephone numbers and contacts for safety issues.
+
+### <a name="emergency_ii"></a>4.ii Emergency planning: Procedures in case of incidents in the laboratory and crisis situations
+
+When working with organisms, emergency situations, which vary in severity, may arise owing to spillage of infectious material, release of aerosols, injuries, fire, explosion and water discharge. While minor incidents are, in general, dealt with by the person(s) who caused them, with the assistance of the Biosafety Officers if appropriate, the emergency services must always be alerted in the event of serious incidents.
+- Annex 4. Emergency planning: Procedures in case of incidents in the laboratory
+
+### <a name="emergency_iii"></a>4.iii Report sheet for laboratory incidents
+
+In the event of a laboratory incident involving Class 2 activities, the precise circumstances leading to contamination of the body or to an injury, even if only a minor one, must be recorded. All laboratory incidents must be reported to the BSO and the supervisors, i.e., body injuries and material damages. In the next step, they must be reported to SSHE, using Annex 5. Report sheet for laboratory incidents.
+
+The report sheets for laboratory incidents are used by the BSO, supervisors, and SSHE to investigate the causes of incidents, so that measures can be initiated to prevent and reduce risks. The completed report sheets are kept on file by the BSO, SSHE, and supervisors for at least five years.
+
+### <a name="emergency_iv"></a>4.iv Health file
+
+The employees’ occupational health data are collected in the so-called health file in special cases described below. The Occupational Health Services of ETH Zurich (currently represented by several occupational physicians) keep a health file for those employees for whom a medical examination is necessary as a direct result of their work. This could involve vaccinations, medical diagnoses and measures after an occupational/laboratory accident, exposure to microorganisms or if there is a reason to suspect an infectious disease was acquired during work activities.
+
+The following details are recorded in the health file (according to Art. 14 (3) SAMV):
+- Reasons for the particular medical precautions.
+- Investigations into the employees’ immune status.
+- Vaccinations.
+- Results of medical examinations after accidents, incidents, exposure to microorganisms, suspected infection during occupational activity.
+
+The health file is kept by the attending doctor, either as a separate dossier or as a component / folder in an already existing medical history, if, for example, the person examined also consults the same doctor privately[^5].
+If other work-related medical examinations, e.g., concerning radiation protection, are also carried out by the doctor involved, these shall be included or combined in the same personal dossier.
+
+## <a name="risk"></a>5. Risk assessment
+
+### <a name="risk_i"></a>5.i Compulsory reporting of BSL2 activities
+
+The risks of an activity and the reporting and authorization requirements according to ESV (Art. 8-10) and SAMV (Art. 5 and 6) are identified/established at an early stage. To this end, before the start of the activity, the project leaders report to the BSO all new activities, major changes, e.g., use of new organisms with significantly different characteristics, or significant new knowledge concerning safety-related aspects of an ongoing activity.
+
+The BSO and GHE inform the Federal Office of Public Health (FOPH), using [ECOGEN](https://www.ecogen.admin.ch/public/#/), about the start and the end of the BSL2 activities.
+
+### <a name="risk_ii"></a>5.ii Project list and inventory of biological agents
+
+The BSO keeps an overview of the activities involving organisms within their area of responsibility and records them in Annex 6. Project list. The project list is updated at least every six months and whenever there are new reports and requests. The list is accessible to SSHE at any time.
+
+## <a name="measures"></a>6. Safety measures and rules of conduct
+
+### <a name="measures_i"></a>6.i Access control and signalization of BSL2 working areas
+
+Access to BSL2 laboratory facility is restricted to authorized persons only and is governed by the containment concept of GHE. Nonetheless, it must always be ensured that, in the event of an incident, e.g., fire, the emergency services are able to access the area quickly and safely and that the escape routes are secured. The implemented regulations are described in Annex 7. Rules on access to level 2 working areas.
+
+The entrance area to level 2 laboratories is signalized and warning signs (restricted access and warning of the hazards emanating from the organism) are displayed. The guidelines for signalization of laboratories and equipment with the “Biohazard” warning symbol are described in Annex 8. Meaning and use of the «Biohazard» warning symbol.
+
+### <a name="measures_ii"></a>6.ii Instructions for safe working
+
+#### <a name="measures_ii_a"></a>6.ii.a Operating instructions and rules of conduct
+
+Rules concerning various aspects of occupational safety and environmental safety at GHE are set out in the operating instructions, work instructions or the Standard Operating Procedures (SOPs). These documents are provided in Annex **XXX**.
+
+#### <a name="measures_ii_b"></a>6.ii.b Laboratory safety rules
+
+The staff of GHE adhere to the legally binding “Principles of good microbiological practice” according to Annex 3 of SAMV. Based on it, the laboratory rules applicable to the laboratory of GHE are adapted and supplemented accordingly. The laboratory rules are described in Annex 9.
+
+#### <a name="measures_ii_c"></a>6.ii.c Use of class 2 safety cabinet
+
+Correct operation and use including regular maintenance of the safety cabinets are essential for the protection of people and the environment, as well as for the quality of research and test results and are explained in detail in a separate information sheet. GHE is responsible for maintenance of the safety cabinets. Annex 10 contains information on the use of class 2 safety cabinets.
+
+#### <a name="measures_iii"></a>6.iii Training and information to ensure safety at work
+
+At ETH Zurich, training is an important element to ensure safety of people and the environment. ETH Zurich offers its BSO external and internal training courses. The respective project manager is responsible for inducting new employees and instructing them in biosafety (they can, however, delegate this task to the BSO). The confirmation of training completion is recorded in writing.  
 
 
 
@@ -60,3 +145,4 @@ The duties of the BSO and PL are described in detail in:
 [^2]: The University defines its protection goals to prevent accidents at work as well as harmful and undesirable effects on the environment and the population.
 [^3]: According to Article 7 Paragraph 4 of Ordinance 3 dated 18 August 1993 to the Employment Act (Health Protection, ArGV 3, SR 822.113) the following applies: „The rules regarding responsibilities in the plant/laboratory do not exempt the employer from his responsibility to protect health”.
 [^4]: [Guideline: Biosafety Officer (BSO) – Status, duties and responsibilities](https://www.bafu.admin.ch/bafu/en/home/topics/biotechnology/publications-studies/publications/biosafety-officers-bso.html).
+[^5]: The attending doctor does not necessarily have to be an occupational health specialist, but may, according to SAMV, also be a company doctor or an independent medical examiner. What is crucial, however, is that this person knows the work situation and the working conditions, so that a link to the workplace can be established during the health assessment and the necessary plan of occupational health measures can be drawn up. In this regard, compare Art 2.4 of EKAS guideline 6508 on the calling-in of occupational health doctors and other occupational safety specialists.  
