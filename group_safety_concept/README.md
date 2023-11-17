@@ -3,6 +3,7 @@
 This safety concept is developed by:
 - Dr Jakub Tkaczuk
 - Prof. Elizabeth Tilley
+
 and is valid from 1-01-2024.
 
 ## Table of contents
