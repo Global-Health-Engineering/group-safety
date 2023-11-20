@@ -66,4 +66,5 @@
 - Buthyl: **poor (not recommended)**.
 - Nitrile: **poor (not recommended)**.
 
-[Back to main page](https://github.com/Global-Health-Engineering/wet-lab-chemicals)
+[Back to chemical safety](https://github.com/Global-Health-Engineering/group-safety)
+[Back to main repo page](https://github.com/Global-Health-Engineering/group-safety/tree/main/02-chemical-safety)

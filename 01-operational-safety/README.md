@@ -82,7 +82,7 @@ To maintain operational safety, the necessary financial and personnel means are 
 
 The essential points regarding liability and insurance are listed in the SUVA publication «What are your duties in the field of occupational safety and health protection?»[^3] as well as the corresponding [ETH factsheet](https://ethz.ch/content/dam/ethz/associates/services/finance-and-controlling/closed/Risikomanagement/merkblatt-versicherungen-ethzurich-nov.pdf).
 
-### <a name="organization_ii"></a>3.ii Safety organization at GHE
+### <a name="organization_ii"></a>3.ii Organizational structure
 
 In the list of names, the position of the GSR and any other necessary safety roles, e.g., biosafety officer (BSO), laser safety officer (LSO), radiation protection supervisor, workshop supervisor, are defined within GHE. The table below described the safety organization within GHE.
 
