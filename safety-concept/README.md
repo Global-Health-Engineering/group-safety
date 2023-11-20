@@ -2,7 +2,7 @@
 
 This safety concept is developed by:
 - Dr Jakub Tkaczuk
-- Prof. Elizabeth Tilley
+- Prof. Dr Elizabeth Tilley  
 
 and is valid from 1-01-2024.
 
@@ -221,7 +221,9 @@ Hazardous wastes are collected and disposed of according to the valid ETH-wide [
 
 ### <a name="measures_vi"></a>6.vi Planning, building, rebuilding, dismantling, and relocating
 
-One of the professor’s and GSR’s duties is to propose modifications to the safety precautions according to the state of the art and technology, even if this could result in a renovation or new construction. Proposals for structural/technical modifications (to the infrastructure, or changes in the locking system) are sent via the [GMIS-System](https://gmis-prd-m.ethz.ch/home/GMIS/gmism/). Modifications to devices, machines, experiments, etc. are commissioned by GHE itself.
+One of the professor’s and GSR’s duties is to propose modifications to the safety precautions according to the state of the art and technology, even if this could result in a renovation or new construction. Proposals for structural/technical modifications (to the infrastructure, or changes in the locking system) are sent via the [GMIS-System](https://gmis-prd-m.ethz.ch/home/GMIS/gmism/). Modifications to devices, machines, experiments, and others are commissioned by GHE itself.
+
+The respective Safety Officers are always consulted whenever new build-ing work or structural modifications are carried out at ETH Zurich and whenever technical changes are made to safety-relevant facilities[^7].
 
 In the event of modifications, repurposing, dismantling, and relocating activities, especially adapted safety precautions must be taken at the required time, especially regarding decontamination of labs and technical equipment. If, despite prior decontamination, a chemical hazard or similar risk cannot be completely ruled out, this aspect is explicitly regulated for the phase of construction work with the increased risk, e.g., dismantling filters.
 
@@ -271,3 +273,4 @@ Global Health Engineering checks regularly if the safety and health protection g
 [^4]: These labeling materials can be obtained from [stickers@ethz.ch](mailto:stickers@ethz.ch). The catalog is available [here](https://ethz.ch/content/dam/ethz/associates/services/Service/sicherheit-gesundheit-umwelt/files/kennzeichnungsmaterial/en/Bestellkatalog_EN_20210217.pdf).
 [^5]: With a declaration of conformity, the manufacturer or supplier (the so-called «distributor») confirms that the fundamental health and safety requirements are met and the machine sold was built according to state-of-the-art technology. In case of accident due to a technical defect of the machine, the distributor is liable and the purchaser better protected.
 [^6]: The machine or device must also be accompanied by a user manual (with information on set-up, operation, troubleshooting and maintenance), which serves to instruct employees.
+[^7]: Safety aspects such as fire prevention, rules on access or environmental and occupational safety are closely related to planning and construction. Structural measures are often a prerequisite for technical safety precautions. Structural and technical safety measures which are considered together with the proposed operating procedures at the planning stage ensure trouble-free operation in the future.
