@@ -1,0 +1,57 @@
+# Magnesium oxide
+
+## Basic information
+
+- Chemical formula(s): ${\rm MgO}$
+- Other names: calcined brucite, calcined magnesia, magnesia
+- CAS: 1309-48-4
+- International Chemical Safety Card (ICSC): [0504](https://inchem.org/documents/icsc/icsc/eics0504.htm)
+- Flammability: no
+- [NOAA's](https://cameochemicals.noaa.gov/chemical/6945) description: white hygroscopic solid, often found as a powder
+
+## NFPA 704 (fire diamond)
+
+- **Health (blue): 1** - exposure would cause irritation with only minor residual injury.
+- **Flammability (red): 0** - will not burn under typical fire conditions, will not burn in air unless exposed to a temperature of 820 °C for more than 5 minutes.
+- **Instability–reactivity (yellow): 0** - normally stable, even under fire exposure conditions, and is not reactive with water.
+- **Special notice (white): -**
+
+## Hazard Statements
+
+| Code | Phrase                           |
+| ---- | -------------------------------- |
+| H315 | causes skin irritation           |
+| H319 | causes serious eye irritation    |
+| H335 | may cause respiratory irritation |
+
+## Precautionary statements
+
+| Code           | Phrase                                                                                                                           |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| P261           | avoid breathing dust/fume/gas/mist/vapours/spray                                                                                 |
+| P264           | wash ... thoroughly after handling                                                                                               |
+| P271           | use only outdoors or in a well-ventilated area                                                                                   |
+| P273           | avoid release to the environment                                                                                                 |
+| P280           | wear protective gloves/protective clothing/eye protection/face protection                                                        |
+| P302+P352      | IF ON SKIN: wash with soap and water                                                                                             |
+| P304+P340      | IF INHALED: remove victim to fresh air and keep at rest in a position comfortable for breathing                                  |
+| P305+P351+P338 | IF IN EYES: rinse continuously with water for several minutes, remove contact lenses if present and easy to do, continue rinsing |
+| P312           | call the ETH Emergency Desk: +41 44 342 11 88 (from mobile) or 888 (from landline) if you feel unwell                            |
+| P333+P313      | IF SKIN IRRITATION OR A RASH OCCURS: get medical advice/attention                                                                |
+| P337+P313      | IF EYE IRRITATION PERSISTS: get medical advice/attention                                                                         |
+| P362           | take off contaminated clothing                                                                                                   |
+| P363           | wash contaminated clothing before reuse                                                                                          |
+| P391           | collect spillage                                                                                                                 |
+| P403+P233      | store in a well ventilated place, keep container tightly closed                                                                  |
+| P405           | store locked up                                                                                                                  |
+
+## Skin protection (gloves)
+
+[Occupational Safety and Health Act of 1970](https://www.osha.gov/sites/default/files/publications/osha3151.pdf) and [OSHA Glove Selection Chart](https://safety.fsu.edu/safety_manual/OSHA%20Glove%20Selection%20Chart.pdf) do not provide recommendation on gloves for handling magnesium oxide. [Carl Roth](https://www.carlroth.com/medias/SDB-8280-IE-EN.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wyMTY3NDZ8YXBwbGljYXRpb24vcGRmfHNlY3VyaXR5RGF0YXNoZWV0cy9oYmMvaDc3LzkwODI5NDk5NTk3MTAucGRmfDVhYzg2NGYyZjBmODczMTg1MzhkZDFiZDllZWU5MWJiOWE2ZTk2YjBkYTNjMjQ2ZGI2ZGJkNDFkM2UyOWMwZTU) specifies only the nitrile gloves as a PPE against magnesium oxide:
+
+- Neoprane: N/A
+- Natural latex or rubber: N/A
+- Buthyl: N/A
+- Nitrile: **very good**.
+
+[Back to main page](https://github.com/Global-Health-Engineering/wet-lab-chemicals)
