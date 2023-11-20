@@ -1,5 +1,14 @@
 # Safety documents for Global Health Engineering
 
+## Emergency
+
+In case of emergency in the laboratory, workshop, or office:
+1. call the ETH Emergency Desk: **+41 44 342 11 88** (from mobile) or **888** (from landline)
+2. inform Dr. Jakub Tkaczuk (Group Safety Representative, Bio-Safety Officer): +41 44 632 31 62
+3. inform Prof. Dr Elizabeth Tilley.
+
+## Content
+
 This repository contains all the safety related documents for Global Health Engineering and is structured as follows:
 
 1. `01-operational-safety` contains the group-specific safety concept.

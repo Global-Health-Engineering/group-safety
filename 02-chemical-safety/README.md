@@ -1,12 +1,5 @@
 # Chemical safety
 
-## Emergency
-
-In case of emergency in the laboratory:
-1. call the ETH Emergency Desk: **+41 44 342 11 88** (from mobile) or **888** (from landline)
-2. inform Dr. Jakub Tkaczuk (Group Safety Representative): +41 44 632 31 62
-3. inform Prof. Dr Elizabeth Tilley.
-
 ## List of chemicals
 
 This list contains only the chemicals for which the [International Peer Reviewed Chemical Safety Information](https://www.inchem.org/) provided the International Chemical Safety Card ([ICSC](https://www.inchem.org/pages/icsc.html)) or other safety card is available. Substances posing no risk, e.g., ${\rm NaCl}$ are not listed below.
