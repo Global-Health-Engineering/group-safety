@@ -45,5 +45,5 @@
 - Buthyl: **very good**.
 - Nitrile: **very good**.
 
-[Back to chemical safety](https://github.com/Global-Health-Engineering/group-safety)
-[Back to main repo page](https://github.com/Global-Health-Engineering/group-safety/tree/main/02-chemical-safety)
+[Back to chemical safety page](https://github.com/Global-Health-Engineering/group-safety/tree/main/02-chemical-safety)  
+[Back to main repo page](https://github.com/Global-Health-Engineering/group-safety)

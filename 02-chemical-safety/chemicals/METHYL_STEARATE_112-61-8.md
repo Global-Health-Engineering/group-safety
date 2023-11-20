@@ -44,5 +44,5 @@
 - Buthyl: **immersion protection with 4/8 mil thickness**
 - Nitrile: **splash protection with 15 mil thickness**
 
-[Back to chemical safety](https://github.com/Global-Health-Engineering/group-safety)
-[Back to main repo page](https://github.com/Global-Health-Engineering/group-safety/tree/main/02-chemical-safety)
+[Back to chemical safety page](https://github.com/Global-Health-Engineering/group-safety/tree/main/02-chemical-safety)  
+[Back to main repo page](https://github.com/Global-Health-Engineering/group-safety)
