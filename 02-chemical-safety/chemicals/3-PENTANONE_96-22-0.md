@@ -55,4 +55,5 @@
 - Buthyl: **good**, recommended for direct contact with the chemical, 240 min breakthrough time for 12-15 mil thickness.
 - Nitrile: **fair**, but recommended for normal use - 60 min breakthrough time for  11-13 mil thickness.
 
-[Back to main page](https://github.com/Global-Health-Engineering/wet-lab-chemicals)
+[Back to chemical safety](https://github.com/Global-Health-Engineering/group-safety)
+[Back to main repo page](https://github.com/Global-Health-Engineering/group-safety/tree/main/02-chemical-safety)

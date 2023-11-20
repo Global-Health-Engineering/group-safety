@@ -47,4 +47,5 @@
 - Buthyl: N/A
 - Nitrile: **very good protection;** 480 min breakthrough time for 0.11 mm thickness.
 
-[Back to main page](https://github.com/Global-Health-Engineering/wet-lab-chemicals)
+[Back to chemical safety](https://github.com/Global-Health-Engineering/group-safety)
+[Back to main repo page](https://github.com/Global-Health-Engineering/group-safety/tree/main/02-chemical-safety)

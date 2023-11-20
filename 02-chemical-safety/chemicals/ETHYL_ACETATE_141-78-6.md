@@ -43,4 +43,5 @@
 - Buthyl: **good for limited service**.
 - Nitrile: **fair for limited service**.
 
-[Back to main page](https://github.com/Global-Health-Engineering/wet-lab-chemicals)
+[Back to chemical safety](https://github.com/Global-Health-Engineering/group-safety)
+[Back to main repo page](https://github.com/Global-Health-Engineering/group-safety/tree/main/02-chemical-safety)
