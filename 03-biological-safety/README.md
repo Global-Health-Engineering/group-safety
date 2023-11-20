@@ -186,7 +186,7 @@ In summary, the following applies:
 | --------- | ---------------------------------------------------------------- | ------------ | -------------------------- | ----------------------------------------------------- |
 | UN 3373   | biological substances of category B                              | Class 6.2    | P650                       | Group 2 (possibly 3) and category B of microorganisms |
 | UN 3245   | genetically modified microorganisms                              | Class 9      | P904                       | Group 1 microorganisms                                |
-| UN 1845   | Dry ice (solid${\rm CO_2}$), only to be marked for air transport | Class 9      |                            | Packaging material                                    |
+| UN 1845   | Dry ice (solid ${\rm CO_2}$), only to be marked for air transport | Class 9      |                            | Packaging material                                    |
 | UN 1977   | Liquid nitrogen                                                  | Class 2.2    |                            | Packaging material                                    |
 
 ## <a name="appendices"></a>7. Appendices
