@@ -72,25 +72,25 @@ The organizational structure of GHE is described in section 3.ii of the GHE's [O
 
 The status, duties and responsibilities of the Biosafety Officer (BSO) and the Project Leaders (PL) are set out in the job description of the respective employees. GHE conforms to the respective guideline of the Swiss Agency for the Environment, Forests and Landscape (SAEFL)[^4].
 
-The duties of the BSO and PL are described in detail in [Appendix 1. Duties of Biosafety Officer and Project Leaders]().
+The duties of the BSO and PL are described in detail in [Appendix 1]().
 
 ### <a name="organization_iii"></a>3.iii List of employees
 
-Group 2 microorganisms represent a potential hazard for employees. GHE keeps a list of persons who work with Group 2 organisms (see [Appendix 2. List of employees according to SAMV]()) and, if required, arranges for a health file to be created according to the Ordinance on the Protection of Personnel from Hazards due to Microorganisms (SAMV) (see [Chapter 4.4](#emergency_iv)). GHE shall provide this list to SSHE-BSO on request.
+Group 2 microorganisms represent a potential hazard for employees. GHE keeps a list of persons who work with Group 2 organisms (see [Appendix 2]()) and, if required, arranges for a health file to be created according to the Ordinance on the Protection of Personnel from Hazards due to Microorganisms (SAMV) (see [Chapter 4.4](#emergency_iv)). GHE shall provide this list to SSHE-BSO on request.
 
 ## <a name="emergency"></a>4. Emergency organization: Planning and incident management
 
 ### <a name="emergency_i"></a>4.i Emergency telephone numbers and contacts for safety issues
 
-The emergency telephone numbers and contact addresses of persons able to provide information on safety matters are available in every laboratory and near the telephones. This is of paramount importance for dealing with an incident quickly. This list is provided in [Appendix 3. Emergency telephone numbers and contacts for safety issues]().
+The emergency telephone numbers and contact addresses of persons able to provide information on safety matters are available in every laboratory and near the telephones. This is of paramount importance for dealing with an incident quickly. This list is provided in [Appendix 3]().
 
 ### <a name="emergency_ii"></a>4.ii Emergency planning: Procedures in case of incidents in the laboratory and crisis situations
 
-When working with organisms, emergency situations, which vary in severity, may arise owing to spillage of infectious material, release of aerosols, injuries, fire, explosion and water discharge. While minor incidents are, in general, dealt with by the person(s) who caused them, with the assistance of the Biosafety Officers if appropriate, the emergency services must always be alerted in the event of serious incidents. The procedures are described in [Appendix 4. Emergency planning: Procedures in case of incidents in the laboratory]().
+When working with organisms, emergency situations, which vary in severity, may arise owing to spillage of infectious material, release of aerosols, injuries, fire, explosion and water discharge. While minor incidents are, in general, dealt with by the person(s) who caused them, with the assistance of the Biosafety Officers if appropriate, the emergency services must always be alerted in the event of serious incidents. The procedures are described in [Appendix 4]().
 
 ### <a name="emergency_iii"></a>4.iii Report sheet for laboratory incidents
 
-In the event of a laboratory incident involving Class 2 activities, the precise circumstances leading to contamination of the body or to an injury, even if only a minor one, must be recorded. All laboratory incidents must be reported to the BSO and the supervisors, i.e., body injuries and material damages. In the next step, they must be reported to SSHE, using [Appendix 5. Report sheet for laboratory incidents]().
+In the event of a laboratory incident involving Class 2 activities, the precise circumstances leading to contamination of the body or to an injury, even if only a minor one, must be recorded. All laboratory incidents must be reported to the BSO and the supervisors, i.e., body injuries and material damages. In the next step, they must be reported to SSHE, using [Appendix 5]().
 
 The report sheets for laboratory incidents are used by the BSO, supervisors, and SSHE to investigate the causes of incidents, so that measures can be initiated to prevent and reduce risks. The completed report sheets are kept on file by the BSO, SSHE, and supervisors for at least five years.
 
@@ -117,15 +117,15 @@ The BSO and GHE inform the Federal Office of Public Health (FOPH), using [ECOGEN
 
 ### <a name="risk_ii"></a>5.ii Project list and inventory of biological agents
 
-The BSO keeps an overview of the activities involving organisms within their area of responsibility and records them in [Appendix 6. Project list](). The project list is updated at least every six months and whenever there are new reports and requests. The list is accessible to SSHE at any time.
+The BSO keeps an overview of the activities involving organisms within their area of responsibility and records them in [Appendix 6](). The project list is updated at least every six months and whenever there are new reports and requests. The list is accessible to SSHE at any time.
 
 ## <a name="measures"></a>6. Safety measures and rules of conduct
 
 ### <a name="measures_i"></a>6.i Access control and signalization of BSL2 working areas
 
-Access to BSL2 laboratory facility is restricted to authorized persons only and is governed by the containment concept of GHE. Nonetheless, it must always be ensured that, in the event of an incident, e.g., fire, the emergency services are able to access the area quickly and safely and that the escape routes are secured. The implemented regulations are described in [Appendix 7. Rules on access to level 2 working areas]().
+Access to BSL2 laboratory facility is restricted to authorized persons only and is governed by the containment concept of GHE. Nonetheless, it must always be ensured that, in the event of an incident, e.g., fire, the emergency services are able to access the area quickly and safely and that the escape routes are secured. The implemented regulations are described in [Appendix 7]().
 
-The entrance area to level 2 laboratories is signalized and warning signs (restricted access and warning of the hazards emanating from the organism) are displayed. The guidelines for signalization of laboratories and equipment with the “Biohazard” warning symbol are described in [Appendix 8. Meaning and use of the «Biohazard» warning symbol]().
+The entrance area to level 2 laboratories is signalized and warning signs (restricted access and warning of the hazards emanating from the organism) are displayed. The guidelines for signalization of laboratories and equipment with the “Biohazard” warning symbol are described in [Appendix 8]().
 
 ### <a name="measures_ii"></a>6.ii Instructions for safe working
 
@@ -178,34 +178,34 @@ All technical equipment is serviced regularly, so that, apart from the quality o
 
 ### <a name="measures_vii"></a>6.vii Transportation of organisms or infectious biological agents
 
-GHE adheres to the statutory requirements and follows the relevant national and international transport regulations[^8] on labeling and packing for transportation of organisms or infectious biological agents. If a sample containing organisms is transported outside the laboratory for diagnostic or research purposes, the smallest quantities and lowest concentration of cells possible[^9] are packed and transported with appropriate labeling. If waste involving a risk of contamination, .e.g, secretions or excreta, or strong-smelling or nauseating waste is transported, the labeling and packing regulations listed in [Appendix 15. Disposal plan for biologically contaminated waste]() are applied.
+GHE adheres to the statutory requirements and follows the relevant national and international transport regulations[^8] on labeling and packing for transportation of organisms or infectious biological agents. If a sample containing organisms is transported outside the laboratory for diagnostic or research purposes, the smallest quantities and lowest concentration of cells possible[^9] are packed and transported with appropriate labeling. If waste involving a risk of contamination, .e.g, secretions or excreta, or strong-smelling or nauseating waste is transported, the labeling and packing regulations listed in [Appendix 15]() are applied.
 
 In summary, the following applies:
 
-| UN number | official description                                             | hazard label | ADR packaging instructions | field of application                                  |
-| --------- | ---------------------------------------------------------------- | ------------ | -------------------------- | ----------------------------------------------------- |
-| UN 3373   | biological substances of category B                              | Class 6.2    | P650                       | Group 2 (possibly 3) and category B of microorganisms |
-| UN 3245   | genetically modified microorganisms                              | Class 9      | P904                       | Group 1 microorganisms                                |
-| UN 1845   | Dry ice (solid ${\rm CO_2}$), only to be marked for air transport | Class 9      |                            | Packaging material                                    |
-| UN 1977   | Liquid nitrogen                                                  | Class 2.2    |                            | Packaging material                                    |
+| UN number | official description                                              | hazard label | ADR packaging instructions | field of application                                  |
+| --------- | ----------------------------------------------------------------- | ------------ | -------------------------- | ----------------------------------------------------- |
+| UN 3373   | biological substances of category B                               | Class 6.2    | P650                       | Group 2 (possibly 3) and category B of microorganisms |
+| UN 3245   | genetically modified microorganisms                               | Class 9      | P904                       | Group 1 microorganisms                                |
+| UN 1845   | Dry ice (solid ${\rm CO_2}$), only to be marked for air transport | Class 9     |                            | Packaging material                                    |
+| UN 1977   | Liquid nitrogen                                                   | Class 2.2    |                            | Packaging material                                    |
 
 ## <a name="appendices"></a>7. Appendices
 
-- Appendix 1. Duties of Biosafety Officer and Project Leaders
-- Appendix 2. List of employees according to SAMV
-- Appendix 3. Emergency telephone numbers and contacts for safety issues
-- Appendix 4. Emergency planning: Procedures in case of incidents in the laboratory
-- Appendix 5. Report sheet for laboratory incidents
-- Appendix 6. Project list
-- Appendix 7. Rules on access to level 2 working areas
-- Appendix 8. Meaning and use of the «Biohazard» warning symbol
-- Appendix 9. Standard Operating Procedures
-- Appendix 10. Laboratory rules
-- Appendix 11. Use of class 2 safety cabinets
-- Appendix 12. Hygiene plan
-- Appendix 13. Safety during cleaning of laboratories by the cleaning service
-- Appendix 14. Equipment service plan and responsibilities
-- Appendix 15. Disposal plan for biologically contaminated waste
+- [Appendix 1. Duties of Biosafety Officer and Project Leaders]()
+- [Appendix 2. List of employees according to SAMV]()
+- [Appendix 3. Emergency telephone numbers and contacts for safety issues]()
+- [Appendix 4. Emergency planning: Procedures in case of incidents in the laboratory]()
+- [Appendix 5. Report sheet for laboratory incidents]()
+- [Appendix 6. Project list]()
+- [Appendix 7. Rules on access to level 2 working areas]()
+- [Appendix 8. Meaning and use of the «Biohazard» warning symbol]()
+- [Appendix 9. Standard Operating Procedures]()
+- [Appendix 10. Laboratory rules]()
+- [Appendix 11. Use of class 2 safety cabinets]()
+- [Appendix 12. Hygiene plan]()
+- [Appendix 13. Safety during cleaning of laboratories by the cleaning service]()
+- [Appendix 14. Equipment service plan and responsibilities]()
+- [Appendix 15. Disposal plan for biologically contaminated waste]()
 
 [^1]: A laboratory where work is done with pathogenic or Genetically Modified Organisms falls within the scope of the Containment Ordinance from August 25, 1999 on the Contained Use of Organisms (Einschliessungsverordnung, **ESV**, SR 814.912) and the Ordinance on the protection of personnel from hazards due to microorganisms from August 25, 1999 (**SAMV**, SR 832.321). The scopes of these ordinances complement each other and contribute to protection of the environment, population, and the health of individual employees.
 [^2]: The University defines its protection goals to prevent accidents at work as well as harmful and undesirable effects on the environment and the population.
