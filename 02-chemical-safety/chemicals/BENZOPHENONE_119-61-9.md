@@ -39,7 +39,7 @@
 
 - Neoprane: N/A
 - Natural latex or rubber: N/A
-- Buthyl: **good**.
-- Nitrile: **good**.
+- Buthyl: **good at thickness greater than 0.35 mm**.
+- Nitrile: **good at thickness greater than 0.35 mm**.
 
 [Back to main page](https://github.com/Global-Health-Engineering/wet-lab-chemicals)
