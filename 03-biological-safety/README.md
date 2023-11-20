@@ -12,9 +12,8 @@ and is valid from 1-01-2024.
 2. [Safety objectives](#objectives)
 3. [Safety organization](#organization)
 	1. [Responsibility and liability](#organization_i)
-	2. [Organizational chart](#organization_ii)
-	3. [Duties of the Biosafety Officer (BSO), the laboratory leader, and the project leaders](#organization_iii)
-	4. [List of employees](#organization_iv)
+	2. [Duties of the Biosafety Officer (BSO), the laboratory leader, and the project leaders](#organization_ii)
+	3. [List of employees](#organization_iii)
 4. [Emergency organization: Planning and incident management](#emergency)
 	1. [Emergency telephone numbers and contacts for safety issues](#emergency_i)
 	2. [Emergency planning: Procedures in case of incidents in the laboratory and crisis situations](#emergency_ii)
@@ -67,17 +66,15 @@ The head of GHE assumes the operative responsibility for ensuring the safety of 
 
 As a matter of principle, ETH Zurich as an institution (not an individual ETH employee) shall be held liable to third parties, both companies and persons. However, ETH may take recourse against employees who fail to comply with safety provisions deliberately or through gross negligence, thereby inflicting harm on a third party for which the ETH is liable. This covers the liability issue. The criminal law aspect must also be considered. Therefore, the following applies to all persons bearing responsibility for safety at ETH: *The responsibility of persons under criminal law is derived from their sphere of responsibility in relation to observing safety rules. Only those persons who, by virtue of their position, are able to prevent hazards through their own intervention can be held accountable under criminal law. This is the case if they have failed to intervene where intervention would have been appropriate and possible for them.*
 
-### <a name="organization_ii"></a>3.ii Organizational chart
+### <a name="organization_ii"></a>3.ii Duties of the Biosafety Officer, the Laboratory Leader, and the Project Leaders
 
-The organizational structure of GHE is described in section 3.ii of the GHE's [Operational Safety Concept](../group_safety_concept/README.md).
-
-### <a name="organization_iii"></a>3.iii Duties of the Biosafety Officer, the Laboratory Leader, and the Project Leaders
+The organizational structure of GHE is described in section 3.ii of the GHE's [Operational Safety Concept](../01-oprational-safety/README.md).
 
 The status, duties and responsibilities of the Biosafety Officer (BSO) and the Project Leaders (PL) are set out in the job description of the respective employees. GHE conforms to the respective guideline of the Swiss Agency for the Environment, Forests and Landscape (SAEFL)[^4].
 
 The duties of the BSO and PL are described in detail in [Appendix 1. Duties of Biosafety Officer and Project Leaders]().
 
-### <a name="organization_iv"></a>3.iv List of employees
+### <a name="organization_iii"></a>3.iii List of employees
 
 Group 2 microorganisms represent a potential hazard for employees. GHE keeps a list of persons who work with Group 2 organisms (see [Appendix 2. List of employees according to SAMV]()) and, if required, arranges for a health file to be created according to the Ordinance on the Protection of Personnel from Hazards due to Microorganisms (SAMV) (see [Chapter 4.4](#emergency_iv)). GHE shall provide this list to SSHE-BSO on request.
 
