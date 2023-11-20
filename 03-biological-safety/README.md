@@ -68,7 +68,7 @@ As a matter of principle, ETH Zurich as an institution (not an individual ETH em
 
 ### <a name="organization_ii"></a>3.ii Duties of the Biosafety Officer, the Laboratory Leader, and the Project Leaders
 
-The organizational structure of GHE is described in section 3.ii of the GHE's [Operational Safety Concept](../01-oprational-safety/README.md).
+The organizational structure of GHE is described in section 3.ii of the GHE's [Operational Safety Concept](../01-operational-safety/README.md).
 
 The status, duties and responsibilities of the Biosafety Officer (BSO) and the Project Leaders (PL) are set out in the job description of the respective employees. GHE conforms to the respective guideline of the Swiss Agency for the Environment, Forests and Landscape (SAEFL)[^4].
 
