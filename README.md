@@ -1,8 +1,6 @@
 # Safety at Global Health Engineering
 
-This safety concept was adopted by Global Health Engineering (GHE) at ETH, D-MAVT and is valid from 1-01-2024.
-
-The authors are [Dr Jakub Tkaczuk](https://ghe.ethz.ch/about/people/person-detail.MzIxNzEy.TGlzdC80MTI2LC0xNDYwMDMwNTU3.html) and [Prof. Elizabeth Tilley](https://ghe.ethz.ch/about/people/person-detail.MTc2MjI5.TGlzdC80MTI2LC0xNDYwMDMwNTU3.html).
+This safety concept was adopted by [Dr Jakub Tkaczuk](https://ghe.ethz.ch/about/people/person-detail.MzIxNzEy.TGlzdC80MTI2LC0xNDYwMDMwNTU3.html) and [Prof. Elizabeth Tilley](https://ghe.ethz.ch/about/people/person-detail.MTc2MjI5.TGlzdC80MTI2LC0xNDYwMDMwNTU3.html) for Global Health Engineering (GHE) at ETH, D-MAVT and is valid from 1 January 2024.
 
 ## Emergency
 
