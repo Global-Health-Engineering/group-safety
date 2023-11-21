@@ -1,5 +1,9 @@
 # Safety at Global Health Engineering
 
+This safety concept was adopted by Global Health Engineering (GHE) at ETH, D-MAVT and is valid from 1-01-2024.
+
+The authors are [Dr Jakub Tkaczuk](https://ghe.ethz.ch/about/people/person-detail.MzIxNzEy.TGlzdC80MTI2LC0xNDYwMDMwNTU3.html) and [Prof. Elizabeth Tilley](https://ghe.ethz.ch/about/people/person-detail.MTc2MjI5.TGlzdC80MTI2LC0xNDYwMDMwNTU3.html).
+
 ## Emergency
 
 In case of emergency in the laboratory, workshop, or office:
@@ -21,4 +25,4 @@ TBD. Tree.
 
 ## Disclaimer
 
-Although every effort has been made to provide complete and accurate information, Global Health Engineering makes no warranties, express or implied, or representations as to the accuracy of content of this repo. GHE assumes no liability or responsibility for any error or omissions in the information contained in the repo, when cloned/forked and used by other groups or users outside GHE. Every person outside GHE, using the information provided in this repo, is responsible for its verification and validation.
+Although every effort has been made to provide complete and accurate information, Global Health Engineering (GHE) makes no warranties, express or implied, or representations as to the accuracy of the content of this repository when used by third parties. GHE assumes no liability or responsibility for any error or omissions in the information contained in the repository when cloned/forked and used by other groups or users outside GHE. Every person outside GHE using the information provided in this repo is responsible for its verification and validation.
