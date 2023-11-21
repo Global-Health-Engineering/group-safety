@@ -1,6 +1,6 @@
 # Chemical safety
 
-## List of chemicals
+## 1. List of chemicals
 
 This list contains only the chemicals for which the [International Peer Reviewed Chemical Safety Information](https://www.inchem.org/) provided the International Chemical Safety Card ([ICSC](https://www.inchem.org/pages/icsc.html)) or other safety card is available. Substances posing no risk, e.g., ${\rm NaCl}$ are not listed below.
 
@@ -40,14 +40,18 @@ This list contains only the chemicals for which the [International Peer Reviewed
 - [toluene](chemicals/TOLUENE_108-88-3.md)
 - [zinc sulfate](chemicals/ZINC_SULFATE_7733-02-0.md)
 
-## Storage / quantities
+Safety data sheets are available in this repository. The pdf version of safety data sheets is available [here](https://drive.google.com/drive/folders/1bJF0D2jVyDl7N-xR_PSAPsDRH4nG7PFN?usp=sharing). They are also printed and available in the laboratory. All laboratory users are informed on how to find this information.
+
+## 2. Storage/quantities
 
 Chemicals are kept in the laboratories of GHE in the quantities necessary for uninterrupted daily working. Highly flammable liquids are kept in a suitable, marked cabinets or cabinet compartment. The long-term storage facility is located outside the laboratory and complies with the fire regulations. The relevant guidelines of the Federal Coordination Commission for Occupational Safety are complied with. When handling and storing chemicals, GHE follows the stipulations of the relevant safety datasheets, filed in this repository.
 
-## Disposal
+The chemical inventory is carried out twice per year. Chemicals no longer required or expired (time limit of maximum five years) are sorted out and disposed of as hazardous waste. Information on storage and quantities of stored chemicals is organized the [Chemical inventory](chemical_inventory.md).
+
+## 3. Disposal
 
 Chemical wastes, strong acids, bases, (chlorinated) organic solvents, toxic substances are collected and disposed of according to the disposal concept applicable throughout the ETH. ETH Zurich has an appropriate collection point for depositing hazardous waste. The ETH disposal guidelines are available [here](https://ethz.ch/content/dam/ethz/associates/services/Service/sicherheit-gesundheit-umwelt/files/sonderabfall_neu/en/Richtlinie_Entsorgung_EN.pdf).
 
-## Code
+## 4. Code
 
 `src/populate_hazards_precautions.py` contains a piece of helper code to populate the hazard and precaution tables in material-specific `md` files.

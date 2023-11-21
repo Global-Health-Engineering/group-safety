@@ -1,0 +1,1 @@
+# Special safety regulations for laboratory/workshop cleaning by a cleaning service
