@@ -12,7 +12,7 @@
 ## NFPA 704 (fire diamond)
 
 - **Health (blue): 2** - intense or continued but not chronic exposure could cause temporary incapacitation or possible residual injury.
-- **Flammability (red): 0** - will not burn under typical fire conditions, will not burn in air unless exposed to a temperature of 820 °C for more than 5 minutes.
+- **Flammability (red): 0** - will not burn under typical fire conditions, will not burn in air unless exposed to a temperature of 820 °C for more than 5 minutes.
 - **Instability–reactivity (yellow): 0** - normally stable, even under fire exposure conditions, and is not reactive with water.
 - **Special notice (white): -**
 
