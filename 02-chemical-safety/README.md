@@ -45,8 +45,6 @@ The table below contains the complete list of chemicals used in the laboratory o
 | [toluene](chemicals/TOLUENE_108-88-3.md)                                                            | 108-88-3   |               |              |                |                     |                         |                       |                   |                       |
 | [zinc sulfate](chemicals/ZINC_SULFATE_7733-02-0.md)                                                 | 7733-02-0  |               |              |                |                     |                         |                       |                   |                       |
 
-CMR substance categories are (1) carcinogenic, mutagenic or reprotoxic to humans; (2A) probably carcinogenic, mutagenic or reprotoxic to humans; (2B) possibly carcinogenic, mutagenic or reprotoxic to humans; (3) not classifiable as to its carcinogenicity, mutagenicity or reproductive toxicity to humans; (4) probably not carcinogenic, mutagenic or reprotoxic to humans.
-
 Safety data sheets are available in this repository. The pdf version of safety data sheets is available [here](https://drive.google.com/drive/folders/1bJF0D2jVyDl7N-xR_PSAPsDRH4nG7PFN?usp=sharing). Safety data sheets are also available in the laboratory in printed form. All laboratory users are informed on how to find this information.
 
 ## 2. Storage/quantities
