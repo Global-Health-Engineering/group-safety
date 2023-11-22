@@ -2,8 +2,6 @@
 
 This directory contains the following appendices for the operational safety concept:
 
-## Appendices
-
 - [Appendix 1: Project list](01_project_list.md)
 - [Appendix 2: Description of workflows and activities](02_description_of_workflows_and_activities.md)
 - [Appendix 3: Hazard identification and risk assessment](03_hazard_identification_and_risk_assessment.md)
