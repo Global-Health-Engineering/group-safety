@@ -80,7 +80,7 @@ The emergency telephone numbers and contact addresses of persons able to provide
 
 ### <a name="emergency_ii"></a>4.ii Emergency planning: Procedures in case of incidents in the laboratory and crisis situations
 
-When working with organisms, emergencies, which vary in severity, may arise owing to spillage of infectious material, release of aerosols, injuries, fire, explosion and water discharge. While minor incidents are generally dealt with by the person(s) who caused them, with the assistance of the Biosafety Officers if appropriate, the emergency services must always be alerted in the event of serious incidents. The procedures are described in [Appendix 4](appendices/04_emergency_plannings_and_procedures.md).
+When working with organisms, emergencies, which vary in severity, may arise owing to spillage of infectious material, release of aerosols, injuries, fire, explosion and water discharge. While minor incidents are generally dealt with by the person(s) who caused them, with the assistance of the Biosafety Officers if appropriate, the emergency services must always be alerted in the event of serious incidents. The procedures are described in [Appendix 4](appendices/04_emergency_planning_and_procedures.md).
 
 ### <a name="emergency_iii"></a>4.iii Report sheet for laboratory incidents
 
@@ -188,7 +188,7 @@ In summary, the following applies:
 - [Appendix 1. Duties of Biosafety Officer and Project Leaders](appendices/01_duties_of_BSO_and_project_leaders.md)
 - [Appendix 2. List of employees according to SAMV](appendices/02_list_of_employees_SAMV.md)
 - [Appendix 3. Emergency telephone numbers and contacts for safety issues](appendices/03_emergency_telephone_numbers_and_contacts_for_safety.md)
-- [Appendix 4. Emergency planning: Procedures in case of incidents in the laboratory](appendices/04_emergency_plannings_and_procedures.md)
+- [Appendix 4. Emergency planning: Procedures in case of incidents in the laboratory](appendices/04_emergency_planning_and_procedures.md)
 - [Appendix 5. Report sheet for laboratory incidents](appendices/05_report_sheet_for_lab_incidents.md)
 - [Appendix 6. Project list](appendices/06_project_list.md)
 - [Appendix 7. Rules on access to level 2 working areas](appendices/07_access_rules_for_BSL2.md)
