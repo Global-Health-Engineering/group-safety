@@ -10,12 +10,12 @@ Minor incidents are, in general, to be dealt with by the person(s) who caused th
 
 In the event of a serious incident, the emergency services (internal / external) must be alerted. In emergency, the response should always follow the same pattern and proceed in a linear way:
 
-| Step         | Action for minor incident                                                     | Action in emergency                                            |
-|------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| 1. Keep~calm | Get an overall view of the situation                                          | Leave the danger zone in case of aerosol formation, fire, etc. |
-| 2. Alarm     | Inform BSO                                                                    | Alert the emergency services (internal / external)             |
-| 3. Secure    | Confine the contaminated area                                                 | Rescue (self-protection)                                       |
-| 4. Act       | Disinfect or decontaminate according to the [hygiene plan](12_hygene_plan.md) | Extinguish etc.(self-protection)                               |
+| Step                   | Action for minor incident                                                     | Action in emergency                                            |
+|----------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| 1.&nbsp;Keep&nbsp;calm | Get an overall view of the situation                                          | Leave the danger zone in case of aerosol formation, fire, etc. |
+| 2. Alarm               | Inform BSO                                                                    | Alert the emergency services (internal / external)             |
+| 3. Secure              | Confine the contaminated area                                                 | Rescue (self-protection)                                       |
+| 4. Act                 | Disinfect or decontaminate according to the [hygiene plan](12_hygene_plan.md) | Extinguish etc.(self-protection)                               |
 
 ## Emergency telephone numbers
 
@@ -47,21 +47,21 @@ These phone numbers are also listed in [Appendix 3](03_emergency_telephone_numbe
 
 | Step     | Action |
 | -------- | ------ |
-| 1. Alarm |        |
-| 2. Act   |        |
+| 1. Alarm | Alert ETH Emergency Desk (+41 44 342 11 88 or 888)<br>Call the ambulance if necessary (144)<br>**WHERE** did the incident occur?<br>**WHAT** WAS SPILLED/released?<br>**HOW MANY** people are affected?<br>**WHO** calls? |
+| 2. Act   | provide first aid<br>remove gloves and lab coat<br>wash hands and injured areas of the skin<br>disinfect with hand disinfectand or 70% ethanol<br>complete the report sheet for laboratory incidents<br> |
 
 ### Fire, explosion
 
 | Step                                                       | Action |
 | ---------------------------------------------------------- | ------ |
-| 1. Alarm (if the fire alarm did not set off automatically) |        |
-| 2. Rescue                                                  |        |
-| 3. Act                                                     |        |
+| 1. Alarm (if the fire alarm did not set off automatically) | Alert ETH Emergency Desk (+41 44 342 11 88 or 888)<br>Call the fire brigade if necessary (118)<br>Alarm BSO (Jakub Tkaczuk at +41 44 632 31 62)<br>**WHERE** did the incident occur?<br>**WHAT** WAS SPILLED/released?<br>**HOW MANY** people are affected?<br>**WHO** calls? |
+| 2. Rescue                                                  | Evacuate all people from the danger zone to the assembly area via the designated escape routes |
+| 3. Act                                                     | Fight the fire (self-protection!)<br>Complete the report sheet for laboratory incidents |
 
 ### Flooding, inundation
 
 | Step      | Action |
 | --------- | ------ |
-| 1. Alarm  |        |
-| 2. Rescue |        |
-| 3. Act    |        |
+| 1. Alarm  | Alert ETH Emergency Desk (+41 44 342 11 88 or 888)<br>Alarm BSO (Jakub Tkaczuk at +41 44 632 31 62)<br>**WHERE** did the incident occur?<br>**WHAT** WAS SPILLED/released?<br>**HOW MANY** people are affected?<br>**WHO** calls? |
+| 2. Secure | Protect material and equipment<br>Shut off the supply lines<br>Clean and decontaminate surfaces<br>Decontaminate the waste water installation |
+| 3. Act    | Complete the report sheet for laboratory incidents |

@@ -2,13 +2,13 @@
 
 ## Telephone numbers for emergencies
 
-| Emergency                                             | Responsible unit   | Telephone number      |
-| ----------------------------------------------------- | ------------------ | --------------------- |
-| Incidents, accidents, fire, first aid                 | ETH Emergency Desk | +41 44 342 11 88, 888 |
-| Technical problems                                    | ETH Emergency Desk | +41 44 342 11 88, 888 |
-| Fire                                                  | Fire brigade       | 118                   |
-| Medical problems                                      | Ambulance          | 144                   |
-| Poisoning, intoxication, effects of chemical exposure | ETH Emergency Desk | +41 44 342 11 88, 888 |
+| Emergency                                             | Responsible unit   | Telephone number        |
+| ----------------------------------------------------- | ------------------ | ----------------------- |
+| Incidents, accidents, fire, first aid                 | ETH Emergency Desk | +41 44 342 11 88 or 888 |
+| Technical problems                                    | ETH Emergency Desk | +41 44 342 11 88 or 888 |
+| Fire                                                  | Fire brigade       | 118                     |
+| Medical problems                                      | Ambulance          | 144                     |
+| Poisoning, intoxication, effects of chemical exposure | ETH Emergency Desk | +41 44 342 11 88 or 888 |
 
 ## Security responsible
 
