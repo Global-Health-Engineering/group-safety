@@ -29,7 +29,7 @@ These phone numbers are also listed in [Appendix 3](03_emergency_telephone_numbe
 
 | Step      | Action |
 | --------- | ------ |
-| 1. Alarm  | Alert BSO (Jakub Tkaczuk at +41 44 632 31 62)<br>**WHERE** did the incident occur?<br>**WHAT** WAS SPILLED/released?<br>**HOW MANY** people are affected?<br>**WHO** calls? |
+| 1. Alarm  | Alert BSO (+41 44 632 31 62)<br>**WHERE** did the incident occur?<br>**WHAT** WAS SPILLED/released?<br>**HOW MANY** people are affected?<br>**WHO** calls? |
 | 2. Secure | Do not leave the affected area if it is safe to stay<br>Keep calm<br>Confine the contaminated area<br>Disinfect or decontaminate according to the [hygiene plan](12_hygene_plan.md)<br>Get clearance from BSO |
 | 3. Act    | Complete the report sheet for laboratory incidents |
 
@@ -38,7 +38,7 @@ These phone numbers are also listed in [Appendix 3](03_emergency_telephone_numbe
 | Step                        | Action |
 | --------------------------- | ------ |
 | 1. Evacuate the danger zone | **Immediately evacuate all the people from the danger zone**<br>Affected employees should decontaminate themselves immediately, if possible; otherwise, they should remain separated from the crowd to prevent spreading the dangerous substances |
-| 2. Alarm                    | Alert BSO (Jakub Tkaczuk at +41 44 632 31 62)<br>**WHERE** did the incident occur?<br>**WHAT** WAS SPILLED/released?<br>**HOW MANY** people are affected?<br>**WHO** calls? |
+| 2. Alarm                    | Alert BSO (+41 44 632 31 62)<br>**WHERE** did the incident occur?<br>**WHAT** WAS SPILLED/released?<br>**HOW MANY** people are affected?<br>**WHO** calls? |
 | 3. Secure                   | Seal off the room, switch off ventilation, wait 30 minutes<br>decontaminate people<br>disinfect the room as instructed by the laboratory manager according to the [hygiene plan](12_hygene_plan.md)<br>disinfect contaminated equipment<br>issue clearance after checking that everything has been decontaminated |
 | 4. Act                      | Complete the report sheet for laboratory incidents |
 
@@ -54,7 +54,7 @@ These phone numbers are also listed in [Appendix 3](03_emergency_telephone_numbe
 
 | Step                                                       | Action |
 | ---------------------------------------------------------- | ------ |
-| 1. Alarm (if the fire alarm did not set off automatically) | Alert ETH Emergency Desk (+41 44 342 11 88 or 888)<br>Call the fire brigade if necessary (118)<br>Alarm BSO (Jakub Tkaczuk at +41 44 632 31 62)<br>**WHERE** did the incident occur?<br>**WHAT** WAS SPILLED/released?<br>**HOW MANY** people are affected?<br>**WHO** calls? |
+| 1. Alarm (if the fire alarm did not set off automatically) | Alert ETH Emergency Desk (+41 44 342 11 88 or 888)<br>Call the fire brigade if necessary (118)<br>Alarm BSO (+41 44 632 31 62)<br>**WHERE** did the incident occur?<br>**WHAT** WAS SPILLED/released?<br>**HOW MANY** people are affected?<br>**WHO** calls? |
 | 2. Rescue                                                  | Evacuate all people from the danger zone to the assembly area via the designated escape routes |
 | 3. Act                                                     | Fight the fire (self-protection!)<br>Complete the report sheet for laboratory incidents |
 
@@ -62,6 +62,6 @@ These phone numbers are also listed in [Appendix 3](03_emergency_telephone_numbe
 
 | Step      | Action |
 | --------- | ------ |
-| 1. Alarm  | Alert ETH Emergency Desk (+41 44 342 11 88 or 888)<br>Alarm BSO (Jakub Tkaczuk at +41 44 632 31 62)<br>**WHERE** did the incident occur?<br>**WHAT** WAS SPILLED/released?<br>**HOW MANY** people are affected?<br>**WHO** calls? |
+| 1. Alarm  | Alert ETH Emergency Desk (+41 44 342 11 88 or 888)<br>Alarm BSO (+41 44 632 31 62)<br>**WHERE** did the incident occur?<br>**WHAT** WAS SPILLED/released?<br>**HOW MANY** people are affected?<br>**WHO** calls? |
 | 2. Secure | Protect material and equipment<br>Shut off the supply lines<br>Clean and decontaminate surfaces<br>Decontaminate the waste water installation |
 | 3. Act    | Complete the report sheet for laboratory incidents |
