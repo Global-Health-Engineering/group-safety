@@ -66,25 +66,25 @@ The organizational structure of GHE is described in section 3.ii of the GHE's [O
 
 The status, duties and responsibilities of the Biosafety Officer (BSO) and the Project Leaders (PL) are set out in the job description of the respective employees. GHE conforms to the respective guidelines of the Swiss Agency for the Environment, Forests and Landscape (SAEFL)[^4].
 
-The duties of the BSO and PL are described in detail in [Appendix 1]().
+The duties of the BSO and PL are described in detail in [Appendix 1](appendices/01_duties_of_BSO_and_project_leaders.md).
 
 ### <a name="organization_iii"></a>3.iii List of employees
 
-Group 2 microorganisms represent a potential hazard for employees. GHE keeps a list of persons who work with Group 2 organisms (see [Appendix 2]()) and, if required, arranges for a health file to be created according to the Ordinance on the Protection of Personnel from Hazards due to Microorganisms (SAMV) (see [Chapter 4.4](#emergency_iv)). GHE shall provide this list to SSHE-BSO upon request.
+Group 2 microorganisms represent a potential hazard for employees. GHE keeps a list of persons who work with Group 2 organisms (see [Appendix 2](appendices/02_list_of_employees_SAMV.md)) and, if required, arranges for a health file to be created according to the Ordinance on the Protection of Personnel from Hazards due to Microorganisms (SAMV) (see [Chapter 4.4](#emergency_iv)). GHE shall provide this list to SSHE-BSO upon request.
 
 ## <a name="emergency"></a>4. Emergency organization: Planning and incident management
 
 ### <a name="emergency_i"></a>4.i Emergency telephone numbers and contacts for safety issues
 
-The emergency telephone numbers and contact addresses of persons able to provide information on safety matters are available in every laboratory and near the telephones. This is of paramount importance for dealing with an incident quickly. This list is provided in [Appendix 3]().
+The emergency telephone numbers and contact addresses of persons able to provide information on safety matters are available in every laboratory and near the telephones. This is of paramount importance for dealing with an incident quickly. This list is provided in [Appendix 3](appendices/03_emergency_telephone_numbers_and_contacts_for_safety.md).
 
 ### <a name="emergency_ii"></a>4.ii Emergency planning: Procedures in case of incidents in the laboratory and crisis situations
 
-When working with organisms, emergencies, which vary in severity, may arise owing to spillage of infectious material, release of aerosols, injuries, fire, explosion and water discharge. While minor incidents are generally dealt with by the person(s) who caused them, with the assistance of the Biosafety Officers if appropriate, the emergency services must always be alerted in the event of serious incidents. The procedures are described in [Appendix 4]().
+When working with organisms, emergencies, which vary in severity, may arise owing to spillage of infectious material, release of aerosols, injuries, fire, explosion and water discharge. While minor incidents are generally dealt with by the person(s) who caused them, with the assistance of the Biosafety Officers if appropriate, the emergency services must always be alerted in the event of serious incidents. The procedures are described in [Appendix 4](appendices/04_emergency_plannings_and_procedures.md).
 
 ### <a name="emergency_iii"></a>4.iii Report sheet for laboratory incidents
 
-In a laboratory incident involving Class 2 activities, the precise circumstances leading to contamination of the body or an injury must be recorded, even if only a minor one. All laboratory incidents must be reported to the BSO and the supervisors, i.e., body injuries and material damages. Next, they must be reported to SSHE using [Appendix 5]().
+In a laboratory incident involving Class 2 activities, the precise circumstances leading to contamination of the body or an injury must be recorded, even if only a minor one. All laboratory incidents must be reported to the BSO and the supervisors, i.e., body injuries and material damages. Next, they must be reported to SSHE using [Appendix 5](appendices/05_report_sheet_for_lab_incidents.md).
 
 The BSO, supervisors, and SSHE use the report sheets for laboratory incidents to investigate the causes of incidents so that measures can be initiated to prevent and reduce risks. The BSO, SSHE, and supervisors keep the completed report sheets on file for at least five years.
 
@@ -111,29 +111,29 @@ The BSO and GHE inform the Federal Office of Public Health (FOPH), using [ECOGEN
 
 ### <a name="risk_ii"></a>5.ii Project list and inventory of biological agents
 
-The BSO keeps an overview of the activities involving organisms within their area of responsibility and records them in [Appendix 6](). The project list is updated at least every six months and whenever new reports and requests occur. The list is accessible to SSHE at any time.
+The BSO keeps an overview of the activities involving organisms within their area of responsibility and records them in [Appendix 6](appendices/06_project_list.md). The project list is updated at least every six months and whenever new reports and requests occur. The list is accessible to SSHE at any time.
 
 ## <a name="measures"></a>6. Safety measures and rules of conduct
 
 ### <a name="measures_i"></a>6.i Access control and signalization of BSL2 working areas
 
-Access to the BSL2 laboratory facility is restricted to authorized persons only and is governed by the containment concept of GHE. Nonetheless, it must always be ensured that, in the event of an incident, e.g., fire, the emergency services can access the area quickly and safely and that the escape routes are secured. The implemented regulations are described in [Appendix 7]().
+Access to the BSL2 laboratory facility is restricted to authorized persons only and is governed by the containment concept of GHE. Nonetheless, it must always be ensured that, in the event of an incident, e.g., fire, the emergency services can access the area quickly and safely and that the escape routes are secured. The implemented regulations are described in [Appendix 7](appendices/07_access_rules_for_BSL2.md).
 
-The entrance area to level 2 laboratories is signalized, and warning signs (restricted access and warning of the hazards emanating from the organism) are displayed. The guidelines for signalization of laboratories and equipment with the "Biohazard" warning symbol are described in [Appendix 8]().
+The entrance area to level 2 laboratories is signalized, and warning signs (restricted access and warning of the hazards emanating from the organism) are displayed. The guidelines for signalization of laboratories and equipment with the "Biohazard" warning symbol are described in [Appendix 8](appendices/08_meaning_and_use_of_biohazard_symbol.md).
 
 ### <a name="measures_ii"></a>6.ii Instructions for safe working
 
 #### <a name="measures_ii_a"></a>6.ii.a Operating instructions and rules of conduct
 
-Rules concerning occupational safety and environmental safety at GHE are set out in the operating instructions, work instructions or the Standard Operating Procedures (SOPs). These documents are provided in [Appendix 9]().
+Rules concerning occupational safety and environmental safety at GHE are set out in the operating instructions, work instructions or the Standard Operating Procedures (SOPs). These documents are provided in [Appendix 9](appendices/09_SOPs.md).
 
 #### <a name="measures_ii_b"></a>6.ii.b Laboratory safety rules
 
-The staff of GHE adhere to the legally binding "Principles of good microbiological practice" according to Annex 3 of SAMV. Based on it, the laboratory rules applicable to the laboratory of GHE are adapted and supplemented accordingly. The laboratory rules are described in [Appendix 10]().
+The staff of GHE adhere to the legally binding "Principles of good microbiological practice" according to Annex 3 of SAMV. Based on it, the laboratory rules applicable to the laboratory of GHE are adapted and supplemented accordingly. The laboratory rules are described in [Appendix 10](appendices/10_lab_rules.md).
 
 #### <a name="measures_ii_c"></a>6.ii.c Use of class 2 safety cabinet
 
-Correct operation and use, including regular maintenance of the safety cabinets, are essential for protecting people and the environment, as well as for the quality of research and test results and are explained in detail in a separate information sheet. GHE is responsible for the maintenance of the safety cabinets. [Appendix 11]() contains information on the use of class 2 safety cabinets.
+Correct operation and use, including regular maintenance of the safety cabinets, are essential for protecting people and the environment, as well as for the quality of research and test results and are explained in detail in a separate information sheet. GHE is responsible for the maintenance of the safety cabinets. [Appendix 11](appendices/11_use_of_class_2_cabinets.md) contains information on the use of class 2 safety cabinets.
 
 ### <a name="measures_iii"></a>6.iii Training and information to ensure safety at work
 
@@ -143,12 +143,12 @@ At ETH Zurich, training is essential to ensure people's and the environment's sa
 
 #### <a name="measures_iv_a"></a>6.iv.a Disinfection and cleaning
 
-The hygiene plan serves to promote personal safety at work. Also, it helps to minimize the escape of organisms into the environment. Factors such as the spectrum of activity, concentration used, and exposure time are crucial for the optimal use of cleaning agents and disinfectants. Only disinfectants effective for dealing with the organisms to be rendered inactive may be used, and the manufacturer's instructions regarding their use must be followed. The instructions for use and safety datasheets of the products employed in the particular research groups or institutes are listed in [Appendix 12]().
+The hygiene plan serves to promote personal safety at work. Also, it helps to minimize the escape of organisms into the environment. Factors such as the spectrum of activity, concentration used, and exposure time are crucial for the optimal use of cleaning agents and disinfectants. Only disinfectants effective for dealing with the organisms to be rendered inactive may be used, and the manufacturer's instructions regarding their use must be followed. The instructions for use and safety datasheets of the products employed by GHE is available in [Appendix 12](appendices/13_safety_for_cleaning_service.md).
 A list of disinfectants used by GHE is also available [here]().
 
 #### <a name="measures_iv_b"></a>6.iv.b Safety instructions for the cleaning service
 
-GHE draws up cleaning regulations and informs Building Services (facility management) about these regulations. Building Services shall pass the regulations to the cleaning service and instruct them accordingly. If special conditions apply in individual laboratories, the BSO must inform the cleaning staff about them. The specific safety instructions for cleaning personnel are integral to the biosafety concept and are provided in [Appendix 13]().
+GHE draws up cleaning regulations and informs Building Services (facility management) about these regulations. Building Services shall pass the regulations to the cleaning service and instruct them accordingly. If special conditions apply in individual laboratories, the BSO must inform the cleaning staff about them. The specific safety instructions for cleaning personnel are integral to the biosafety concept and are provided in [Appendix 13](appendices/13_safety_for_cleaning_service.md).
 
 ### <a name="measures_v"></a>6.v Disposal of biologically contaminated waste
 
@@ -168,11 +168,11 @@ GHE ensures that the equipment used in its lab complies with European safety reg
 
 #### <a name="measures_vi_b"></a>6.vi.b Responsibility for servicing and maintenance of equipment
 
-All technical equipment is serviced regularly so that, apart from the quality of the research and diagnostic results, the safety of the workforce and the protection of people and the environment in general can be ensured. Service plans for individual equipment items and the rules concerning responsibilities are set down in writing. They are available in [Appendix 14]().
+All technical equipment is serviced regularly so that, apart from the quality of the research and diagnostic results, the safety of the workforce and the protection of people and the environment in general can be ensured. Service plans for individual equipment items and the rules concerning responsibilities are set down in writing. They are available in [Appendix 14](appendices/14_service_plan.md).
 
 ### <a name="measures_vii"></a>6.vii Transportation of organisms or infectious biological agents
 
-GHE adheres to the statutory requirements and follows the relevant national and international transport regulations[^8] on labelling and packing for transporting organisms or infectious biological agents. Suppose a sample containing organisms is transported outside the laboratory for diagnostic or research purposes. In that case, the smallest quantities and lowest concentration of cells possible[^9] are packed and transported with appropriate labelling. If waste involves a contamination risk, e.g., secretions or excreta, or strong-smelling or nauseating waste is transported, the labelling and packing regulations listed in [Appendix 15]() are applied.
+GHE adheres to the statutory requirements and follows the relevant national and international transport regulations[^8] on labelling and packing for transporting organisms or infectious biological agents. Suppose a sample containing organisms is transported outside the laboratory for diagnostic or research purposes. In that case, the smallest quantities and lowest concentration of cells possible[^9] are packed and transported with appropriate labelling. If waste involves a contamination risk, e.g., secretions or excreta, or strong-smelling or nauseating waste is transported, the labelling and packing regulations listed in [Appendix 15](appendices/15_disposal_plan_for_bio_contaminated_waste.md) are applied.
 
 In summary, the following applies:
 
@@ -185,21 +185,21 @@ In summary, the following applies:
 
 ## <a name="appendices"></a>7. Appendices
 
-- [Appendix 1. Duties of Biosafety Officer and Project Leaders]()
-- [Appendix 2. List of employees according to SAMV]()
-- [Appendix 3. Emergency telephone numbers and contacts for safety issues]()
-- [Appendix 4. Emergency planning: Procedures in case of incidents in the laboratory]()
-- [Appendix 5. Report sheet for laboratory incidents]()
-- [Appendix 6. Project list]()
-- [Appendix 7. Rules on access to level 2 working areas]()
-- [Appendix 8. Meaning and use of the «Biohazard» warning symbol]()
-- [Appendix 9. Standard Operating Procedures]()
-- [Appendix 10. Laboratory rules]()
-- [Appendix 11. Use of class 2 safety cabinets]()
-- [Appendix 12. Hygiene plan]()
-- [Appendix 13. Safety during cleaning of laboratories by the cleaning service]()
-- [Appendix 14. Equipment service plan and responsibilities]()
-- [Appendix 15. Disposal plan for biologically contaminated waste]()
+- [Appendix 1. Duties of Biosafety Officer and Project Leaders](appendices/01_duties_of_BSO_and_project_leaders.md)
+- [Appendix 2. List of employees according to SAMV](appendices/02_list_of_employees_SAMV.md)
+- [Appendix 3. Emergency telephone numbers and contacts for safety issues](appendices/03_emergency_telephone_numbers_and_contacts_for_safety.md)
+- [Appendix 4. Emergency planning: Procedures in case of incidents in the laboratory](appendices/04_emergency_plannings_and_procedures.md)
+- [Appendix 5. Report sheet for laboratory incidents](appendices/05_report_sheet_for_lab_incidents.md)
+- [Appendix 6. Project list](appendices/06_project_list.md)
+- [Appendix 7. Rules on access to level 2 working areas](appendices/07_access_rules_for_BSL2.md)
+- [Appendix 8. Meaning and use of the «Biohazard» warning symbol](appendices/08_meaning_and_use_of_biohazard_symbol.md)
+- [Appendix 9. Standard Operating Procedures](appendices/09_SOPs.md)
+- [Appendix 10. Laboratory rules](appendices/10_lab_rules.md)
+- [Appendix 11. Use of class 2 safety cabinets](appendices/11_use_of_class_2_cabinets.md)
+- [Appendix 12. Hygiene plan](appendices/12_hygene_plan.md)
+- [Appendix 13. Safety during cleaning of laboratories by the cleaning service](appendices/13_safety_for_cleaning_service.md)
+- [Appendix 14. Equipment service plan and responsibilities](appendices/14_service_plan.md)
+- [Appendix 15. Disposal plan for biologically contaminated waste](appendices/15_disposal_plan_for_bio_contaminated_waste.md)
 
 [^1]: A laboratory where work is done with pathogenic or Genetically Modified Organisms falls within the scope of the Containment Ordinance from 25 August, 1999 on the Contained Use of Organisms (Einschliessungsverordnung, **ESV**, SR 814.912) and the Ordinance on the protection of personnel from hazards due to microorganisms from 25 August, 1999 (**SAMV**, SR 832.321). The scopes of these ordinances complement each other and contribute to protection of the environment, population, and the health of individual employees.
 [^2]: The University defines its protection goals to prevent accidents at work as well as harmful and undesirable effects on the environment and the population.

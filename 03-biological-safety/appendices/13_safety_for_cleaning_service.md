@@ -1,0 +1,1 @@
+# Safety during cleaning of laboratories by the cleaning service
