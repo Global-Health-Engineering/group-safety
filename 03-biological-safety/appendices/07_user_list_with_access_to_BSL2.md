@@ -1,4 +1,4 @@
-# Rules on access to level 2 working areas
+# User list with access to level 2 working areas
 
 The following table contains the GHE personnel permitted to access the wet lab located in CLA J26 (the Biosafety Level 2 area).
 
