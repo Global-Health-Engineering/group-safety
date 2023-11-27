@@ -117,7 +117,7 @@ The BSO keeps an overview of the activities involving organisms within their are
 
 ### <a name="measures_i"></a>6.i Access control and signalization of BSL2 working areas
 
-Access to the BSL2 laboratory facility is restricted to authorized persons only and is governed by the containment concept of GHE. Nonetheless, it must always be ensured that, in the event of an incident, e.g., fire, the emergency services can access the area quickly and safely and that the escape routes are secured. The implemented regulations are described in [Appendix 7](appendices/07_access_rules_for_BSL2.md).
+Access to the BSL2 laboratory facility is restricted to authorized persons only and is governed by the containment concept of GHE. Nonetheless, it must always be ensured that, in the event of an incident, e.g., fire, the emergency services can access the area quickly and safely and that the escape routes are secured. The list of users with access to the level 2 area is provided in [Appendix 7](appendices/07_user_list_with_access_to_BSL2.md).
 
 The entrance area to level 2 laboratories is signalized, and warning signs (restricted access and warning of the hazards emanating from the organism) are displayed. The guidelines for signalization of laboratories and equipment with the "Biohazard" warning symbol are described in [Appendix 8](appendices/08_meaning_and_use_of_biohazard_symbol.md).
 
@@ -191,7 +191,7 @@ In summary, the following applies:
 - [Appendix 4. Emergency planning: Procedures in case of incidents in the laboratory](appendices/04_emergency_planning_and_procedures.md)
 - [Appendix 5. Report sheet for laboratory incidents](appendices/05_report_sheet_for_lab_incidents.md)
 - [Appendix 6. Project list](appendices/06_project_list.md)
-- [Appendix 7. Rules on access to level 2 working areas](appendices/07_access_rules_for_BSL2.md)
+- [Appendix 7. User list with access to level 2 working areas](appendices/07_user_list_with_access_to_BSL2.md)
 - [Appendix 8. Meaning and use of the «Biohazard» warning symbol](appendices/08_meaning_and_use_of_biohazard_symbol.md)
 - [Appendix 9. Standard Operating Procedures](appendices/09_SOPs.md)
 - [Appendix 10. Laboratory rules](appendices/10_lab_rules.md)
