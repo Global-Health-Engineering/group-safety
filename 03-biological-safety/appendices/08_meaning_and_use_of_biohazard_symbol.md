@@ -2,11 +2,9 @@
 
 ## Forms of the warning symbol
 
-![Figure 1](https://github.com/Global-Health-Engineering/group-safety/blob/main/media/EU_biosafety.png)
-Figure 1 shows the European biosafety warning symbol.
+The European biosafety warning symbol: ![Figure 1](https://github.com/Global-Health-Engineering/group-safety/blob/main/media/EU_biosafety.png)
 
-![Figure 2](https://github.com/Global-Health-Engineering/group-safety/blob/main/media/international_biosafety.png)
-Figure 2 shows the International biosafety warning symbol.
+The International biosafety warning symbol: ![Figure 2](https://github.com/Global-Health-Engineering/group-safety/blob/main/media/international_biosafety.png)
 
 ## Purpose
 
