@@ -129,7 +129,7 @@ Rules concerning occupational safety and environmental safety at GHE are set out
 
 #### <a name="measures_ii_b"></a>6.ii.b Laboratory safety rules
 
-The staff of GHE adhere to the legally binding "Principles of good microbiological practice" according to Annex 3 of SAMV. Based on it, the laboratory rules applicable to the laboratory of GHE are adapted and supplemented accordingly. The laboratory rules are described in [Appendix 5 of the Operational Safety Concept](../../01-operational-safety/appendices/05_general_lab_workshop_rules.md).
+The staff of GHE adhere to the legally binding "Principles of good microbiological practice" according to Annex 3 of SAMV. Based on it, the laboratory rules applicable to the laboratory of GHE are adapted and supplemented accordingly. The laboratory rules are described in [Appendix 5 of the Operational Safety Concept](../01-operational-safety/appendices/05_general_lab_workshop_rules.md).
 
 #### <a name="measures_ii_c"></a>6.ii.c Use of class 2 safety cabinet
 
