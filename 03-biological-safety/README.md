@@ -129,11 +129,11 @@ Rules concerning occupational safety and environmental safety at GHE are set out
 
 #### <a name="measures_ii_b"></a>6.ii.b Laboratory safety rules
 
-The staff of GHE adhere to the legally binding "Principles of good microbiological practice" according to Annex 3 of SAMV. Based on it, the laboratory rules applicable to the laboratory of GHE are adapted and supplemented accordingly. The laboratory rules are described in [Appendix 10](appendices/10_lab_rules.md).
+The staff of GHE adhere to the legally binding "Principles of good microbiological practice" according to Annex 3 of SAMV. Based on it, the laboratory rules applicable to the laboratory of GHE are adapted and supplemented accordingly. The laboratory rules are described in [Appendix 5 of the Operational Safety Concept](../../01-operational-safety/appendices/05_general_lab_workshop_rules.md).
 
 #### <a name="measures_ii_c"></a>6.ii.c Use of class 2 safety cabinet
 
-Correct operation and use, including regular maintenance of the safety cabinets, are essential for protecting people and the environment, as well as for the quality of research and test results and are explained in detail in a separate information sheet. GHE is responsible for the maintenance of the safety cabinets. [Appendix 11](appendices/11_use_of_class_2_cabinets.md) contains information on the use of class 2 safety cabinets.
+Correct operation and use, including regular maintenance of the safety cabinets, are essential for protecting people and the environment, as well as for the quality of research and test results and are explained in detail in a separate information sheet. GHE is responsible for the maintenance of the safety cabinets. [Appendix 11](appendices/10_use_of_class_2_cabinets.md) contains information on the use of class 2 safety cabinets.
 
 ### <a name="measures_iii"></a>6.iii Training and information to ensure safety at work
 
@@ -143,12 +143,12 @@ At ETH Zurich, training is essential to ensure people's and the environment's sa
 
 #### <a name="measures_iv_a"></a>6.iv.a Disinfection and cleaning
 
-The hygiene plan serves to promote personal safety at work. Also, it helps to minimize the escape of organisms into the environment. Factors such as the spectrum of activity, concentration used, and exposure time are crucial for the optimal use of cleaning agents and disinfectants. Only disinfectants effective for dealing with the organisms to be rendered inactive may be used, and the manufacturer's instructions regarding their use must be followed. The instructions for use and safety datasheets of the products employed by GHE is available in [Appendix 12](appendices/13_safety_for_cleaning_service.md).
+The hygiene plan serves to promote personal safety at work. Also, it helps to minimize the escape of organisms into the environment. Factors such as the spectrum of activity, concentration used, and exposure time are crucial for the optimal use of cleaning agents and disinfectants. Only disinfectants effective for dealing with the organisms to be rendered inactive may be used, and the manufacturer's instructions regarding their use must be followed. The instructions for use and safety datasheets of the products employed by GHE is available in the [Hygiene Plan](appendices/11_hygene_plan.md).
 A list of disinfectants used by GHE is also available [here]().
 
 #### <a name="measures_iv_b"></a>6.iv.b Safety instructions for the cleaning service
 
-GHE draws up cleaning regulations and informs Building Services (facility management) about these regulations. Building Services shall pass the regulations to the cleaning service and instruct them accordingly. If special conditions apply in individual laboratories, the BSO must inform the cleaning staff about them. The specific safety instructions for cleaning personnel are integral to the biosafety concept and are provided in [Appendix 13](appendices/13_safety_for_cleaning_service.md).
+GHE draws up cleaning regulations and informs Building Services (facility management) about these regulations. Building Services shall pass the regulations to the cleaning service and instruct them accordingly. If special conditions apply in individual laboratories, the BSO must inform the cleaning staff about them. The specific safety instructions for cleaning personnel are integral to the biosafety concept and are provided in [Appendix 12](appendices/12_safety_for_cleaning_service.md).
 
 ### <a name="measures_v"></a>6.v Disposal of biologically contaminated waste
 
@@ -168,11 +168,11 @@ GHE ensures that the equipment used in its lab complies with European safety reg
 
 #### <a name="measures_vi_b"></a>6.vi.b Responsibility for servicing and maintenance of equipment
 
-All technical equipment is serviced regularly so that, apart from the quality of the research and diagnostic results, the safety of the workforce and the protection of people and the environment in general can be ensured. Service plans for individual equipment items and the rules concerning responsibilities are set down in writing. They are available in [Appendix 14](appendices/14_service_plan.md).
+All technical equipment is serviced regularly so that, apart from the quality of the research and diagnostic results, the safety of the workforce and the protection of people and the environment in general can be ensured. Service plans for individual equipment items and the rules concerning responsibilities are set down in writing. They are available in [Appendix 13](appendices/13_service_plan.md).
 
 ### <a name="measures_vii"></a>6.vii Transportation of organisms or infectious biological agents
 
-GHE adheres to the statutory requirements and follows the relevant national and international transport regulations[^8] on labelling and packing for transporting organisms or infectious biological agents. Suppose a sample containing organisms is transported outside the laboratory for diagnostic or research purposes. In that case, the smallest quantities and lowest concentration of cells possible[^9] are packed and transported with appropriate labelling. If waste involves a contamination risk, e.g., secretions or excreta, or strong-smelling or nauseating waste is transported, the labelling and packing regulations listed in [Appendix 15](appendices/15_disposal_plan_for_bio_contaminated_waste.md) are applied.
+GHE adheres to the statutory requirements and follows the relevant national and international transport regulations[^8] on labelling and packing for transporting organisms or infectious biological agents. Suppose a sample containing organisms is transported outside the laboratory for diagnostic or research purposes. In that case, the smallest quantities and lowest concentration of cells possible[^9] are packed and transported with appropriate labelling. If waste involves a contamination risk, e.g., secretions or excreta, or strong-smelling or nauseating waste is transported, the labelling and packing regulations listed in [Appendix 14](appendices/14_disposal_plan_for_bio_contaminated_waste.md) are applied.
 
 In summary, the following applies:
 
@@ -194,12 +194,11 @@ In summary, the following applies:
 - [Appendix 7. User list with access to level 2 working areas](appendices/07_user_list_with_access_to_BSL2.md)
 - [Appendix 8. Meaning and use of the «Biohazard» warning symbol](appendices/08_meaning_and_use_of_biohazard_symbol.md)
 - [Appendix 9. Standard Operating Procedures](appendices/09_SOPs.md)
-- [Appendix 10. Laboratory rules](appendices/10_lab_rules.md)
-- [Appendix 11. Use of class 2 safety cabinets](appendices/11_use_of_class_2_cabinets.md)
-- [Appendix 12. Hygiene plan](appendices/12_hygene_plan.md)
-- [Appendix 13. Safety during cleaning of laboratories by the cleaning service](appendices/13_safety_for_cleaning_service.md)
-- [Appendix 14. Equipment service plan and responsibilities](appendices/14_service_plan.md)
-- [Appendix 15. Disposal plan for biologically contaminated waste](appendices/15_disposal_plan_for_bio_contaminated_waste.md)
+- [Appendix 10. Use of class 2 safety cabinets](appendices/10_use_of_class_2_cabinets.md)
+- [Appendix 11. Hygiene plan](appendices/11_hygene_plan.md)
+- [Appendix 12. Safety during cleaning of laboratories by the cleaning service](appendices/12_safety_for_cleaning_service.md)
+- [Appendix 13. Equipment service plan and responsibilities](appendices/13_service_plan.md)
+- [Appendix 14. Disposal plan for biologically contaminated waste](appendices/14_disposal_plan_for_bio_contaminated_waste.md)
 
 [^1]: A laboratory where work is done with pathogenic or Genetically Modified Organisms falls within the scope of the Containment Ordinance from 25 August, 1999 on the Contained Use of Organisms (Einschliessungsverordnung, **ESV**, SR 814.912) and the Ordinance on the protection of personnel from hazards due to microorganisms from 25 August, 1999 (**SAMV**, SR 832.321). The scopes of these ordinances complement each other and contribute to protection of the environment, population, and the health of individual employees.
 [^2]: The University defines its protection goals to prevent accidents at work as well as harmful and undesirable effects on the environment and the population.
