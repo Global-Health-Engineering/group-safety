@@ -1,7 +1,6 @@
 # Methanol
 
 ## Basic information
-
 - Chemical formula(s): ${\rm CH_3OH}$
 - Other names: methyl alcohol, carbinol, wood alcohol, methyl hydrate
 - CAS: 67-56-1
@@ -10,14 +9,12 @@
 - [NOAA's](https://cameochemicals.noaa.gov/chemical/3874) description: colourless fairly volatile liquid with a faintly sweet pungent odour, vapours slightly heavier than air may travel some distance to a source of ignition and flash back, accumulation of vapours may explode if ignited.
 
 ## NFPA 704 (fire diamond)
-
 - **Health (blue): 1** - exposure would cause irritation with only minor residual injury.
-- **Flammability (red): 3** - it can be ignited under almost all ambient temperature conditions. Its flash point is 11-12 °C. It's autoignition temperature is between 385 and 470 °C.
+- **Flammability (red): 3** - it can be ignited under almost all ambient temperature conditions. Its flash point is 11-12 °C. It's autoignition temperature is between 385 and 470 °C.
 - **Instability–reactivity (yellow): 0** - normally stable, even under fire exposure conditions, and is not reactive with water.
 - **Special notice (white): -**
 
-## Hazard Statements
-
+## Hazard statements
 | Code | Phrase                                         |
 | ---- | ---------------------------------------------- |
 | H225 | highly flammable liquid and vapour             |
@@ -29,7 +26,6 @@
 | H370 | causes damage to organs                        |
 
 ## Precautionary statements
-
 | Code           | Phrase                                                                                                                           |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | P210           | keep away from heat, hot surfaces, sparks, open flames and other ignition sources, no smoking                                    |
@@ -61,14 +57,35 @@
 | P405           | store locked up                                                                                                                  |
 | P501           | dispose of contents/container to [HCI-Shop](https://hci-shop.ethz.ch/en/)                                                        |
 
-## Skin protection (gloves)
+## Protective measures
 
+### Gloves
 [Occupational Safety and Health Act of 1970](https://www.osha.gov/sites/default/files/publications/osha3151.pdf) and [OSHA Glove Selection Chart](https://safety.fsu.edu/safety_manual/OSHA%20Glove%20Selection%20Chart.pdf) categorize gloves into four protection levels (very good, good, fair, poor (not recommended)) for given chemical. The levels of protection against methanol for four types of gloves are:
 
-- Neoprane: **very good**.
+- Neoprene: **very good**.
 - Natural latex or rubber: **very good**.
 - Buthyl: **very good**.
 - Nitrile: **very good**.
+
+### Safety goggles
+- Always wear safety goggles when handling methanol. Corrective glasses are not considered safety googles.
+- Handle methanol inside the fume hood only (with exception of moving the closed bottle to and from the storage cabinet).
+
+### Clothing
+- Wear long trousers and fully covered shoes.
+- Contact lenses are forbidden while working with chemical substances, even in combination with safety glasses.
+- Do not wear cosmetics.
+- Do not wear synthetic clothing while working with flammable liquids or gases or when a hazard is present as these materials tend to melt and stick to exposed skin.
+- Do not wear headphones.
+
+## Spill management
+- Use personal protective equipment.
+- Avoid breathing vapors or mist.
+- Ensure adequate ventilation.
+- Evacuate personnel to safe areas.
+- Arrange disposal.
+- Do not let it enter drain.
+- If a spill happened outside the fume hood (on the floor or desktop) contact Dr Jakub Tkaczuk (+41 44 632 31 62) and the ETH Emergency Desk (+41 44 342 11 88 from mobile or 888 from landline).
 
 [Back to chemical safety page](https://github.com/Global-Health-Engineering/group-safety/tree/main/02-chemical-safety)  
 [Back to main repo page](https://github.com/Global-Health-Engineering/group-safety)
