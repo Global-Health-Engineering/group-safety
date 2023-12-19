@@ -23,12 +23,12 @@
 - Do not wear jewelry in the laboratory.
 - Cosmetics must not be used when working in the laboratory. 
 - Wear long trousers (stockings and leggings are not considered long trousers) and fully covered shoes (Bare feet, open-toe shoes, sandals, and high heels are not permitted).
-- Contact lenses are forbidden while working with chemical substances in the lab (the natural reflex to clamp the eyelids shut makes it hard, if not impossible, to remove the contamination in the event of an eye injury from splattering). Contact lenses are forbidden even with combination with safety glasses.
+- Contact lenses are forbidden while working with chemical substances in the lab (the natural reflex to clamp the eyelids shut makes it hard, if not impossible, to remove the contamination in the event of an eye injury from splattering). Contact lenses are forbidden even in combination with safety glasses.
 - Do not wear synthetic clothing while working with flammable liquids or gases or when a hazard is present as these materials tend to melt and stick to exposed skin.
 - Storing and using personal items, e.g., bags, mobile phone, should be minimized in the work area.
 
 ## Personal Protective Equipment (PPE)
-- When one person uses chemicals, heat, or glass equipment, all persons in the lab must wear safety coats and safety googles.
+- When one person uses chemicals, heat, or glass equipment, all persons in the lab must wear lab coats and safety googles.
 - Lab coat must be worn when working in a lab in which chemical or biological materials are handled. The lab coat is buttoned up.
 - Gloves must be worn for any activity involving risk (hand contamination or injury), e.g., when handling harmful chemicals or dealing with high temperatures. If your experiment requires gloves, make sure to select the proper type of gloves based on the information provided for [each chemical](../../02-chemical-safety/README.md). Contaminated gloves must be immediately replaced or cleaned. When using gloves, care should be taken not to transfer any metal powders or chemicals when using phones, opening doors, using water faucets, etc. Remove gloves beforehand.
 - Never leave the laboratory wearing gloves, safety glasses, or the lab coat.
