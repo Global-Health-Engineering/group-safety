@@ -1,7 +1,6 @@
 # Sodium thiosulfate anhydrous
 
 ## Basic information
-
 - Chemical formula(s): ${\rm Na_2S_2O_3 \cdot xH_2O}$
 - Other names: disodium thiosulfate, thiosulfuric acid, disodium salt, sodium hyposulfit
 - CAS: 7777-98-7
@@ -10,14 +9,12 @@
 - Description: white or colourless crystalline substance that dissolves well in water
 
 ## NFPA 704 (fire diamond)
-
 - **Health (blue): 1** - exposure would cause irritation with only minor residual injury.
 - **Flammability (red): 0** - will not burn under typical fire conditions, will not burn in air unless exposed to a temperature of 820 °C for more than 5 minutes.
 - **Instability–reactivity (yellow): 0** - normally stable, even under fire exposure conditions, and is not reactive with water.
 - **Special notice (white): -**
 
-## Hazard Statements
-
+## Hazard statements
 | Code | Phrase |
 | ---- | ------ |
 | H315 | causes skin irritation |
@@ -25,7 +22,6 @@
 | H335 | may cause respiratory irritation |
 
 ## Precautionary statements
-
 | Code           | Phrase                                                                                                                           |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | P261           | avoid breathing dust/fume/gas/mist/vapours/spray                                                                                 |
@@ -44,14 +40,36 @@
 | P405           | store locked up                                                                                                                  |
 | P501           | dispose of contents/container to [HCI-Shop](https://hci-shop.ethz.ch/en/)                                                        |
 
-## Skin protection (gloves)
+## Protective measures
 
+### Gloves
 [Occupational Safety and Health Act of 1970](https://www.osha.gov/sites/default/files/publications/osha3151.pdf) and [OSHA Glove Selection Chart](https://safety.fsu.edu/safety_manual/OSHA%20Glove%20Selection%20Chart.pdf) do not provide recommendation on gloves for handling sodium thiosulfate. [California State University](https://web.csulb.edu/colleges/cnsm/safety/documents/gloves.htm) categorizes gloves into four protection levels (excellent, good, fair, poor (not recommended)) for given chemical. The levels of protection against sodium thiosulfate for four types of gloves are:
 
-- Neoprane: N/A.
+- Neoprene: N/A.
 - Natural latex or rubber: **good**.
 - Buthyl: N/A.
 - Nitrile: **good**.
+
+### Safety goggles
+- Always wear safety goggles when handling sodium thiosulfate. Corrective glasses are not considered safety googles.
+- Handle sodium thiosulfate inside the fume hood only (with exception of moving the closed bottle to and from the storage cabinet).
+
+### Clothing
+- Wear long trousers and fully covered shoes.
+- Contact lenses are forbidden while working with chemical substances, even in combination with safety glasses.
+- Do not wear cosmetics.
+- Do not wear synthetic clothing while working with flammable liquids or gases or when a hazard is present as these materials tend to melt and stick to exposed skin.
+- Do not wear headphones.
+
+## Spill management
+- Use personal protective equipment.
+- Avoid dust formation, avoid breathing dust.
+- Avoid breathing vapors or mist.
+- Ensure adequate ventilation.
+- Evacuate personnel to safe areas.
+- Sweep up without creating dust and arrange disposal.
+- Do not let it enter drain.
+- If a spill happened outside the fume hood (on the floor or desktop) contact Dr Jakub Tkaczuk (+41 44 632 31 62) and the ETH Emergency Desk (+41 44 342 11 88 from mobile or 888 from landline).
 
 [Back to chemical safety page](https://github.com/Global-Health-Engineering/group-safety/tree/main/02-chemical-safety)  
 [Back to main repo page](https://github.com/Global-Health-Engineering/group-safety)
