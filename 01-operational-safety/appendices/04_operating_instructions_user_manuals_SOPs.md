@@ -9,6 +9,8 @@ The chemicals available in the GHE workshop are:
 - Loctite
 - WD-40
 - Gorilla glue for wood
+- Silicon
+- Epoxy resin
 
 ## Standard Operating Procedures
 
