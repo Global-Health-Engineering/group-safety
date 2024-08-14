@@ -11,4 +11,4 @@ The following table contains the GHE personnel permitted to access the wet lab l
 | Mario Loeliger     | 9101 D2, #7  | 23 Apr 2024 | 31 Sep 2024 |
 | Gian Teufen        |              | 23 Apr 2024 | 07 Jul 2024 |
 | Louis Ambuehl      |              | 23 Apr 2024 | 07 Jul 2024 |
-| Jules Peter        | 9101 D2, #8  | 06 Aug 2024 | 31 Dec 2025 |
+| Jules Peter        | 9101 D2, #2  | 06 Aug 2024 | 31 Dec 2025 |

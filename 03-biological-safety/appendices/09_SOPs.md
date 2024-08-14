@@ -22,7 +22,7 @@ Carbon dioxide is hazardous because it is heavier than air and can accumulate in
 
 The experimental procedure for work with methane and carbon dioxide is as follows:
 1. Know placement of the fire extinguisher and the fire blanket (outside the lab, to the right).
-2. Familiarize yourself with the CO_2 display placement. Once the CO_2 alarm is triggered, leave the lab immediately and wait outside the lab in the corridor for arrival of the building safety team. You can mute the alarm with a red button just outside the lab door (the alarm is mutted, cannot switched off).
+2. Familiarize yourself with the CO2 display placement. Once the CO2 alarm is triggered, leave the lab immediately and wait outside the lab in the corridor for arrival of the building safety team. You can mute the alarm with a red button just outside the lab door (the alarm is mutted, cannot switched off).
 3. Experiments with methane and carbon dioxide can be performed only inside the fume hood with the sliding door open to normal operating mode. Only in this mode, the circulation of air inside the fume hood is sufficient and the conditions are safe for operation, preventing the gases to flow outside the fume hood.
 4. Before starting the measurements, always turn on the methane sensor installed in the fume hood. Once the alarm goes off, shut down the methane supply and inform Jakub Tkaczuk.
 4. The senors should be connected to the outlet line, minimizing the risk of CH_4 or CO_2 excaping the fume hood.

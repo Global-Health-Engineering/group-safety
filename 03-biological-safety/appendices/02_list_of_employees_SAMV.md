@@ -2,7 +2,7 @@
 
 | Name        | Biological organisms | Risk group | Activity start | Activity end | Medical policies | Heath dossier |
 | ----------- | -------------------- | ---------- | -------------- | ------------ | ---------------- | ------------- |
-| Jules Peter | E. coli              | 1          | 2024 Sep 15    |              |                  |               |
+| Jules Peter | Coliforms            | 2          | 2024 Sep 15    | 2025 Dec 31  | Asura insurance  | -             |
 
 
 Microorganisms are classified into four Risk Groups, and biological laboratories are classified into four corresponding Safety Levels:

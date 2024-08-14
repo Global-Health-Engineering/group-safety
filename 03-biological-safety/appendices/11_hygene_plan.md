@@ -5,7 +5,8 @@
 This hygiene plan applies to the BSL2 wet laboratory located in CLA J26. The laboratory manager is Dr Jakub Tkaczuk.
 
 The biological organisms used for the research purposes in the lab are listed below:  
-_Presently no microorganisms are used in the laboratory._
+- Coliforms
+- Fungi
 
 ## Disclosure / Circulation of information.
 
@@ -17,7 +18,7 @@ Compliance with the hygiene plan fosters personal safety and health at work in a
 
 ## General rules
 
-- When handling disinfectants, always wear suitable (household) gloves. Take into account potential allergies triggered by the gloves.
+- When handling disinfectants, always wear suitable gloves. Take into account potential allergies triggered by the gloves.
 - Use only cold water to prepare the disinfectant solution to avoid vapors that can irritate the respiratory system. If necessary, prepare under the laboratory fume hood. 
 - Use the recommended dilution and concentration.
 - Let the disinfectant soak and work for the prescribed time.
