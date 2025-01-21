@@ -107,11 +107,11 @@ The most important rules of conduct in case of emergency can be found in the lea
 
 ### <a name="emergency_ii"></a>4.ii Emergencies in the lab and workshop
 
-An overview of correct behaviour in case of incidents in the lab or workshop has been put together on the poster «Emergency in the lab – What to do? », which is displayed in all labs and workshops. This poster can be ordered from SSHE by [email](mailto:cabs@ethz.ch).
+An overview of correct behaviour in case of incidents in the lab or workshop has been put together on the poster «Emergency in the lab – What to do? », which is displayed in all labs and workshops. This poster can be ordered from SSHE by [email](mailto:sgu-security@ethz.ch).
 
 ### <a name="emergency_iii"></a>4.iii Reporting lab and workshop incidents
 
-All lab and workshop incidents must be reported to the line manager and the GSR. Then they report the event to SSHE by [email](mailto:sgu-schaden@ethz.ch). That includes laboratory, workshop, office, and transit accidents.
+All lab and workshop incidents must be reported to the line manager and the GSR. Then they report the event to SSHE by [email](mailto:sgu-incidents@ethz.ch). That includes laboratory, workshop, office, and transit accidents.
 
 #### <a name="emergency_iii_a"></a>4.iii.a Personal injury (personal accident, occupational accident, near miss)
 
