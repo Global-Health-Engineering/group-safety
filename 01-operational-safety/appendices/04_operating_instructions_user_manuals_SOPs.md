@@ -18,20 +18,22 @@ The exemplary SOP is provided below. The actual ones for the equipment available
 
 ### Laser cutter
 
-1. Never leave the laser cutter unattended
-2. Keep the door to the laser cutter closed for 20-30 seconds after the job is done so all the fumes are ventilated.
-3. Dead man switch - a job can be stopped with the stop button on the controll panel; press it in case of emergency.
-4. Place the material on the laser cutter mesh table. The material cannot exceed 1016 mm $\times$ 610 mm.
-5. Turn the key all the way to the right, just like you were starting up a car.
-6. The machine will run several self checks, do not open the door when it does it.
-7. Inert the material on the table, tape it down if the material is bended. Sheet needs to lay as flat as possible.
-8. Press buttons on the control panel to move the table up and down to focus the laser with the focussing tool.
-9. Import files to the Trotec Ruby software.
-10. Set all lines to be cut (red) and engraved (black).
-11. Select material or laser speed and power.
-12. Start the job making. Make sure that the ventilation starts automatically; if it does not, press the button on the fume cleaner.
-13. If fumes are accumulating in the laser cutter, increase the power of the fume cleaner.
-14. Open the laser cutter only after the job is done and all the fumes are evacuated from the laser cutter.
+1.	Never leave the laser cutter unattended.
+2.	Never cut highly reflective materials on the laser cutter.
+3.	Never cut PVC on the laser cutter. For the full list of materials suitable for cutting/engraving, see the user manual.
+4.	Dead man switch - a job can be stopped with the stop button on the control panel; press it in case of emergency.
+5.	Turn the key all the way to the right, just like you were starting up a car.
+6.	The machine will run several self-checks, do not open the door when it does it.
+7.	Adjust the flaps for fume evacuation, depending on the size and type of the material you are cutting.
+8.	Place the material on the laser cutter mesh table. The material cannot exceed 1016 mm x 610 mm. Tape it down, if it is bent. Sheet needs to lay as flat as possible.
+9.	Press buttons on the control panel to move the table up and down to focus the laser, using the focusing tool.
+10.	Import files to the Trotec Ruby software.
+11.	Set all lines to be cut (red) and engraved (black).
+12.	Select material and/or laser speed and power.
+13.	Start the job. Make sure that the ventilation starts automatically; if it does not, press the button on the fume filter.
+14.	If fumes are accumulating in the laser cutter, increase the power of the fume filter.
+15.	Keep the door to the laser cutter closed for 20-30 seconds after the job is done so all the fumes are ventilated.
+16.	Open the laser cutter only after the job is done and all the fumes are evacuated.
 
 ### Drill press
 
