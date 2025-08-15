@@ -1,0 +1,892 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.545">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>GHE Safety Documentation - Biological Safety</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script defer="" data-domain="global-health-engineering.github.io/group-safety" src="https://plausible.io/js/script.js"></script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">GHE Safety Documentation</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./operational-safety.html"> 
+<span class="menu-text">Operational Safety</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./chemical-safety.html"> 
+<span class="menu-text">Chemical Safety</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./biological-safety.html" aria-current="page"> 
+<span class="menu-text">Biological Safety</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:ghe@mavt.ethz.ch?subject=Group Safety"> <i class="bi bi-envelope-at" role="img" aria-label="Email">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/Global-Health-Engineering/group-safety"> <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://matrix.to/#/#ghe-open:staffchat.ethz.ch"> <i class="bi bi-chat-left-dots" role="img" aria-label="Matrix">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#validity" id="toc-validity" class="nav-link active" data-scroll-target="#validity"><span class="header-section-number">1</span> Validity</a></li>
+  <li><a href="#objectives" id="toc-objectives" class="nav-link" data-scroll-target="#objectives"><span class="header-section-number">2</span> Safety objectives</a></li>
+  <li><a href="#organization" id="toc-organization" class="nav-link" data-scroll-target="#organization"><span class="header-section-number">3</span> Safety organization</a>
+  <ul class="collapse">
+  <li><a href="#organization_i" id="toc-organization_i" class="nav-link" data-scroll-target="#organization_i"><span class="header-section-number">3.1</span> Responsibility and liability</a></li>
+  <li><a href="#organization_ii" id="toc-organization_ii" class="nav-link" data-scroll-target="#organization_ii"><span class="header-section-number">3.2</span> Duties of the Biosafety Officer, the Laboratory Leader, and the Project Leaders</a></li>
+  <li><a href="#organization_iii" id="toc-organization_iii" class="nav-link" data-scroll-target="#organization_iii"><span class="header-section-number">3.3</span> List of employees</a></li>
+  </ul></li>
+  <li><a href="#emergency" id="toc-emergency" class="nav-link" data-scroll-target="#emergency"><span class="header-section-number">4</span> Emergency organization: Planning and incident management</a>
+  <ul class="collapse">
+  <li><a href="#emergency_i" id="toc-emergency_i" class="nav-link" data-scroll-target="#emergency_i"><span class="header-section-number">4.1</span> Emergency telephone numbers and contacts for safety issues</a></li>
+  <li><a href="#emergency_ii" id="toc-emergency_ii" class="nav-link" data-scroll-target="#emergency_ii"><span class="header-section-number">4.2</span> Emergency planning: Procedures in case of incidents in the laboratory and crisis situations</a></li>
+  <li><a href="#emergency_iii" id="toc-emergency_iii" class="nav-link" data-scroll-target="#emergency_iii"><span class="header-section-number">4.3</span> Report sheet for laboratory incidents</a></li>
+  <li><a href="#emergency_iv" id="toc-emergency_iv" class="nav-link" data-scroll-target="#emergency_iv"><span class="header-section-number">4.4</span> Health file</a></li>
+  </ul></li>
+  <li><a href="#risk" id="toc-risk" class="nav-link" data-scroll-target="#risk"><span class="header-section-number">5</span> Risk assessment</a>
+  <ul class="collapse">
+  <li><a href="#risk_i" id="toc-risk_i" class="nav-link" data-scroll-target="#risk_i"><span class="header-section-number">5.1</span> Compulsory reporting of BSL2 activities</a></li>
+  <li><a href="#risk_ii" id="toc-risk_ii" class="nav-link" data-scroll-target="#risk_ii"><span class="header-section-number">5.2</span> Project list and inventory of biological agents</a></li>
+  </ul></li>
+  <li><a href="#measures" id="toc-measures" class="nav-link" data-scroll-target="#measures"><span class="header-section-number">6</span> Safety measures and rules of conduct</a>
+  <ul class="collapse">
+  <li><a href="#measures_i" id="toc-measures_i" class="nav-link" data-scroll-target="#measures_i"><span class="header-section-number">6.1</span> Access control and signalization of BSL2 working areas</a></li>
+  <li><a href="#measures_ii" id="toc-measures_ii" class="nav-link" data-scroll-target="#measures_ii"><span class="header-section-number">6.2</span> Instructions for safe working</a>
+  <ul class="collapse">
+  <li><a href="#measures_ii_a" id="toc-measures_ii_a" class="nav-link" data-scroll-target="#measures_ii_a"><span class="header-section-number">6.2.1</span> Operating instructions and rules of conduct</a></li>
+  <li><a href="#measures_ii_b" id="toc-measures_ii_b" class="nav-link" data-scroll-target="#measures_ii_b"><span class="header-section-number">6.2.2</span> Laboratory safety rules</a></li>
+  <li><a href="#measures_ii_c" id="toc-measures_ii_c" class="nav-link" data-scroll-target="#measures_ii_c"><span class="header-section-number">6.2.3</span> Use of class 2 safety cabinet</a></li>
+  </ul></li>
+  <li><a href="#measures_iii" id="toc-measures_iii" class="nav-link" data-scroll-target="#measures_iii"><span class="header-section-number">6.3</span> Training and information to ensure safety at work</a></li>
+  <li><a href="#measures_iv" id="toc-measures_iv" class="nav-link" data-scroll-target="#measures_iv"><span class="header-section-number">6.4</span> Standards for laboratory cleaning</a>
+  <ul class="collapse">
+  <li><a href="#measures_iv_a" id="toc-measures_iv_a" class="nav-link" data-scroll-target="#measures_iv_a"><span class="header-section-number">6.4.1</span> Disinfection and cleaning</a></li>
+  <li><a href="#measures_iv_b" id="toc-measures_iv_b" class="nav-link" data-scroll-target="#measures_iv_b"><span class="header-section-number">6.4.2</span> Safety instructions for the cleaning service</a></li>
+  </ul></li>
+  <li><a href="#measures_v" id="toc-measures_v" class="nav-link" data-scroll-target="#measures_v"><span class="header-section-number">6.5</span> Disposal of biologically contaminated waste</a>
+  <ul class="collapse">
+  <li><a href="#measures_v_a" id="toc-measures_v_a" class="nav-link" data-scroll-target="#measures_v_a"><span class="header-section-number">6.5.1</span> Disposal plan</a></li>
+  <li><a href="#measures_v_b" id="toc-measures_v_b" class="nav-link" data-scroll-target="#measures_v_b"><span class="header-section-number">6.5.2</span> Inactivating biological waste by autoclaving</a></li>
+  </ul></li>
+  <li><a href="#measures_vi" id="toc-measures_vi" class="nav-link" data-scroll-target="#measures_vi"><span class="header-section-number">6.6</span> Purchase, servicing, and maintenance of equipment</a>
+  <ul class="collapse">
+  <li><a href="#measures_vi_a" id="toc-measures_vi_a" class="nav-link" data-scroll-target="#measures_vi_a"><span class="header-section-number">6.6.1</span> Declaration of conformity and manuals</a></li>
+  <li><a href="#measures_vi_b" id="toc-measures_vi_b" class="nav-link" data-scroll-target="#measures_vi_b"><span class="header-section-number">6.6.2</span> Responsibility for servicing and maintenance of equipment</a></li>
+  </ul></li>
+  <li><a href="#measures_vii" id="toc-measures_vii" class="nav-link" data-scroll-target="#measures_vii"><span class="header-section-number">6.7</span> Transportation of organisms or infectious biological agents</a></li>
+  </ul></li>
+  <li><a href="#appendices" id="toc-appendices" class="nav-link" data-scroll-target="#appendices"><span class="header-section-number">7</span> Appendices</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Biological Safety</h1>
+<p class="subtitle lead">Biosafety concept for BSL2 laboratory of Global Health Engineering</p>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="validity" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> Validity</h1>
+<p>This biological safety concept forms a binding framework for the implementation of the statutory requirements for activities involving pathogenic or Genetically Modified Organisms (GMO) in contained systems (Levels 1 and 2)<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>. This safety concept incorporates the measures adopted by Global Health Engineering for occupational safety and for the safety of people, animals, and the environment.</p>
+<p>The safety concept is based on the <a href="https://www.bafu.admin.ch/dam/bafu/en/dokumente/biotechnologie/uv-umwelt-vollzug/sicherheitskonzept-esv-samv-laboratorien-stufe-2.docx.download.docx/A00_UV-0817-E-ESV2019_Labor.docx">Safety concept according to ESV and SAMV for Level 2 laboratories</a> and the corresponding guidelines of the Federal Office for the Environment (FOEN): <a href="https://www.bafu.admin.ch/dam/bafu/en/dokumente/biotechnologie/uv-umwelt-vollzug/betriebliches_sicherheitskonzeptnachdereinschliessungsverordnung.pdf.download.pdf/operational_safetyconceptsaccordingtocontainmentordinancecontain.pdf">Operational safety concepts according to Containment Ordinance (ContainO)</a>. Various templates for operating instructions and rules of conduct have been adapted to the particular lab and are listed in the Annexes together with the already existing company documents containing performance standards for environmental and occupational safety and quality assurance.</p>
+<p>This safety concept, as well as the general <a href="https://ethz.ch/content/dam/ethz/associates/services/Service/sicherheit-gesundheit-umwelt/files/biosicherheit_neu/en/Biosafety_concept.pdf">Biosafety Concept of ETH Zurich</a>, is updated whenever the risk changes, especially when:</p>
+<ul>
+<li>new working methods are adopted;</li>
+<li>new organisms are handled;</li>
+<li>new equipment relevant to biological safety is introduced;</li>
+<li>existing premises are converted for other purposes, or new rooms are used;</li>
+<li>the activities, processes, or the use of rooms have been discontinued (see <a href="#risk_i">Chapter 5.1</a>).</li>
+</ul>
+</section>
+<section id="objectives" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> Safety objectives</h1>
+<p>Work in the Global Health Engineering laboratory involves using hazardous chemical and biological substances. In this work, it is impossible to entirely rule out a potential risk to people, animals and the environment. GHE takes the necessary safety measures to protect people, animals and the environment from harmful effects. As an employer, the professor of GHE acknowledges its responsibility for occupational safety and protecting its employees’ health and takes the necessary measures accordingly<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>.</p>
+</section>
+<section id="organization" class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> Safety organization</h1>
+<section id="organization_i" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="organization_i"><span class="header-section-number">3.1</span> Responsibility and liability</h2>
+<p>The head of GHE assumes the operative responsibility for ensuring the safety of people, the environment, and safety at the workplace<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a>. They ensure that the safety concept is implemented and followed and have established the organizational structure necessary for this purpose. At least one person has been entrusted with monitoring biological safety, the precise details concerning status, duties, and responsibilities have been set out in the job description. These job descriptions also specify the duties, tasks, and competencies of the laboratory managers and project leaders in everyday situations and emergencies. The job descriptions are an integral part of this specific biosafety concept. The necessary financial and personal resources to maintain biological and chemical safety are made available by GHE.</p>
+<p>As a matter of principle, ETH Zurich as an institution (not an individual ETH employee) shall be held liable to third parties, both companies and persons. However, ETH may take recourse against employees who fail to comply with safety provisions deliberately or through gross negligence, thereby inflicting harm on a third party for which the ETH is liable. This covers the liability issue. The criminal law aspect must also be considered. Therefore, the following applies to all persons bearing responsibility for safety at ETH: <em>The responsibility of persons under criminal law is derived from their sphere of responsibility concerning observing safety rules. Only those persons who, by their position, can prevent hazards through their intervention can be held accountable under criminal law. This is the case if they failed to intervene where intervention would have been appropriate and possible.</em></p>
+</section>
+<section id="organization_ii" class="level2" data-number="3.2">
+<h2 data-number="3.2" class="anchored" data-anchor-id="organization_ii"><span class="header-section-number">3.2</span> Duties of the Biosafety Officer, the Laboratory Leader, and the Project Leaders</h2>
+<p>The organizational structure of GHE is described in section 3.ii of the GHE’s <a href="./operational-safety.html">Operational Safety Concept</a>.</p>
+<p>The status, duties and responsibilities of the Biosafety Officer (BSO) and the Project Leaders (PL) are set out in the job description of the respective employees. GHE conforms to the respective guidelines of the Swiss Agency for the Environment, Forests and Landscape (SAEFL)<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a>.</p>
+<p>The duties of the BSO and PL are described in detail in <a href="_biological/01_duties_of_BSO_and_project_leaders.qmd">Appendix 1</a>.</p>
+</section>
+<section id="organization_iii" class="level2" data-number="3.3">
+<h2 data-number="3.3" class="anchored" data-anchor-id="organization_iii"><span class="header-section-number">3.3</span> List of employees</h2>
+<p>Group 2 microorganisms represent a potential hazard for employees. GHE keeps a list of persons who work with Group 2 organisms (see <a href="_biological/02_list_of_employees_SAMV.qmd">Appendix 2</a>) and, if required, arranges for a health file to be created according to the Ordinance on the Protection of Personnel from Hazards due to Microorganisms (SAMV) (see <a href="#emergency_iv">Chapter 4.4</a>). GHE shall provide this list to SSHE-BSO upon request.</p>
+</section>
+</section>
+<section id="emergency" class="level1" data-number="4">
+<h1 data-number="4"><span class="header-section-number">4</span> Emergency organization: Planning and incident management</h1>
+<section id="emergency_i" class="level2" data-number="4.1">
+<h2 data-number="4.1" class="anchored" data-anchor-id="emergency_i"><span class="header-section-number">4.1</span> Emergency telephone numbers and contacts for safety issues</h2>
+<p>The emergency telephone numbers and contact addresses of persons able to provide information on safety matters are available in every laboratory and near the telephones. This is of paramount importance for dealing with an incident quickly. This list is provided in <a href="_biological/03_emergency_telephone_numbers_and_contacts_for_safety.qmd">Appendix 3</a>.</p>
+</section>
+<section id="emergency_ii" class="level2" data-number="4.2">
+<h2 data-number="4.2" class="anchored" data-anchor-id="emergency_ii"><span class="header-section-number">4.2</span> Emergency planning: Procedures in case of incidents in the laboratory and crisis situations</h2>
+<p>When working with organisms, emergencies, which vary in severity, may arise owing to spillage of infectious material, release of aerosols, injuries, fire, explosion and water discharge. While minor incidents are generally dealt with by the person(s) who caused them, with the assistance of the Biosafety Officers if appropriate, the emergency services must always be alerted in the event of serious incidents. The procedures are described in <a href="_biological/04_emergency_planning_and_procedures.qmd">Appendix 4</a>.</p>
+</section>
+<section id="emergency_iii" class="level2" data-number="4.3">
+<h2 data-number="4.3" class="anchored" data-anchor-id="emergency_iii"><span class="header-section-number">4.3</span> Report sheet for laboratory incidents</h2>
+<p>In a laboratory incident involving Class 2 activities, the precise circumstances leading to contamination of the body or an injury must be recorded, even if only a minor one. All laboratory incidents must be reported to the BSO and the supervisors, i.e., body injuries and material damages. Next, they must be reported to SSHE using <a href="_biological/05_report_sheet_for_lab_incidents.qmd">Appendix 5</a>.</p>
+<p>The BSO, supervisors, and SSHE use the report sheets for laboratory incidents to investigate the causes of incidents so that measures can be initiated to prevent and reduce risks. The BSO, SSHE, and supervisors keep the completed report sheets on file for at least five years.</p>
+</section>
+<section id="emergency_iv" class="level2" data-number="4.4">
+<h2 data-number="4.4" class="anchored" data-anchor-id="emergency_iv"><span class="header-section-number">4.4</span> Health file</h2>
+<p>The employees’ occupational health data are collected in the so-called health file in exceptional cases described below. The Occupational Health Services of ETH Zurich (currently represented by several occupational physicians) keep a health file for those employees for whom a medical examination is necessary as a direct result of their work. This could involve vaccinations, medical diagnoses and measures after an occupational/laboratory accident, exposure to microorganisms or if there is a reason to suspect an infectious disease was acquired during work activities.</p>
+<p>The following details are recorded in the health file (according to Art. 14 (3) SAMV):</p>
+<ul>
+<li>Reasons for the particular medical precautions.</li>
+<li>Investigations into the employees’ immune status.</li>
+<li>Vaccinations.</li>
+<li>Results of medical examinations after accidents, incidents, exposure to microorganisms, and suspected infection during occupational activity.</li>
+</ul>
+<p>The attending doctor keeps the health file as a separate dossier or as a component/folder in an existing medical history if, for example, the person examined also consults the same doctor privately<a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a>. Suppose other work-related medical examinations, e.g., concerning radiation protection, are also carried out by the doctor involved. In that case, these shall be included or combined in the same personal dossier.</p>
+</section>
+</section>
+<section id="risk" class="level1" data-number="5">
+<h1 data-number="5"><span class="header-section-number">5</span> Risk assessment</h1>
+<section id="risk_i" class="level2" data-number="5.1">
+<h2 data-number="5.1" class="anchored" data-anchor-id="risk_i"><span class="header-section-number">5.1</span> Compulsory reporting of BSL2 activities</h2>
+<p>The risks of an activity and the reporting and authorization requirements according to ESV (Art. 8-10) and SAMV (Art. 5, 6) are identified/established early. To this end, before the start of the activity, the project leaders report to the BSO all new activities and significant changes, e.g., the use of new organisms with significantly different characteristics or significant new knowledge concerning safety-related aspects of an ongoing activity.</p>
+<p>The BSO and GHE inform the Federal Office of Public Health (FOPH), using <a href="https://www.ecogen.admin.ch/public/#/">ECOGEN</a>, about the start and the end of the BSL2 activities.</p>
+</section>
+<section id="risk_ii" class="level2" data-number="5.2">
+<h2 data-number="5.2" class="anchored" data-anchor-id="risk_ii"><span class="header-section-number">5.2</span> Project list and inventory of biological agents</h2>
+<p>The BSO keeps an overview of the activities involving organisms within their area of responsibility and records them in <a href="_biological/06_project_list.qmd">Appendix 6</a>. The project list is updated at least every six months and whenever new reports and requests occur. The list is accessible to SSHE at any time.</p>
+</section>
+</section>
+<section id="measures" class="level1" data-number="6">
+<h1 data-number="6"><span class="header-section-number">6</span> Safety measures and rules of conduct</h1>
+<section id="measures_i" class="level2" data-number="6.1">
+<h2 data-number="6.1" class="anchored" data-anchor-id="measures_i"><span class="header-section-number">6.1</span> Access control and signalization of BSL2 working areas</h2>
+<p>Access to the BSL2 laboratory facility is restricted to authorized persons only and is governed by the containment concept of GHE. Nonetheless, it must always be ensured that, in the event of an incident, e.g., fire, the emergency services can access the area quickly and safely and that the escape routes are secured. The list of users with access to the level 2 area is provided in <a href="_biological/07_user_list_with_access_to_BSL2.qmd">Appendix 7</a>.</p>
+<p>The entrance area to level 2 laboratories is signalized, and warning signs (restricted access and warning of the hazards emanating from the organism) are displayed. The guidelines for signalization of laboratories and equipment with the “Biohazard” warning symbol are described in <a href="_biological/08_meaning_and_use_of_biohazard_symbol.qmd">Appendix 8</a>.</p>
+</section>
+<section id="measures_ii" class="level2" data-number="6.2">
+<h2 data-number="6.2" class="anchored" data-anchor-id="measures_ii"><span class="header-section-number">6.2</span> Instructions for safe working</h2>
+<section id="measures_ii_a" class="level3" data-number="6.2.1">
+<h3 data-number="6.2.1" class="anchored" data-anchor-id="measures_ii_a"><span class="header-section-number">6.2.1</span> Operating instructions and rules of conduct</h3>
+<p>Rules concerning occupational safety and environmental safety at GHE are set out in the operating instructions, work instructions or the Standard Operating Procedures (SOPs). These documents are provided in <a href="_biological/09_SOPs.qmd">Appendix 9</a>.</p>
+</section>
+<section id="measures_ii_b" class="level3" data-number="6.2.2">
+<h3 data-number="6.2.2" class="anchored" data-anchor-id="measures_ii_b"><span class="header-section-number">6.2.2</span> Laboratory safety rules</h3>
+<p>The staff of GHE adhere to the legally binding “Principles of good microbiological practice” according to Annex 3 of SAMV. Based on it, the laboratory rules applicable to the laboratory of GHE are adapted and supplemented accordingly. The laboratory rules are described in <a href="_operational/05_general_lab_workshop_rules.qmd">Appendix 5 of the Operational Safety Concept</a>.</p>
+</section>
+<section id="measures_ii_c" class="level3" data-number="6.2.3">
+<h3 data-number="6.2.3" class="anchored" data-anchor-id="measures_ii_c"><span class="header-section-number">6.2.3</span> Use of class 2 safety cabinet</h3>
+<p>Correct operation and use, including regular maintenance of the safety cabinets, are essential for protecting people and the environment, as well as for the quality of research and test results and are explained in detail in a separate information sheet. GHE is responsible for the maintenance of the safety cabinets. <a href="_biological/10_use_of_class_2_cabinets.qmd">Appendix 10</a> contains information on the use of class 2 safety cabinets.</p>
+</section>
+</section>
+<section id="measures_iii" class="level2" data-number="6.3">
+<h2 data-number="6.3" class="anchored" data-anchor-id="measures_iii"><span class="header-section-number">6.3</span> Training and information to ensure safety at work</h2>
+<p>At ETH Zurich, training is essential to ensure people’s and the environment’s safety. ETH Zurich offers its BSO external and internal training courses. The respective project manager is responsible for inducting new employees and instructing them in biosafety (they can, however, delegate this task to the BSO). The confirmation of training completion is recorded in writing and stored in the Record of instructions and trainings.</p>
+</section>
+<section id="measures_iv" class="level2" data-number="6.4">
+<h2 data-number="6.4" class="anchored" data-anchor-id="measures_iv"><span class="header-section-number">6.4</span> Standards for laboratory cleaning</h2>
+<section id="measures_iv_a" class="level3" data-number="6.4.1">
+<h3 data-number="6.4.1" class="anchored" data-anchor-id="measures_iv_a"><span class="header-section-number">6.4.1</span> Disinfection and cleaning</h3>
+<p>The hygiene plan serves to promote personal safety at work. Also, it helps to minimize the escape of organisms into the environment. Factors such as the spectrum of activity, concentration used, and exposure time are crucial for the optimal use of cleaning agents and disinfectants. Only disinfectants effective for dealing with the organisms to be rendered inactive may be used, and the manufacturer’s instructions regarding their use must be followed. The instructions for use and safety datasheets of the products employed by GHE is available in the <a href="_biological/11_hygene_plan.qmd">Hygiene Plan</a>.</p>
+</section>
+<section id="measures_iv_b" class="level3" data-number="6.4.2">
+<h3 data-number="6.4.2" class="anchored" data-anchor-id="measures_iv_b"><span class="header-section-number">6.4.2</span> Safety instructions for the cleaning service</h3>
+<p>GHE draws up cleaning regulations and informs Building Services (facility management) about these regulations. Building Services shall pass the regulations to the cleaning service and instruct them accordingly. If special conditions apply in individual laboratories, the BSO must inform the cleaning staff about them. The specific safety instructions for cleaning personnel are integral to the biosafety concept and are provided in <a href="_biological/12_safety_for_cleaning_service.qmd">Appendix 12</a>.</p>
+</section>
+</section>
+<section id="measures_v" class="level2" data-number="6.5">
+<h2 data-number="6.5" class="anchored" data-anchor-id="measures_v"><span class="header-section-number">6.5</span> Disposal of biologically contaminated waste</h2>
+<section id="measures_v_a" class="level3" data-number="6.5.1">
+<h3 data-number="6.5.1" class="anchored" data-anchor-id="measures_v_a"><span class="header-section-number">6.5.1</span> Disposal plan</h3>
+<p>Correct disposal of contaminated waste is a crucial requirement for preventing the escape of organisms from a laboratory and minimizing the risk to people and the environment. A separate disposal plan for biologically contaminated waste contains detailed information on how the handling of waste is organized<a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a><a href="#fn7" class="footnote-ref" id="fnref7" role="doc-noteref"><sup>7</sup></a>.</p>
+</section>
+<section id="measures_v_b" class="level3" data-number="6.5.2">
+<h3 data-number="6.5.2" class="anchored" data-anchor-id="measures_v_b"><span class="header-section-number">6.5.2</span> Inactivating biological waste by autoclaving</h3>
+<p>The operation of the autoclave is laid down in its operating instructions. Autoclaving procedures are selected so that all biological waste is safely inactivated.</p>
+</section>
+</section>
+<section id="measures_vi" class="level2" data-number="6.6">
+<h2 data-number="6.6" class="anchored" data-anchor-id="measures_vi"><span class="header-section-number">6.6</span> Purchase, servicing, and maintenance of equipment</h2>
+<section id="measures_vi_a" class="level3" data-number="6.6.1">
+<h3 data-number="6.6.1" class="anchored" data-anchor-id="measures_vi_a"><span class="header-section-number">6.6.1</span> Declaration of conformity and manuals</h3>
+<p>GHE ensures that the equipment used in its lab complies with European safety regulations. The <a href="https://drive.google.com/drive/folders/12BPhWmaUQXrYuQz66WqhErdkoFfIk6gz?usp=sharing">declarations of conformity</a> and the <a href="https://drive.google.com/drive/folders/1-gGl0Jj20gXjfeDVtdbEAdviQkH1oo-P?usp=sharing">user manuals</a> are stored online and accessible at any time.</p>
+</section>
+<section id="measures_vi_b" class="level3" data-number="6.6.2">
+<h3 data-number="6.6.2" class="anchored" data-anchor-id="measures_vi_b"><span class="header-section-number">6.6.2</span> Responsibility for servicing and maintenance of equipment</h3>
+<p>All technical equipment is serviced regularly so that, apart from the quality of the research and diagnostic results, the safety of the workforce and the protection of people and the environment in general can be ensured. Service plans for individual equipment items and the rules concerning responsibilities are set down in writing. They are available in <a href="_biological/13_service_plan.qmd">Appendix 13</a>.</p>
+</section>
+</section>
+<section id="measures_vii" class="level2" data-number="6.7">
+<h2 data-number="6.7" class="anchored" data-anchor-id="measures_vii"><span class="header-section-number">6.7</span> Transportation of organisms or infectious biological agents</h2>
+<p>GHE adheres to the statutory requirements and follows the relevant national and international transport regulations<a href="#fn8" class="footnote-ref" id="fnref8" role="doc-noteref"><sup>8</sup></a> on labelling and packing for transporting organisms or infectious biological agents. Suppose a sample containing organisms is transported outside the laboratory for diagnostic or research purposes. In that case, the smallest quantities and lowest concentration of cells possible<a href="#fn9" class="footnote-ref" id="fnref9" role="doc-noteref"><sup>9</sup></a> are packed and transported with appropriate labelling. If waste involves a contamination risk, e.g., secretions or excreta, or strong-smelling or nauseating waste is transported, the labelling and packing regulations listed in <a href="_biological/14_disposal_plan_for_bio_contaminated_waste.qmd">Appendix 14</a> are applied.</p>
+<p>In summary, the following applies:</p>
+<table class="table">
+<colgroup>
+<col style="width: 5%">
+<col style="width: 39%">
+<col style="width: 7%">
+<col style="width: 15%">
+<col style="width: 32%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>UN number</th>
+<th>official description</th>
+<th>hazard label</th>
+<th>ADR packaging instructions</th>
+<th>field of application</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>UN 3373</td>
+<td>biological substances of category B</td>
+<td>Class 6.2</td>
+<td>P650</td>
+<td>Group 2 (possibly 3) and category B of microorganisms</td>
+</tr>
+<tr class="even">
+<td>UN 3245</td>
+<td>genetically modified microorganisms</td>
+<td>Class 9</td>
+<td>P904</td>
+<td>Group 1 microorganisms</td>
+</tr>
+<tr class="odd">
+<td>UN 1845</td>
+<td>Dry ice (solid <span class="math inline">\({\rm CO_2}\)</span>), only to be marked for air transport</td>
+<td>Class 9</td>
+<td></td>
+<td>Packaging material</td>
+</tr>
+<tr class="even">
+<td>UN 1977</td>
+<td>Liquid nitrogen</td>
+<td>Class 2.2</td>
+<td></td>
+<td>Packaging material</td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="appendices" class="level1" data-number="7">
+<h1 data-number="7"><span class="header-section-number">7</span> Appendices</h1>
+<ul>
+<li><a href="_biological/01_duties_of_BSO_and_project_leaders.qmd">Appendix 1. Duties of Biosafety Officer and Project Leaders</a></li>
+<li><a href="_biological/02_list_of_employees_SAMV.qmd">Appendix 2. List of employees according to SAMV</a></li>
+<li><a href="_biological/03_emergency_telephone_numbers_and_contacts_for_safety.qmd">Appendix 3. Emergency telephone numbers and contacts for safety issues</a></li>
+<li><a href="_biological/04_emergency_planning_and_procedures.qmd">Appendix 4. Emergency planning: Procedures in case of incidents in the laboratory</a></li>
+<li><a href="_biological/05_report_sheet_for_lab_incidents.qmd">Appendix 5. Report sheet for laboratory incidents</a></li>
+<li><a href="_biological/06_project_list.qmd">Appendix 6. Project list</a></li>
+<li><a href="_biological/07_user_list_with_access_to_BSL2.qmd">Appendix 7. User list with access to level 2 working areas</a></li>
+<li><a href="_biological/08_meaning_and_use_of_biohazard_symbol.qmd">Appendix 8. Meaning and use of the «Biohazard» warning symbol</a></li>
+<li><a href="_biological/09_SOPs.qmd">Appendix 9. Standard Operating Procedures</a></li>
+<li><a href="_biological/10_use_of_class_2_cabinets.qmd">Appendix 10. Use of class 2 safety cabinets</a></li>
+<li><a href="_biological/11_hygene_plan.qmd">Appendix 11. Hygiene plan</a></li>
+<li><a href="_biological/12_safety_for_cleaning_service.qmd">Appendix 12. Safety during cleaning of laboratories by the cleaning service</a></li>
+<li><a href="_biological/13_service_plan.qmd">Appendix 13. Equipment service plan and responsibilities</a></li>
+<li><a href="_biological/14_disposal_plan_for_bio_contaminated_waste.qmd">Appendix 14. Disposal plan for biologically contaminated waste</a></li>
+</ul>
+
+
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>A laboratory where work is done with pathogenic or Genetically Modified Organisms falls within the scope of the Containment Ordinance from 25 August, 1999 on the Contained Use of Organisms (Einschliessungsverordnung, <strong>ESV</strong>, SR 814.912) and the Ordinance on the protection of personnel from hazards due to microorganisms from 25 August, 1999 (<strong>SAMV</strong>, SR 832.321). The scopes of these ordinances complement each other and contribute to protection of the environment, population, and the health of individual employees.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>The University defines its protection goals to prevent accidents at work as well as harmful and undesirable effects on the environment and the population.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3"><p>According to Article 7 Paragraph 4 of Ordinance 3 dated 18 August 1993 to the Employment Act (Health Protection, ArGV 3, SR 822.113), the following applies: “The rules regarding responsibilities in the plant/laboratory do not exempt the employer from his responsibility to protect health”.<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn4"><p><a href="https://www.bafu.admin.ch/bafu/en/home/topics/biotechnology/publications-studies/publications/biosafety-officers-bso.html">Guideline: Biosafety Officer (BSO) – Status, duties and responsibilities</a>.<a href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn5"><p>The attending doctor does not necessarily have to be an occupational health specialist but may, according to SAMV, also be a company doctor or an independent medical examiner. What is crucial, however, is that this person knows the work situation and the working conditions so that a link to the workplace can be established during the health assessment and the necessary plan of occupational health measures can be drawn up. In this regard, compare Art 2.4 of EKAS guideline 6508 on the calling-in of occupational health doctors and other occupational safety specialists.<a href="#fnref5" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn6"><p>See the implementation guide issued by SAEFL: M. Buletti (2004) <a href="https://www.bafu.admin.ch/bafu/fr/home/themes/dechets/publications-etudes/publications/elimination-des-dechets-medicaux.html"><em>Elimination des déchets médicaux</em></a>. Swiss Federal Office for the Environment FOEN.<a href="#fnref6" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn7"><p>See the <a href="https://www.bafu.admin.ch/dam/bafu/en/dokumente/biotechnologie/uv-umwelt-vollzug/sicherheitsmassnahmeninhumanmedizinisch-mikrobiologischendiagnos.pdf"><em>Safety measures in medical microbiology diagnostic laboratories</em></a> (2015) Swiss Expert Committee for Biosafety (SECB), Federal Office for the Environment FOEN, Federal Office of Public Health FOPH.<a href="#fnref7" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn8"><p>International transport regulations: <a href="https://unece.org/rev-21-2019"><em>UN Recommendations on the Transport of Dangerous Goods, Model Regulations</em></a> Rev.&nbsp;21 (2019).<a href="#fnref8" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn9"><p>The shipping of concentrated organisms in the form of cultures belonging to Group 2 or 3 and, according to Category A international regulations, must be carried out by the laboratory dangerous goods safety adviser or under his supervision and the relevant packing and labelling regulations must be complied with. For the function of the safety of hazardous goods adviser, refer to the <a href="https://www.fedlex.admin.ch/eli/cc/2001/268/fr"><em>Ordinance on Dangerous Goods Safety Advisers for the transport of hazardous materials by road, rail and waterways</em></a> of 15 June 2001 SR 741.622 (Ordonnance sur les conseillers à la sécurité, OCS).<a href="#fnref9" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p><a href="https://ghe.ethz.ch">Global Health Engineering Group at ETH Zurich</a></p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+    <a class="nav-link" href="mailto:ghe@mavt.ethz.ch?subject=Group Safety">
+      <i class="bi bi-envelope-at" role="img" aria-label="Email">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/Global-Health-Engineering/group-safety">
+      <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://matrix.to/#/#ghe-open:staffchat.ethz.ch">
+      <i class="bi bi-chat-left-dots" role="img" aria-label="Matrix">
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

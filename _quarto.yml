@@ -1,0 +1,55 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "_operational/*.qmd"
+    - "_chemical/*.qmd"
+    - "_biological/*.qmd"
+
+website:
+  title: "GHE Safety Documentation"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: operational-safety.qmd
+        text: Operational Safety
+      - href: chemical-safety.qmd
+        text: Chemical Safety
+      - href: biological-safety.qmd
+        text: Biological Safety
+    right:
+      - icon: "envelope-at"
+        href: "mailto:ghe@mavt.ethz.ch?subject=Group Safety"
+        aria-label: Email
+      - icon: github
+        href: https://github.com/Global-Health-Engineering/group-safety
+        aria-label: GitHub
+      - icon: chat-left-dots
+        href: https://matrix.to/#/#ghe-open:staffchat.ethz.ch
+        aria-label: Matrix
+  page-footer:
+      left: |
+          [Global Health Engineering Group at ETH Zurich](https://ghe.ethz.ch)
+      right:
+        - icon: "envelope-at"
+          href: "mailto:ghe@mavt.ethz.ch?subject=Group Safety"
+          aria-label: Email
+        - icon: github
+          href: https://github.com/Global-Health-Engineering/group-safety
+          aria-label: GitHub
+        - icon: chat-left-dots
+          href: https://matrix.to/#/#ghe-open:staffchat.ethz.ch
+          aria-label: Matrix
+
+format:
+  html:
+    theme:
+      light: [litera, theme.scss]
+    highlight-style: a11y-dark
+    toc: true
+    mainfont: "Atkinson Hyperlegible"
+    include-in-header:
+        - text: |
+            <script defer data-domain="global-health-engineering.github.io/group-safety" src="https://plausible.io/js/script.js"></script>

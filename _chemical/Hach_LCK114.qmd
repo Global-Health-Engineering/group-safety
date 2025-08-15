@@ -1,0 +1,12 @@
+---
+title: "Hach LCK114"
+format: html
+---
+
+[← Back to Chemical Safety](../chemical-safety.qmd)
+
+# Hach LCK114
+
+Safety data sheet available as PDF: [Hach_LCK114.pdf](../02-chemical-safety/chemicals/Hach_LCK114.pdf)
+
+For detailed safety information, please refer to the PDF document linked above.
