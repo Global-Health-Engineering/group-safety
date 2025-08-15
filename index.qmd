@@ -8,13 +8,11 @@ format: html
 [![](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 <!-- badges: end -->
 
-Author: Jakub Tkaczuk <a href="https://orcid.org/0000-0001-7997-9423"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0001-7997-9423</a>  
-<br>
 <p align="middle">
 ![](media/ETH_GHE_logo.svg){width=90%}
 </p>
 
-This safety concept was adopted by [Dr Jakub Tkaczuk](https://ghe.ethz.ch/about/people/person-detail.MzIxNzEy.TGlzdC80MTI2LC0xNDYwMDMwNTU3.html) and [Prof. Elizabeth Tilley](https://ghe.ethz.ch/about/people/person-detail.MTc2MjI5.TGlzdC80MTI2LC0xNDYwMDMwNTU3.html) for Global Health Engineering (GHE) at ETH, D-MAVT and is valid from 1 January 2024.
+This safety concept was adopted by [Dr Jakub Tkaczuk](https://ghe.ethz.ch/about/people/person-detail.MzIxNzEy.TGlzdC80MTI2LC0xNDYwMDMwNTU3.html) <a href="https://orcid.org/0000-0001-7997-9423"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> for Global Health Engineering (GHE) at ETH, D-MAVT and is valid from 1 January 2024.
 
 ## Emergency {.unnumbered}
 
