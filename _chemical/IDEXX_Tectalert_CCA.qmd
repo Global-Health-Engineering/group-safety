@@ -1,0 +1,12 @@
+---
+title: "IDEXX Tectalert CCA"
+format: html
+---
+
+[← Back to Chemical Safety](../chemical-safety.qmd)
+
+# IDEXX Tectalert CCA
+
+Safety data sheet available as PDF: [IDEXX_Tectalert_CCA.pdf](../02-chemical-safety/chemicals/IDEXX_Tectalert_CCA.pdf)
+
+For detailed safety information, please refer to the PDF document linked above.

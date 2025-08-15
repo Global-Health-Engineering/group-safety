@@ -1,0 +1,924 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.545">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>GHE Safety Documentation - Chemical Safety</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script defer="" data-domain="global-health-engineering.github.io/group-safety" src="https://plausible.io/js/script.js"></script>
+
+
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">GHE Safety Documentation</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./operational-safety.html"> 
+<span class="menu-text">Operational Safety</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./chemical-safety.html" aria-current="page"> 
+<span class="menu-text">Chemical Safety</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./biological-safety.html"> 
+<span class="menu-text">Biological Safety</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:ghe@mavt.ethz.ch?subject=Group Safety"> <i class="bi bi-envelope-at" role="img" aria-label="Email">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/Global-Health-Engineering/group-safety"> <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://matrix.to/#/#ghe-open:staffchat.ethz.ch"> <i class="bi bi-chat-left-dots" role="img" aria-label="Matrix">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#inventory-of-chemicals" id="toc-inventory-of-chemicals" class="nav-link active" data-scroll-target="#inventory-of-chemicals"><span class="header-section-number">1</span> Inventory of chemicals</a>
+  <ul class="collapse">
+  <li><a href="#chemicals-currently-used-on-the-ghe-premises" id="toc-chemicals-currently-used-on-the-ghe-premises" class="nav-link" data-scroll-target="#chemicals-currently-used-on-the-ghe-premises"><span class="header-section-number">1.1</span> Chemicals currently used on the GHE premises</a></li>
+  <li><a href="#chemicals-to-be-potentially-used-in-the-future" id="toc-chemicals-to-be-potentially-used-in-the-future" class="nav-link" data-scroll-target="#chemicals-to-be-potentially-used-in-the-future"><span class="header-section-number">1.2</span> Chemicals to be potentially used in the future</a></li>
+  <li><a href="#additional-safety-documents" id="toc-additional-safety-documents" class="nav-link" data-scroll-target="#additional-safety-documents"><span class="header-section-number">1.3</span> Additional safety documents</a></li>
+  </ul></li>
+  <li><a href="#storagequantities" id="toc-storagequantities" class="nav-link" data-scroll-target="#storagequantities"><span class="header-section-number">2</span> Storage/quantities</a></li>
+  <li><a href="#disposal" id="toc-disposal" class="nav-link" data-scroll-target="#disposal"><span class="header-section-number">3</span> Disposal</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Chemical Safety</h1>
+<p class="subtitle lead">Chemical inventory and safety guidelines for Global Health Engineering</p>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="inventory-of-chemicals" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> Inventory of chemicals</h1>
+<p>The table below contains the complete list of chemicals used in the laboratory of Global Health Engineering. Safety information is available for all chemicals and based on their International Chemical Safety Card (<a href="https://www.inchem.org/pages/icsc.html">ICSC</a>) or other safety cards, if ICSC is unavailable.</p>
+<p><em>Click on a chemical name to see its safety information.</em></p>
+<section id="chemicals-currently-used-on-the-ghe-premises" class="level2" data-number="1.1">
+<h2 data-number="1.1" class="anchored" data-anchor-id="chemicals-currently-used-on-the-ghe-premises"><span class="header-section-number">1.1</span> Chemicals currently used on the GHE premises</h2>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Name</th>
+<th>CAS</th>
+<th>Concentr.</th>
+<th>Total volume</th>
+<th>no. of containers</th>
+<th>Storage temperature</th>
+<th>Storage location</th>
+<th>Material category<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></th>
+<th>CMR<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></th>
+<th>Narcotic / explosive</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="_chemical/FORMLABS_GREY_RESIN.qmd">3D printing resin Grey</a></td>
+<td>-</td>
+<td>-</td>
+<td>3 l</td>
+<td>3</td>
+<td>22 deg C</td>
+<td>CLA B2.2</td>
+<td>6.1</td>
+<td>-</td>
+<td>no</td>
+</tr>
+<tr class="even">
+<td><a href="_chemical/FORMLABS_RIGID_10K_RESIN.qmd">3D printing resin Rigid 10K</a></td>
+<td>-</td>
+<td>-</td>
+<td>1 l</td>
+<td>1</td>
+<td>22 deg C</td>
+<td>CLA B2.2</td>
+<td>6.1</td>
+<td>-</td>
+<td>no</td>
+</tr>
+<tr class="odd">
+<td><a href="_chemical/CARBON_DIOXIDE_124-38-9.qmd">carbon dioxide</a></td>
+<td>124-38-9</td>
+<td>99.99%</td>
+<td>10 l</td>
+<td>1</td>
+<td>22 deg C</td>
+<td>CLA J26, gas cabinet</td>
+<td>2</td>
+<td>-</td>
+<td>no</td>
+</tr>
+<tr class="even">
+<td><a href="_chemical/HYDROGEN_CHLORIDE_7647-01-0.qmd">hydrogen chloride</a></td>
+<td>7647-01-0</td>
+<td>0.1 M</td>
+<td>1 l</td>
+<td>1</td>
+<td>22 deg C</td>
+<td>CLA J26, acid cabinet</td>
+<td>8, 10</td>
+<td>-</td>
+<td>no</td>
+</tr>
+<tr class="odd">
+<td><a href="_chemical/HYDROGEN_CHLORIDE_7647-01-0.qmd">hydrogen chloride</a></td>
+<td>7647-01-0</td>
+<td>3 M</td>
+<td>0.25 l</td>
+<td>1</td>
+<td>22 deg C</td>
+<td>CLA J26, fume hood</td>
+<td>8, 10</td>
+<td>-</td>
+<td>no</td>
+</tr>
+<tr class="even">
+<td><a href="_chemical/HYDROGEN_CHLORIDE_7647-01-0.qmd">hydrogen chloride</a></td>
+<td>7647-01-0</td>
+<td>12 M</td>
+<td>1 l</td>
+<td>1</td>
+<td>22 deg C</td>
+<td>CLA J26, acid cabinet</td>
+<td>8, 10</td>
+<td>-</td>
+<td>no</td>
+</tr>
+<tr class="odd">
+<td><a href="_chemical/ISOPROPANOL_67-63-0.qmd">isopropanol</a></td>
+<td>67-63-0</td>
+<td>pure</td>
+<td>18 l</td>
+<td>2</td>
+<td>22 deg C</td>
+<td>CLA J26, CLA B2.1 (fume hood)</td>
+<td>1, 3</td>
+<td>3</td>
+<td><strong>yes</strong></td>
+</tr>
+<tr class="even">
+<td><a href="_chemical/METHANE_74-82-8.qmd">methane</a></td>
+<td>74-82-8</td>
+<td>99.99%</td>
+<td>10 l</td>
+<td>1</td>
+<td>22 deg C</td>
+<td>CLA J26, gas cabinet</td>
+<td>1, 2</td>
+<td>-</td>
+<td><strong>yes</strong></td>
+</tr>
+<tr class="odd">
+<td><a href="_chemical/OXYGEN_GAS_7782-44-7.qmd">oxygen gaseous</a></td>
+<td>7782-44-7</td>
+<td>99.99%</td>
+<td>10 l</td>
+<td>1</td>
+<td>22 deg C</td>
+<td>CLA J26</td>
+<td>2, 5.1</td>
+<td>-</td>
+<td>no</td>
+</tr>
+<tr class="even">
+<td><a href="_chemical/SODIUM_HYDROXIDE_1310-73-2.qmd">sodium hydroxide</a></td>
+<td>1310-73-2</td>
+<td>99.99%</td>
+<td>500 g</td>
+<td>2</td>
+<td>22 deg C</td>
+<td>CLA J26, base cabinet</td>
+<td>8, 10</td>
+<td>-</td>
+<td>no</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="chemicals-to-be-potentially-used-in-the-future" class="level2" data-number="1.2">
+<h2 data-number="1.2" class="anchored" data-anchor-id="chemicals-to-be-potentially-used-in-the-future"><span class="header-section-number">1.2</span> Chemicals to be potentially used in the future</h2>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Name</th>
+<th>CAS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="_chemical/1-PHENYLDECANE_104-72-3.qmd">1-phenyldecane</a></td>
+<td>104-72-3</td>
+</tr>
+<tr class="even">
+<td><a href="_chemical/1,1,1-TRICHLOROETHANE_71-55-6.qmd">1,1,1-trichloroethane</a></td>
+<td>71-55-6</td>
+</tr>
+<tr class="odd">
+<td><a href="_chemical/2,4,6-TRICHLOROANISOLE_87-40-1.qmd">2,4,6-trichloroanisole</a></td>
+<td>87-40-1</td>
+</tr>
+<tr class="even">
+<td><a href="_chemical/3-PENTANONE_96-22-0.qmd">3-pentanone (diethyl ketone)</a></td>
+<td>92-22-0</td>
+</tr>
+<tr class="odd">
+<td><a href="_chemical/ACETONE_67-64-1.qmd">acetone</a></td>
+<td>67-64-1</td>
+</tr>
+<tr class="even">
+<td><a href="_chemical/ALUMINIUM_SULFATE_10043-01-3.qmd">aluminium sulfate</a></td>
+<td>10043-01-3</td>
+</tr>
+<tr class="odd">
+<td><a href="_chemical/AMMONIUM_CHLORIDE_12125-02-9.qmd">ammonium chloride</a></td>
+<td>12125-02-9</td>
+</tr>
+<tr class="even">
+<td><a href="_chemical/AMMONIUM_HYDROXIDE_0.1-0.35_1336-21-6.qmd">ammonium hydroxide (10% - 35% solution)</a></td>
+<td>1336-21-6</td>
+</tr>
+<tr class="odd">
+<td><a href="_chemical/BENZOPHENONE_119-61-9.qmd">benzophenone</a></td>
+<td>119-90-7</td>
+</tr>
+<tr class="even">
+<td><a href="_chemical/CHLOROBENZENE_108-90-7.qmd">chlorobenzene</a></td>
+<td>108-90-7</td>
+</tr>
+<tr class="odd">
+<td><a href="_chemical/CHLOROFORM_67-66-3.qmd">chloroform</a></td>
+<td>67-66-3</td>
+</tr>
+<tr class="even">
+<td><a href="_chemical/ETHANOIC_ACID_64-19-7.qmd">ethanoic acid / acetic acid</a></td>
+<td>64-19-7</td>
+</tr>
+<tr class="odd">
+<td><a href="_chemical/ETHANOL_64-17-5.qmd">ethanol</a></td>
+<td>64-17-5</td>
+</tr>
+<tr class="even">
+<td><a href="_chemical/ETHYL_ACETATE_141-78-6.qmd">ethyl acetate</a></td>
+<td>141-78-6</td>
+</tr>
+<tr class="odd">
+<td><a href="_chemical/HEXANE_110-54-3.qmd">hexane</a></td>
+<td>110-54-3</td>
+</tr>
+<tr class="even">
+<td><a href="_chemical/IRON_III_CHLORIDE_ANHYDROUS_7705-08-0.qmd">iron(III) chloride anhydrous</a></td>
+<td>7705-08-0</td>
+</tr>
+<tr class="odd">
+<td><a href="_chemical/MAGNESIUM_CHLORIDE_ANHYDROUS_7786-30-3.qmd">magnesium chloride anhydrous</a></td>
+<td>7786-30-3</td>
+</tr>
+<tr class="even">
+<td><a href="_chemical/MAGNESIUM_OXIDE_1309-48-4.qmd">magnesium oxide</a></td>
+<td>1309-48-4</td>
+</tr>
+<tr class="odd">
+<td><a href="_chemical/METHANOL_67-56-1.qmd">methanol</a></td>
+<td>67-56-1</td>
+</tr>
+<tr class="even">
+<td><a href="_chemical/METHYL_SALICYLATE_119-36-8.qmd">methyl salicylate</a></td>
+<td>119-61-8</td>
+</tr>
+<tr class="odd">
+<td><a href="_chemical/METHYL_STEARATE_112-61-8.qmd">methyl stearate</a></td>
+<td>112-61-8</td>
+</tr>
+<tr class="even">
+<td><a href="_chemical/NITRIC_ACID_7697-37-2.qmd">nitric acid</a></td>
+<td>7697-37-2</td>
+</tr>
+<tr class="odd">
+<td><a href="_chemical/PHENYLCYCLOHEXANE_827-52-1.qmd">phenylcyclohexane</a></td>
+<td>827-52-1</td>
+</tr>
+<tr class="even">
+<td><a href="_chemical/POTASSIUM_HYDROXIDE_1310-58-3.qmd">potassium hydroxide</a></td>
+<td>1310-58-3</td>
+</tr>
+<tr class="odd">
+<td><a href="_chemical/SODIUM_ACETATE_ANHYDROUS_127-09-3.qmd">sodium acetate anhydrous</a></td>
+<td>127-09-3</td>
+</tr>
+<tr class="even">
+<td><a href="_chemical/SODIUM_HYPOCHLORITE_7681-52-9.qmd">sodium hypochlorite (solution, active chlorine &gt; 10%)</a></td>
+<td>7681-52-9</td>
+</tr>
+<tr class="odd">
+<td><a href="_chemical/SODIUM_THIOSULFATE_ANHYDROUS_7772-98-7.qmd">sodium thiosulfate anhydrous</a></td>
+<td>7772-98-7</td>
+</tr>
+<tr class="even">
+<td><a href="_chemical/SULFURIC_ACID_CONCENTRATED_7664-93-9.qmd">sulfuric acid concentrated</a></td>
+<td>7664-93-9</td>
+</tr>
+<tr class="odd">
+<td><a href="_chemical/TOLUENE_108-88-3.qmd">toluene</a></td>
+<td>108-88-3</td>
+</tr>
+<tr class="even">
+<td><a href="_chemical/ZINC_SULFATE_7733-02-0.qmd">zinc sulfate</a></td>
+<td>7733-02-0</td>
+</tr>
+</tbody>
+</table>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Safety data sheets are available in this repository. The pdf version of safety data sheets is available <a href="https://drive.google.com/drive/folders/1bJF0D2jVyDl7N-xR_PSAPsDRH4nG7PFN?usp=sharing">here</a>. Safety data sheets are also available in the laboratory in printed form. All laboratory users are informed on how to find this information.</p>
+</div>
+</div>
+</section>
+<section id="additional-safety-documents" class="level2" data-number="1.3">
+<h2 data-number="1.3" class="anchored" data-anchor-id="additional-safety-documents"><span class="header-section-number">1.3</span> Additional safety documents</h2>
+<p>The following safety documents are also available for specific test kits and resins:</p>
+<ul>
+<li><a href="_chemical/Hach_LCK114.qmd">Hach LCK114</a></li>
+<li><a href="_chemical/Hach_LCK238.qmd">Hach LCK238</a></li>
+<li><a href="_chemical/Hach_LCK314.qmd">Hach LCK314</a></li>
+<li><a href="_chemical/Hach_LCK338.qmd">Hach LCK338</a></li>
+<li><a href="_chemical/Hach_LCK348.qmd">Hach LCK348</a></li>
+<li><a href="_chemical/Hach_LCK349.qmd">Hach LCK349</a></li>
+<li><a href="_chemical/IDEXX_Tectalert_CCA.qmd">IDEXX Tectalert CCA</a></li>
+<li><a href="_chemical/IDEXX_Tectalert_ENT.qmd">IDEXX Tectalert ENT</a></li>
+</ul>
+</section>
+</section>
+<section id="storagequantities" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> Storage/quantities</h1>
+<p>Chemicals are kept in the laboratories of GHE in the quantities necessary for uninterrupted daily working. Highly flammable liquids are kept in a suitable, marked cabinets or cabinet compartment. The long-term storage facility is located outside the laboratory and complies with the fire regulations. The relevant guidelines of the Federal Coordination Commission for Occupational Safety are complied with. When handling and storing chemicals, GHE follows the stipulations of the relevant safety datasheets, filed in this repository.</p>
+<p>The chemical inventory is carried out twice per year. Chemicals no longer required or expired (time limit of maximum five years) are sorted out and disposed of as hazardous waste.</p>
+</section>
+<section id="disposal" class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> Disposal</h1>
+<p>Chemical wastes, strong acids, bases, (chlorinated) organic solvents, toxic substances are collected and disposed of according to the disposal concept applicable throughout the ETH. ETH Zurich has an appropriate collection point for depositing hazardous waste. The ETH disposal guidelines are available <a href="https://ethz.ch/content/dam/ethz/associates/services/Service/sicherheit-gesundheit-umwelt/files/sonderabfall_neu/en/Richtlinie_Entsorgung_EN.pdf">here</a>.</p>
+
+
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Material categories: (1) explosive materials; (2) gases; (3) flammable liquids; (4.1) flammable solids; (4.2) pyrophorics or self-heating substances; (4.3) hazardous substances that develop flammable gases in contact with water; (5.1) oxidizing substances; (5.2) organic peroxides and self-reactive substances; (6.1) toxic substances; (6.2) infectious substances; (7) radioactive substances; (8) corrosive and caustic substances; (10/12) other liquids with hazard symbols; (11/13) other solids with hazard symbols; (N/A) not hazardous.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>Substance classification for their carcinogenesis, mutagenesis, or toxicity for reproduction by the <a href="https://monographs.iarc.who.int/list-of-classifications/">International Agency for Research on Cancer</a>. The CMR categories are: (1) carcinogenic, mutagenic or reprotoxic to humans; (2A) probably carcinogenic, mutagenic or reprotoxic to humans; (2B) possibly carcinogenic, mutagenic or reprotoxic to humans; (3) not classifiable as to its carcinogenicity, mutagenicity or reproductive toxicity to humans; (4) probably not carcinogenic, mutagenic or reprotoxic to humans.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p><a href="https://ghe.ethz.ch">Global Health Engineering Group at ETH Zurich</a></p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+    <a class="nav-link" href="mailto:ghe@mavt.ethz.ch?subject=Group Safety">
+      <i class="bi bi-envelope-at" role="img" aria-label="Email">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/Global-Health-Engineering/group-safety">
+      <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://matrix.to/#/#ghe-open:staffchat.ethz.ch">
+      <i class="bi bi-chat-left-dots" role="img" aria-label="Matrix">
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

@@ -1,0 +1,12 @@
+---
+title: "Hach LCK338"
+format: html
+---
+
+[← Back to Chemical Safety](../chemical-safety.qmd)
+
+# Hach LCK338
+
+Safety data sheet available as PDF: [Hach_LCK338.pdf](../02-chemical-safety/chemicals/Hach_LCK338.pdf)
+
+For detailed safety information, please refer to the PDF document linked above.
