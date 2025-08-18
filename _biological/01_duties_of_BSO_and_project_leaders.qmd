@@ -3,7 +3,7 @@ title: "Appendix 1: Duties of BSO and Project Leaders"
 format: html
 ---
 
-[← Back to Biological Safety](../biological-safety.qmd)
+[← Back to Biological Safety](../biological-safety.html)
 
 # Duties of Biosafety Officer and Project Leaders
 
@@ -14,7 +14,7 @@ Duties:
 - The BSO creates a lab safety concept for biological safety according to ESV guidelines and updates the concept periodically.
 
 The BSO ensures:
-- that the laboratory managers or project leaders adhere to the principles of good microbiolog-ical practice and the safety regulations.
+- that the laboratory managers or project leaders adhere to the principles of good microbiological practice and the safety regulations.
 - the safe use of equipment and methods.
 - the access rules for an organization in which only authorized persons are permitted access to the Level 2 area.
 - observance of correct room designation (access authorizations, biohazard signs for Level 2 areas, etc.) in relation to work with microbiological material.
