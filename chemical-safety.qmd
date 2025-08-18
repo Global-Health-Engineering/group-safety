@@ -17,52 +17,52 @@ The table below contains the complete list of chemicals used in the laboratory o
 ::: {.column-page}
 | Name                                                                                                | CAS        | Concentr. | Total volume | no. of containers | Storage temperature | Storage location        | Material category[^1] | CMR[^2] | Narcotic / explosive |
 | --------------------------------------------------------------------------------------------------- | ---------- | --------- | ------------ | ----------------- | ------------------- | ----------------------- | --------------------- | ------- | -------------------- |
-| [3D printing resin Grey](_chemical/FORMLABS_GREY_RESIN.html)                                         | -          | -         | 3 l          | 3                 | 22 deg C               | CLA B2.2                | 6.1                   | -       | no                   |
-| [3D printing resin Rigid 10K](_chemical/FORMLABS_RIGID_10K_RESIN.html)                               | -          | -         | 1 l          | 1                 | 22 deg C               | CLA B2.2                | 6.1                   | -       | no                   |
-| [carbon dioxide](_chemical/CARBON_DIOXIDE_124-38-9.html)                                              | 124-38-9   | 99.99%    | 10 l         | 1                 | 22 deg C               | CLA J26, gas cabinet    | 2                     | -       | no                   |
-| [hydrogen chloride](_chemical/HYDROGEN_CHLORIDE_7647-01-0.html)                                       | 7647-01-0  | 0.1 M     | 1 l          | 1                 | 22 deg C               | CLA J26, acid cabinet   | 8, 10                 | -       | no                   |
-| [hydrogen chloride](_chemical/HYDROGEN_CHLORIDE_7647-01-0.html)                                       | 7647-01-0  | 3 M       | 0.25 l       | 1                 | 22 deg C               | CLA J26, fume hood      | 8, 10                 | -       | no                   |
-| [hydrogen chloride](_chemical/HYDROGEN_CHLORIDE_7647-01-0.html)                                       | 7647-01-0  | 12 M      | 1 l          | 1                 | 22 deg C               | CLA J26, acid cabinet   | 8, 10                 | -       | no                   |
-| [isopropanol](_chemical/ISOPROPANOL_67-63-0.html)                                                     | 67-63-0    | pure      | 18 l         | 2                 | 22 deg C               | CLA J26, CLA B2.1 (fume hood) | 1, 3            | 3       | **yes**              |
-| [methane](_chemical/METHANE_74-82-8.html)                                                             | 74-82-8    | 99.99%    | 10 l         | 1                 | 22 deg C               | CLA J26, gas cabinet    | 1, 2                  | -       | **yes**              |
-| [oxygen gaseous](_chemical/OXYGEN_GAS_7782-44-7.html)                                                 | 7782-44-7  | 99.99%    | 10 l         | 1                 | 22 deg C               | CLA J26                 | 2, 5.1                | -       | no                   |
-| [sodium hydroxide](_chemical/SODIUM_HYDROXIDE_1310-73-2.html)                                         | 1310-73-2  | 99.99%    | 500 g        | 2                 | 22 deg C               | CLA J26, base cabinet   | 8, 10                 | -       | no                   |
+| [3D printing resin Grey](_chemical/FORMLABS_GREY_RESIN.qmd)                                         | -          | -         | 3 l          | 3                 | 22 deg C            | CLA B2.2                | 6.1                   | -       | no                   |
+| [3D printing resin Rigid 10K](_chemical/FORMLABS_RIGID_10K_RESIN.qmd)                               | -          | -         | 1 l          | 1                 | 22 deg C            | CLA B2.2                | 6.1                   | -       | no                   |
+| [carbon dioxide](_chemical/CARBON_DIOXIDE_124-38-9.qmd)                                             | 124-38-9   | 99.99%    | 10 l         | 1                 | 22 deg C            | CLA J26, gas cabinet    | 2                     | -       | no                   |
+| [hydrogen chloride](_chemical/HYDROGEN_CHLORIDE_7647-01-0.qmd)                                      | 7647-01-0  | 0.1 M     | 1 l          | 1                 | 22 deg C            | CLA J26, acid cabinet   | 8, 10                 | -       | no                   |
+| [hydrogen chloride](_chemical/HYDROGEN_CHLORIDE_7647-01-0.qmd)                                      | 7647-01-0  | 3 M       | 0.25 l       | 1                 | 22 deg C            | CLA J26, fume hood      | 8, 10                 | -       | no                   |
+| [hydrogen chloride](_chemical/HYDROGEN_CHLORIDE_7647-01-0.qmd)                                      | 7647-01-0  | 12 M      | 1 l          | 1                 | 22 deg C            | CLA J26, acid cabinet   | 8, 10                 | -       | no                   |
+| [isopropanol](_chemical/ISOPROPANOL_67-63-0.qmd)                                                    | 67-63-0    | pure      | 18 l         | 2                 | 22 deg C            | CLA J26, CLA B2.1 (fume hood) | 1, 3            | 3       | **yes**              |
+| [methane](_chemical/METHANE_74-82-8.qmd)                                                            | 74-82-8    | 99.99%    | 10 l         | 1                 | 22 deg C            | CLA J26, gas cabinet    | 1, 2                  | -       | **yes**              |
+| [oxygen gaseous](_chemical/OXYGEN_GAS_7782-44-7.qmd)                                                | 7782-44-7  | 99.99%    | 10 l         | 1                 | 22 deg C            | CLA J26                 | 2, 5.1                | -       | no                   |
+| [sodium hydroxide](_chemical/SODIUM_HYDROXIDE_1310-73-2.qmd)                                        | 1310-73-2  | 99.99%    | 500 g        | 2                 | 22 deg C               | CLA J26, base cabinet   | 8, 10                 | -       | no                   |
 :::
 
 ## Chemicals to be potentially used in the future
 
 | Name                                                                                                | CAS        |
 | --------------------------------------------------------------------------------------------------- | ---------- |
-| [1-phenyldecane](_chemical/1-PHENYLDECANE_104-72-3.html)                                              | 104-72-3   |
-| [1,1,1-trichloroethane](_chemical/1,1,1-TRICHLOROETHANE_71-55-6.html)                                 | 71-55-6    |
-| [2,4,6-trichloroanisole](_chemical/2,4,6-TRICHLOROANISOLE_87-40-1.html)                               | 87-40-1    |
-| [3-pentanone (diethyl ketone)](_chemical/3-PENTANONE_96-22-0.html)                                    | 92-22-0    |
-| [acetone](_chemical/ACETONE_67-64-1.html)                                                             | 67-64-1    |
-| [aluminium sulfate](_chemical/ALUMINIUM_SULFATE_10043-01-3.html)                                      | 10043-01-3 |
-| [ammonium chloride](_chemical/AMMONIUM_CHLORIDE_12125-02-9.html)                                      | 12125-02-9 |
-| [ammonium hydroxide (10% - 35% solution)](_chemical/AMMONIUM_HYDROXIDE_0.1-0.35_1336-21-6.html)       | 1336-21-6  |
-| [benzophenone](_chemical/BENZOPHENONE_119-61-9.html)                                                  | 119-90-7   |
-| [chlorobenzene](_chemical/CHLOROBENZENE_108-90-7.html)                                                | 108-90-7   |
-| [chloroform](_chemical/CHLOROFORM_67-66-3.html)                                                       | 67-66-3    |
-| [ethanoic acid / acetic acid](_chemical/ETHANOIC_ACID_64-19-7.html)                                   | 64-19-7    |
-| [ethanol](_chemical/ETHANOL_64-17-5.html)                                                             | 64-17-5    |
-| [ethyl acetate](_chemical/ETHYL_ACETATE_141-78-6.html)                                                | 141-78-6   |
-| [hexane](_chemical/HEXANE_110-54-3.html)                                                              | 110-54-3   |
-| [iron(III) chloride anhydrous](_chemical/IRON_III_CHLORIDE_ANHYDROUS_7705-08-0.html)                  | 7705-08-0  |
-| [magnesium chloride anhydrous](_chemical/MAGNESIUM_CHLORIDE_ANHYDROUS_7786-30-3.html)                 | 7786-30-3  |
-| [magnesium oxide](_chemical/MAGNESIUM_OXIDE_1309-48-4.html)                                           | 1309-48-4  |
-| [methanol](_chemical/METHANOL_67-56-1.html)                                                           | 67-56-1    |
-| [methyl salicylate](_chemical/METHYL_SALICYLATE_119-36-8.html)                                        | 119-61-8   |
-| [methyl stearate](_chemical/METHYL_STEARATE_112-61-8.html)                                            | 112-61-8   |
-| [nitric acid](_chemical/NITRIC_ACID_7697-37-2.html)                                                   | 7697-37-2  |
-| [phenylcyclohexane](_chemical/PHENYLCYCLOHEXANE_827-52-1.html)                                        | 827-52-1   |
-| [potassium hydroxide](_chemical/POTASSIUM_HYDROXIDE_1310-58-3.html)                                   | 1310-58-3  |
-| [sodium acetate anhydrous](_chemical/SODIUM_ACETATE_ANHYDROUS_127-09-3.html)                          | 127-09-3   |
-| [sodium hypochlorite (solution, active chlorine > 10%)](_chemical/SODIUM_HYPOCHLORITE_7681-52-9.html) | 7681-52-9  |
-| [sodium thiosulfate anhydrous](_chemical/SODIUM_THIOSULFATE_ANHYDROUS_7772-98-7.html)                 | 7772-98-7  |
-| [sulfuric acid concentrated](_chemical/SULFURIC_ACID_CONCENTRATED_7664-93-9.html)                     | 7664-93-9  |
-| [toluene](_chemical/TOLUENE_108-88-3.html)                                                            | 108-88-3   |
-| [zinc sulfate](_chemical/ZINC_SULFATE_7733-02-0.html)                                                 | 7733-02-0  |
+| [1-phenyldecane](_chemical/1-PHENYLDECANE_104-72-3.qmd)                                              | 104-72-3   |
+| [1,1,1-trichloroethane](_chemical/1,1,1-TRICHLOROETHANE_71-55-6.qmd)                                 | 71-55-6    |
+| [2,4,6-trichloroanisole](_chemical/2,4,6-TRICHLOROANISOLE_87-40-1.qmd)                               | 87-40-1    |
+| [3-pentanone (diethyl ketone)](_chemical/3-PENTANONE_96-22-0.qmd)                                    | 92-22-0    |
+| [acetone](_chemical/ACETONE_67-64-1.qmd)                                                             | 67-64-1    |
+| [aluminium sulfate](_chemical/ALUMINIUM_SULFATE_10043-01-3.qmd)                                      | 10043-01-3 |
+| [ammonium chloride](_chemical/AMMONIUM_CHLORIDE_12125-02-9.qmd)                                      | 12125-02-9 |
+| [ammonium hydroxide (10% - 35% solution)](_chemical/AMMONIUM_HYDROXIDE_0.1-0.35_1336-21-6.qmd)       | 1336-21-6  |
+| [benzophenone](_chemical/BENZOPHENONE_119-61-9.qmd)                                                  | 119-90-7   |
+| [chlorobenzene](_chemical/CHLOROBENZENE_108-90-7.qmd)                                                | 108-90-7   |
+| [chloroform](_chemical/CHLOROFORM_67-66-3.qmd)                                                       | 67-66-3    |
+| [ethanoic acid / acetic acid](_chemical/ETHANOIC_ACID_64-19-7.qmd)                                   | 64-19-7    |
+| [ethanol](_chemical/ETHANOL_64-17-5.qmd)                                                             | 64-17-5    |
+| [ethyl acetate](_chemical/ETHYL_ACETATE_141-78-6.qmd)                                                | 141-78-6   |
+| [hexane](_chemical/HEXANE_110-54-3.qmd)                                                              | 110-54-3   |
+| [iron(III) chloride anhydrous](_chemical/IRON_III_CHLORIDE_ANHYDROUS_7705-08-0.qmd)                  | 7705-08-0  |
+| [magnesium chloride anhydrous](_chemical/MAGNESIUM_CHLORIDE_ANHYDROUS_7786-30-3.qmd)                 | 7786-30-3  |
+| [magnesium oxide](_chemical/MAGNESIUM_OXIDE_1309-48-4.qmd)                                           | 1309-48-4  |
+| [methanol](_chemical/METHANOL_67-56-1.qmd)                                                           | 67-56-1    |
+| [methyl salicylate](_chemical/METHYL_SALICYLATE_119-36-8.qmd)                                        | 119-61-8   |
+| [methyl stearate](_chemical/METHYL_STEARATE_112-61-8.qmd)                                            | 112-61-8   |
+| [nitric acid](_chemical/NITRIC_ACID_7697-37-2.qmd)                                                   | 7697-37-2  |
+| [phenylcyclohexane](_chemical/PHENYLCYCLOHEXANE_827-52-1.qmd)                                        | 827-52-1   |
+| [potassium hydroxide](_chemical/POTASSIUM_HYDROXIDE_1310-58-3.qmd)                                   | 1310-58-3  |
+| [sodium acetate anhydrous](_chemical/SODIUM_ACETATE_ANHYDROUS_127-09-3.qmd)                          | 127-09-3   |
+| [sodium hypochlorite (solution, active chlorine > 10%)](_chemical/SODIUM_HYPOCHLORITE_7681-52-9.qmd) | 7681-52-9  |
+| [sodium thiosulfate anhydrous](_chemical/SODIUM_THIOSULFATE_ANHYDROUS_7772-98-7.qmd)                 | 7772-98-7  |
+| [sulfuric acid concentrated](_chemical/SULFURIC_ACID_CONCENTRATED_7664-93-9.qmd)                     | 7664-93-9  |
+| [toluene](_chemical/TOLUENE_108-88-3.qmd)                                                            | 108-88-3   |
+| [zinc sulfate](_chemical/ZINC_SULFATE_7733-02-0.qmd)                                                 | 7733-02-0  |
 
 ::: {.callout-note}
 Safety data sheets are available in this repository. The pdf version of safety data sheets is available [here](https://drive.google.com/drive/folders/1bJF0D2jVyDl7N-xR_PSAPsDRH4nG7PFN?usp=sharing). Safety data sheets are also available in the laboratory in printed form. All laboratory users are informed on how to find this information.
@@ -72,14 +72,14 @@ Safety data sheets are available in this repository. The pdf version of safety d
 
 The following safety documents are also available for specific test kits and resins:
 
-- [Hach LCK114](_chemical/Hach_LCK114.html)
-- [Hach LCK238](_chemical/Hach_LCK238.html)
-- [Hach LCK314](_chemical/Hach_LCK314.html)
-- [Hach LCK338](_chemical/Hach_LCK338.html)
-- [Hach LCK348](_chemical/Hach_LCK348.html)
-- [Hach LCK349](_chemical/Hach_LCK349.html)
-- [IDEXX Tectalert CCA](_chemical/IDEXX_Tectalert_CCA.html)
-- [IDEXX Tectalert ENT](_chemical/IDEXX_Tectalert_ENT.html)
+- [Hach LCK114](_chemical/Hach_LCK114.qmd)
+- [Hach LCK238](_chemical/Hach_LCK238.qmd)
+- [Hach LCK314](_chemical/Hach_LCK314.qmd)
+- [Hach LCK338](_chemical/Hach_LCK338.qmd)
+- [Hach LCK348](_chemical/Hach_LCK348.qmd)
+- [Hach LCK349](_chemical/Hach_LCK349.qmd)
+- [IDEXX Tectalert CCA](_chemical/IDEXX_Tectalert_CCA.qmd)
+- [IDEXX Tectalert ENT](_chemical/IDEXX_Tectalert_ENT.qmd)
 
 # Storage/quantities
 

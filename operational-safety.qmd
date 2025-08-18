@@ -115,9 +115,9 @@ The employees and students report to the professor:
 
 ## Project list and workflows {#hazard_ii}
 
-The professor and the GSR maintain an overview of the safety-relevant activities within GHE and record these in [Appendix 1. Project list](_operational/01_project_list.html) and [Appendix 2. Description of workflows and activities](_operational/02_description_of_workflows_and_activities.html).
+The professor and the GSR maintain an overview of the safety-relevant activities within GHE and record these in [Appendix 1. Project list](_operational/01_project_list.qmd) and [Appendix 2. Description of workflows and activities](_operational/02_description_of_workflows_and_activities.qmd).
 
-The professor and the GSR periodically examine all the workstations and processes for hazards, e.g., machines, equipment, tools, means of transport, heavy loads, or hazardous substances (chemicals). The findings are collected in [Appendix 3](_operational/03_hazard_identification_and_risk_assessment.html).
+The professor and the GSR periodically examine all the workstations and processes for hazards, e.g., machines, equipment, tools, means of transport, heavy loads, or hazardous substances (chemicals). The findings are collected in [Appendix 3](_operational/03_hazard_identification_and_risk_assessment.qmd).
 
 # Safety measures and rules of conduct {#measures}
 
@@ -136,15 +136,15 @@ At GHE, this applies to the following rooms:
 
 ### Operating instructions and rules of conduct {#measures_ii_a}
 
-The research group regulates diverse aspects of occupational and environmental safety in operating instructions, work guidelines or SOPs. These documents are filed electronically in [Appendix 4](_operational/04_operating_instructions_user_manuals_SOPs.html).
+The research group regulates diverse aspects of occupational and environmental safety in operating instructions, work guidelines or SOPs. These documents are filed electronically in [Appendix 4](_operational/04_operating_instructions_user_manuals_SOPs.qmd).
 
 ### Laboratory and workshop safety rules {#measures_ii_b}
 
-Employees of GHE adhere to the legally binding regulations, the respective SUVA and EKAS publications, as well as ETH-internal directives (downloadable from the SSHE [Website](https://ethz.ch/services/en/service/safety-security-health-environment.html)). The laboratory/workshop rules summarise the key points, "EKAS directive no. 1871 "Chemical laboratories", the ETH factsheet "Working Alone", lab rules in [Appendix 5](_operational/05_general_lab_workshop_rules.html) and this safety concept.
+Employees of GHE adhere to the legally binding regulations, the respective SUVA and EKAS publications, as well as ETH-internal directives (downloadable from the SSHE [Website](https://ethz.ch/services/en/service/safety-security-health-environment.html)). The laboratory/workshop rules summarise the key points, "EKAS directive no. 1871 "Chemical laboratories", the ETH factsheet "Working Alone", lab rules in [Appendix 5](_operational/05_general_lab_workshop_rules.qmd) and this safety concept.
 
 ## Guidelines for lab cleaning {#measures_iii}
 
-External cleaning staff clean the lab and workshops according to the Service Level Agreement. Because of the hazards, special agreements and regulations apply for room CLA J26 and are written down in [Appendix 6](_operational/06_safety_regulations_for_cleaning.html).
+External cleaning staff clean the lab and workshops according to the Service Level Agreement. Because of the hazards, special agreements and regulations apply for room CLA J26 and are written down in [Appendix 6](_operational/06_safety_regulations_for_cleaning.qmd).
 
 The GSR informs the facility management, who is responsible for forwarding the information to the cleaning company and instructing the latter. Should special regulations apply in individual labs, the GSR trains cleaning staff accordingly.  
 
@@ -160,7 +160,7 @@ User manuals for the equipment in the wet laboratory in their digital versions a
 
 At GHE, all technical devices, operating equipment and tools are serviced regularly so that the quality of the research or diagnostic results, as well as the safety of employees and protection of persons and the environment in general, are guaranteed.
 
-Maintenance schedules for individual devices and delegation of responsibilities are set down in writing in [Appendix 7](_operational/07_maintenance_and_service_schedule.html).
+Maintenance schedules for individual devices and delegation of responsibilities are set down in writing in [Appendix 7](_operational/07_maintenance_and_service_schedule.qmd).
 
 ## Planning, building, rebuilding, dismantling, and relocating {#measures_v}
 
@@ -172,7 +172,7 @@ In the event of modifications, repurposing, dismantling, and relocating activiti
 
 # Planning and realizing measures {#planning}
 
-The identified hazards are eliminated or reduced to an acceptable degree with suitable measures. It should be ensured that the measures taken remain effective in the long term. The hazard and risk assessment ([Appendix 3](_operational/03_hazard_identification_and_risk_assessment.html)) lists the required measures, deadlines, and responsible persons. When a measure has been implemented, it is noted accordingly in the table. 
+The identified hazards are eliminated or reduced to an acceptable degree with suitable measures. It should be ensured that the measures taken remain effective in the long term. The hazard and risk assessment ([Appendix 3](_operational/03_hazard_identification_and_risk_assessment.qmd)) lists the required measures, deadlines, and responsible persons. When a measure has been implemented, it is noted accordingly in the table. 
 
 # Instruction, training, and information on operational safety {#training}
 
@@ -180,7 +180,7 @@ Safe and health-conscious action implies the corresponding knowledge. This knowl
 
 At ETH Zurich, training and education is a central element in ensuring persons' safety and the environment's protection. ETH Zurich offers its staff diverse training and continuing education courses in all the SSHE-relevant areas. The professor is responsible for initial training of new employees, instructing them on safety issues, and periodic refresher courses. This task is delegated to the GSR. However, the responsibility cannot be delegated. All completed safety training is documented in writing and stored electronically.
 
-Before entering the laboratory, every person must complete the Moodle test [Safety in the laboratory](https://moodle-app2.let.ethz.ch/enrol/index.php?id=4041). Before entering the mechanical workshop, every person must complete the Moodle test [Safety in the mechanical shop](https://moodle-app2.let.ethz.ch/enrol/index.php?id=4042). General training is provided upon entry for the wet lab and the workshop. The equipment-specific training is provided to interested and qualified personnel. The permission for equipment use is granted individually according to the level of training and experience. The attestations of information, instruction, and training are stored in [Appendix 8](_operational/08_training_certificates.html).
+Before entering the laboratory, every person must complete the Moodle test [Safety in the laboratory](https://moodle-app2.let.ethz.ch/enrol/index.php?id=4041). Before entering the mechanical workshop, every person must complete the Moodle test [Safety in the mechanical shop](https://moodle-app2.let.ethz.ch/enrol/index.php?id=4042). General training is provided upon entry for the wet lab and the workshop. The equipment-specific training is provided to interested and qualified personnel. The permission for equipment use is granted individually according to the level of training and experience. The attestations of information, instruction, and training are stored in [Appendix 8](_operational/08_training_certificates.qmd).
 
 # Health protection {#protection}
 
@@ -188,19 +188,19 @@ Including ergonomic, occupational hygiene, and occupational psychology principle
 
 # Review and audits {#audits}
 
-Global Health Engineering checks regularly if the safety and health protection goals have been reached and if safety rules are being applied. Furthermore, periodic clean-up activities are held in the lab and workshop facilities according to [Appendix 9](_operational/09_task_schedule.html).
+Global Health Engineering checks regularly if the safety and health protection goals have been reached and if safety rules are being applied. Furthermore, periodic clean-up activities are held in the lab and workshop facilities according to [Appendix 9](_operational/09_task_schedule.qmd).
 
 # Appendices {#appendices}
 
-- [Appendix 1: Project list](_operational/01_project_list.html)
-- [Appendix 2: Description of workflows and activities](_operational/02_description_of_workflows_and_activities.html)
-- [Appendix 3: Hazard identification and risk assessment](_operational/03_hazard_identification_and_risk_assessment.html)
-- [Appendix 4: Collection of operating instructions, user manuals and SOP](_operational/04_operating_instructions_user_manuals_SOPs.html)
-- [Appendix 5: General lab/workshop rules](_operational/05_general_lab_workshop_rules.html)
-- [Appendix 6: Special safety regulations for lab/workshop cleaning by a cleaning service](_operational/06_safety_regulations_for_cleaning.html)
-- [Appendix 7: Maintenance and servicing schedule](_operational/07_maintenance_and_service_schedule.html)
-- [Appendix 8: Certificates of information, instruction, and training](_operational/08_training_certificates.html)
-- [Appendix 9: Task schedule](_operational/09_task_schedule.html)
+- [Appendix 1: Project list](_operational/01_project_list.qmd)
+- [Appendix 2: Description of workflows and activities](_operational/02_description_of_workflows_and_activities.qmd)
+- [Appendix 3: Hazard identification and risk assessment](_operational/03_hazard_identification_and_risk_assessment.qmd)
+- [Appendix 4: Collection of operating instructions, user manuals and SOP](_operational/04_operating_instructions_user_manuals_SOPs.qmd)
+- [Appendix 5: General lab/workshop rules](_operational/05_general_lab_workshop_rules.qmd)
+- [Appendix 6: Special safety regulations for lab/workshop cleaning by a cleaning service](_operational/06_safety_regulations_for_cleaning.qmd)
+- [Appendix 7: Maintenance and servicing schedule](_operational/07_maintenance_and_service_schedule.qmd)
+- [Appendix 8: Certificates of information, instruction, and training](_operational/08_training_certificates.qmd)
+- [Appendix 9: Task schedule](_operational/09_task_schedule.qmd)
 
 [^1]: [English translation of 832.30 Ordinance on Accident and Occupational Diseases Prevention](https://www.global-regulation.com/translation/switzerland/2976187/rs-832.30-order-of-19-december-1983-on-the-prevention-of-accidents-and-occupational-diseases-%2528ordinance-on-accident-prevention%252c-opa%2529.html).
 [^2]: Safety and Occupational Health | Manual for implementing EKAS Directive 6508.

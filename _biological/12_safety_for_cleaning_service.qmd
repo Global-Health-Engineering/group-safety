@@ -3,7 +3,7 @@ title: "Appendix 12: Safety for Cleaning Service"
 format: html
 ---
 
-[← Back to Biological Safety](../biological-safety.html)
+[← Back to Biological Safety](../biological-safety.qmd)
 
 
 The following applies to cleaning the wet laboratory (CLA J26):
