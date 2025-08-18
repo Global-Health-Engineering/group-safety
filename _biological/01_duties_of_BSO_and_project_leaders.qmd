@@ -3,7 +3,7 @@ title: "Appendix 1: Duties of BSO and Project Leaders"
 format: html
 ---
 
-[← Back to Biological Safety](../biological-safety.html)
+[← Back to Biological Safety](../biological-safety.qmd)
 
 # Duties of Biosafety Officer and Project Leaders
 

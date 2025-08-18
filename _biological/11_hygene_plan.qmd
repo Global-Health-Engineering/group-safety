@@ -3,7 +3,7 @@ title: "Appendix 11: Hygiene Plan"
 format: html
 ---
 
-[← Back to Biological Safety](../biological-safety.html)
+[← Back to Biological Safety](../biological-safety.qmd)
 
 
 ## Scope of application
@@ -52,7 +52,7 @@ Compliance with the hygiene plan fosters personal safety and health at work in a
 
 | trade name / substance | range of use                              | effective against[^1] | dilution for use | contact time | additional documents[^2] | remarks |
 | ---------------------- | ----------------------------------------- | --------------------- | ---------------- | ------------ | ------------------------ | ------- |
-| 70% EtOH (ethanol)     | hand disinfection<br>surface disinfection | B, Mb, F, bV          | 70%              | 10 min       | [safety information](../../02-chemical-safety/chemicals/ETHANOL_64-17-5.md) |         |
+| 70% EtOH (ethanol)     | hand disinfection<br>surface disinfection | B, Mb, F, bV          | 70%              | 10 min       | [safety information](../../02-chemical-safety/_chemical/ETHANOL_64-17-5.qmd) |         |
 | chlorine bleach        | culture supernatants                      | B, Mb, F, b&ubV, bV   | 0.5% - 2%        | 6 - 15 min   |                          |         |
 
 [^1]: B - Bactericide, Mb - Mycobactericide (Tuberculocidal), F - Fungicides, b&ubV - enveloped and non-enveloped viruses, bV - enveloped viruses, Bs - Bacteria spores.

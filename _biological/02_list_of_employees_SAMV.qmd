@@ -3,7 +3,7 @@ title: "Appendix 2: List of Employees SAMV"
 format: html
 ---
 
-[← Back to Biological Safety](../biological-safety.html)
+[← Back to Biological Safety](../biological-safety.qmd)
 
 
 | Name        | Biological organisms | Risk group | Activity start | Activity end | Medical policies | Heath dossier |

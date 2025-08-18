@@ -3,7 +3,7 @@ title: "Appendix 4: Emergency Planning and Procedures"
 format: html
 ---
 
-[← Back to Biological Safety](../biological-safety.html)
+[← Back to Biological Safety](../biological-safety.qmd)
 
 
 ## Table of contents
@@ -35,14 +35,14 @@ In the event of a serious incident, the emergency services (internal / external)
 | 1.&nbsp;Keep&nbsp;calm | Get an overall view of the situation                                          | Leave the danger zone in case of aerosol formation, fire, etc.    |
 | 2. Alarm               | Inform BSO                                                                    | Alert the emergency services (internal / external)                |
 | 3. Secure              | Confine the contaminated area                                                 | Rescue (self-protection)                                          |
-| 4. Act                 | Disinfect or decontaminate according to the [hygiene plan](12_hygene_plan.html) | Extinguish, shut down power, close valves, etc. (self-protection) |
+| 4. Act                 | Disinfect or decontaminate according to the [hygiene plan](12_hygene_plan.qmd) | Extinguish, shut down power, close valves, etc. (self-protection) |
 
 
 ## <a name="numbers"></a>3. Emergency telephone numbers display
 
 Emergency telephone numbers for external emergency services and in-house persons responsible for safety are available on stickers in the laboratories next to the telephones and by the first-aid boxes.
 
-These phone numbers are also listed in [Appendix 3](03_emergency_telephone_numbers_and_contacts_for_safety.html).
+These phone numbers are also listed in [Appendix 3](03_emergency_telephone_numbers_and_contacts_for_safety.qmd).
 
 
 ## <a name="planning"></a>4. Emergency planning
@@ -53,7 +53,7 @@ These phone numbers are also listed in [Appendix 3](03_emergency_telephone_numbe
 | Step      | Action |
 | --------- | ------ |
 | 1. Alarm  | Alert BSO (+41 44 632 31 62)<br>**WHERE** did the incident occur?<br>**WHAT** WAS SPILLED/released?<br>**HOW MANY** people are affected?<br>**WHO** calls? |
-| 2. Secure | Do not leave the affected area if it is safe to stay<br>Keep calm<br>Confine the contaminated area<br>Disinfect or decontaminate according to the [hygiene plan](12_hygene_plan.html)<br>Get clearance from BSO |
+| 2. Secure | Do not leave the affected area if it is safe to stay<br>Keep calm<br>Confine the contaminated area<br>Disinfect or decontaminate according to the [hygiene plan](12_hygene_plan.qmd)<br>Get clearance from BSO |
 | 3. Act    | Complete the report sheet for laboratory incidents |
 
 
@@ -63,7 +63,7 @@ These phone numbers are also listed in [Appendix 3](03_emergency_telephone_numbe
 | --------------------------- | ------ |
 | 1. Evacuate the danger zone | **Immediately evacuate all the people from the danger zone**<br>Affected employees should decontaminate themselves immediately, if possible; otherwise, they should remain separated from the crowd to prevent spreading the dangerous substances |
 | 2. Alarm                    | Alert BSO (+41 44 632 31 62)<br>**WHERE** did the incident occur?<br>**WHAT** WAS SPILLED/released?<br>**HOW MANY** people are affected?<br>**WHO** calls? |
-| 3. Secure                   | Seal off the room, switch off ventilation, wait 30 minutes<br>decontaminate people<br>disinfect the room as instructed by the laboratory manager according to the [hygiene plan](12_hygene_plan.html)<br>disinfect contaminated equipment<br>issue clearance after checking that everything has been decontaminated |
+| 3. Secure                   | Seal off the room, switch off ventilation, wait 30 minutes<br>decontaminate people<br>disinfect the room as instructed by the laboratory manager according to the [hygiene plan](12_hygene_plan.qmd)<br>disinfect contaminated equipment<br>issue clearance after checking that everything has been decontaminated |
 | 4. Act                      | Complete the report sheet for laboratory incidents |
 
 

@@ -3,7 +3,7 @@ title: "Appendix 7: User List with Access to BSL2"
 format: html
 ---
 
-[← Back to Biological Safety](../biological-safety.html)
+[← Back to Biological Safety](../biological-safety.qmd)
 
 
 The following table contains the GHE personnel permitted to access the wet lab located in CLA J26 (the Biosafety Level 2 area).

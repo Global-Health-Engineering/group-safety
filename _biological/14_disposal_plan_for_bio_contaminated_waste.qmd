@@ -3,7 +3,7 @@ title: "Appendix 14: Disposal Plan for Bio Contaminated Waste"
 format: html
 ---
 
-[← Back to Biological Safety](../biological-safety.html)
+[← Back to Biological Safety](../biological-safety.qmd)
 
 
 The procedure for disposal of biological waste is as follows:
