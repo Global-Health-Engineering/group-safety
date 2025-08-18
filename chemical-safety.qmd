@@ -14,6 +14,7 @@ The table below contains the complete list of chemicals used in the laboratory o
 
 ## Chemicals currently used on the GHE premises
 
+::: {.column-page}
 | Name                                                                                                | CAS        | Concentr. | Total volume | no. of containers | Storage temperature | Storage location        | Material category[^1] | CMR[^2] | Narcotic / explosive |
 | --------------------------------------------------------------------------------------------------- | ---------- | --------- | ------------ | ----------------- | ------------------- | ----------------------- | --------------------- | ------- | -------------------- |
 | [3D printing resin Grey](_chemical/FORMLABS_GREY_RESIN.qmd)                                         | -          | -         | 3 l          | 3                 | 22 deg C               | CLA B2.2                | 6.1                   | -       | no                   |
@@ -26,6 +27,7 @@ The table below contains the complete list of chemicals used in the laboratory o
 | [methane](_chemical/METHANE_74-82-8.qmd)                                                             | 74-82-8    | 99.99%    | 10 l         | 1                 | 22 deg C               | CLA J26, gas cabinet    | 1, 2                  | -       | **yes**              |
 | [oxygen gaseous](_chemical/OXYGEN_GAS_7782-44-7.qmd)                                                 | 7782-44-7  | 99.99%    | 10 l         | 1                 | 22 deg C               | CLA J26                 | 2, 5.1                | -       | no                   |
 | [sodium hydroxide](_chemical/SODIUM_HYDROXIDE_1310-73-2.qmd)                                         | 1310-73-2  | 99.99%    | 500 g        | 2                 | 22 deg C               | CLA J26, base cabinet   | 8, 10                 | -       | no                   |
+:::
 
 ## Chemicals to be potentially used in the future
 

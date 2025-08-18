@@ -11,3 +11,18 @@ $font-family-serif: "Atkinson Hyperlegible", sans-serif;
   background-color: #FEBC94;
   padding: 0.0em 0.1em;
 }
+
+/* Make tables more readable */
+table {
+  font-size: 0.9rem;
+}
+
+/* Reduce padding in table cells for better space usage */
+table td, table th {
+  padding: 0.4rem 0.5rem;
+}
+
+/* Make long chemical names wrap if needed */
+table td:first-child {
+  min-width: 150px;
+}
