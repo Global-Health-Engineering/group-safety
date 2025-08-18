@@ -12,7 +12,7 @@ format: html
 ![](media/ETH_GHE_logo.svg){width=90%}
 </p>
 
-This safety concept was adopted by [Dr Jakub Tkaczuk](https://ghe.ethz.ch/about/people/person-detail.MzIxNzEy.TGlzdC80MTI2LC0xNDYwMDMwNTU3.html) <a href="https://orcid.org/0000-0001-7997-9423"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> for Global Health Engineering (GHE) at ETH, D-MAVT and is valid from 1 January 2024.
+This safety concept was adopted by [Dr. Jakub Tkaczuk](https://ghe.ethz.ch/about/people/person-detail.MzIxNzEy.TGlzdC80MTI2LC0xNDYwMDMwNTU3.html) <a href="https://orcid.org/0000-0001-7997-9423"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> for Global Health Engineering (GHE) at ETH, D-MAVT and is valid from 1 January 2024.
 
 ## Emergency {.unnumbered}
 
@@ -20,13 +20,13 @@ This safety concept was adopted by [Dr Jakub Tkaczuk](https://ghe.ethz.ch/about/
 In case of emergency in the laboratory, workshop, or office:
 
 1. call the ETH Emergency Desk: **+41 44 342 11 88** (from mobile) or **888** (from landline)
-2. inform Dr Jakub Tkaczuk (GSR & BSO): +41 44 632 31 62
-3. inform Prof. Elizabeth Tilley.
+2. inform Dr. Jakub Tkaczuk (GSR & BSO): +41 44 632 31 62
+3. inform Prof. Dr. Elizabeth Tilley.
 :::
 
-## Repository Content {.unnumbered}
+## Content {.unnumbered}
 
-This repository contains all the safety related documents for Global Health Engineering and is structured as follows:
+This website contains all the safety related documents for Global Health Engineering and is structured as follows:
 
 ### [Operational Safety](operational-safety.qmd)
 Contains the group-specific operational safety concept, including general laboratory and workshop rules, hazard identification, and emergency procedures.

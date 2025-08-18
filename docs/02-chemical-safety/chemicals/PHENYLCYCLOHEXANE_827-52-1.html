@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.545">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>GHE Safety Documentation</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script defer="" data-domain="global-health-engineering.github.io/group-safety" src="https://plausible.io/js/script.js"></script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">GHE Safety Documentation</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../operational-safety.html"> 
+<span class="menu-text">Operational Safety</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../chemical-safety.html"> 
+<span class="menu-text">Chemical Safety</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../biological-safety.html"> 
+<span class="menu-text">Biological Safety</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:ghe@mavt.ethz.ch?subject=Group Safety"> <i class="bi bi-envelope-at" role="img" aria-label="Email">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/Global-Health-Engineering/group-safety"> <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://matrix.to/#/#ghe-open:staffchat.ethz.ch"> <i class="bi bi-chat-left-dots" role="img" aria-label="Matrix">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#phenylcyclohexane" id="toc-phenylcyclohexane" class="nav-link active" data-scroll-target="#phenylcyclohexane">Phenylcyclohexane</a>
+  <ul class="collapse">
+  <li><a href="#basic-information" id="toc-basic-information" class="nav-link" data-scroll-target="#basic-information">Basic information</a></li>
+  <li><a href="#nfpa-704-fire-diamond" id="toc-nfpa-704-fire-diamond" class="nav-link" data-scroll-target="#nfpa-704-fire-diamond">NFPA 704 (fire diamond)</a></li>
+  <li><a href="#hazard-statements" id="toc-hazard-statements" class="nav-link" data-scroll-target="#hazard-statements">Hazard statements</a></li>
+  <li><a href="#precautionary-statements" id="toc-precautionary-statements" class="nav-link" data-scroll-target="#precautionary-statements">Precautionary statements</a></li>
+  <li><a href="#protective-measures" id="toc-protective-measures" class="nav-link" data-scroll-target="#protective-measures">Protective measures</a>
+  <ul class="collapse">
+  <li><a href="#gloves" id="toc-gloves" class="nav-link" data-scroll-target="#gloves">Gloves</a></li>
+  <li><a href="#safety-goggles" id="toc-safety-goggles" class="nav-link" data-scroll-target="#safety-goggles">Safety goggles</a></li>
+  <li><a href="#clothing" id="toc-clothing" class="nav-link" data-scroll-target="#clothing">Clothing</a></li>
+  </ul></li>
+  <li><a href="#spill-management" id="toc-spill-management" class="nav-link" data-scroll-target="#spill-management">Spill management</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+
+
+
+<section id="phenylcyclohexane" class="level1">
+<h1>Phenylcyclohexane</h1>
+<section id="basic-information" class="level2">
+<h2 class="anchored" data-anchor-id="basic-information">Basic information</h2>
+<ul>
+<li>Chemical formula(s): <span class="math inline">\({\rm C_6H_5C_6H_{11}}\)</span>, <span class="math inline">\({\rm C_{12}H_{16}}\)</span></li>
+<li>Other names: Cyclohexylbenzene</li>
+<li>CAS: 827-52-1</li>
+<li>International Chemical Safety Card (ICSC): N/A (see <a href="https://www.sigmaaldrich.com/CH/en/sds/aldrich/c104809">Sigma-Aldrich safety data sheet</a>)</li>
+<li>Flammability: <strong>yes - requires considerable preheating</strong></li>
+<li>Description: clear, colourless liquid, insoluble in water with pleasant odour.</li>
+</ul>
+</section>
+<section id="nfpa-704-fire-diamond" class="level2">
+<h2 class="anchored" data-anchor-id="nfpa-704-fire-diamond">NFPA 704 (fire diamond)</h2>
+<ul>
+<li><strong>Health (blue): 2</strong> - intense or continued but not chronic exposure could cause temporary incapacitation or possible residual injury.</li>
+<li><strong>Flammability (red): 1</strong> - requires considerable preheating, under all ambient temperature conditions, before ignition and combustion can occur. Flash point above 93.3 °C.</li>
+<li><strong>Instability–reactivity (yellow): 0</strong> - normally stable, even under fire exposure conditions, and is not reactive with water.</li>
+<li><strong>Special notice (white): -</strong></li>
+</ul>
+</section>
+<section id="hazard-statements" class="level2">
+<h2 class="anchored" data-anchor-id="hazard-statements">Hazard statements</h2>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Code</th>
+<th>Phrase</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>H315</td>
+<td>causes skin irritation</td>
+</tr>
+<tr class="even">
+<td>H319</td>
+<td>causes serious eye irritation</td>
+</tr>
+<tr class="odd">
+<td>H410</td>
+<td>very toxic to aquatic life with long lasting effects</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="precautionary-statements" class="level2">
+<h2 class="anchored" data-anchor-id="precautionary-statements">Precautionary statements</h2>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Code</th>
+<th>Phrase</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>P264</td>
+<td>wash … thoroughly after handling</td>
+</tr>
+<tr class="even">
+<td>P270</td>
+<td>do not eat, drink or smoke when using this product</td>
+</tr>
+<tr class="odd">
+<td>P273</td>
+<td>avoid release to the environment</td>
+</tr>
+<tr class="even">
+<td>P280</td>
+<td>wear protective gloves/protective clothing/eye protection/face protection</td>
+</tr>
+<tr class="odd">
+<td>P301+P310</td>
+<td>IF SWALLOWED: immediately call the ETH Emergency Desk: +41 44 342 11 88 (from mobile) or 888 (from landline)</td>
+</tr>
+<tr class="even">
+<td>P301+P312</td>
+<td>IF SWALLOWED: call the ETH Emergency Desk: +41 44 342 11 88 (from mobile) or 888 (from landline)</td>
+</tr>
+<tr class="odd">
+<td>P302+P352</td>
+<td>IF ON SKIN: wash with soap and water</td>
+</tr>
+<tr class="even">
+<td>P305+P351+P338</td>
+<td>IF IN EYES: rinse continuously with water for several minutes, remove contact lenses if present and easy to do, continue rinsing</td>
+</tr>
+<tr class="odd">
+<td>P321</td>
+<td>specific treatment (see the label)</td>
+</tr>
+<tr class="even">
+<td>P330</td>
+<td>rinse mouth</td>
+</tr>
+<tr class="odd">
+<td>P331</td>
+<td>do NOT induce vomiting</td>
+</tr>
+<tr class="even">
+<td>P332+P313</td>
+<td>IF SKIN IRRITATION OCCURS: get medical advice/attention</td>
+</tr>
+<tr class="odd">
+<td>P337+P313</td>
+<td>IF EYE IRRITATION PERSISTS: get medical advice/attention</td>
+</tr>
+<tr class="even">
+<td>P362</td>
+<td>take off contaminated clothing</td>
+</tr>
+<tr class="odd">
+<td>P391</td>
+<td>collect spillage</td>
+</tr>
+<tr class="even">
+<td>P405</td>
+<td>store locked up</td>
+</tr>
+<tr class="odd">
+<td>P501</td>
+<td>dispose of contents/container to <a href="https://hci-shop.ethz.ch/en/">HCI-Shop</a></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="protective-measures" class="level2">
+<h2 class="anchored" data-anchor-id="protective-measures">Protective measures</h2>
+<section id="gloves" class="level3">
+<h3 class="anchored" data-anchor-id="gloves">Gloves</h3>
+<p><a href="https://www.osha.gov/sites/default/files/publications/osha3151.pdf">Occupational Safety and Health Act of 1970</a> and <a href="https://safety.fsu.edu/safety_manual/OSHA%20Glove%20Selection%20Chart.pdf">OSHA Glove Selection Chart</a> do not provide recommendation on gloves for handling phenylcyclohexane. Gloves recommendations need to be provided by the chemical manufacturer in the safety data sheet.</p>
+<ul>
+<li>Neoprene: N/A</li>
+<li>Natural latex or rubber: N/A</li>
+<li>Buthyl: N/A</li>
+<li>Nitrile: N/A</li>
+</ul>
+</section>
+<section id="safety-goggles" class="level3">
+<h3 class="anchored" data-anchor-id="safety-goggles">Safety goggles</h3>
+<ul>
+<li>Always wear safety goggles when handling phenylcyclohexane. Corrective glasses are not considered safety googles.</li>
+<li>Handle phenylcyclohexane inside the fume hood only (with exception of moving the closed bottle to and from the storage cabinet).</li>
+</ul>
+</section>
+<section id="clothing" class="level3">
+<h3 class="anchored" data-anchor-id="clothing">Clothing</h3>
+<ul>
+<li>Wear long trousers and fully covered shoes.</li>
+<li>Contact lenses are forbidden while working with chemical substances, even in combination with safety glasses.</li>
+<li>Do not wear cosmetics.</li>
+<li>Do not wear synthetic clothing while working with flammable liquids or gases or when a hazard is present as these materials tend to melt and stick to exposed skin.</li>
+<li>Do not wear headphones.</li>
+</ul>
+</section>
+</section>
+<section id="spill-management" class="level2">
+<h2 class="anchored" data-anchor-id="spill-management">Spill management</h2>
+<ul>
+<li>Use personal protective equipment.</li>
+<li>Avoid dust formation, avoid breathing dust.</li>
+<li>Avoid breathing vapors or mist.</li>
+<li>Ensure adequate ventilation.</li>
+<li>Evacuate personnel to safe areas.</li>
+<li>Sweep up without creating dust and arrange disposal.</li>
+<li>Do not let it enter drain.</li>
+<li>If a spill happened outside the fume hood (on the floor or desktop) contact Dr Jakub Tkaczuk (+41 44 632 31 62) and the ETH Emergency Desk (+41 44 342 11 88 from mobile or 888 from landline).</li>
+</ul>
+<p><a href="https://github.com/Global-Health-Engineering/group-safety/tree/main/02-chemical-safety">Back to chemical safety page</a><br>
+<a href="https://github.com/Global-Health-Engineering/group-safety">Back to main repo page</a></p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p><a href="https://ghe.ethz.ch">Global Health Engineering Group at ETH Zurich</a></p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+    <a class="nav-link" href="mailto:ghe@mavt.ethz.ch?subject=Group Safety">
+      <i class="bi bi-envelope-at" role="img" aria-label="Email">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/Global-Health-Engineering/group-safety">
+      <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://matrix.to/#/#ghe-open:staffchat.ethz.ch">
+      <i class="bi bi-chat-left-dots" role="img" aria-label="Matrix">
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
