@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - .nojekyll
   render:
     - "*.qmd"
     - "*.md"
@@ -12,6 +14,7 @@ project:
 
 website:
   title: "GHE Safety Documentation"
+  site-url: https://global-health-engineering.github.io/group-safety
   navbar:
     left:
       - href: index.qmd
