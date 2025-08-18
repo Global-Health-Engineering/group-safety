@@ -3,9 +3,12 @@ project:
   output-dir: docs
   render:
     - "*.qmd"
-    - "_operational/*.qmd"
-    - "_chemical/*.qmd"
-    - "_biological/*.qmd"
+    - "*.md"
+    - "!README.md"
+    - "!CITATION.cff"
+    - "_operational/"
+    - "_chemical/"
+    - "_biological/"
 
 website:
   title: "GHE Safety Documentation"
