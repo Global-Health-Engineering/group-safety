@@ -36,12 +36,12 @@ The table below contains the complete list of chemicals used in the laboratory o
 | [1-phenyldecane](_chemical/1-PHENYLDECANE_104-72-3.qmd)                                              | 104-72-3   |
 | [1,1,1-trichloroethane](_chemical/1,1,1-TRICHLOROETHANE_71-55-6.qmd)                                 | 71-55-6    |
 | [2,4,6-trichloroanisole](_chemical/2,4,6-TRICHLOROANISOLE_87-40-1.qmd)                               | 87-40-1    |
-| [3-pentanone (diethyl ketone)](_chemical/3-PENTANONE_96-22-0.qmd)                                    | 92-22-0    |
+| [3-pentanone (diethyl ketone)](_chemical/3-PENTANONE_96-22-0.qmd)                                    | 96-22-0    |
 | [acetone](_chemical/ACETONE_67-64-1.qmd)                                                             | 67-64-1    |
 | [aluminium sulfate](_chemical/ALUMINIUM_SULFATE_10043-01-3.qmd)                                      | 10043-01-3 |
 | [ammonium chloride](_chemical/AMMONIUM_CHLORIDE_12125-02-9.qmd)                                      | 12125-02-9 |
 | [ammonium hydroxide (10% - 35% solution)](_chemical/AMMONIUM_HYDROXIDE_0.1-0.35_1336-21-6.qmd)       | 1336-21-6  |
-| [benzophenone](_chemical/BENZOPHENONE_119-61-9.qmd)                                                  | 119-90-7   |
+| [benzophenone](_chemical/BENZOPHENONE_119-61-9.qmd)                                                  | 119-61-9   |
 | [chlorobenzene](_chemical/CHLOROBENZENE_108-90-7.qmd)                                                | 108-90-7   |
 | [chloroform](_chemical/CHLOROFORM_67-66-3.qmd)                                                       | 67-66-3    |
 | [ethanoic acid / acetic acid](_chemical/ETHANOIC_ACID_64-19-7.qmd)                                   | 64-19-7    |
@@ -52,7 +52,7 @@ The table below contains the complete list of chemicals used in the laboratory o
 | [magnesium chloride anhydrous](_chemical/MAGNESIUM_CHLORIDE_ANHYDROUS_7786-30-3.qmd)                 | 7786-30-3  |
 | [magnesium oxide](_chemical/MAGNESIUM_OXIDE_1309-48-4.qmd)                                           | 1309-48-4  |
 | [methanol](_chemical/METHANOL_67-56-1.qmd)                                                           | 67-56-1    |
-| [methyl salicylate](_chemical/METHYL_SALICYLATE_119-36-8.qmd)                                        | 119-61-8   |
+| [methyl salicylate](_chemical/METHYL_SALICYLATE_119-36-8.qmd)                                        | 119-36-8   |
 | [methyl stearate](_chemical/METHYL_STEARATE_112-61-8.qmd)                                            | 112-61-8   |
 | [nitric acid](_chemical/NITRIC_ACID_7697-37-2.qmd)                                                   | 7697-37-2  |
 | [phenylcyclohexane](_chemical/PHENYLCYCLOHEXANE_827-52-1.qmd)                                        | 827-52-1   |
