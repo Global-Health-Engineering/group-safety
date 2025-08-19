@@ -1,5 +1,5 @@
 ---
-title: "Standard Operating Procedure (SOP) for the Drill Press with Slow/Fast Speed Switch"
+title: "SOP for the Drill Press with Slow/Fast Speed Switch"
 format: html
 ---
 

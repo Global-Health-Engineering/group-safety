@@ -1,5 +1,5 @@
 ---
-title: "Standard Operating Procedure (SOP) for the battery-powered DeWalt jigsaw"
+title: "SOP for the battery-powered DeWalt jigsaw"
 format: html
 ---
 

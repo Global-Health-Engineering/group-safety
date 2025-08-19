@@ -1,5 +1,5 @@
 ---
-title: "Standard Operating Procedure (SOP) for the Mekanika Pro Education Pack CNC milling machine"
+title: "SOP for the Mekanika Pro Education Pack CNC milling machine"
 format: html
 ---
 

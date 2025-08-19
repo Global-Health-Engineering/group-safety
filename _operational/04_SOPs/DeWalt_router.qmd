@@ -1,5 +1,5 @@
 ---
-title: "Standard Operating Procedure (SOP) for DeWalt DCW 604 P1 Battery Combi-Moulder (Router)"
+title: "SOP d for DeWalt DCW 604 P1 Battery Combi-Moulder (Router)"
 format: html
 ---
 
