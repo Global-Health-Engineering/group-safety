@@ -3,7 +3,9 @@ title: "Standard Operating Procedure (SOP) for DeWalt DCW210N Cordless Random Or
 format: html
 ---
 
-[← Back to Appendix 4: Collection of Operating Instructions, User Manuals, and SOPs"](../04_operating_instructions_user_manuals_SOPs.qmd)
+[← Back to Appendix 4](../04_operating_instructions_user_manuals_SOPs.qmd)
+
+![](../../media/dewalt_sander.png){width=60% fig-align="center"}
 
 ## 1. Purpose
 To provide safe and effective use instructions for the DeWalt DCW210N 20V Max 5-inch brushless cordless random orbital sander for sanding wood, metal, plastics, and painted surfaces.

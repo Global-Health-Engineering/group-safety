@@ -3,7 +3,9 @@ title: "Standard Operating Procedure (SOP) for the Trotec Q400 Laser Cutter"
 format: html
 ---
 
-[← Back to Appendix 4: Collection of Operating Instructions, User Manuals, and SOPs"](../04_operating_instructions_user_manuals_SOPs.qmd)
+[← Back to Appendix 4](../04_operating_instructions_user_manuals_SOPs.qmd)
+
+![](../../media/Trotec_Q400.png){width=60% fig-align="center"}
 
 ## 1. Purpose
 Ensure the **safe, efficient, and correct use** of the Trotec Q400 laser cutter for material engraving or cutting, while protecting users, bystanders, and equipment.
@@ -16,7 +18,7 @@ Applies to **all personnel** trained and authorized to operate, maintain, or sup
 - **Supervisor/GSR:** Maintain machine, review procedures, and provide training.
 
 ## 4. Equipment Checklist
-- Trotec Q400 laser cutter
+- [Trotec Q400 laser cutter](https://youtu.be/dQw4w9WgXcQ)
 - Required workpiece material (CO₂ laser compatible)
 - Appropriate exhaust/filtration systems running
 - PPE: safety glasses (laser-rated), no reflective clothing/jewelry
