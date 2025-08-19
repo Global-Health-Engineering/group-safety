@@ -1,0 +1,57 @@
+---
+title: "Standard Operating Procedure (SOP) for DeWalt DCW210N Cordless Random Orbital Sander"
+format: html
+---
+
+[← Back to Appendix 4: Collection of Operating Instructions, User Manuals, and SOPs"](../04_operating_instructions_user_manuals_SOPs.qmd)
+
+## 1. Purpose
+To provide safe and effective use instructions for the DeWalt DCW210N 20V Max 5-inch brushless cordless random orbital sander for sanding wood, metal, plastics, and painted surfaces.
+
+## 2. Scope
+This SOP applies to operators using the DeWalt DCW210N orbital sander in various professional and DIY applications.
+
+## 3. Safety Precautions
+- Always wear safety glasses, hearing protection, and a dust mask.
+- Avoid loose clothing, jewelry, and secure long hair to prevent entanglement.
+- Do not use the sander in damp or wet environments or near flammable liquids.
+- Disconnect the battery pack before making any adjustments or changing accessories.
+- Use only DeWalt recommended batteries and chargers.
+- Use dust extraction to maintain a clean working environment and protect respiratory health.
+
+## 4. Pre-Operation Checks
+- Inspect the sander, sanding pad, and battery for any damage.
+- Confirm the battery is charged.
+- Use hook and loop sanding discs (127 mm) with the 8-hole dust pattern recommended for this model.
+- Check that the sanding pad and disc are clean and properly aligned.
+- Ensure the dust collection bag or vacuum connection is securely attached if used.
+
+## 5. Assembly and Setup
+- Attach the sanding disc by aligning the holes and pressing onto the hook and loop pad.
+- Mount the battery pack into the tool handle until it clicks securely.
+- Connect the dust bag or the vacuum hose to the dust extraction port if available.
+
+## 6. Operation
+- Turn the sander on by pressing the "I" side of the dust-sealed on/off switch.
+- Adjust the variable speed dial to set the speed between 8,000 and 12,000 orbits per minute (OPM) based on the material and application:
+  - Higher speeds for harder materials and rapid material removal.
+  - Lower speeds for softer materials and finer finishes.
+- Hold the sander firmly with both hands, keep the pad flat on the work surface.
+- Move the sander in smooth, overlapping motions without applying excessive pressure.
+- Keep the sanding pad moving constantly to avoid gouging the surface.
+- Use the dust extraction during operation to reduce airborne dust and improve visibility.
+
+## 7. Post-Operation
+- Turn off the sander using the "O" side of the switch.
+- Wait until the sander comes to a complete stop before setting it down.
+- Remove the battery pack by pressing the release button and sliding it out.
+- Empty and clean the dust bag; if connected to a vacuum, check the vacuum system.
+- Clean the sanding pad and tool body from dust and debris.
+- Inspect the sanding disc for wear and replace as needed.
+
+## 8. Maintenance
+- Regularly inspect and clean vents to prevent overheating.
+- Replace worn sanding pads and discs with DeWalt-approved parts.
+- Keep switch and motor dust-sealed to prolong tool life.
+- Store the tool and batteries in the designated container and cabinet.
+- Have repairs performed by authorized service centers.

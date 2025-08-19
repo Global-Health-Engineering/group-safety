@@ -1110,14 +1110,14 @@
     "href": "_operational/04_operating_instructions_user_manuals_SOPs.html#rules-hazards-and-precautions-for-chemicals",
     "title": "Appendix 4: Collection of Operating Instructions, User Manuals, and SOPs",
     "section": "Rules, hazards, and precautions for chemicals",
-    "text": "Rules, hazards, and precautions for chemicals\nThe chemicals available in the GHE workshop are: - Loctite - WD-40 - Gorilla glue for wood - Silicon - Epoxy resin"
+    "text": "Rules, hazards, and precautions for chemicals\nThe chemicals available in the GHE workshop are:\n\nLoctite\nWD-40\nGorilla glue for wood\nSilicon\nEpoxy resin\nIsopropanol\nAcetone"
   },
   {
     "objectID": "_operational/04_operating_instructions_user_manuals_SOPs.html#standard-operating-procedures",
     "href": "_operational/04_operating_instructions_user_manuals_SOPs.html#standard-operating-procedures",
     "title": "Appendix 4: Collection of Operating Instructions, User Manuals, and SOPs",
     "section": "Standard Operating Procedures",
-    "text": "Standard Operating Procedures\nThe exemplary SOP is provided below. The actual ones for the equipment available in the workshop will be provided once the equipment is available.\n\nLaser cutter\n\nNever leave the laser cutter unattended.\nNever cut highly reflective materials on the laser cutter.\nNever cut PVC on the laser cutter. For the full list of materials suitable for cutting/engraving, see the user manual.\nDead man switch - a job can be stopped with the stop button on the control panel; press it in case of emergency.\nTurn the key all the way to the right, just like you were starting up a car.\nThe machine will run several self-checks, do not open the door when it does it.\nAdjust the flaps for fume evacuation, depending on the size and type of the material you are cutting.\nPlace the material on the laser cutter mesh table. The material cannot exceed 1016 mm x 610 mm. Tape it down, if it is bent. Sheet needs to lay as flat as possible.\nPress buttons on the control panel to move the table up and down to focus the laser, using the focusing tool.\nImport files to the Trotec Ruby software.\nSet all lines to be cut (red) and engraved (black).\nSelect material and/or laser speed and power.\nStart the job. Make sure that the ventilation starts automatically; if it does not, press the button on the fume filter.\nIf fumes are accumulating in the laser cutter, increase the power of the fume filter.\nKeep the door to the laser cutter closed for 20-30 seconds after the job is done so all the fumes are ventilated.\nOpen the laser cutter only after the job is done and all the fumes are evacuated.\n\n\n\nDrill press\n\nKnow the location of start and stop switches or buttons and keep the drill press table free of tools and other materials.\nUse only properly sharpened drill bits, sockets and chucks in good condition. Remove dull drill bits, battered tangs, or sockets from service.\nDo not remove by hand metal or wood chips from the table or stock.\nUse brushes or other tools to properly remove chips.\nDo not attempt to oil the machine or make adjustments to the work while the drill press is in motion.\nDo not insert a drill chuck key into the chuck until the power is shut off and the machine has come to a complete stop.\nAll belts and pulleys must be guarded; if frayed belts or pulleys are observed, the drill press must be taken out of service and the belts or pulleys must be replaced.\nAll stock must be properly secured with a vise or clamps prior to a machining process.\nIf the stock slips in the vise or clamp, the operator must not attempt to hold the work with their hand or try to tighten the vise/clamp while the machine is in motion. Shutdown the power to the machine prior to re-tightening the loose stock.\nUse the correct speed and drill for the type of stock being machined.\nUse the appropriate bit for the stock being machined. Bits with feed screw or extremely long bits should not be used.\nThe drill bit should be mounted the full depth and in the center of the chuck.\nPosition the table and adjust the feed stroke eliminating the possibility of the bit striking the table.\nFeed the bit smoothly into the work. If the hole being drilled is deep, withdraw the bit frequently to remove shaving on the bit.\nNever attempt to remove a broken drill with a center punch or hammer.\nWhen an operator has finished working on the drill press, and before leaving the drill press for any reason, the power must be shut off and the machine must come to a complete stop.\nWhen an operator observes an unsafe condition on the drill press, or stock that is being worked on, they must report it immediately to the workshop supervisor. The press will be taken out of service until the problem has been corrected."
+    "text": "Standard Operating Procedures\n\nCNC milling machine (Mekanika Pro Education Pack)\nDrill (DeWalt)\nDrill Press\nInjection molding machine (HoliPress 38)\nJigsaw (DeWalt)\nLaser Cutter (Trotec Q400)\nOrbital Sander (DeWalt)\nRouter (DeWalt)"
   },
   {
     "objectID": "LICENSE.html",
@@ -1285,7 +1285,7 @@
     "href": "chemical-safety.html",
     "title": "Chemical Safety",
     "section": "",
-    "text": "The table below contains the complete list of chemicals used in the laboratory of Global Health Engineering. Safety information is available for all chemicals and based on their International Chemical Safety Card (ICSC) or other safety cards, if ICSC is unavailable.\nClick on a chemical name to see its safety information.\n\n\n\n\n\n\nName\nCAS\nConcentr.\nTotal volume\nno. of containers\nStorage temperature\nStorage location\nMaterial category1\nCMR2\nNarcotic / explosive\n\n\n\n\n3D printing resin Grey\n-\n-\n3 l\n3\n22 deg C\nCLA B2.2\n6.1\n-\nno\n\n\n3D printing resin Rigid 10K\n-\n-\n1 l\n1\n22 deg C\nCLA B2.2\n6.1\n-\nno\n\n\ncarbon dioxide\n124-38-9\n99.99%\n10 l\n1\n22 deg C\nCLA J26, gas cabinet\n2\n-\nno\n\n\nhydrogen chloride\n7647-01-0\n0.1 M\n1 l\n1\n22 deg C\nCLA J26, acid cabinet\n8, 10\n-\nno\n\n\nhydrogen chloride\n7647-01-0\n3 M\n0.25 l\n1\n22 deg C\nCLA J26, fume hood\n8, 10\n-\nno\n\n\nhydrogen chloride\n7647-01-0\n12 M\n1 l\n1\n22 deg C\nCLA J26, acid cabinet\n8, 10\n-\nno\n\n\nisopropanol\n67-63-0\npure\n18 l\n2\n22 deg C\nCLA J26, CLA B2.1 (fume hood)\n1, 3\n3\nyes\n\n\nmethane\n74-82-8\n99.99%\n10 l\n1\n22 deg C\nCLA J26, gas cabinet\n1, 2\n-\nyes\n\n\noxygen gaseous\n7782-44-7\n99.99%\n10 l\n1\n22 deg C\nCLA J26\n2, 5.1\n-\nno\n\n\nsodium hydroxide\n1310-73-2\n99.99%\n500 g\n2\n22 deg C\nCLA J26, base cabinet\n8, 10\n-\nno\n\n\n\n\n\n\n\n\n\n\nName\nCAS\n\n\n\n\n1-phenyldecane\n104-72-3\n\n\n1,1,1-trichloroethane\n71-55-6\n\n\n2,4,6-trichloroanisole\n87-40-1\n\n\n3-pentanone (diethyl ketone)\n92-22-0\n\n\nacetone\n67-64-1\n\n\naluminium sulfate\n10043-01-3\n\n\nammonium chloride\n12125-02-9\n\n\nammonium hydroxide (10% - 35% solution)\n1336-21-6\n\n\nbenzophenone\n119-90-7\n\n\nchlorobenzene\n108-90-7\n\n\nchloroform\n67-66-3\n\n\nethanoic acid / acetic acid\n64-19-7\n\n\nethanol\n64-17-5\n\n\nethyl acetate\n141-78-6\n\n\nhexane\n110-54-3\n\n\niron(III) chloride anhydrous\n7705-08-0\n\n\nmagnesium chloride anhydrous\n7786-30-3\n\n\nmagnesium oxide\n1309-48-4\n\n\nmethanol\n67-56-1\n\n\nmethyl salicylate\n119-61-8\n\n\nmethyl stearate\n112-61-8\n\n\nnitric acid\n7697-37-2\n\n\nphenylcyclohexane\n827-52-1\n\n\npotassium hydroxide\n1310-58-3\n\n\nsodium acetate anhydrous\n127-09-3\n\n\nsodium hypochlorite (solution, active chlorine &gt; 10%)\n7681-52-9\n\n\nsodium thiosulfate anhydrous\n7772-98-7\n\n\nsulfuric acid concentrated\n7664-93-9\n\n\ntoluene\n108-88-3\n\n\nzinc sulfate\n7733-02-0\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nSafety data sheets are available in this repository. The pdf version of safety data sheets is available here. Safety data sheets are also available in the laboratory in printed form. All laboratory users are informed on how to find this information.\n\n\n\n\n\nThe following safety documents are also available for specific test kits and resins:\n\nHach LCK114\nHach LCK238\nHach LCK314\nHach LCK338\nHach LCK348\nHach LCK349\nIDEXX Tectalert CCA\nIDEXX Tectalert ENT"
+    "text": "The table below contains the complete list of chemicals used in the laboratory of Global Health Engineering. Safety information is available for all chemicals and based on their International Chemical Safety Card (ICSC) or other safety cards, if ICSC is unavailable.\nClick on a chemical name to see its safety information.\n\n\n\n\n\n\nName\nCAS\nConcentr.\nTotal volume\nno. of containers\nStorage temperature\nStorage location\nMaterial category1\nCMR2\nNarcotic / explosive\n\n\n\n\n3D printing resin Grey\n-\n-\n3 l\n3\n22 deg C\nCLA B2.2\n6.1\n-\nno\n\n\n3D printing resin Rigid 10K\n-\n-\n1 l\n1\n22 deg C\nCLA B2.2\n6.1\n-\nno\n\n\ncarbon dioxide\n124-38-9\n99.99%\n10 l\n1\n22 deg C\nCLA J26, gas cabinet\n2\n-\nno\n\n\nhydrogen chloride\n7647-01-0\n0.1 M\n1 l\n1\n22 deg C\nCLA J26, acid cabinet\n8, 10\n-\nno\n\n\nhydrogen chloride\n7647-01-0\n3 M\n0.25 l\n1\n22 deg C\nCLA J26, fume hood\n8, 10\n-\nno\n\n\nhydrogen chloride\n7647-01-0\n12 M\n1 l\n1\n22 deg C\nCLA J26, acid cabinet\n8, 10\n-\nno\n\n\nisopropanol\n67-63-0\npure\n18 l\n2\n22 deg C\nCLA J26, CLA B2.1 (fume hood)\n1, 3\n3\nyes\n\n\nmethane\n74-82-8\n99.99%\n10 l\n1\n22 deg C\nCLA J26, gas cabinet\n1, 2\n-\nyes\n\n\noxygen gaseous\n7782-44-7\n99.99%\n10 l\n1\n22 deg C\nCLA J26\n2, 5.1\n-\nno\n\n\nsodium hydroxide\n1310-73-2\n99.99%\n500 g\n2\n22 deg C\nCLA J26, base cabinet\n8, 10\n-\nno\n\n\n\n\n\n\n\n\n\n\nName\nCAS\n\n\n\n\n1-phenyldecane\n104-72-3\n\n\n1,1,1-trichloroethane\n71-55-6\n\n\n2,4,6-trichloroanisole\n87-40-1\n\n\n3-pentanone (diethyl ketone)\n96-22-0\n\n\nacetone\n67-64-1\n\n\naluminium sulfate\n10043-01-3\n\n\nammonium chloride\n12125-02-9\n\n\nammonium hydroxide (10% - 35% solution)\n1336-21-6\n\n\nbenzophenone\n119-61-9\n\n\nchlorobenzene\n108-90-7\n\n\nchloroform\n67-66-3\n\n\nethanoic acid / acetic acid\n64-19-7\n\n\nethanol\n64-17-5\n\n\nethyl acetate\n141-78-6\n\n\nhexane\n110-54-3\n\n\niron(III) chloride anhydrous\n7705-08-0\n\n\nmagnesium chloride anhydrous\n7786-30-3\n\n\nmagnesium oxide\n1309-48-4\n\n\nmethanol\n67-56-1\n\n\nmethyl salicylate\n119-36-8\n\n\nmethyl stearate\n112-61-8\n\n\nnitric acid\n7697-37-2\n\n\nphenylcyclohexane\n827-52-1\n\n\npotassium hydroxide\n1310-58-3\n\n\nsodium acetate anhydrous\n127-09-3\n\n\nsodium hypochlorite (solution, active chlorine &gt; 10%)\n7681-52-9\n\n\nsodium thiosulfate anhydrous\n7772-98-7\n\n\nsulfuric acid concentrated\n7664-93-9\n\n\ntoluene\n108-88-3\n\n\nzinc sulfate\n7733-02-0\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nSafety data sheets are available in this repository. The pdf version of safety data sheets is available here. Safety data sheets are also available in the laboratory in printed form. All laboratory users are informed on how to find this information.\n\n\n\n\n\nThe following safety documents are also available for specific test kits and resins:\n\nHach LCK114\nHach LCK238\nHach LCK314\nHach LCK338\nHach LCK348\nHach LCK349\nIDEXX Tectalert CCA\nIDEXX Tectalert ENT"
   },
   {
     "objectID": "chemical-safety.html#chemicals-currently-used-on-the-ghe-premises",
@@ -1299,7 +1299,7 @@
     "href": "chemical-safety.html#chemicals-to-be-potentially-used-in-the-future",
     "title": "Chemical Safety",
     "section": "",
-    "text": "Name\nCAS\n\n\n\n\n1-phenyldecane\n104-72-3\n\n\n1,1,1-trichloroethane\n71-55-6\n\n\n2,4,6-trichloroanisole\n87-40-1\n\n\n3-pentanone (diethyl ketone)\n92-22-0\n\n\nacetone\n67-64-1\n\n\naluminium sulfate\n10043-01-3\n\n\nammonium chloride\n12125-02-9\n\n\nammonium hydroxide (10% - 35% solution)\n1336-21-6\n\n\nbenzophenone\n119-90-7\n\n\nchlorobenzene\n108-90-7\n\n\nchloroform\n67-66-3\n\n\nethanoic acid / acetic acid\n64-19-7\n\n\nethanol\n64-17-5\n\n\nethyl acetate\n141-78-6\n\n\nhexane\n110-54-3\n\n\niron(III) chloride anhydrous\n7705-08-0\n\n\nmagnesium chloride anhydrous\n7786-30-3\n\n\nmagnesium oxide\n1309-48-4\n\n\nmethanol\n67-56-1\n\n\nmethyl salicylate\n119-61-8\n\n\nmethyl stearate\n112-61-8\n\n\nnitric acid\n7697-37-2\n\n\nphenylcyclohexane\n827-52-1\n\n\npotassium hydroxide\n1310-58-3\n\n\nsodium acetate anhydrous\n127-09-3\n\n\nsodium hypochlorite (solution, active chlorine &gt; 10%)\n7681-52-9\n\n\nsodium thiosulfate anhydrous\n7772-98-7\n\n\nsulfuric acid concentrated\n7664-93-9\n\n\ntoluene\n108-88-3\n\n\nzinc sulfate\n7733-02-0\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nSafety data sheets are available in this repository. The pdf version of safety data sheets is available here. Safety data sheets are also available in the laboratory in printed form. All laboratory users are informed on how to find this information."
+    "text": "Name\nCAS\n\n\n\n\n1-phenyldecane\n104-72-3\n\n\n1,1,1-trichloroethane\n71-55-6\n\n\n2,4,6-trichloroanisole\n87-40-1\n\n\n3-pentanone (diethyl ketone)\n96-22-0\n\n\nacetone\n67-64-1\n\n\naluminium sulfate\n10043-01-3\n\n\nammonium chloride\n12125-02-9\n\n\nammonium hydroxide (10% - 35% solution)\n1336-21-6\n\n\nbenzophenone\n119-61-9\n\n\nchlorobenzene\n108-90-7\n\n\nchloroform\n67-66-3\n\n\nethanoic acid / acetic acid\n64-19-7\n\n\nethanol\n64-17-5\n\n\nethyl acetate\n141-78-6\n\n\nhexane\n110-54-3\n\n\niron(III) chloride anhydrous\n7705-08-0\n\n\nmagnesium chloride anhydrous\n7786-30-3\n\n\nmagnesium oxide\n1309-48-4\n\n\nmethanol\n67-56-1\n\n\nmethyl salicylate\n119-36-8\n\n\nmethyl stearate\n112-61-8\n\n\nnitric acid\n7697-37-2\n\n\nphenylcyclohexane\n827-52-1\n\n\npotassium hydroxide\n1310-58-3\n\n\nsodium acetate anhydrous\n127-09-3\n\n\nsodium hypochlorite (solution, active chlorine &gt; 10%)\n7681-52-9\n\n\nsodium thiosulfate anhydrous\n7772-98-7\n\n\nsulfuric acid concentrated\n7664-93-9\n\n\ntoluene\n108-88-3\n\n\nzinc sulfate\n7733-02-0\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nSafety data sheets are available in this repository. The pdf version of safety data sheets is available here. Safety data sheets are also available in the laboratory in printed form. All laboratory users are informed on how to find this information."
   },
   {
     "objectID": "chemical-safety.html#additional-safety-documents",
@@ -2588,5 +2588,558 @@
     "title": "Appendix 6: Project List",
     "section": "",
     "text": "← Back to Biological Safety\nThis list consists only of projects registered in Ecogen, a platform managed by the Federal Biotechnology Office and the Federal Office for the Environment. All class 1 and 2 activities must be registered and approved in Ecogen prior to their beginning by the Biosafety Officer in collaboration with the activity’s responsible person.\n\n\n\n\n\n\n\n\n\n\n\n\n\nActivity\nEcogen number\nResponsible person\nOrganisms\nClass\nRoom\nStart\nEnd"
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_router.html",
+    "href": "_operational/04_SOPs/DeWalt_router.html",
+    "title": "Standard Operating Procedure (SOP) for DeWalt DCW 604 P1 Battery Combi-Moulder (Router)",
+    "section": "",
+    "text": "← Back to Appendix 4: Collection of Operating Instructions, User Manuals, and SOPs”"
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_router.html#purpose",
+    "href": "_operational/04_SOPs/DeWalt_router.html#purpose",
+    "title": "Standard Operating Procedure (SOP) for DeWalt DCW 604 P1 Battery Combi-Moulder (Router)",
+    "section": "1. Purpose",
+    "text": "1. Purpose\nTo ensure the safe, efficient, and proper use and maintenance of the DeWalt DCW 604 P1 battery-powered combi-router for professional medium-duty routing and edge milling."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_router.html#scope",
+    "href": "_operational/04_SOPs/DeWalt_router.html#scope",
+    "title": "Standard Operating Procedure (SOP) for DeWalt DCW 604 P1 Battery Combi-Moulder (Router)",
+    "section": "2. Scope",
+    "text": "2. Scope\nApplicable to operators using the DeWalt router and related accessories."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_router.html#safety-precautions",
+    "href": "_operational/04_SOPs/DeWalt_router.html#safety-precautions",
+    "title": "Standard Operating Procedure (SOP) for DeWalt DCW 604 P1 Battery Combi-Moulder (Router)",
+    "section": "3. Safety Precautions",
+    "text": "3. Safety Precautions\n\nWear appropriate PPE: safety glasses, ear protection, and dust mask.\nAvoid loose clothing and secure long hair to prevent entanglement.\nNever operate the router under wet or damp conditions or near flammable liquids.\nUse only DeWalt 18V XR batteries compatible with the tool.\nDisconnect the battery before changing bits or making adjustments.\nKeep hands clear of the rotating bit.\nEnsure the workpiece is securely clamped and stable before routing.\nDo not modify the tool or accessories.\nHandle router bits carefully; they are sharp and can cause injury."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_router.html#pre-operation-checks",
+    "href": "_operational/04_SOPs/DeWalt_router.html#pre-operation-checks",
+    "title": "Standard Operating Procedure (SOP) for DeWalt DCW 604 P1 Battery Combi-Moulder (Router)",
+    "section": "4. Pre-Operation Checks",
+    "text": "4. Pre-Operation Checks\n\nInspect the router, battery, and charger for damage.\nVerify the battery is charged.\nSelect the correct router bit (6–8 mm shank) suitable for the material.\nCheck that the collet and spindle are clean and free of debris.\nEnsure the router’s base (plunge or fixed) is properly assembled and locked."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_router.html#assembly-and-bit-installation",
+    "href": "_operational/04_SOPs/DeWalt_router.html#assembly-and-bit-installation",
+    "title": "Standard Operating Procedure (SOP) for DeWalt DCW 604 P1 Battery Combi-Moulder (Router)",
+    "section": "5. Assembly and Bit Installation",
+    "text": "5. Assembly and Bit Installation\n\nAttach the guide parallel rods or other accessories as needed, tightening securely.\nRemove the battery pack.\nRemove the motor unit from the base if needed.\nInsert the router bit into the loosened collet fully, then pull it back approximately 1.6 mm.\nPress the spindle lock button to lock the spindle.\nTighten the collet nut clockwise using the wrench until bit is secure (manual ratchet method can be used for tighter fixing).\nReinstall the motor unit into the base, ensuring alignment with guide pins and locking it securely with the locking lever.\nInsert the battery pack until it clicks into place."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_router.html#setting-depth-and-speed",
+    "href": "_operational/04_SOPs/DeWalt_router.html#setting-depth-and-speed",
+    "title": "Standard Operating Procedure (SOP) for DeWalt DCW 604 P1 Battery Combi-Moulder (Router)",
+    "section": "6. Setting Depth and Speed",
+    "text": "6. Setting Depth and Speed\n\nUse the depth adjustment ring or plunge depth controls to set the cutting depth.\nAdjust the turret stop to limit plunge depth travel if needed.\nSet the appropriate variable speed (16,000 to 25,000 RPM) depending on the material."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_router.html#operation",
+    "href": "_operational/04_SOPs/DeWalt_router.html#operation",
+    "title": "Standard Operating Procedure (SOP) for DeWalt DCW 604 P1 Battery Combi-Moulder (Router)",
+    "section": "7. Operation",
+    "text": "7. Operation\n\nEnsure the work area is clear of obstacles.\nHold the router firmly with both hands (on side handles for plunge mode; one hand on battery, one around fixed base for fixed mode).\nTurn the tool on using the dust-protected on/off switch.\nFor plunge routing: depress the plunge lock lever, lower the bit to the desired depth, then release the lever to lock.\nFeed the router against the direction of bit rotation.\nApply steady pressure; do not force the tool.\nAllow the router bit to come to a complete stop before setting the tool down.\nUse the dust extraction port with a compatible vacuum to maintain clear visibility and cleanliness."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_router.html#post-operation",
+    "href": "_operational/04_SOPs/DeWalt_router.html#post-operation",
+    "title": "Standard Operating Procedure (SOP) for DeWalt DCW 604 P1 Battery Combi-Moulder (Router)",
+    "section": "8. Post-Operation",
+    "text": "8. Post-Operation\n\nTurn off the router and wait for the bit to stop spinning completely.\nRemove the battery.\nClean the router body and vents from dust using a brush or compressed air.\nInspect the router bit for wear; replace if necessary.\nStore the router and batteries in designated storage container and cabinet.\n\n\n9. Maintenance\n\nRegularly check that screws and lock levers are tight.\nClean air vents to avoid overheating.\nDo not open or service the motor or battery pack yourself; use authorized service centers."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_orbital_sander.html",
+    "href": "_operational/04_SOPs/DeWalt_orbital_sander.html",
+    "title": "Standard Operating Procedure (SOP) for DeWalt DCW210N Cordless Random Orbital Sander",
+    "section": "",
+    "text": "← Back to Appendix 4: Collection of Operating Instructions, User Manuals, and SOPs”"
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_orbital_sander.html#purpose",
+    "href": "_operational/04_SOPs/DeWalt_orbital_sander.html#purpose",
+    "title": "Standard Operating Procedure (SOP) for DeWalt DCW210N Cordless Random Orbital Sander",
+    "section": "1. Purpose",
+    "text": "1. Purpose\nTo provide safe and effective use instructions for the DeWalt DCW210N 20V Max 5-inch brushless cordless random orbital sander for sanding wood, metal, plastics, and painted surfaces."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_orbital_sander.html#scope",
+    "href": "_operational/04_SOPs/DeWalt_orbital_sander.html#scope",
+    "title": "Standard Operating Procedure (SOP) for DeWalt DCW210N Cordless Random Orbital Sander",
+    "section": "2. Scope",
+    "text": "2. Scope\nThis SOP applies to operators using the DeWalt DCW210N orbital sander in various professional and DIY applications."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_orbital_sander.html#safety-precautions",
+    "href": "_operational/04_SOPs/DeWalt_orbital_sander.html#safety-precautions",
+    "title": "Standard Operating Procedure (SOP) for DeWalt DCW210N Cordless Random Orbital Sander",
+    "section": "3. Safety Precautions",
+    "text": "3. Safety Precautions\n\nAlways wear safety glasses, hearing protection, and a dust mask.\nAvoid loose clothing, jewelry, and secure long hair to prevent entanglement.\nDo not use the sander in damp or wet environments or near flammable liquids.\nDisconnect the battery pack before making any adjustments or changing accessories.\nUse only DeWalt recommended batteries and chargers.\nUse dust extraction to maintain a clean working environment and protect respiratory health."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_orbital_sander.html#pre-operation-checks",
+    "href": "_operational/04_SOPs/DeWalt_orbital_sander.html#pre-operation-checks",
+    "title": "Standard Operating Procedure (SOP) for DeWalt DCW210N Cordless Random Orbital Sander",
+    "section": "4. Pre-Operation Checks",
+    "text": "4. Pre-Operation Checks\n\nInspect the sander, sanding pad, and battery for any damage.\nConfirm the battery is charged.\nUse hook and loop sanding discs (127 mm) with the 8-hole dust pattern recommended for this model.\nCheck that the sanding pad and disc are clean and properly aligned.\nEnsure the dust collection bag or vacuum connection is securely attached if used."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_orbital_sander.html#assembly-and-setup",
+    "href": "_operational/04_SOPs/DeWalt_orbital_sander.html#assembly-and-setup",
+    "title": "Standard Operating Procedure (SOP) for DeWalt DCW210N Cordless Random Orbital Sander",
+    "section": "5. Assembly and Setup",
+    "text": "5. Assembly and Setup\n\nAttach the sanding disc by aligning the holes and pressing onto the hook and loop pad.\nMount the battery pack into the tool handle until it clicks securely.\nConnect the dust bag or the vacuum hose to the dust extraction port if available."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_orbital_sander.html#operation",
+    "href": "_operational/04_SOPs/DeWalt_orbital_sander.html#operation",
+    "title": "Standard Operating Procedure (SOP) for DeWalt DCW210N Cordless Random Orbital Sander",
+    "section": "6. Operation",
+    "text": "6. Operation\n\nTurn the sander on by pressing the “I” side of the dust-sealed on/off switch.\nAdjust the variable speed dial to set the speed between 8,000 and 12,000 orbits per minute (OPM) based on the material and application:\n\nHigher speeds for harder materials and rapid material removal.\nLower speeds for softer materials and finer finishes.\n\nHold the sander firmly with both hands, keep the pad flat on the work surface.\nMove the sander in smooth, overlapping motions without applying excessive pressure.\nKeep the sanding pad moving constantly to avoid gouging the surface.\nUse the dust extraction during operation to reduce airborne dust and improve visibility."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_orbital_sander.html#post-operation",
+    "href": "_operational/04_SOPs/DeWalt_orbital_sander.html#post-operation",
+    "title": "Standard Operating Procedure (SOP) for DeWalt DCW210N Cordless Random Orbital Sander",
+    "section": "7. Post-Operation",
+    "text": "7. Post-Operation\n\nTurn off the sander using the “O” side of the switch.\nWait until the sander comes to a complete stop before setting it down.\nRemove the battery pack by pressing the release button and sliding it out.\nEmpty and clean the dust bag; if connected to a vacuum, check the vacuum system.\nClean the sanding pad and tool body from dust and debris.\nInspect the sanding disc for wear and replace as needed."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_orbital_sander.html#maintenance",
+    "href": "_operational/04_SOPs/DeWalt_orbital_sander.html#maintenance",
+    "title": "Standard Operating Procedure (SOP) for DeWalt DCW210N Cordless Random Orbital Sander",
+    "section": "8. Maintenance",
+    "text": "8. Maintenance\n\nRegularly inspect and clean vents to prevent overheating.\nReplace worn sanding pads and discs with DeWalt-approved parts.\nKeep switch and motor dust-sealed to prolong tool life.\nStore the tool and batteries in the designated container and cabinet.\nHave repairs performed by authorized service centers."
+  },
+  {
+    "objectID": "_operational/04_SOPs/Trotec_laser_cutter.html",
+    "href": "_operational/04_SOPs/Trotec_laser_cutter.html",
+    "title": "Standard Operating Procedure (SOP) for the Trotec Q400 Laser Cutter",
+    "section": "",
+    "text": "← Back to Appendix 4: Collection of Operating Instructions, User Manuals, and SOPs”"
+  },
+  {
+    "objectID": "_operational/04_SOPs/Trotec_laser_cutter.html#purpose",
+    "href": "_operational/04_SOPs/Trotec_laser_cutter.html#purpose",
+    "title": "Standard Operating Procedure (SOP) for the Trotec Q400 Laser Cutter",
+    "section": "1. Purpose",
+    "text": "1. Purpose\nEnsure the safe, efficient, and correct use of the Trotec Q400 laser cutter for material engraving or cutting, while protecting users, bystanders, and equipment."
+  },
+  {
+    "objectID": "_operational/04_SOPs/Trotec_laser_cutter.html#scope",
+    "href": "_operational/04_SOPs/Trotec_laser_cutter.html#scope",
+    "title": "Standard Operating Procedure (SOP) for the Trotec Q400 Laser Cutter",
+    "section": "2. Scope",
+    "text": "2. Scope\nApplies to all personnel trained and authorized to operate, maintain, or supervise the Trotec Q400 laser cutter in a laboratory, classroom, or workshop environment.[6]"
+  },
+  {
+    "objectID": "_operational/04_SOPs/Trotec_laser_cutter.html#responsibilities",
+    "href": "_operational/04_SOPs/Trotec_laser_cutter.html#responsibilities",
+    "title": "Standard Operating Procedure (SOP) for the Trotec Q400 Laser Cutter",
+    "section": "3. Responsibilities",
+    "text": "3. Responsibilities\n\nOperator: Perform all checks, operate safely, and report issues.\nSupervisor/GSR: Maintain machine, review procedures, and provide training."
+  },
+  {
+    "objectID": "_operational/04_SOPs/Trotec_laser_cutter.html#equipment-checklist",
+    "href": "_operational/04_SOPs/Trotec_laser_cutter.html#equipment-checklist",
+    "title": "Standard Operating Procedure (SOP) for the Trotec Q400 Laser Cutter",
+    "section": "4. Equipment Checklist",
+    "text": "4. Equipment Checklist\n\nTrotec Q400 laser cutter\nRequired workpiece material (CO₂ laser compatible)\nAppropriate exhaust/filtration systems running\nPPE: safety glasses (laser-rated), no reflective clothing/jewelry\nComputer with Trotec Ruby software"
+  },
+  {
+    "objectID": "_operational/04_SOPs/Trotec_laser_cutter.html#safety-precautions",
+    "href": "_operational/04_SOPs/Trotec_laser_cutter.html#safety-precautions",
+    "title": "Standard Operating Procedure (SOP) for the Trotec Q400 Laser Cutter",
+    "section": "5. Safety Precautions",
+    "text": "5. Safety Precautions\n\nOnly trained users may operate the laser.\nNever operate the Q400 with housing/interlocks bypassed or defective.\nAlways use the extraction system to remove fumes and particulates.\nNever leave the laser running unattended.\nRemove all flammable objects from the enclosure before starting.\nMaintain a clean area around the machine; avoid clutter.\nIn case of fire or malfunction, immediately use emergency stop and follow building procedures.\nDo not engrave/cut materials not verified as safe for CO₂ lasers, e.g., never cut/engrave PVC."
+  },
+  {
+    "objectID": "_operational/04_SOPs/Trotec_laser_cutter.html#pre-operation",
+    "href": "_operational/04_SOPs/Trotec_laser_cutter.html#pre-operation",
+    "title": "Standard Operating Procedure (SOP) for the Trotec Q400 Laser Cutter",
+    "section": "6. Pre-Operation",
+    "text": "6. Pre-Operation\n\nVisual Inspection:\n\nEnsure lens, mirrors, and glass are clean.\nConfirm laser bed is clear of debris from previous operations.\nInspect enclosure and interlocks.\n\nMaterial Preparation:\n\nPlace approved material flat on bed. Secure if needed (avoid warping or movement).\n\nPower Up:\n\nSwitch on the main machine power and the PC with Trotec Ruby software.\n\nFocus and Home:\n\nFocus laser using the provided focusing tool or SonarTechnology™ auto-focus.[5][6]\nHome the machine (move to origin).\n\nFile Setup:\n\nOpen or import project file in Trotec Ruby. Ensure correct vector/raster mode is selected and all elements are set to correct “hairline” or color coding for cutting vs. engraving.\n\nParameter Check:\n\nSet speed, power, and frequency to recommended values for the material and process. Reference Trotec’s database or your prior experience.\nSetting correct parameters may require testing on scrap material first."
+  },
+  {
+    "objectID": "_operational/04_SOPs/Trotec_laser_cutter.html#operation",
+    "href": "_operational/04_SOPs/Trotec_laser_cutter.html#operation",
+    "title": "Standard Operating Procedure (SOP) for the Trotec Q400 Laser Cutter",
+    "section": "7. Operation",
+    "text": "7. Operation\n\nPreview:\n\nUse Trotec Ruby’s outline/preview mode to check laser path.\nVerify job boundaries fit within the workpiece.\n\nRun Job:\n\nClose the lid fully and check all safety interlocks.\nStart the job. Monitor process at all times—never leave unattended.\nThe exhaust system should start automatically; ensure it is functioning, if not, stop the job immediately.\n\nIntervene if Needed:\n\nPress the emergency stop or open the lid to stop the laser immediately in case of problem.[6]"
+  },
+  {
+    "objectID": "_operational/04_SOPs/Trotec_laser_cutter.html#emergency-procedures",
+    "href": "_operational/04_SOPs/Trotec_laser_cutter.html#emergency-procedures",
+    "title": "Standard Operating Procedure (SOP) for the Trotec Q400 Laser Cutter",
+    "section": "8. Emergency Procedures",
+    "text": "8. Emergency Procedures\n\nFire: Use emergency stop; if safe, extinguish fire with CO₂/dry chemical extinguisher or fire blanket.\nFume Exposure: Stop machine, evacuate area, seek medical evaluation if exposed.\nElectric/Laser Hazard: Disconnect from power; do not attempt repairs unless authorized."
+  },
+  {
+    "objectID": "_operational/04_SOPs/Trotec_laser_cutter.html#post-operation",
+    "href": "_operational/04_SOPs/Trotec_laser_cutter.html#post-operation",
+    "title": "Standard Operating Procedure (SOP) for the Trotec Q400 Laser Cutter",
+    "section": "9. Post-Operation",
+    "text": "9. Post-Operation\n\nJob Completion:\n\nWait for all motion to stop before opening the lid.\nWait another 30 seconds for the fumes to be fully extracted before opening the lid.\nRemove finished item and inspect for completeness.\n\nClean-Up:\n\nRemove any debris/scrap from bed and surrounding area.\n\nShutdown:\n\nPower down the machine (the exhaust system should have powered down automatically).\nDo not power down, nor close the screen of the PC; log out/lock the computer instead."
+  },
+  {
+    "objectID": "_operational/04_SOPs/Trotec_laser_cutter.html#maintenance-operator-tasks",
+    "href": "_operational/04_SOPs/Trotec_laser_cutter.html#maintenance-operator-tasks",
+    "title": "Standard Operating Procedure (SOP) for the Trotec Q400 Laser Cutter",
+    "section": "10. Maintenance (Operator Tasks)",
+    "text": "10. Maintenance (Operator Tasks)\n\nClean optics as scheduled or when needed.\nInspect/care for air assist, fans, and filters.\nReport any faults or errors to the supervisor/GSR."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_handheld_drill.html",
+    "href": "_operational/04_SOPs/DeWalt_handheld_drill.html",
+    "title": "Standard Operating Procedure (SOP) for the battery-powered DeWalt drill",
+    "section": "",
+    "text": "← Back to Appendix 4: Collection of Operating Instructions, User Manuals, and SOPs”"
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_handheld_drill.html#purpose",
+    "href": "_operational/04_SOPs/DeWalt_handheld_drill.html#purpose",
+    "title": "Standard Operating Procedure (SOP) for the battery-powered DeWalt drill",
+    "section": "1. Purpose",
+    "text": "1. Purpose\nTo ensure safe and effective use of a battery-powered DeWalt drill for drilling and screwdriving tasks."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_handheld_drill.html#scope",
+    "href": "_operational/04_SOPs/DeWalt_handheld_drill.html#scope",
+    "title": "Standard Operating Procedure (SOP) for the battery-powered DeWalt drill",
+    "section": "2. Scope",
+    "text": "2. Scope\nThis procedure covers the operation, maintenance, and safety guidelines for the DeWalt cordless drill."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_handheld_drill.html#safety-precautions",
+    "href": "_operational/04_SOPs/DeWalt_handheld_drill.html#safety-precautions",
+    "title": "Standard Operating Procedure (SOP) for the battery-powered DeWalt drill",
+    "section": "3. Safety Precautions",
+    "text": "3. Safety Precautions\n\nAlways wear appropriate personal protective equipment (PPE): safety glasses and hearing protection, if necessary.\nEnsure the work area is clean, well-lit, and free of hazards.\nInspect the drill and battery for obvious damage before use.\nKeep the drill away from rain or wet conditions to avoid electric shock.\nNever attempt to change drill bits or accessories with the drill powered on.\nUse only genuine DeWalt batteries and chargers.\nBring the drill to the supervisor/GSR if it is faulty or damaged."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_handheld_drill.html#pre-operation-checks",
+    "href": "_operational/04_SOPs/DeWalt_handheld_drill.html#pre-operation-checks",
+    "title": "Standard Operating Procedure (SOP) for the battery-powered DeWalt drill",
+    "section": "4. Pre-Operation Checks",
+    "text": "4. Pre-Operation Checks\n\nVerify that the battery pack is charged.\nConfirm the drill is switched off before inserting the battery.\nInspect drill bits or screwdriving accessories for wear or damage.\nEnsure the drill’s chuck is open enough to accept the drill bit."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_handheld_drill.html#assembly",
+    "href": "_operational/04_SOPs/DeWalt_handheld_drill.html#assembly",
+    "title": "Standard Operating Procedure (SOP) for the battery-powered DeWalt drill",
+    "section": "5. Assembly",
+    "text": "5. Assembly\n\nAlign the battery pack with the drill handle slots and slide it in until it clicks securely.\nCheck the battery pack is firmly locked in place.\nSelect the appropriate drill bit or accessory.\nOpen the chuck by turning it counterclockwise and insert the drill bit fully.\nTighten the chuck by turning it clockwise firmly by hand."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_handheld_drill.html#operation",
+    "href": "_operational/04_SOPs/DeWalt_handheld_drill.html#operation",
+    "title": "Standard Operating Procedure (SOP) for the battery-powered DeWalt drill",
+    "section": "6. Operation",
+    "text": "6. Operation\n\nTurn the mode selector to the desired setting (drilling, screwdriving with appropriate clutch setting).\nSelect the speed according to the task (use lower speed for high torque tasks, higher speed for wood drilling).\nHold the drill firmly.\nApply steady pressure in a straight line with the drill bit or screw.\nSqueeze the trigger to start the drill; release the trigger to stop.\nUse the forward/reverse switch for tightening or loosening screws.\nAvoid continuous use at variable speeds to prevent switch damage.\nWhen drilling, keep the motor running while pulling the bit out to avoid jamming."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_handheld_drill.html#post-operation",
+    "href": "_operational/04_SOPs/DeWalt_handheld_drill.html#post-operation",
+    "title": "Standard Operating Procedure (SOP) for the battery-powered DeWalt drill",
+    "section": "7. Post-Operation",
+    "text": "7. Post-Operation\n\nTurn off the drill and release the trigger.\nRemove the battery pack by pressing the release buttons and pulling it out.\nClean dirt and dust from vents and exterior with a dry cloth or compressed air.\nStore the drill and batteries in a cool, dry place.\nRecharge the battery if needed using only the designated DeWalt charger."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_handheld_drill.html#maintenance",
+    "href": "_operational/04_SOPs/DeWalt_handheld_drill.html#maintenance",
+    "title": "Standard Operating Procedure (SOP) for the battery-powered DeWalt drill",
+    "section": "8. Maintenance",
+    "text": "8. Maintenance\n\nRegularly inspect and clean air vents to prevent overheating.\nNever perform mainenance on the drill by yourself, report every suspicious machine functionality to GSR.\nHave repairs performed by certified service centers.\nNever use solvents on plastic parts; clean with mild detergent and damp cloth."
+  },
+  {
+    "objectID": "_operational/04_SOPs/Mekanika_CNC.html",
+    "href": "_operational/04_SOPs/Mekanika_CNC.html",
+    "title": "Standard Operating Procedure (SOP) for the Mekanika Pro Education Pack CNC milling machine",
+    "section": "",
+    "text": "← Back to Appendix 4: Collection of Operating Instructions, User Manuals, and SOPs”"
+  },
+  {
+    "objectID": "_operational/04_SOPs/Mekanika_CNC.html#purpose",
+    "href": "_operational/04_SOPs/Mekanika_CNC.html#purpose",
+    "title": "Standard Operating Procedure (SOP) for the Mekanika Pro Education Pack CNC milling machine",
+    "section": "1. Purpose",
+    "text": "1. Purpose\nTo ensure safe and efficient operation of the Mekanika Pro CNC milling machine within educational or public spaces, preventing accidents and ensuring high-quality results."
+  },
+  {
+    "objectID": "_operational/04_SOPs/Mekanika_CNC.html#scope",
+    "href": "_operational/04_SOPs/Mekanika_CNC.html#scope",
+    "title": "Standard Operating Procedure (SOP) for the Mekanika Pro Education Pack CNC milling machine",
+    "section": "2. Scope",
+    "text": "2. Scope\nApplies to all operators, supervisors, and maintenance personnel responsible for using or servicing the CNC mill at premises of GHE, ETH Zurich."
+  },
+  {
+    "objectID": "_operational/04_SOPs/Mekanika_CNC.html#responsibilities",
+    "href": "_operational/04_SOPs/Mekanika_CNC.html#responsibilities",
+    "title": "Standard Operating Procedure (SOP) for the Mekanika Pro Education Pack CNC milling machine",
+    "section": "3. Responsibilities",
+    "text": "3. Responsibilities\n\nOperators: Follow all procedures and safety guidelines.\nSupervisors: Ensure all staff are trained and SOPs are followed.\nMaintenance: Carry out routine checks and preventive maintenance."
+  },
+  {
+    "objectID": "_operational/04_SOPs/Mekanika_CNC.html#required-equipment",
+    "href": "_operational/04_SOPs/Mekanika_CNC.html#required-equipment",
+    "title": "Standard Operating Procedure (SOP) for the Mekanika Pro Education Pack CNC milling machine",
+    "section": "4. Required Equipment",
+    "text": "4. Required Equipment\n\nMekanika Pro CNC mill + PC & VFD spindle\nTooling: end mills, collets, wrenches\nSpoilerboard, safety enclosure, dust shoe and dust collection system\nPPE: safety glasses, hearing protection, dust mask\nClamping/tools for workpiece\nMeasurement instruments: calipers, gauges\nAppropriate lubricants/coolants if needed"
+  },
+  {
+    "objectID": "_operational/04_SOPs/Mekanika_CNC.html#safety-precautions",
+    "href": "_operational/04_SOPs/Mekanika_CNC.html#safety-precautions",
+    "title": "Standard Operating Procedure (SOP) for the Mekanika Pro Education Pack CNC milling machine",
+    "section": "5. Safety Precautions",
+    "text": "5. Safety Precautions\n\nAlways wear appropriate PPE: safety glasses, gloves, and hearing protection.\nEnsure the safety enclosure is fully closed before starting any operation. The enclosure doors are interlocked to trigger an emergency stop if opened.\nNever bypass safety interlocks.\nCheck that emergency stops and all controls are working before use.\nKeep the area clean, dry, and well-lit.\nOnly trained personnel are permitted to operate the CNC mill."
+  },
+  {
+    "objectID": "_operational/04_SOPs/Mekanika_CNC.html#pre-operation-procedure",
+    "href": "_operational/04_SOPs/Mekanika_CNC.html#pre-operation-procedure",
+    "title": "Standard Operating Procedure (SOP) for the Mekanika Pro Education Pack CNC milling machine",
+    "section": "6. Pre-Operation Procedure",
+    "text": "6. Pre-Operation Procedure\n\nInspect Machine:\n\nCheck for any visible damage, loose or missing parts.\nEnsure the worktable and spoilerboard are clear of debris.\nConfirm all guards/enclosures are in place and secure.\n\nPrepare Tooling:\n\nSelect appropriate end mill and collet size.\nInspect the tool for wear or damage.\nInstall end mill into spindle using both provided wrenches.\n\nPrepare Workpiece:\n\nAttach securely to the spoilerboard/worktable using appropriate clamps. Double-check tightness.\n\nSet Up Dust Collection:\n\nAttach dust shoe and connect the dust extraction system.\nEnsure vacuum is functional before starting spindle.\n\nPower Up:\n\nTurn on the CNC machine and control PC. Confirm all system lights/status indicators are normal."
+  },
+  {
+    "objectID": "_operational/04_SOPs/Mekanika_CNC.html#operation",
+    "href": "_operational/04_SOPs/Mekanika_CNC.html#operation",
+    "title": "Standard Operating Procedure (SOP) for the Mekanika Pro Education Pack CNC milling machine",
+    "section": "7. Operation",
+    "text": "7. Operation\n\nLoad/Check Program:\n\nLoad G-Code file via touchscreen, USB, or network connection.\nDouble-check that the program matches the intended job (material, tool diameter, etc.).\n\nPre-Run Checks:\n\nUse ‘dry run’ (without spindle engaged or at reduced speed) to verify there are no collisions in the toolpath.\nVisually confirm the machine moves as expected.\n\nStart Job:\n\nEnsure all operators/observers are clear.\nStart dust collection system.\nStart spindle and machining program via control interface.\nMonitor operation; remain alert for unusual noises, vibrations, or errors."
+  },
+  {
+    "objectID": "_operational/04_SOPs/Mekanika_CNC.html#emergency-procedures",
+    "href": "_operational/04_SOPs/Mekanika_CNC.html#emergency-procedures",
+    "title": "Standard Operating Procedure (SOP) for the Mekanika Pro Education Pack CNC milling machine",
+    "section": "8. Emergency Procedures",
+    "text": "8. Emergency Procedures\n\nUse the EMERGENCY STOP button or open the enclosure door to stop the machine immediately if a hazard arises.\nReport any incident to the supervisor and do not resume operation until the cause is identified and fixed."
+  },
+  {
+    "objectID": "_operational/04_SOPs/Mekanika_CNC.html#post-operation",
+    "href": "_operational/04_SOPs/Mekanika_CNC.html#post-operation",
+    "title": "Standard Operating Procedure (SOP) for the Mekanika Pro Education Pack CNC milling machine",
+    "section": "9. Post-Operation",
+    "text": "9. Post-Operation\n\nJob Completion:\n\nWait for all movement to stop, then remove finished part.\nInspect both part and tooling for issues.\n\nClean-Up:\n\nUse vacuum to clear debris from machine and work area.\nRemove and store tools, collets, and clamps properly.\n\nShutdown:\n\nTurn off spindle, dust collector, and CNC system.\nPower down the control PC.\nEnsure enclosure is closed and workspace is tidy and safe."
+  },
+  {
+    "objectID": "_operational/04_SOPs/Mekanika_CNC.html#maintenance",
+    "href": "_operational/04_SOPs/Mekanika_CNC.html#maintenance",
+    "title": "Standard Operating Procedure (SOP) for the Mekanika Pro Education Pack CNC milling machine",
+    "section": "10. Maintenance",
+    "text": "10. Maintenance\n\nPerform regular checks on spindle, tool holders, and safety features.\nInspect dust filters and empty collection bins as required.\nLog maintenance in provided records or checklists."
+  },
+  {
+    "objectID": "_operational/04_SOPs/drill_press.html",
+    "href": "_operational/04_SOPs/drill_press.html",
+    "title": "Standard Operating Procedure (SOP) for the Drill Press with Slow/Fast Speed Switch",
+    "section": "",
+    "text": "← Back to Appendix 4: Collection of Operating Instructions, User Manuals, and SOPs”"
+  },
+  {
+    "objectID": "_operational/04_SOPs/drill_press.html#purpose",
+    "href": "_operational/04_SOPs/drill_press.html#purpose",
+    "title": "Standard Operating Procedure (SOP) for the Drill Press with Slow/Fast Speed Switch",
+    "section": "1. Purpose",
+    "text": "1. Purpose\nTo establish safe and consistent operating procedures for using the drill press equipped with a simple speed selector switch, minimizing risks and ensuring quality drilling."
+  },
+  {
+    "objectID": "_operational/04_SOPs/drill_press.html#scope",
+    "href": "_operational/04_SOPs/drill_press.html#scope",
+    "title": "Standard Operating Procedure (SOP) for the Drill Press with Slow/Fast Speed Switch",
+    "section": "2. Scope",
+    "text": "2. Scope\nApplies to all authorized and trained personnel operating the drill press in workshops, labs, or similar environments."
+  },
+  {
+    "objectID": "_operational/04_SOPs/drill_press.html#personal-protective-equipment-ppe",
+    "href": "_operational/04_SOPs/drill_press.html#personal-protective-equipment-ppe",
+    "title": "Standard Operating Procedure (SOP) for the Drill Press with Slow/Fast Speed Switch",
+    "section": "3. Personal Protective Equipment (PPE)",
+    "text": "3. Personal Protective Equipment (PPE)\n\nSafety glasses or face shield\n\nHearing protection if needed\n\nNo loose clothing, jewelry, or gloves\n\nLong hair tied back\n\nClosed-toe shoes"
+  },
+  {
+    "objectID": "_operational/04_SOPs/drill_press.html#pre-operation-checks",
+    "href": "_operational/04_SOPs/drill_press.html#pre-operation-checks",
+    "title": "Standard Operating Procedure (SOP) for the Drill Press with Slow/Fast Speed Switch",
+    "section": "4. Pre-Operation Checks",
+    "text": "4. Pre-Operation Checks\n\nEnsure the work area is clean, dry, and free of obstructions.\n\nCheck that the drill press is securely mounted or stable.\n\nVerify that all guards and safety shields are in place.\n\nInspect the electrical cord and plug for damage.\n\nConfirm the drill bit is sharp, correctly sized, and securely tightened with the chuck key removed before operation.\n\nAdjust the table height and angle as required and securely lock in position.\n\nClamp the workpiece securely with a vise or clamps to prevent movement.\n\nSet the depth stop if applicable."
+  },
+  {
+    "objectID": "_operational/04_SOPs/drill_press.html#speed-selection",
+    "href": "_operational/04_SOPs/drill_press.html#speed-selection",
+    "title": "Standard Operating Procedure (SOP) for the Drill Press with Slow/Fast Speed Switch",
+    "section": "5. Speed Selection",
+    "text": "5. Speed Selection\n\nSelect Slow speed for harder materials or larger diameter bits to prevent overheating and bit damage.\n\nSelect Fast speed for softer materials or smaller diameter bits for cleaner, faster drilling."
+  },
+  {
+    "objectID": "_operational/04_SOPs/drill_press.html#operating-procedures",
+    "href": "_operational/04_SOPs/drill_press.html#operating-procedures",
+    "title": "Standard Operating Procedure (SOP) for the Drill Press with Slow/Fast Speed Switch",
+    "section": "6. Operating Procedures",
+    "text": "6. Operating Procedures\n\nStand clear of the rotating drill bit and ensure no body parts or loose items are near moving parts.\n\nTurn the drill press ON using the main switch.\n\nSlowly lower the drill bit to the workpiece, applying moderate, steady pressure—do not force the drill bit.\n\nUse the appropriate coolant or lubricant for metal drilling if necessary.\n\nDrill fully through the workpiece or to the desired depth, then slowly retract the drill bit.\n\nTurn the drill press OFF before removing the workpiece or making adjustments."
+  },
+  {
+    "objectID": "_operational/04_SOPs/drill_press.html#post-operation",
+    "href": "_operational/04_SOPs/drill_press.html#post-operation",
+    "title": "Standard Operating Procedure (SOP) for the Drill Press with Slow/Fast Speed Switch",
+    "section": "7. Post-Operation",
+    "text": "7. Post-Operation\n\nWait for the drill bit to stop moving completely before opening any guards or removing the workpiece.\n\nUse a brush to clean metal or wood chips from the table—never use hands.\n\nRemove and store drill bits properly and clean the chuck if needed.\n\nEnsure the machine is turned OFF and unplugged if cleaning or maintenance is required.\n\nKeep the area around the drill press clean and free of debris.\n\nClean the area after use, disposing of any waste materials properly."
+  },
+  {
+    "objectID": "_operational/04_SOPs/drill_press.html#emergency-procedures",
+    "href": "_operational/04_SOPs/drill_press.html#emergency-procedures",
+    "title": "Standard Operating Procedure (SOP) for the Drill Press with Slow/Fast Speed Switch",
+    "section": "8. Emergency Procedures",
+    "text": "8. Emergency Procedures\n\nKnow the location of the emergency stop and the main power switch.\n\nIn case of abnormal noise, vibration, or malfunction, stop the machine immediately.\n\nReport any injuries or malfunctions to the supervisor immediately."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_jigsaw.html",
+    "href": "_operational/04_SOPs/DeWalt_jigsaw.html",
+    "title": "Standard Operating Procedure (SOP) for the battery-powered DeWalt jigsaw",
+    "section": "",
+    "text": "← Back to Appendix 4: Collection of Operating Instructions, User Manuals, and SOPs”"
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_jigsaw.html#purpose",
+    "href": "_operational/04_SOPs/DeWalt_jigsaw.html#purpose",
+    "title": "Standard Operating Procedure (SOP) for the battery-powered DeWalt jigsaw",
+    "section": "1. Purpose",
+    "text": "1. Purpose\nTo ensure safe and effective use of the DeWalt cordless jigsaw for cutting wood, metal, plastic, and other materials."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_jigsaw.html#scope",
+    "href": "_operational/04_SOPs/DeWalt_jigsaw.html#scope",
+    "title": "Standard Operating Procedure (SOP) for the battery-powered DeWalt jigsaw",
+    "section": "2. Scope",
+    "text": "2. Scope\nThis procedure applies to all operators using DeWalt battery-powered jigsaws."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_jigsaw.html#safety-precautions",
+    "href": "_operational/04_SOPs/DeWalt_jigsaw.html#safety-precautions",
+    "title": "Standard Operating Procedure (SOP) for the battery-powered DeWalt jigsaw",
+    "section": "3. Safety Precautions",
+    "text": "3. Safety Precautions\n\nAlways wear safety glasses, hearing protection, and a dust mask.\nUse appropriate gloves but avoid wearing gloves that could catch in moving parts.\nKeep work area clean, well-lit, and free of distractions.\nDo not use the jigsaw if it is damaged. or if metal safety guard in front is missing.\nDisconnect the battery before making adjustments or changing blades.\nAvoid loose clothing, jewelry, and contain long hair to prevent entanglement.\nUse only DeWalt-branded batteries and chargers compatible with the model.\nEnsure the jigsaw shoe (base plate) is securely attached during operation."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_jigsaw.html#pre-operation-checks",
+    "href": "_operational/04_SOPs/DeWalt_jigsaw.html#pre-operation-checks",
+    "title": "Standard Operating Procedure (SOP) for the battery-powered DeWalt jigsaw",
+    "section": "4. Pre-Operation Checks",
+    "text": "4. Pre-Operation Checks\n\nInspect the jigsaw, battery, and charger for damage.\nSelect the appropriate blade type for the material to be cut.\nEnsure the blade is correctly installed and secure.\nCheck the orbital action lever and bevel settings are adjusted as desired."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_jigsaw.html#assembly-and-blade-installation",
+    "href": "_operational/04_SOPs/DeWalt_jigsaw.html#assembly-and-blade-installation",
+    "title": "Standard Operating Procedure (SOP) for the battery-powered DeWalt jigsaw",
+    "section": "5. Assembly and Blade Installation",
+    "text": "5. Assembly and Blade Installation\n\nInstall the battery by sliding it into the handle until it clicks in place.\nTo install or remove the blade, lift the keyless blade release lever and insert or remove the blade carefully.\nAvoid touching the blade edges, as they may be sharp or hot.\nAdjust the shoe bevel by unlocking the bevel lever, setting the angle, and re-locking it.\nAttach dust port as needed."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_jigsaw.html#operation",
+    "href": "_operational/04_SOPs/DeWalt_jigsaw.html#operation",
+    "title": "Standard Operating Procedure (SOP) for the battery-powered DeWalt jigsaw",
+    "section": "6. Operation",
+    "text": "6. Operation\n\nHold the jigsaw firmly with both hands for stability.\nStart the tool by squeezing the trigger; speed will vary with pressure applied on the trigger.\nUse the trigger lock button to lock the tool off when not in use to prevent accidental starts.\nGuide the jigsaw steadily along the cutting line without forcing it.\nAllow the blade to reach full speed before cutting.\nDo not twist or bend the blade while cutting to avoid damage.\nUtilize the orbital action setting for faster cuts in wood; turn it off for fine cuts or harder materials.\nUse the dust blower control to keep the cut line visible."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_jigsaw.html#post-operation",
+    "href": "_operational/04_SOPs/DeWalt_jigsaw.html#post-operation",
+    "title": "Standard Operating Procedure (SOP) for the battery-powered DeWalt jigsaw",
+    "section": "7. Post-Operation",
+    "text": "7. Post-Operation\n\nRelease the trigger and allow the blade to stop fully before setting the tool down.\nRemove the battery by pressing the release button and sliding it out.\nClean the jigsaw of dust and debris; use compressed air for vents if necessary.\nInspect the blade for wear and replace as needed.\nStore the jigsaw and batteries in a designated box and cabinet."
+  },
+  {
+    "objectID": "_operational/04_SOPs/DeWalt_jigsaw.html#maintenance",
+    "href": "_operational/04_SOPs/DeWalt_jigsaw.html#maintenance",
+    "title": "Standard Operating Procedure (SOP) for the battery-powered DeWalt jigsaw",
+    "section": "8. Maintenance",
+    "text": "8. Maintenance\n\nRegularly check for loose screws or parts.\nKeep air vents clean to prevent overheating.\nLubricate moving parts sparingly as recommended in the manual.\nDo not attempt to service the battery; refer to authorized service centers for battery or tool repair."
+  },
+  {
+    "objectID": "_operational/04_SOPs/HoliPress_injection_molding.html",
+    "href": "_operational/04_SOPs/HoliPress_injection_molding.html",
+    "title": "Standard Operating Procedure (SOP) for the HoliPress 38 manual plastic injection molding machine",
+    "section": "",
+    "text": "← Back to Appendix 4: Collection of Operating Instructions, User Manuals, and SOPs”"
+  },
+  {
+    "objectID": "_operational/04_SOPs/HoliPress_injection_molding.html#purpose",
+    "href": "_operational/04_SOPs/HoliPress_injection_molding.html#purpose",
+    "title": "Standard Operating Procedure (SOP) for the HoliPress 38 manual plastic injection molding machine",
+    "section": "1. Purpose",
+    "text": "1. Purpose\nTo safely and efficiently operate the HoliPress 38 for manual plastic injection molding to produce high-quality plastic parts, prototypes, or small batch productions."
+  },
+  {
+    "objectID": "_operational/04_SOPs/HoliPress_injection_molding.html#scope",
+    "href": "_operational/04_SOPs/HoliPress_injection_molding.html#scope",
+    "title": "Standard Operating Procedure (SOP) for the HoliPress 38 manual plastic injection molding machine",
+    "section": "2. Scope",
+    "text": "2. Scope\nApplicable to all operators using the HoliPress 38 for prototyping, material testing, recycling, and small-scale production in workshops, labs, or educational settings."
+  },
+  {
+    "objectID": "_operational/04_SOPs/HoliPress_injection_molding.html#safety-precautions",
+    "href": "_operational/04_SOPs/HoliPress_injection_molding.html#safety-precautions",
+    "title": "Standard Operating Procedure (SOP) for the HoliPress 38 manual plastic injection molding machine",
+    "section": "3. Safety Precautions",
+    "text": "3. Safety Precautions\n\nAlways wear provided personal protective equipment (PPE): safety glasses and thermal gloves.\nEnsure the machine is placed on a stable, flat surface.\nKeep hands and loose clothing away from moving parts during operation.\nAllow the machine to cool down before maintenance or cleaning."
+  },
+  {
+    "objectID": "_operational/04_SOPs/HoliPress_injection_molding.html#machine-description",
+    "href": "_operational/04_SOPs/HoliPress_injection_molding.html#machine-description",
+    "title": "Standard Operating Procedure (SOP) for the HoliPress 38 manual plastic injection molding machine",
+    "section": "4. Machine Description",
+    "text": "4. Machine Description\n\nInjection volume capacity: 38 cm^3.\nTriple heating zones for precise temperature control up to 320 °C.\nLength-adjustable injection lever for ergonomic operation.\nAdjustable mold height up to 190 mm.\nPID temperature control for consistent melting.\nManual clamping vice compatible with various mold types (metal, SLA, FDM).\nInjection speed adjustable between 2 to 10 seconds.\nPower consumption: 860 W at 220 V."
+  },
+  {
+    "objectID": "_operational/04_SOPs/HoliPress_injection_molding.html#preparation",
+    "href": "_operational/04_SOPs/HoliPress_injection_molding.html#preparation",
+    "title": "Standard Operating Procedure (SOP) for the HoliPress 38 manual plastic injection molding machine",
+    "section": "5. Preparation",
+    "text": "5. Preparation\n\nInspect the machine and all accessories for damage or wear.\nSelect and install the appropriate mold in the clamping vice; secure firmly.\nAdjust the mold height as needed for your specific mold.\nInstall the shut-off nozzle (5 mm heated nozzle included).\nPreheat the machine using the triple heating zones:\n\nSet each temperature zone according to the plastic material specifications (consult material datasheets).\nAllow the machine to reach stable set temperatures before injection."
+  },
+  {
+    "objectID": "_operational/04_SOPs/HoliPress_injection_molding.html#material-loading",
+    "href": "_operational/04_SOPs/HoliPress_injection_molding.html#material-loading",
+    "title": "Standard Operating Procedure (SOP) for the HoliPress 38 manual plastic injection molding machine",
+    "section": "6. Material Loading",
+    "text": "6. Material Loading\n\nUse industrial-grade plastic granules suitable for injection at ≤320°C.\nLoad the plastic granules into the heating chamber.\nRotate the lever system to feed and melt the plastic.\nEnsure the plastic is properly melted and plasticized before injecting."
+  },
+  {
+    "objectID": "_operational/04_SOPs/HoliPress_injection_molding.html#injection-process",
+    "href": "_operational/04_SOPs/HoliPress_injection_molding.html#injection-process",
+    "title": "Standard Operating Procedure (SOP) for the HoliPress 38 manual plastic injection molding machine",
+    "section": "7. Injection Process",
+    "text": "7. Injection Process\n\nAdjust the injection lever length for comfortable operation.\nBegin the injection by pressing the lever steadily to inject melted plastic into the mold cavity.\nMaintain closing pressure using the manual clamping vice during injection.\nAllow the plastic to cool and solidify in the mold.\nRelease the mold clamp and remove the molded part carefully."
+  },
+  {
+    "objectID": "_operational/04_SOPs/HoliPress_injection_molding.html#post-injection",
+    "href": "_operational/04_SOPs/HoliPress_injection_molding.html#post-injection",
+    "title": "Standard Operating Procedure (SOP) for the HoliPress 38 manual plastic injection molding machine",
+    "section": "8. Post-Injection",
+    "text": "8. Post-Injection\n\nPurge the machine using the included purge block to clean out residual plastic.\nClean the nozzle and heating chamber with supplied cleaning tools.\nStore unused granules properly to avoid contamination.\nInspect the injected parts for quality and defects.\nNever swich off the machine with the piston in the injection position; always place the piston back in locked position before powering down."
+  },
+  {
+    "objectID": "_operational/04_SOPs/HoliPress_injection_molding.html#maintenance",
+    "href": "_operational/04_SOPs/HoliPress_injection_molding.html#maintenance",
+    "title": "Standard Operating Procedure (SOP) for the HoliPress 38 manual plastic injection molding machine",
+    "section": "9. Maintenance",
+    "text": "9. Maintenance\n\nRegularly clean the nozzle and purge block after use to prevent clogging.\nCheck the heating elements and temperature sensors periodically.\nLubricate moving parts as recommended by the manufacturer.\nReport any malfunction or unusual operation immediately."
+  },
+  {
+    "objectID": "_operational/04_SOPs/HoliPress_injection_molding.html#troubleshooting",
+    "href": "_operational/04_SOPs/HoliPress_injection_molding.html#troubleshooting",
+    "title": "Standard Operating Procedure (SOP) for the HoliPress 38 manual plastic injection molding machine",
+    "section": "10. Troubleshooting",
+    "text": "10. Troubleshooting\n\nInconsistent injection pressure or plastic flow may indicate blockage—clean nozzle and purge system.\nTemperature instability—check PID controller settings and heating zones.\nMold leakage—ensure mold is properly clamped and seals are intact."
+  },
+  {
+    "objectID": "_operational/04_SOPs/HoliPress_injection_molding.html#additional-notes",
+    "href": "_operational/04_SOPs/HoliPress_injection_molding.html#additional-notes",
+    "title": "Standard Operating Procedure (SOP) for the HoliPress 38 manual plastic injection molding machine",
+    "section": "11. Additional Notes",
+    "text": "11. Additional Notes\n\nHoliPress 38 supports a wide range of plastics including recycled granules and technical materials.\nUse the machine as a flexible tool for prototypes, education, material characterization, and small batch production.\nConsult specific plastic material datasheets for melting temperatures and injection parameters."
   }
 ]

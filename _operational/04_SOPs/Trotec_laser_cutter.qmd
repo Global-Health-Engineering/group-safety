@@ -1,0 +1,96 @@
+---
+title: "Standard Operating Procedure (SOP) for the Trotec Q400 Laser Cutter" 
+format: html
+---
+
+[← Back to Appendix 4: Collection of Operating Instructions, User Manuals, and SOPs"](../04_operating_instructions_user_manuals_SOPs.qmd)
+
+## 1. Purpose
+Ensure the **safe, efficient, and correct use** of the Trotec Q400 laser cutter for material engraving or cutting, while protecting users, bystanders, and equipment.
+
+## 2. Scope
+Applies to **all personnel** trained and authorized to operate, maintain, or supervise the Trotec Q400 laser cutter in a laboratory, classroom, or workshop environment.[6]
+
+## 3. Responsibilities
+- **Operator:** Perform all checks, operate safely, and report issues.
+- **Supervisor/GSR:** Maintain machine, review procedures, and provide training.
+
+## 4. Equipment Checklist
+- Trotec Q400 laser cutter
+- Required workpiece material (CO₂ laser compatible)
+- Appropriate exhaust/filtration systems running
+- PPE: safety glasses (laser-rated), no reflective clothing/jewelry
+- Computer with Trotec Ruby software
+
+## 5. Safety Precautions
+- Only **trained users** may operate the laser.
+- Never operate the Q400 with housing/interlocks bypassed or defective.
+- Always use the **extraction system** to remove fumes and particulates.
+- Never leave the laser running unattended.
+- Remove all flammable objects from the enclosure before starting.
+- Maintain a clean area around the machine; avoid clutter.
+- In case of fire or malfunction, **immediately use emergency stop and follow building procedures**.
+- Do not engrave/cut materials not verified as safe for CO₂ lasers, e.g., **never cut/engrave PVC**.
+
+## 6. Pre-Operation
+
+1. **Visual Inspection:**
+   - Ensure lens, mirrors, and glass are clean.
+   - Confirm laser bed is clear of debris from previous operations.
+   - Inspect enclosure and interlocks.
+
+2. **Material Preparation:**
+   - Place approved material flat on bed. Secure if needed (avoid warping or movement).
+
+3. **Power Up:**
+   - Switch on the main machine power and the PC with Trotec Ruby software.
+
+4. **Focus and Home:**
+   - Focus laser using the provided focusing tool or SonarTechnology™ auto-focus.[5][6]
+   - Home the machine (move to origin).
+
+5. **File Setup:**
+   - Open or import project file in Trotec Ruby. Ensure correct vector/raster mode is selected and all elements are set to correct “hairline” or color coding for cutting vs. engraving.
+
+6. **Parameter Check:**
+   - Set speed, power, and frequency to recommended values for the material and process. Reference Trotec’s database or your prior experience.
+   - Setting correct parameters may require testing on scrap material first.
+
+## 7. Operation
+
+1. **Preview:**
+   - Use Trotec Ruby's outline/preview mode to check laser path.
+   - Verify job boundaries fit within the workpiece.
+
+2. **Run Job:**
+   - Close the lid fully and check all safety interlocks.
+   - Start the job. **Monitor process at all times**—never leave unattended.
+   - The exhaust system should start automatically; ensure it is functioning, if not, stop the job immediately.
+
+3. **Intervene if Needed:**
+   - Press the emergency stop or open the lid to stop the laser immediately in case of problem.[6]
+
+## 8. Emergency Procedures
+
+- **Fire:** Use emergency stop; if safe, extinguish fire with CO₂/dry chemical extinguisher or fire blanket.
+- **Fume Exposure:** Stop machine, evacuate area, seek medical evaluation if exposed.
+- **Electric/Laser Hazard:** Disconnect from power; do not attempt repairs unless authorized.
+
+## 9. Post-Operation
+
+1. **Job Completion:**
+   - Wait for all motion to stop before opening the lid.
+   - Wait another 30 seconds for the fumes to be fully extracted before opening the lid.
+   - Remove finished item and inspect for completeness.
+
+2. **Clean-Up:**
+   - Remove any debris/scrap from bed and surrounding area.
+
+3. **Shutdown:**
+   - Power down the machine (the exhaust system should have powered down automatically).
+   - Do not power down, nor close the screen of the PC; log out/lock the computer instead.
+
+## 10. Maintenance (Operator Tasks)
+- Clean optics as scheduled or when needed.
+- Inspect/care for air assist, fans, and filters.
+- Report any faults or errors to the supervisor/GSR.

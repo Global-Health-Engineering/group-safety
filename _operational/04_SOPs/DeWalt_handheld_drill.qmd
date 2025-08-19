@@ -1,0 +1,57 @@
+---
+title: "Standard Operating Procedure (SOP) for the battery-powered DeWalt drill"
+format: html
+---
+
+[← Back to Appendix 4: Collection of Operating Instructions, User Manuals, and SOPs"](../04_operating_instructions_user_manuals_SOPs.qmd)
+
+## 1. Purpose
+To ensure safe and effective use of a battery-powered DeWalt drill for drilling and screwdriving tasks.
+
+## 2. Scope
+This procedure covers the operation, maintenance, and safety guidelines for the DeWalt cordless drill.
+
+## 3. Safety Precautions
+- Always wear appropriate personal protective equipment (PPE): safety glasses and hearing protection, if necessary.
+- Ensure the work area is clean, well-lit, and free of hazards.
+- Inspect the drill and battery for obvious damage before use.
+- Keep the drill away from rain or wet conditions to avoid electric shock.
+- Never attempt to change drill bits or accessories with the drill powered on.
+- Use only genuine DeWalt batteries and chargers.
+- Bring the drill to the supervisor/GSR if it is faulty or damaged.
+
+## 4. Pre-Operation Checks
+- Verify that the battery pack is charged.
+- Confirm the drill is switched off before inserting the battery.
+- Inspect drill bits or screwdriving accessories for wear or damage.
+- Ensure the drill’s chuck is open enough to accept the drill bit.
+
+## 5. Assembly
+- Align the battery pack with the drill handle slots and slide it in until it clicks securely.
+- Check the battery pack is firmly locked in place.
+- Select the appropriate drill bit or accessory.
+- Open the chuck by turning it counterclockwise and insert the drill bit fully.
+- Tighten the chuck by turning it clockwise firmly by hand.
+
+## 6. Operation
+- Turn the mode selector to the desired setting (drilling, screwdriving with appropriate clutch setting).
+- Select the speed according to the task (use lower speed for high torque tasks, higher speed for wood drilling).
+- Hold the drill firmly.
+- Apply steady pressure in a straight line with the drill bit or screw.
+- Squeeze the trigger to start the drill; release the trigger to stop.
+- Use the forward/reverse switch for tightening or loosening screws.
+- Avoid continuous use at variable speeds to prevent switch damage.
+- When drilling, keep the motor running while pulling the bit out to avoid jamming.
+
+## 7. Post-Operation
+- Turn off the drill and release the trigger.
+- Remove the battery pack by pressing the release buttons and pulling it out.
+- Clean dirt and dust from vents and exterior with a dry cloth or compressed air.
+- Store the drill and batteries in a cool, dry place.
+- Recharge the battery if needed using only the designated DeWalt charger.
+
+## 8. Maintenance
+- Regularly inspect and clean air vents to prevent overheating.
+- Never perform mainenance on the drill by yourself, report every suspicious machine functionality to GSR.
+- Have repairs performed by certified service centers.
+- Never use solvents on plastic parts; clean with mild detergent and damp cloth.
