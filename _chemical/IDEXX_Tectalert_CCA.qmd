@@ -1,12 +1,83 @@
 ---
-title: "IDEXX Tectalert CCA"
+title: "IDEXX TECTALERT EC/TC (CCA)"
 format: html
 ---
 
 [← Back to Chemical Safety](../chemical-safety.qmd)
 
-# IDEXX Tectalert CCA
+## Basic information
+- Chemical formula(s): Contains Pyruvic Acid, Sodium Salt (1.7-1.8%), Trisodium Orthophosphate (3.4-3.6%)
+- Other names: Tectalert EC/TC (CCA), IDEXX Reagent
+- Product Code: 98-0018012-00
+- International Chemical Safety Card (ICSC): Multiple components - see individual ICSC cards
+- Flammability: no
+- Description: Laboratory reagent for bacterial testing. Contains sodium pyruvate and trisodium phosphate as active ingredients.
 
-Safety data sheet available as PDF: [IDEXX_Tectalert_CCA.pdf](../02-chemical-safety/chemicals/IDEXX_Tectalert_CCA.pdf)
+## NFPA 704 (fire diamond)
+- **Health (blue): 2** - intense or continued but not chronic exposure could cause temporary incapacitation or possible residual injury.
+- **Flammability (red): 0** - will not burn under typical fire conditions.
+- **Instability–reactivity (yellow): 0** - normally stable, even under fire exposure conditions, and is not reactive with water.
+- **Special notice (white): -** - no special hazards.
 
-For detailed safety information, please refer to the PDF document linked above.
+## Hazard statements
+| Code | Phrase                                                         |
+| ---- | -------------------------------------------------------------- |
+| H315 | causes skin irritation                                        |
+| H317 | may cause an allergic skin reaction                           |
+| H319 | causes serious eye irritation                                 |
+
+## Precautionary statements
+| Code           | Phrase                                                                                                                           |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| P261           | avoid breathing dust                                                                                                            |
+| P264           | wash thoroughly after handling                                                                                                  |
+| P272           | contaminated work clothing should not be allowed out of the workplace                                                           |
+| P280           | wear eye protection/face protection, wear protective gloves                                                                     |
+| P305+P351+P338 | IF IN EYES: rinse cautiously with water for several minutes, remove contact lenses if present and easy to do, continue rinsing |
+| P337+P313      | if eye irritation persists: get medical advice/attention                                                                       |
+| P362+P364      | take off contaminated clothing and wash it before reuse                                                                        |
+| P501           | dispose of contents/container in accordance with local/regional/national/international regulations                             |
+
+## Protective measures
+
+### Gloves
+Based on the safety data sheet recommendations for handling irritating substances:
+
+- **Nitrile**: **good** - suitable for contact (recommended for laboratory reagents).
+- **Natural latex or rubber**: **fair** - adequate for brief contact.
+- **Butyl rubber**: **good** - chemical resistant gloves.
+- **PVC**: **fair** - suitable for short-term contact.
+
+### Safety goggles
+- Wear safety glasses with side shields (or goggles) when handling this product.
+- Corrective glasses are not considered safety goggles.
+- Handle with adequate ventilation.
+
+### Clothing
+- Wear suitable protective clothing and closed shoes.
+- Avoid contact with clothing.
+- Long sleeves recommended.
+- Remove and wash contaminated clothing before reuse.
+
+### Respiratory protection
+- Ensure adequate ventilation.
+- In case of insufficient ventilation, wear suitable respiratory equipment.
+- Avoid breathing dust.
+
+## Spill management
+- Do not touch damaged containers or spilled material unless wearing appropriate protective clothing.
+- Ensure adequate ventilation.
+- Use personal protective equipment as required.
+- Prevent entry into drains, sewers, or water bodies.
+- Clean surface thoroughly to remove residual contamination.
+- Collect spilled material and place in appropriate containers for disposal.
+- Never return spills to original containers for re-use.
+- Dispose according to local hazardous waste regulations.
+
+## Special warnings
+- **Causes skin irritation and serious eye irritation** - avoid contact with skin and eyes.
+- **May cause allergic skin reaction** - discontinue use if skin sensitization occurs.
+- **Keep out of reach of children**.
+- Store in a well-ventilated place away from incompatible materials.
+- Contaminated work clothing should not be allowed out of the workplace.
+- Always observe good personal hygiene measures.

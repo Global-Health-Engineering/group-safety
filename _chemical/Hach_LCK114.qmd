@@ -1,12 +1,97 @@
 ---
-title: "Hach LCK114"
+title: "HACH LCK114 COD CUVETTE TEST"
 format: html
 ---
 
 [← Back to Chemical Safety](../chemical-safety.qmd)
 
-# Hach LCK114
+## Basic information
+- Chemical formula(s): Contains ${\rm H_2SO_4}$ (sulfuric acid), ${\rm HgSO_4}$ (mercury sulfate), ${\rm K_2Cr_2O_7}$ (potassium dichromate), ${\rm Ag_2SO_4}$ (silver sulfate)
+- Other names: LCK114 CSB/COD/DCO Sample cuvette, Chemical Oxygen Demand test kit
+- Product Code: LCK114
+- Unique Formula Identifier (UFI): QR0A-1FV5-X80X-MANR
+- International Chemical Safety Card (ICSC): Multiple components - see individual ICSC cards
+- Flammability: no
+- Description: Sample cuvette for water analysis and determination of Chemical Oxygen Demand (COD). Contains 80-90% sulfuric acid with mercury sulfate, silver sulfate, and potassium dichromate as reagents.
 
-Safety data sheet available as PDF: [Hach_LCK114.pdf](../02-chemical-safety/chemicals/Hach_LCK114.pdf)
+## NFPA 704 (fire diamond)
+- **Health (blue): 3** - short exposure could cause serious temporary or residual injury.
+- **Flammability (red): 0** - will not burn under typical fire conditions.
+- **Instability–reactivity (yellow): 2** - undergoes violent chemical change at elevated temperatures and pressures, reacts violently with water.
+- **Special notice (white): OX, COR** - oxidizer and corrosive.
 
-For detailed safety information, please refer to the PDF document linked above.
+## Hazard statements
+| Code  | Phrase                                                         |
+| ----- | -------------------------------------------------------------- |
+| H290  | may be corrosive to metals                                    |
+| H302  | harmful if swallowed                                          |
+| H311  | toxic in contact with skin                                    |
+| H314  | causes severe skin burns and eye damage                       |
+| H318  | causes serious eye damage                                     |
+| H332  | harmful if inhaled                                            |
+| H340  | may cause genetic defects                                     |
+| H350  | may cause cancer                                              |
+| H360FD| may damage fertility, may damage the unborn child             |
+| H373  | may cause damage to organs through prolonged or repeated exposure |
+| H410  | very toxic to aquatic life with long lasting effects          |
+
+## Precautionary statements
+| Code           | Phrase                                                                                                                           |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| P201           | obtain special instructions before use                                                                                          |
+| P260           | do not breathe dust/fume/gas/mist/vapours/spray                                                                                |
+| P273           | avoid release to the environment                                                                                                |
+| P280           | wear protective gloves/protective clothing/eye protection/face protection                                                       |
+| P303+P361+P353 | IF ON SKIN (or hair): take off immediately all contaminated clothing, rinse skin with water or shower                          |
+| P305+P351+P338 | IF IN EYES: rinse cautiously with water for several minutes, remove contact lenses if present and easy to do, continue rinsing |
+| P308+P313      | IF exposed or concerned: get medical advice/attention                                                                          |
+| P310           | immediately call a POISON CENTER or doctor                                                                                     |
+| P391           | collect spillage                                                                                                               |
+| P405           | store locked up                                                                                                                |
+| P501           | dispose of contents/container in accordance with local regulations                                                             |
+
+## Protective measures
+
+### Gloves
+Based on the safety data sheet recommendations for handling strong acids and toxic chemicals:
+
+- **Viton™**: **very good** - recommended for long-term contact (>480 minutes breakthrough time, 0.70 mm thickness).
+- **Nitrile**: **fair** - suitable for short-term contact only (>30 minutes breakthrough time, 0.20 mm thickness).
+- **Natural latex or rubber**: **poor (not recommended)** - not suitable for acids.
+- **Neoprene**: **fair to good** - moderate resistance to acids.
+
+### Safety goggles
+- Always wear chemical safety goggles or face shield when handling this product.
+- Corrective glasses are not considered safety goggles.
+- Handle only in a fume hood or with appropriate exhaust ventilation.
+
+### Clothing
+- Wear acid-resistant protective clothing and closed shoes.
+- Long sleeves and full-length pants required.
+- Contact lenses are forbidden while working with this product.
+- Do not wear synthetic clothing that may melt if exposed to acid.
+- Remove contaminated clothing immediately and wash before reuse.
+
+### Respiratory protection
+- Ensure adequate ventilation.
+- If exposure limits are exceeded or irritation is experienced, use appropriate respiratory protection.
+- Recommended filter type: ABEK-P3 for vapors/dusts/aerosols.
+
+## Spill management
+- Evacuate personnel to safe areas and ensure adequate ventilation.
+- Use full personal protective equipment including acid-resistant gloves and clothing.
+- Prevent entry into drains, sewers, or water bodies.
+- Neutralize carefully with sodium bicarbonate or lime if safe to do so.
+- Absorb with inert material (sand, vermiculite, acid binder).
+- Collect in appropriate containers for disposal as hazardous waste.
+- Never add water directly to concentrated acid spills.
+- Contact emergency services immediately for large spills.
+- Dispose according to local hazardous waste regulations.
+
+## Special warnings
+- **Contains mercury compounds** - extremely toxic, handle with extreme care.
+- **Contains chromium(VI) compounds** - carcinogenic and mutagenic.
+- **Reacts violently with water** - always add acid to water, never water to acid.
+- **Restricted to professional users only**.
+- Store in cool, dry, well-ventilated area away from incompatible materials.
+- Keep away from bases, organic materials, reducing agents, and metals.

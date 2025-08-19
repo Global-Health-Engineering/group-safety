@@ -70,5 +70,3 @@ format: html
 - Sweep up without creating dust and arrange disposal.
 - Do not let it enter drain.
 - If a spill happened outside the fume hood (on the floor or desktop) contact Dr Jakub Tkaczuk (+41 44 632 31 62) and the ETH Emergency Desk (+41 44 342 11 88 from mobile or 888 from landline).
-
-[Back to chemical safety page](https://github.com/Global-Health-Engineering/group-safety/tree/main/02-chemical-safety)  

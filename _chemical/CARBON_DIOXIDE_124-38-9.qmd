@@ -49,6 +49,3 @@ No skin protection necessary.
 
 ## Spill management
 - If alarm triggers in the laboratory, the ${/rm CO_2}$ level might have risen above the safe value. Immediately leave the area and wait nearby for the emergency services to arrive.
-
-[Back to chemical safety page](https://github.com/Global-Health-Engineering/group-safety/tree/main/02-chemical-safety)  
-[Back to main repo page](https://github.com/Global-Health-Engineering/group-safety)

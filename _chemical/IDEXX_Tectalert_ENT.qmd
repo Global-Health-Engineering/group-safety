@@ -1,12 +1,77 @@
 ---
-title: "IDEXX Tectalert ENT"
+title: "IDEXX TECTALERT ENT (ENA)"
 format: html
 ---
 
 [← Back to Chemical Safety](../chemical-safety.qmd)
 
-# IDEXX Tectalert ENT
+## Basic information
+- Chemical formula(s): Contains Sodium carbonate (7.51%), Phenethyl Alcohol (5.72%)
+- Other names: Tectalert ENT (ENA), IDEXX Reagent
+- Product Code: 98-0018015-00
+- International Chemical Safety Card (ICSC): Multiple components - see individual ICSC cards
+- Flammability: no
+- Description: Laboratory reagent for enterococcus bacterial testing. Contains sodium carbonate and phenethyl alcohol as active ingredients.
 
-Safety data sheet available as PDF: [IDEXX_Tectalert_ENT.pdf](../02-chemical-safety/chemicals/IDEXX_Tectalert_ENT.pdf)
+## NFPA 704 (fire diamond)
+- **Health (blue): 1** - poses no health hazard, requires no precautions, and would offer no hazard beyond that of ordinary combustible materials.
+- **Flammability (red): 0** - will not burn under typical fire conditions.
+- **Instability–reactivity (yellow): 0** - normally stable, even under fire exposure conditions, and is not reactive with water.
+- **Special notice (white): -** - no special hazards.
 
-For detailed safety information, please refer to the PDF document linked above.
+## Hazard statements
+| Code | Phrase                                                         |
+| ---- | -------------------------------------------------------------- |
+| H319 | causes serious eye irritation                                 |
+
+## Precautionary statements
+| Code           | Phrase                                                                                                                           |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| P264           | wash thoroughly after handling                                                                                                  |
+| P280           | wear eye protection/face protection                                                                                             |
+| P305+P351+P338 | IF IN EYES: rinse cautiously with water for several minutes, remove contact lenses if present and easy to do, continue rinsing |
+| P337+P313      | if eye irritation persists: get medical advice/attention                                                                       |
+
+## Protective measures
+
+### Gloves
+Based on the safety data sheet recommendations for handling irritating substances:
+
+- **Nitrile**: **good** - suitable for contact (recommended for laboratory reagents).
+- **Natural latex or rubber**: **good** - adequate for contact.
+- **Butyl rubber**: **good** - chemical resistant gloves.
+- **PVC**: **fair** - suitable for contact.
+
+### Safety goggles
+- Wear safety glasses with side shields (or goggles) when handling this product.
+- Corrective glasses are not considered safety goggles.
+- Handle with adequate ventilation.
+
+### Clothing
+- Wear suitable protective clothing and closed shoes.
+- Long sleeves recommended.
+- Remove and wash contaminated clothing before reuse.
+
+### Respiratory protection
+- Ensure adequate ventilation.
+- In case of insufficient ventilation, wear suitable respiratory equipment.
+- Minimize dust generation and accumulation.
+
+## Spill management
+- Do not touch damaged containers or spilled material unless wearing appropriate protective clothing.
+- Ensure adequate ventilation.
+- Use personal protective equipment as required.
+- Prevent entry into drains, sewers, or water bodies.
+- For large spills: Wet down with water and dike for later disposal. Shovel material into waste container.
+- For small spills: Sweep up or vacuum up spillage and collect in suitable container for disposal.
+- Clean surface thoroughly to remove residual contamination.
+- Never return spills to original containers for re-use.
+- Dispose according to local hazardous waste regulations.
+
+## Special warnings
+- **Causes serious eye irritation** - avoid contact with eyes.
+- **Dusts may irritate respiratory tract, skin and eyes** - minimize dust generation.
+- **Keep out of reach of children**.
+- Store in a well-ventilated place away from incompatible materials.
+- Keep container tightly closed.
+- Always observe good personal hygiene measures.
