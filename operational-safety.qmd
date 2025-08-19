@@ -1,6 +1,6 @@
 ---
 title: "Operational Safety Concept"
-subtitle: "For the laboratories and workshops of Global Health Engineering"
+subtitle: "For the GHE's laboratories and workshops"
 number-sections: true
 format: html
 toc: true

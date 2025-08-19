@@ -1,5 +1,5 @@
 ---
-title: "Standard Operating Procedure (SOP) for the HoliPress 38 manual plastic injection molding machine"
+title: "SOP for the HoliPress 38 manual plastic injection molding machine"
 format: html
 ---
 

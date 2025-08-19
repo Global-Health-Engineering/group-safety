@@ -1,5 +1,5 @@
 ---
-title: "Standard Operating Procedure (SOP) for DeWalt DCW210N Cordless Random Orbital Sander"
+title: "SOP for DeWalt DCW210N Cordless Random Orbital Sander"
 format: html
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Biological Safety"
-subtitle: "Biosafety concept for BSL2 laboratory of Global Health Engineering"
+subtitle: "Biosafety concept for GHE's BSL2 laboratory"
 number-sections: true
 format: html
 toc: true

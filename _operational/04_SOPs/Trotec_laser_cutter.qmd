@@ -1,5 +1,5 @@
 ---
-title: "Standard Operating Procedure (SOP) for the Trotec Q400 Laser Cutter" 
+title: "SOP for the Trotec Q400 Laser Cutter" 
 format: html
 ---
 

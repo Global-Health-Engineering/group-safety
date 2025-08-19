@@ -1,6 +1,6 @@
 ---
 title: "Chemical Safety"
-subtitle: "Chemical inventory and safety guidelines for Global Health Engineering"
+subtitle: "Chemical inventory and safety guidelines for GHE"
 number-sections: true
 format: html
 toc: true
