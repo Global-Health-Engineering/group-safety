@@ -5,8 +5,82 @@ format: html
 
 [← Back to Chemical Safety](../chemical-safety.qmd)
 
-# FORMLABS RIGID 10K RESIN
+## Basic information
+- Chemical formula(s): Contains Filler (55-75%), Urethane Dimethacrylate (15-25%), Isobornyl Methacrylate (7-10%)
+- Other names: Rigid 10K Resin, SLA Printer Resin
+- Product Code: FLRG1001
+- International Chemical Safety Card (ICSC): Multiple components - see individual ICSC cards
+- Flammability: Not flammable (flash point >93.5°C)
+- Description: High-strength photopolymer resin for use in Formlabs SLA 3D printers. Contains urethane dimethacrylate, isobornyl methacrylate, and filler materials for enhanced mechanical properties.
 
-Safety data sheet available as PDF: [FORMLABS_RIGID_10K_RESIN.pdf](../02-chemical-safety/chemicals/FORMLABS_RIGID_10K_RESIN.pdf)
+## NFPA 704 (fire diamond)
+- **Health (blue): 1** - poses no health hazard, requires no precautions, and would offer no hazard beyond that of ordinary combustible materials.
+- **Flammability (red): 1** - must be pre-heated before ignition can occur (flash point >93.5°C).
+- **Instability–reactivity (yellow): 1** - normally stable, but can become unstable at elevated temperatures and pressures.
+- **Special notice (white): -** - no special hazards.
 
-For detailed safety information, please refer to the PDF document linked above.
+## Hazard statements
+| Code | Phrase                                                         |
+| ---- | -------------------------------------------------------------- |
+| H317 | may cause an allergic skin reaction                           |
+| H411 | toxic to aquatic life with long lasting effects              |
+
+## Precautionary statements
+| Code           | Phrase                                                                                                                           |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| P261           | avoid breathing dust/fume/gas/mist/vapours/spray                                                                                |
+| P272           | contaminated work clothing should not be allowed out of the workplace                                                           |
+| P273           | avoid release to the environment                                                                                                |
+| P280           | wear protective gloves, protective clothing and eye protection                                                                  |
+| P302+P352      | IF ON SKIN: wash with plenty of soap and water                                                                                 |
+| P333+P313      | if skin irritation or rash occurs: get medical advice/attention                                                                |
+| P363           | wash contaminated clothing before reuse                                                                                         |
+| P391           | collect spillage                                                                                                                |
+| P501           | dispose of contents and container in accordance with local, regional, national, and international regulations                  |
+
+## Protective measures
+
+### Gloves
+Based on the safety data sheet recommendations for handling photopolymer resins:
+
+- **Nitrile**: **very good** - chemical resistant, impervious gloves recommended for handling acrylate resins.
+- **Butyl rubber**: **good** - chemical resistant gloves suitable for extended contact.
+- **Natural latex or rubber**: **poor (not recommended)** - not suitable for handling methacrylate compounds.
+- **Viton™**: **very good** - excellent chemical resistance.
+
+### Safety goggles
+- Always wear safety glasses or goggles when handling this product.
+- Use eye protection equipment that has been tested and approved by recognized national standards.
+- Corrective glasses are not considered safety goggles.
+
+### Clothing
+- Wear chemical resistant protective clothing.
+- Long sleeves and full-length pants required.
+- Avoid skin contact - remove contaminated clothing immediately.
+- Wash contaminated clothing before reuse.
+- Do not allow contaminated work clothing out of the workplace.
+
+### Respiratory protection
+- Use with adequate ventilation.
+- If engineering controls do not maintain airborne concentrations below applicable limits, wear approved respirator.
+- Emergency eye wash stations and safety showers should be available.
+
+## Spill management
+- Evacuate unnecessary personnel and ventilate area.
+- Extinguish any sources of ignition.
+- Wear recommended personal protective equipment.
+- Stop leak if safe to do so.
+- Prevent from reaching drains, sewers and waterways.
+- Contain and collect spillage and place in suitable container for disposal.
+- Avoid contact with skin, eyes and clothing.
+- Do not touch damaged containers or spilled material unless wearing appropriate protective clothing.
+- Dispose according to local hazardous waste regulations.
+
+## Special warnings
+- **May cause allergic skin reaction** - skin sensitization can occur, discontinue use if sensitization develops.
+- **Toxic to aquatic life with long lasting effects** - prevent release to environment.
+- **Avoid exposure to light and heat** - store below 38°C (100°F) away from direct sunlight.
+- **Incompatible with peroxides, strong oxidizing agents, alcohols, copper, and strong bases**.
+- Keep containers tightly closed when not in use.
+- Use only in well-ventilated areas.
+- **Contains silica filler** - avoid breathing dust.

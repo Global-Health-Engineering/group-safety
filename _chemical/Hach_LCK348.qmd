@@ -1,12 +1,75 @@
 ---
-title: "Hach LCK348"
+title: "HACH LCK348 PHOSPHATE"
 format: html
 ---
 
 [← Back to Chemical Safety](../chemical-safety.qmd)
 
-# Hach LCK348
+## Basic information
+- Chemical formula(s): Contains ${\\rm H_2SO_4}$ (sulfuric acid, 1-5%)
+- Other names: LCK 348 Phosphat/Phosphate Sample cuvette, 1/4
+- Product Code: LCK348-1
+- Unique Formula Identifier (UFI): 2806-5F1J-U80C-FAQ6
+- International Chemical Safety Card (ICSC): Multiple components - see individual ICSC cards
+- Flammability: no
+- Description: Laboratory reagent for phosphate determination in water analysis. Contains low concentration sulfuric acid.
 
-Safety data sheet available as PDF: [Hach_LCK348.pdf](../02-chemical-safety/chemicals/Hach_LCK348.pdf)
+## NFPA 704 (fire diamond)
+- **Health (blue): 1** - poses no health hazard, requires no precautions, and would offer no hazard beyond that of ordinary combustible materials.
+- **Flammability (red): 0** - will not burn under typical fire conditions.
+- **Instability–reactivity (yellow): 0** - normally stable, even under fire exposure conditions, and is not reactive with water.
+- **Special notice (white): COR** - corrosive (to metals).
 
-For detailed safety information, please refer to the PDF document linked above.
+## Hazard statements
+| Code | Phrase                                                         |
+| ---- | -------------------------------------------------------------- |
+| H290 | may be corrosive to metals                                    |
+
+## Precautionary statements
+| Code | Phrase                                                         |
+| ---- | -------------------------------------------------------------- |
+| P390 | absorb spillage to prevent material damage                     |
+
+## Protective measures
+
+### Gloves
+Based on the safety data sheet recommendations for handling dilute acids:
+
+- **Viton™**: **very good** - recommended for long-term contact (>480 minutes breakthrough time, 0.70 mm thickness).
+- **Nitrile**: **good** - suitable for short-term contact (>30 minutes breakthrough time, 0.40 mm thickness).
+- **Natural latex or rubber**: **fair** - adequate for brief contact with dilute acid solutions.
+- **Butyl rubber**: **good** - chemical resistant gloves category III according to EN 374-1:2016.
+
+### Safety goggles
+- Wear safety glasses with side shields (or goggles) when handling this product.
+- Corrective glasses are not considered safety goggles.
+- Handle with adequate ventilation.
+
+### Clothing
+- Wear suitable protective clothing and closed shoes.
+- Long sleeves and full-length pants recommended.
+- Remove and wash contaminated clothing before reuse.
+
+### Respiratory protection
+- Ensure adequate ventilation.
+- No protective equipment is needed under normal use conditions.
+- If exposure limits are exceeded or irritation is experienced, use appropriate respiratory protection.
+- Recommended filter type: ABEK-P3 if respirator is needed.
+
+## Spill management
+- Avoid contact with skin, eyes or clothing.
+- Ensure adequate ventilation.
+- Use personal protective equipment as required.
+- Prevent further leakage or spillage if safe to do so.
+- Soak up with inert absorbent material (sand, silica gel, acid binder, universal binder, sawdust).
+- Take up mechanically, placing in appropriate containers for disposal.
+- Clean contaminated objects and areas thoroughly observing environmental regulations.
+- Dispose according to local hazardous waste regulations.
+
+## Special warnings
+- **Causes mild skin irritation** - avoid prolonged contact.
+- **May be corrosive to metals** - store in appropriate containers.
+- Keep containers tightly closed in a dry, cool and well-ventilated place.
+- Keep out of the reach of children.
+- Store away from other materials.
+- **Corrosive to metals** - steel corrosion rate 28.9 mm/yr.

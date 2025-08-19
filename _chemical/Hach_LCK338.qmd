@@ -1,12 +1,82 @@
 ---
-title: "Hach LCK338"
+title: "HACH LCK338 LATON"
 format: html
 ---
 
 [← Back to Chemical Safety](../chemical-safety.qmd)
 
-# Hach LCK338
+## Basic information
+- Chemical formula(s): Contains ${\\rm H_2SO_4}$ (sulfuric acid, 50-60%), ${\\rm H_3PO_4}$ (phosphoric acid, 30-40%)
+- Other names: LCK 338 LatoN Sample cuvette, 1/4
+- Product Code: LCK338-1
+- Safety data sheet number: M01749
+- International Chemical Safety Card (ICSC): Multiple components - see individual ICSC cards
+- Flammability: no
+- Description: Sample cuvette for water analysis. Contains concentrated sulfuric acid and phosphoric acid mixture as an aqueous solution of inorganic acid.
 
-Safety data sheet available as PDF: [Hach_LCK338.pdf](../02-chemical-safety/chemicals/Hach_LCK338.pdf)
+## NFPA 704 (fire diamond)
+- **Health (blue): 3** - short exposure could cause serious temporary or residual injury.
+- **Flammability (red): 0** - will not burn under typical fire conditions.
+- **Instability–reactivity (yellow): 0** - normally stable, even under fire exposure conditions, and is not reactive with water.
+- **Special notice (white): COR** - corrosive.
 
-For detailed safety information, please refer to the PDF document linked above.
+## Hazard statements
+| Code | Phrase                                                         |
+| ---- | -------------------------------------------------------------- |
+| H290 | may be corrosive to metals                                    |
+| H314 | causes severe skin burns and eye damage                       |
+
+## Precautionary statements
+| Code           | Phrase                                                                                                                           |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| P260           | do not breathe dust/fume/gas/mist/vapours/spray                                                                                |
+| P280           | wear protective gloves/protective clothing/eye protection/face protection                                                       |
+| P301+P330+P331 | IF SWALLOWED: rinse mouth, do NOT induce vomiting                                                                              |
+| P303+P361+P353 | IF ON SKIN (or hair): take off immediately all contaminated clothing, rinse skin with water or shower                          |
+| P305+P351+P338 | IF IN EYES: rinse cautiously with water for several minutes, remove contact lenses if present and easy to do, continue rinsing |
+| P310           | immediately call a POISON CENTER or doctor                                                                                     |
+
+## Protective measures
+
+### Gloves
+Based on the safety data sheet recommendations for handling strong acids:
+
+- **Viton™**: **very good** - recommended for long-term contact (>480 minutes breakthrough time, 0.70 mm thickness).
+- **Nitrile**: **fair** - suitable for short-term contact only (>30 minutes breakthrough time, 0.20 mm thickness).
+- **Natural latex or rubber**: **poor (not recommended)** - not suitable for acids.
+- **Neoprene**: **fair to good** - moderate resistance to acids.
+
+### Safety goggles
+- Always wear tight sealing safety goggles or face shield when handling this product.
+- Corrective glasses are not considered safety goggles.
+- Handle only in a fume hood or with appropriate exhaust ventilation.
+
+### Clothing
+- Wear acid-resistant protective clothing and closed shoes.
+- Long sleeves and full-length pants required.
+- Contact lenses are forbidden while working with this product.
+- Do not wear synthetic clothing that may melt if exposed to acid.
+- Remove contaminated clothing immediately and wash before reuse.
+
+### Respiratory protection
+- No protective equipment is needed under normal use conditions if adequate ventilation is provided.
+- If exposure limits are exceeded or irritation is experienced, use appropriate respiratory protection.
+- Ensure adequate ventilation at all times.
+
+## Spill management
+- Evacuate personnel to safe areas and ensure adequate ventilation.
+- Use full personal protective equipment including acid-resistant gloves and clothing.
+- Prevent entry into drains, sewers, or water bodies.
+- Soak up with inert absorbent material (sand, silica gel, acid binder, universal binder, sawdust).
+- Take up mechanically, placing in appropriate containers for disposal.
+- Never add water directly to concentrated acid spills.
+- Clean contaminated objects and areas thoroughly observing environmental regulations.
+- Dispose according to local hazardous waste regulations.
+
+## Special warnings
+- **Contains concentrated acids** - causes severe burns and eye damage.
+- **This product requires child-resistant fastenings and tactile warnings if supplied to the general public**.
+- Store in cool, dry, well-ventilated area away from incompatible materials.
+- Keep away from oxidizing agents, bases, and reactive metals.
+- **Corrosive to metals** - store in appropriate containers.
+- Product is a corrosive material - use of gastric lavage or emesis is contra-indicated.
