@@ -3,7 +3,9 @@ title: "Standard Operating Procedure (SOP) for DeWalt DCW 604 P1 Battery Combi-M
 format: html
 ---
 
-[← Back to Appendix 4: Collection of Operating Instructions, User Manuals, and SOPs"](../04_operating_instructions_user_manuals_SOPs.qmd)
+[← Back to Appendix 4](../04_operating_instructions_user_manuals_SOPs.qmd)
+
+![](../../media/dewalt_router.png){width=60% fig-align="center"}
 
 ## 1. Purpose
 To ensure the safe, efficient, and proper use and maintenance of the DeWalt DCW 604 P1 battery-powered combi-router for professional medium-duty routing and edge milling.

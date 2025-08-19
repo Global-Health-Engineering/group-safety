@@ -3,7 +3,9 @@ title: "Standard Operating Procedure (SOP) for the HoliPress 38 manual plastic i
 format: html
 ---
 
-[← Back to Appendix 4: Collection of Operating Instructions, User Manuals, and SOPs"](../04_operating_instructions_user_manuals_SOPs.qmd)
+[← Back to Appendix 4](../04_operating_instructions_user_manuals_SOPs.qmd)
+
+![](../../media/holipress38.jpg){width=60% fig-align="center"}
 
 ## 1. Purpose
 To safely and efficiently operate the HoliPress 38 for manual plastic injection molding to produce high-quality plastic parts, prototypes, or small batch productions.
@@ -18,7 +20,7 @@ Applicable to all operators using the HoliPress 38 for prototyping, material tes
 - Allow the machine to cool down before maintenance or cleaning.
 
 ## 4. Machine Description
-- Injection volume capacity: 38 cm^3.
+- Injection volume capacity: 38 ${\rm cm^3}$.
 - Triple heating zones for precise temperature control up to 320 °C.
 - Length-adjustable injection lever for ergonomic operation.
 - Adjustable mold height up to 190 mm.

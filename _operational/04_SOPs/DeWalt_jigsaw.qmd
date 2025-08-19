@@ -3,7 +3,9 @@ title: "Standard Operating Procedure (SOP) for the battery-powered DeWalt jigsaw
 format: html
 ---
 
-[← Back to Appendix 4: Collection of Operating Instructions, User Manuals, and SOPs"](../04_operating_instructions_user_manuals_SOPs.qmd)
+[← Back to Appendix 4](../04_operating_instructions_user_manuals_SOPs.qmd)
+
+![](../../media/dewalt_jigsaw.png){width=60% fig-align="center"}
 
 ## 1. Purpose
 To ensure safe and effective use of the DeWalt cordless jigsaw for cutting wood, metal, plastic, and other materials.

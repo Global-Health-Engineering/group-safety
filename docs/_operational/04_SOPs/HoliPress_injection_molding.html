@@ -68,6 +68,35 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <script defer="" data-domain="global-health-engineering.github.io/group-safety" src="https://plausible.io/js/script.js"></script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -173,7 +202,12 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><a href="../../_operational/04_operating_instructions_user_manuals_SOPs.html">← Back to Appendix 4: Collection of Operating Instructions, User Manuals, and SOPs”</a></p>
+<p><a href="../../_operational/04_operating_instructions_user_manuals_SOPs.html">← Back to Appendix 4</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../media/holipress38.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:60.0%"></p>
+</figure>
+</div>
 <section id="purpose" class="level2">
 <h2 class="anchored" data-anchor-id="purpose">1. Purpose</h2>
 <p>To safely and efficiently operate the HoliPress 38 for manual plastic injection molding to produce high-quality plastic parts, prototypes, or small batch productions.</p>
@@ -194,7 +228,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="machine-description" class="level2">
 <h2 class="anchored" data-anchor-id="machine-description">4. Machine Description</h2>
 <ul>
-<li>Injection volume capacity: 38 cm^3.</li>
+<li>Injection volume capacity: 38 <span class="math inline">\({\rm cm^3}\)</span>.</li>
 <li>Triple heating zones for precise temperature control up to 320 °C.</li>
 <li>Length-adjustable injection lever for ergonomic operation.</li>
 <li>Adjustable mold height up to 190 mm.</li>
