@@ -1,0 +1,58 @@
+---
+title: "Standard Operating Procedure (SOP) for the battery-powered DeWalt jigsaw"
+format: html
+---
+
+[← Back to Appendix 4: Collection of Operating Instructions, User Manuals, and SOPs"](../04_operating_instructions_user_manuals_SOPs.qmd)
+
+## 1. Purpose
+To ensure safe and effective use of the DeWalt cordless jigsaw for cutting wood, metal, plastic, and other materials.
+
+## 2. Scope
+This procedure applies to all operators using DeWalt battery-powered jigsaws.
+
+## 3. Safety Precautions
+- Always wear safety glasses, hearing protection, and a dust mask.
+- Use appropriate gloves but avoid wearing gloves that could catch in moving parts.
+- Keep work area clean, well-lit, and free of distractions.
+- Do not use the jigsaw if it is damaged. or if metal safety guard in front is missing.
+- Disconnect the battery before making adjustments or changing blades.
+- Avoid loose clothing, jewelry, and contain long hair to prevent entanglement.
+- Use only DeWalt-branded batteries and chargers compatible with the model.
+- Ensure the jigsaw shoe (base plate) is securely attached during operation.
+
+## 4. Pre-Operation Checks
+- Inspect the jigsaw, battery, and charger for damage.
+- Select the appropriate blade type for the material to be cut.
+- Ensure the blade is correctly installed and secure.
+- Check the orbital action lever and bevel settings are adjusted as desired.
+
+## 5. Assembly and Blade Installation
+- Install the battery by sliding it into the handle until it clicks in place.
+- To install or remove the blade, lift the keyless blade release lever and insert or remove the blade carefully.
+- Avoid touching the blade edges, as they may be sharp or hot.
+- Adjust the shoe bevel by unlocking the bevel lever, setting the angle, and re-locking it.
+- Attach dust port as needed.
+
+## 6. Operation
+- Hold the jigsaw firmly with both hands for stability.
+- Start the tool by squeezing the trigger; speed will vary with pressure applied on the trigger.
+- Use the trigger lock button to lock the tool off when not in use to prevent accidental starts.
+- Guide the jigsaw steadily along the cutting line without forcing it.
+- Allow the blade to reach full speed before cutting.
+- Do not twist or bend the blade while cutting to avoid damage.
+- Utilize the orbital action setting for faster cuts in wood; turn it off for fine cuts or harder materials.
+- Use the dust blower control to keep the cut line visible.
+
+## 7. Post-Operation
+- Release the trigger and allow the blade to stop fully before setting the tool down.
+- Remove the battery by pressing the release button and sliding it out.
+- Clean the jigsaw of dust and debris; use compressed air for vents if necessary.
+- Inspect the blade for wear and replace as needed.
+- Store the jigsaw and batteries in a designated box and cabinet.
+
+## 8. Maintenance
+- Regularly check for loose screws or parts.
+- Keep air vents clean to prevent overheating.
+- Lubricate moving parts sparingly as recommended in the manual.
+- Do not attempt to service the battery; refer to authorized service centers for battery or tool repair.
