@@ -8,9 +8,11 @@ format: html
 
 ## Forms of the warning symbol
 
-European biosafety warning symbol:  ![Figure 1](https://github.com/Global-Health-Engineering/group-safety/blob/main/media/EU_biosafety.png)
+European biosafety warning symbol:  
+![Figure 1](../media/EU_biosafety.png)
 
-International biosafety warning symbol:  ![Figure 2](https://github.com/Global-Health-Engineering/group-safety/blob/main/media/international_biosafety.png)
+International biosafety warning symbol:  
+![Figure 2](../media/international_biosafety.png)
 
 ## Purpose
 
