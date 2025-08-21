@@ -15,6 +15,9 @@ format: html
 - [NOAA's](https://cameochemicals.noaa.gov/chemical/8823) description: colourless odourless gas; easily ignited; vapors lighter than air; under prolonged exposure to fire or intense heat the containers may rupture violently and rocket
 
 ## NFPA 704 (fire diamond)
+
+![](../media/nfpa704/240_SA.png){width=15% fig-align="center"}
+
 - **Health (blue): 2** - intense or continued but not chronic exposure could cause temporary incapacitation or possible residual injury.
 - **Flammability (red): 4** - rapidly or completely vaporize at normal atmospheric pressure and temperature, or is readily dispersed in air and will burn readily.
 - **Instability–reactivity (yellow): 0** - normally stable, even under fire exposure conditions, and is not reactive with water.

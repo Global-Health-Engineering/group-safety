@@ -1,0 +1,91 @@
+---
+title: "SILVER CHLORIDE"
+format: html
+---
+
+[← Back to Chemical Safety](../chemical-safety.qmd)
+
+## Basic information
+- Chemical formula(s): ${\rm AgCl}$
+- Other names: Silver(I) chloride, chlorosilver, cerargyrite
+- CAS number: 7783-90-6
+- EC number: 232-033-3
+- Molecular weight: 143.32 g/mol
+- International Chemical Safety Card (ICSC): N/A (see [ThermoFisher safety data sheet](https://www.fishersci.com/store/msds?partNumber=AA35715&productDescription=keyword&vendorId=VN00024248&countryCode=US&language=en))
+- Flammability: no
+- Description: White crystalline solid, practically insoluble in water and dilute acids. Darkens on exposure to light due to photochemical decomposition. Used in photography, electrodes, and as a reference standard.
+
+## NFPA 704 (fire diamond)
+
+![](../media/nfpa704/200.png){width=15% fig-align="center"}
+
+- **Health (blue): 2** - intense or continued but not chronic exposure could cause temporary incapacitation or possible residual injury.
+- **Flammability (red): 0** - will not burn under typical fire conditions.
+- **Instability–reactivity (yellow): 0** - normally stable, even under fire exposure conditions, and is not reactive with water.
+- **Special notice (white): -**
+
+## Hazard statements
+| Code | Phrase                                                         |
+| ---- | -------------------------------------------------------------- |
+| H400 | very toxic to aquatic life                                     |
+| H410 | very toxic to aquatic life with long lasting effects           |
+
+## Precautionary statements
+| Code           | Phrase                                                                                                      |
+| -------------- | ----------------------------------------------------------------------------------------------------------- |
+| P273           | avoid release to the environment                                                                            |
+| P280           | wear protective gloves/protective clothing/eye protection/face protection                                   |
+| P391           | collect spillage                                                                                            |
+| P501           | dispose of contents/container in accordance with local/regional/national/international regulations          |
+
+## Protective measures
+
+### Gloves
+For handling silver chloride powder or solutions:
+
+- **Nitrile**: **very good** - chemical resistant and prevents skin contact with silver compounds.
+- **Natural latex or rubber**: **good** - adequate for routine handling.
+- **PVC**: **good** - suitable for handling silver chloride.
+- **Butyl rubber**: **very good** - excellent chemical resistance for extended contact.
+
+### Safety goggles
+- Always wear safety glasses or goggles when handling this product.
+- Use eye protection equipment that has been tested and approved by recognized national standards.
+- Corrective glasses are not considered safety goggles.
+- Prevent eye contact to avoid irritation.
+
+### Clothing
+- Wear protective clothing to prevent skin contact.
+- Long sleeves and full-length pants required.
+- Closed-toe shoes mandatory.
+- Remove contaminated clothing immediately and wash before reuse.
+- Prevent skin contact as silver compounds may cause discoloration.
+
+### Respiratory protection
+- Ensure adequate ventilation when handling.
+- Use dust mask when working with fine powder to prevent inhalation.
+- For large quantities or poor ventilation, use appropriate respiratory protection.
+- Minimize dust generation during handling.
+
+## Spill management
+- **Prevent environmental release** - silver chloride is very toxic to aquatic life.
+- Wear appropriate personal protective equipment.
+- Collect spillage using non-sparking tools (avoid metal tools that may react).
+- Sweep up material carefully to avoid creating dust.
+- Place collected material in appropriate container for disposal.
+- Do not wash spills down drains or allow entry into waterways.
+- Clean area thoroughly after material removal.
+- **Special disposal requirements** - dispose as hazardous waste according to local regulations.
+- Contact environmental authorities for guidance on large spills.
+
+## Special warnings
+- **Very toxic to aquatic life** - prevent release to environment, waterways, or soil.
+- **Photosensitive** - darkens when exposed to light due to decomposition to metallic silver.
+- **Argyria risk** - prolonged exposure to silver compounds may cause irreversible blue-gray discoloration of skin and eyes.
+- **Insoluble in water** - forms stable suspensions that can persist in aquatic environments.
+- Store in dark, cool, dry place in tightly closed containers.
+- Keep away from light to prevent photochemical decomposition.
+- **Incompatible with ammonia** - forms explosive silver-ammonia compounds.
+- **Incompatible with cyanides** - may form toxic hydrogen cyanide gas.
+- Handle with non-metallic tools when possible to prevent contamination.
+- **Regulated waste** - requires special disposal as hazardous waste due to silver content.

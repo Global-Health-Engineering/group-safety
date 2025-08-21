@@ -68,6 +68,35 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <script defer="" data-domain="global-health-engineering.github.io/group-safety" src="https://plausible.io/js/script.js"></script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -140,7 +169,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#inventory-of-chemicals" id="toc-inventory-of-chemicals" class="nav-link active" data-scroll-target="#inventory-of-chemicals"><span class="header-section-number">1</span> Inventory of chemicals</a>
   <ul class="collapse">
   <li><a href="#chemicals-currently-used-on-ghe-premises" id="toc-chemicals-currently-used-on-ghe-premises" class="nav-link" data-scroll-target="#chemicals-currently-used-on-ghe-premises"><span class="header-section-number">1.1</span> Chemicals currently used on GHE premises</a></li>
-  <li><a href="#test-kits-and-resins-used-on-ghe-premises" id="toc-test-kits-and-resins-used-on-ghe-premises" class="nav-link" data-scroll-target="#test-kits-and-resins-used-on-ghe-premises"><span class="header-section-number">1.2</span> Test kits and resins used on GHE premises</a></li>
+  <li><a href="#test-kits-compounds-resins-and-glues-used-on-ghe-premises" id="toc-test-kits-compounds-resins-and-glues-used-on-ghe-premises" class="nav-link" data-scroll-target="#test-kits-compounds-resins-and-glues-used-on-ghe-premises"><span class="header-section-number">1.2</span> Test kits, compounds, resins, and glues used on GHE premises</a></li>
   <li><a href="#chemicals-to-be-potentially-used-in-the-future" id="toc-chemicals-to-be-potentially-used-in-the-future" class="nav-link" data-scroll-target="#chemicals-to-be-potentially-used-in-the-future"><span class="header-section-number">1.3</span> Chemicals to be potentially used in the future</a></li>
   </ul></li>
   <li><a href="#storagequantities" id="toc-storagequantities" class="nav-link" data-scroll-target="#storagequantities"><span class="header-section-number">2</span> Storage/quantities</a></li>
@@ -174,7 +203,6 @@ ul.task-list li input[type="checkbox"] {
 <section id="inventory-of-chemicals" class="level1 page-columns page-full" data-number="1">
 <h1 data-number="1"><span class="header-section-number">1</span> Inventory of chemicals</h1>
 <p>The table below contains the complete list of chemicals used in the laboratory of Global Health Engineering. Safety information is available for all chemicals and based on their International Chemical Safety Card (<a href="https://www.inchem.org/pages/icsc.html">ICSC</a>) or other safety cards, if ICSC is unavailable.</p>
-<p><em>Click on a chemical name to see its safety information.</em></p>
 <section id="chemicals-currently-used-on-ghe-premises" class="level2 page-columns page-full" data-number="1.1">
 <h2 data-number="1.1" class="anchored" data-anchor-id="chemicals-currently-used-on-ghe-premises"><span class="header-section-number">1.1</span> Chemicals currently used on GHE premises</h2>
 <div class="column-page">
@@ -184,7 +212,7 @@ ul.task-list li input[type="checkbox"] {
 <th>Name</th>
 <th>CAS</th>
 <th>Concentr.</th>
-<th>Total volume</th>
+<th>Total volume/mass</th>
 <th>no. of containers</th>
 <th>Storage temperature</th>
 <th>Storage location</th>
@@ -207,6 +235,42 @@ ul.task-list li input[type="checkbox"] {
 <td>no</td>
 </tr>
 <tr class="even">
+<td><a href="./_chemical/CHLORAMPHENICOL_56-75-7.html">chloramphenicol</a></td>
+<td>56-75-7</td>
+<td>98.5+%</td>
+<td>0.1 kg</td>
+<td>1</td>
+<td>22 deg C</td>
+<td>CLA J26</td>
+<td></td>
+<td>2A</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><a href="./_chemical/GLUCOSE_50-99-7.html">glucose-D(+)</a></td>
+<td>50-99-7</td>
+<td>99.5+%</td>
+<td>1 kg</td>
+<td>1</td>
+<td>22 deg C</td>
+<td>CLA J26</td>
+<td>N/A</td>
+<td>-</td>
+<td>no</td>
+</tr>
+<tr class="even">
+<td><a href="./_chemical/GLYCEROL_56-81-5.html">glycerol</a></td>
+<td>56-81-5</td>
+<td>99+%</td>
+<td>0.5 l</td>
+<td>1</td>
+<td>22 deg C</td>
+<td>CLA J26</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><a href="./_chemical/HYDROGEN_CHLORIDE_7647-01-0.html">hydrogen chloride</a></td>
 <td>7647-01-0</td>
 <td>0.1 M</td>
@@ -218,7 +282,7 @@ ul.task-list li input[type="checkbox"] {
 <td>-</td>
 <td>no</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><a href="./_chemical/HYDROGEN_CHLORIDE_7647-01-0.html">hydrogen chloride</a></td>
 <td>7647-01-0</td>
 <td>3 M</td>
@@ -230,7 +294,7 @@ ul.task-list li input[type="checkbox"] {
 <td>-</td>
 <td>no</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><a href="./_chemical/HYDROGEN_CHLORIDE_7647-01-0.html">hydrogen chloride</a></td>
 <td>7647-01-0</td>
 <td>12 M</td>
@@ -242,7 +306,7 @@ ul.task-list li input[type="checkbox"] {
 <td>-</td>
 <td>no</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><a href="./_chemical/ISOPROPANOL_67-63-0.html">isopropanol</a></td>
 <td>67-63-0</td>
 <td>pure</td>
@@ -254,7 +318,7 @@ ul.task-list li input[type="checkbox"] {
 <td>3</td>
 <td><strong>yes</strong></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><a href="./_chemical/METHANE_74-82-8.html">methane</a></td>
 <td>74-82-8</td>
 <td>99.99%</td>
@@ -266,7 +330,7 @@ ul.task-list li input[type="checkbox"] {
 <td>-</td>
 <td><strong>yes</strong></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><a href="./_chemical/OXYGEN_GAS_7782-44-7.html">oxygen gaseous</a></td>
 <td>7782-44-7</td>
 <td>99.99%</td>
@@ -278,11 +342,47 @@ ul.task-list li input[type="checkbox"] {
 <td>-</td>
 <td>no</td>
 </tr>
+<tr class="odd">
+<td>mixture of <a href="./_chemical/POTASSIUM_CHLORIDE_7447-40-7.html">potassium chloride</a> &amp; <a href="./_chemical/SILVER_CHLORIDE_7783-90-6.html">silver chloride</a></td>
+<td>7447-40-7 &amp; 7783-90-6</td>
+<td>KCl 3 mol/L &amp; AgCl saturated</td>
+<td>0.25 l</td>
+<td>1</td>
+<td>22 deg C</td>
+<td>CLA J26</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><a href="./_chemical/POTASSIUM_PHOSPHATE_7778-77-0.html">potassium phosphate monobasic</a></td>
+<td>7778-77-0</td>
+<td>99.99%</td>
+<td>1 kg</td>
+<td>1</td>
+<td>22 deg C</td>
+<td>CLA J26</td>
+<td>N/A</td>
+<td>-</td>
+<td>no</td>
+</tr>
+<tr class="odd">
+<td><a href="./_chemical/SODIUM_CHLORIDE_7647-14-5.html">sodium chloride</a></td>
+<td>7647-14-5</td>
+<td>99.0+%</td>
+<td>1 kg</td>
+<td>1</td>
+<td>22 deg C</td>
+<td>CLA J26, fireproof cabinet</td>
+<td>-</td>
+<td>no</td>
+<td></td>
+</tr>
 <tr class="even">
 <td><a href="./_chemical/SODIUM_HYDROXIDE_1310-73-2.html">sodium hydroxide</a></td>
 <td>1310-73-2</td>
 <td>99.99%</td>
-<td>500 g</td>
+<td>0.5 kg</td>
 <td>2</td>
 <td>22 deg C</td>
 <td>CLA J26, base cabinet</td>
@@ -294,8 +394,8 @@ ul.task-list li input[type="checkbox"] {
 </table>
 </div>
 </section>
-<section id="test-kits-and-resins-used-on-ghe-premises" class="level2 page-columns page-full" data-number="1.2">
-<h2 data-number="1.2" class="anchored" data-anchor-id="test-kits-and-resins-used-on-ghe-premises"><span class="header-section-number">1.2</span> Test kits and resins used on GHE premises</h2>
+<section id="test-kits-compounds-resins-and-glues-used-on-ghe-premises" class="level2 page-columns page-full" data-number="1.2">
+<h2 data-number="1.2" class="anchored" data-anchor-id="test-kits-compounds-resins-and-glues-used-on-ghe-premises"><span class="header-section-number">1.2</span> Test kits, compounds, resins, and glues used on GHE premises</h2>
 <div class="column-page">
 <table class="table">
 <thead>
@@ -303,17 +403,29 @@ ul.task-list li input[type="checkbox"] {
 <th>Name</th>
 <th>CAS</th>
 <th>Concentr.</th>
-<th>Total volume</th>
+<th>Total volume/mass</th>
 <th>no. of containers</th>
 <th>Storage temperature</th>
 <th>Storage location</th>
-<th>Material category<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a></th>
-<th>CMR<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a></th>
+<th>Material category<span class="math inline">\({\rm ^1}\)</span></th>
+<th>CMR<span class="math inline">\({\rm ^2}\)</span></th>
 <th>Narcotic / explosive</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
+<td><a href="./_chemical/AGAR_9002-18-0.html">Agar</a></td>
+<td>9002-18-0</td>
+<td>-</td>
+<td>3.75 kg</td>
+<td>7</td>
+<td>22 deg C</td>
+<td>CLA J26</td>
+<td>N/A</td>
+<td>-</td>
+<td>no</td>
+</tr>
+<tr class="even">
 <td><a href="./_chemical/FORMLABS_GREY_RESIN.html">Formlabs Grey (3D printing resin)</a></td>
 <td>-</td>
 <td>-</td>
@@ -325,7 +437,7 @@ ul.task-list li input[type="checkbox"] {
 <td>-</td>
 <td>no</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><a href="./_chemical/FORMLABS_RIGID_10K_RESIN.html">Formlabs Rigid 10K (3D printing resin)</a></td>
 <td>-</td>
 <td>-</td>
@@ -337,98 +449,122 @@ ul.task-list li input[type="checkbox"] {
 <td>-</td>
 <td>no</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><a href="./_chemical/Hach_LCK114.html">Hach LCK114</a></td>
 <td>-</td>
 <td>-</td>
-<td></td>
-<td></td>
-<td>22 deg C</td>
+<td>40 ml</td>
+<td>25</td>
+<td>15 - 25 deg C</td>
 <td>CLA J26</td>
 <td>5.1, 6.1, 8</td>
-<td>-</td>
+<td>1</td>
 <td>no</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><a href="./_chemical/Hach_LCK238.html">Hach LCK238</a></td>
 <td>-</td>
 <td>-</td>
-<td></td>
-<td></td>
-<td>22 deg C</td>
+<td>40 ml</td>
+<td>25</td>
+<td>15 - 25 deg C</td>
 <td>CLA J26</td>
 <td>8</td>
-<td>-</td>
+<td>1</td>
 <td>no</td>
+</tr>
+<tr class="even">
+<td><a href="./_chemical/Hach_LCK302.html">Hach LCK302</a></td>
+<td>-</td>
+<td>-</td>
+<td>40 ml</td>
+<td>25</td>
+<td>2 - 8 deg C</td>
+<td>CLA J26, fridge</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><a href="./_chemical/Hach_LCK314.html">Hach LCK314</a></td>
 <td>-</td>
 <td>-</td>
-<td></td>
-<td></td>
-<td>22 deg C</td>
+<td>40 ml</td>
+<td>25</td>
+<td>15 - 25 deg C</td>
 <td>CLA J26</td>
 <td>5.1, 6.1, 8</td>
-<td>-</td>
+<td>1</td>
 <td>no</td>
 </tr>
 <tr class="even">
 <td><a href="./_chemical/Hach_LCK338.html">Hach LCK338</a></td>
 <td>-</td>
 <td>-</td>
-<td></td>
-<td></td>
-<td>22 deg C</td>
+<td>40 ml</td>
+<td>25</td>
+<td>15 - 25 deg C</td>
 <td>CLA J26</td>
-<td></td>
-<td></td>
-<td></td>
+<td>8</td>
+<td>1</td>
+<td>no</td>
 </tr>
 <tr class="odd">
 <td><a href="./_chemical/Hach_LCK348.html">Hach LCK348</a></td>
 <td>-</td>
 <td>-</td>
-<td></td>
-<td></td>
-<td>22 deg C</td>
+<td>40 ml</td>
+<td>25</td>
+<td>15 - 25 deg C</td>
 <td>CLA J26</td>
-<td></td>
-<td></td>
-<td></td>
+<td>8</td>
+<td>1</td>
+<td>no</td>
 </tr>
 <tr class="even">
 <td><a href="./_chemical/Hach_LCK349.html">Hach LCK349</a></td>
 <td>-</td>
 <td>-</td>
-<td></td>
-<td></td>
-<td>22 deg C</td>
+<td>40 ml</td>
+<td>25</td>
+<td>15 - 25 deg C</td>
 <td>CLA J26</td>
-<td></td>
-<td></td>
-<td></td>
+<td>8</td>
+<td>1</td>
+<td>no</td>
 </tr>
 <tr class="odd">
 <td><a href="./_chemical/IDEXX_Tectalert_CCA.html">IDEXX Tectalert CCA</a></td>
 <td>-</td>
 <td>-</td>
-<td></td>
-<td></td>
+<td>20 l</td>
+<td>192</td>
 <td>22 deg C</td>
-<td>CLA B2.2</td>
-<td></td>
-<td></td>
-<td></td>
+<td>CLA J26, CLD D floor</td>
+<td>N/A</td>
+<td>-</td>
+<td>no</td>
 </tr>
 <tr class="even">
 <td><a href="./_chemical/IDEXX_Tectalert_ENT.html">IDEXX Tectalert ENT</a></td>
 <td>-</td>
 <td>-</td>
-<td></td>
-<td></td>
+<td>20 l</td>
+<td>192</td>
 <td>22 deg C</td>
-<td>CLA B2.2</td>
+<td>CLA J26, CLD D floor</td>
+<td>N/A</td>
+<td>-</td>
+<td>no</td>
+</tr>
+<tr class="odd">
+<td><a href="./_chemical/TRYPTONE_BILE_GLUCURONIDE.html">Tryptone Bile X-Glucuronide (TBX) Medium (Dehydrated)</a></td>
+<td>-</td>
+<td>-</td>
+<td>0.5 kg</td>
+<td>1</td>
+<td>22 deg C</td>
+<td>CLA J26</td>
 <td></td>
 <td></td>
 <td></td>
@@ -602,8 +738,6 @@ Note
 <ol>
 <li id="fn1"><p>Material categories: (1) explosive materials; (2) gases; (3) flammable liquids; (4.1) flammable solids; (4.2) pyrophorics or self-heating substances; (4.3) hazardous substances that develop flammable gases in contact with water; (5.1) oxidizing substances; (5.2) organic peroxides and self-reactive substances; (6.1) toxic substances; (6.2) infectious substances; (7) radioactive substances; (8) corrosive and caustic substances; (10/12) other liquids with hazard symbols; (11/13) other solids with hazard symbols; (N/A) not hazardous.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 <li id="fn2"><p>Substance classification for their carcinogenesis, mutagenesis, or toxicity for reproduction by the <a href="https://monographs.iarc.who.int/list-of-classifications/">International Agency for Research on Cancer</a>. The CMR categories are: (1) carcinogenic, mutagenic or reprotoxic to humans; (2A) probably carcinogenic, mutagenic or reprotoxic to humans; (2B) possibly carcinogenic, mutagenic or reprotoxic to humans; (3) not classifiable as to its carcinogenicity, mutagenicity or reproductive toxicity to humans; (4) probably not carcinogenic, mutagenic or reprotoxic to humans.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn3"><p>Material categories: (1) explosive materials; (2) gases; (3) flammable liquids; (4.1) flammable solids; (4.2) pyrophorics or self-heating substances; (4.3) hazardous substances that develop flammable gases in contact with water; (5.1) oxidizing substances; (5.2) organic peroxides and self-reactive substances; (6.1) toxic substances; (6.2) infectious substances; (7) radioactive substances; (8) corrosive and caustic substances; (10/12) other liquids with hazard symbols; (11/13) other solids with hazard symbols; (N/A) not hazardous.<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn4"><p>Substance classification for their carcinogenesis, mutagenesis, or toxicity for reproduction by the <a href="https://monographs.iarc.who.int/list-of-classifications/">International Agency for Research on Cancer</a>. The CMR categories are: (1) carcinogenic, mutagenic or reprotoxic to humans; (2A) probably carcinogenic, mutagenic or reprotoxic to humans; (2B) possibly carcinogenic, mutagenic or reprotoxic to humans; (3) not classifiable as to its carcinogenicity, mutagenicity or reproductive toxicity to humans; (4) probably not carcinogenic, mutagenic or reprotoxic to humans.<a href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

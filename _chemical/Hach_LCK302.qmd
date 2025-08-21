@@ -1,0 +1,97 @@
+---
+title: "HACH LCK302 AMMONIUM TEST KIT"
+format: html
+---
+
+[← Back to Chemical Safety](../chemical-safety.qmd)
+
+## Basic information
+- Chemical formula(s): Two-part system: Part 1/2 contains ${\rm NaOH}$ (<0.2%); Part 2/2 contains D-mannitol (76%), troclosene sodium dihydrate (12%), sodium nitroprusside dihydrate (12%)
+- Other names: LCK302 Ammonium test, Sample cuvette and DosiCapZip
+- Product Code: LCK302-1 (sample cuvette), LCK302-2 (DosiCapZip)
+- International Chemical Safety Card (ICSC): N/A - multiple components (see [Hach safety card](Hach_LCK302.pdf))
+- Flammability: no (does not burn)
+- Description: Two-part water analysis test kit for ammonium determination. Part 1 is alkaline solution (pH 12.5), Part 2 is solid reagent mixture containing toxic components.
+
+## NFPA 704 (fire diamond)
+
+![](../media/nfpa704/210.png){width=15% fig-align="center"}
+
+- **Health (blue): 2** - intense or continued but not chronic exposure could cause temporary incapacitation or possible residual injury.
+- **Flammability (red): 1** - must be pre-heated before ignition can occur (based on organic components).
+- **Instability–reactivity (yellow): 0** - normally stable, even under fire exposure conditions.
+- **Special notice (white): -** - no special hazards.
+
+## Hazard statements
+| Code | Phrase                                                         |
+| ---- | -------------------------------------------------------------- |
+| H302 | harmful if swallowed                                          |
+| H315 | causes skin irritation                                        |
+| H319 | causes serious eye irritation                                 |
+| H331 | toxic if inhaled                                              |
+| H400 | very toxic to aquatic life                                    |
+| H410 | very toxic to aquatic life with long lasting effects         |
+
+## Precautionary statements
+| Code           | Phrase                                                                                                                         |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| P261           | avoid breathing dust/fume/gas/mist/vapours/spray                                                                              |
+| P264           | wash hands thoroughly after handling                                                                                           |
+| P270           | do not eat, drink or smoke when using this product                                                                            |
+| P271           | use only outdoors or in a well-ventilated area                                                                                |
+| P280           | wear protective gloves/protective clothing/eye protection/face protection                                                      |
+| P302+P352      | IF ON SKIN: wash with plenty of water                                                                                         |
+| P304+P340      | IF INHALED: remove person to fresh air and keep comfortable for breathing                                                     |
+| P305+P351+P338 | IF IN EYES: rinse cautiously with water for several minutes, remove contact lenses if present and easy to do, continue rinsing |
+| P312           | call a POISON CENTER/doctor if you feel unwell                                                                                |
+| P332+P313      | if skin irritation occurs: get medical advice/attention                                                                       |
+| P337+P313      | if eye irritation persists: get medical advice/attention                                                                      |
+| P391           | collect spillage                                                                                                               |
+
+## Protective measures
+
+### Gloves
+- **Nitrile**: **very good** - chemical resistant protective gloves recommended for handling toxic components.
+- **Butyl rubber**: **very good** - excellent protection against sodium hydroxide and toxic reagents.
+- **Natural latex or rubber**: **fair** - adequate for brief contact but not recommended for extended use.
+- **PVC**: **fair** - provides basic protection but limited chemical resistance.
+
+### Safety goggles
+- **Mandatory**: Always wear safety glasses with side-shields when handling.
+- Strong alkaline solution (pH 12.5) and toxic components require eye protection.
+- Corrective glasses are not considered safety goggles.
+- Part 1/2 may cause severe eye damage, Part 2/2 causes irritation.
+
+### Clothing
+- Wear protective clothing to prevent skin contact.
+- Long sleeves and full-length pants required.
+- Closed-toe shoes mandatory.
+- Remove and wash contaminated clothing before reuse.
+- **Caustic hazard**: Part 1/2 contains sodium hydroxide which causes severe burns.
+
+### Respiratory protection
+- Use only in well-ventilated areas.
+- **Toxic if inhaled** - avoid breathing vapors from Part 2/2.
+- **Contact with acids liberates toxic gas** - ensure proper ventilation.
+- Use appropriate respiratory protection if ventilation is insufficient.
+
+## Spill management
+- Use personal protective equipment including chemical resistant gloves and eye protection.
+- **Do not flush** into surface water or sanitary sewer system.
+- Soak up with inert absorbent material and dispose as hazardous waste.
+- **Part 2/2**: Use mechanical handling equipment to avoid dust generation.
+- **Highly water contaminating** - prevent environmental release.
+- **Never mix with acids** - may generate toxic chlorine gas.
+- Dispose according to waste code 160506 (hazardous laboratory chemicals).
+
+## Special warnings
+- **Two-part system** - each part has different hazards and handling requirements.
+- **Part 1/2 (Sample cuvette)**: Contains sodium hydroxide (<0.2%), pH 12.5, causes severe burns (R35).
+- **Part 2/2 (DosiCapZip)**: Contains toxic sodium nitroprusside (12%) - toxic if swallowed (R25).
+- **Generates toxic gas** - contact with acids liberates toxic gas (cyanide compounds).
+- **Aquatic toxicity**: Very toxic to aquatic organisms with long-lasting effects.
+- **Storage**: Keep in dry, cool place (2-8°C for refrigerated storage).
+- **Highly water contaminating class 3** - prevent release to environment.
+- **Chlorine generation**: Part 2/2 may develop chlorine if mixed with acidic solutions.
+- **Professional use only** - water analysis reagent for laboratory use.
+- **Disposal**: Local Hach agencies will accept used cuvettes for proper disposal.

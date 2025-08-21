@@ -15,6 +15,9 @@ format: html
 - Description: anhydrous salt is a colourless crystalline solid, very soluble in water, moderately soluble in ethanol, the gas is odourless or has a faint acetous odour, It effloresces in warm, dry air
 
 ## NFPA 704 (fire diamond)
+
+![](../media/nfpa704/110.png){width=15% fig-align="center"}
+
 - **Health (blue): 1** - poses no health hazard, requires no precautions, and would offer no hazard beyond that of ordinary combustible materials.
 - **Flammability (red): 1** - materials that require considerable preheating, under all ambient temperature conditions, before ignition and combustion can occur. Flash point above 250 °C.
 - **Instability–reactivity (yellow): 0** - normally stable, even under fire exposure conditions, and is not reactive with water.

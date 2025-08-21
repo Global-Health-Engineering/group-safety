@@ -6,15 +6,18 @@ format: html
 [← Back to Chemical Safety](../chemical-safety.qmd)
 
 ## Basic information
-- Chemical formula(s): Contains ${\\rm H_2SO_4}$ (sulfuric acid, 1-5%)
+- Chemical formula(s): Contains ${\rm H_2SO_4}$ (sulfuric acid, 1-5%)
 - Other names: LCK 348 Phosphat/Phosphate Sample cuvette, 1/4
 - Product Code: LCK348-1
 - Unique Formula Identifier (UFI): 2806-5F1J-U80C-FAQ6
-- International Chemical Safety Card (ICSC): Multiple components - see individual ICSC cards
+- International Chemical Safety Card (ICSC): N/A - multiple components (see [Hach safety card](Hach_LCK348.pdf))
 - Flammability: no
 - Description: Laboratory reagent for phosphate determination in water analysis. Contains low concentration sulfuric acid.
 
 ## NFPA 704 (fire diamond)
+
+![](../media/nfpa704/100_COR.png){width=15% fig-align="center"}
+
 - **Health (blue): 1** - poses no health hazard, requires no precautions, and would offer no hazard beyond that of ordinary combustible materials.
 - **Flammability (red): 0** - will not burn under typical fire conditions.
 - **Instability–reactivity (yellow): 0** - normally stable, even under fire exposure conditions, and is not reactive with water.
@@ -33,8 +36,6 @@ format: html
 ## Protective measures
 
 ### Gloves
-Based on the safety data sheet recommendations for handling dilute acids:
-
 - **Viton™**: **very good** - recommended for long-term contact (>480 minutes breakthrough time, 0.70 mm thickness).
 - **Nitrile**: **good** - suitable for short-term contact (>30 minutes breakthrough time, 0.40 mm thickness).
 - **Natural latex or rubber**: **fair** - adequate for brief contact with dilute acid solutions.

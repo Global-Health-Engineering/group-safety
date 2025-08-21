@@ -6,15 +6,18 @@ format: html
 [← Back to Chemical Safety](../chemical-safety.qmd)
 
 ## Basic information
-- Chemical formula(s): Contains ${\\rm H_2SO_4}$ (sulfuric acid, 50-60%), ${\\rm H_3PO_4}$ (phosphoric acid, 30-40%)
+- Chemical formula(s): Contains ${\rm H_2SO_4}$ (sulfuric acid, 50-60%), ${\rm H_3PO_4}$ (phosphoric acid, 30-40%)
 - Other names: LCK 338 LatoN Sample cuvette, 1/4
 - Product Code: LCK338-1
 - Safety data sheet number: M01749
-- International Chemical Safety Card (ICSC): Multiple components - see individual ICSC cards
+- International Chemical Safety Card (ICSC): N/A - multiple components (see [Hach safety card](Hach_LCK338.pdf))
 - Flammability: no
 - Description: Sample cuvette for water analysis. Contains concentrated sulfuric acid and phosphoric acid mixture as an aqueous solution of inorganic acid.
 
 ## NFPA 704 (fire diamond)
+
+![](../media/nfpa704/300_COR.png){width=15% fig-align="center"}
+
 - **Health (blue): 3** - short exposure could cause serious temporary or residual injury.
 - **Flammability (red): 0** - will not burn under typical fire conditions.
 - **Instability–reactivity (yellow): 0** - normally stable, even under fire exposure conditions, and is not reactive with water.
@@ -39,8 +42,6 @@ format: html
 ## Protective measures
 
 ### Gloves
-Based on the safety data sheet recommendations for handling strong acids:
-
 - **Viton™**: **very good** - recommended for long-term contact (>480 minutes breakthrough time, 0.70 mm thickness).
 - **Nitrile**: **fair** - suitable for short-term contact only (>30 minutes breakthrough time, 0.20 mm thickness).
 - **Natural latex or rubber**: **poor (not recommended)** - not suitable for acids.

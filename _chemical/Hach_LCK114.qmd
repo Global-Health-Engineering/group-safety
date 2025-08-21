@@ -10,11 +10,14 @@ format: html
 - Other names: LCK114 CSB/COD/DCO Sample cuvette, Chemical Oxygen Demand test kit
 - Product Code: LCK114
 - Unique Formula Identifier (UFI): QR0A-1FV5-X80X-MANR
-- International Chemical Safety Card (ICSC): Multiple components - see individual ICSC cards
+- International Chemical Safety Card (ICSC): N/A - multiple components (see [Hach safety card](Hach_LCK114.pdf))
 - Flammability: no
 - Description: Sample cuvette for water analysis and determination of Chemical Oxygen Demand (COD). Contains 80-90% sulfuric acid with mercury sulfate, silver sulfate, and potassium dichromate as reagents.
 
 ## NFPA 704 (fire diamond)
+
+![](../media/nfpa704/302_OX_COR.png){width=15% fig-align="center"}
+
 - **Health (blue): 3** - short exposure could cause serious temporary or residual injury.
 - **Flammability (red): 0** - will not burn under typical fire conditions.
 - **Instability–reactivity (yellow): 2** - undergoes violent chemical change at elevated temperatures and pressures, reacts violently with water.

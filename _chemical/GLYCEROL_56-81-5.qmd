@@ -1,0 +1,93 @@
+---
+title: "GLYCEROL"
+format: html
+---
+
+[← Back to Chemical Safety](../chemical-safety.qmd)
+
+## Basic information
+- Chemical formula(s): ${\rm C_3H_8O_3}$ (${\rm CH_2OH-CHOH-CH_2OH}$)
+- Other names: Glycerine, glycerin, 1,2,3-propanetriol
+- CAS number: 56-81-5
+- EC number: 200-289-5
+- Molecular weight: 92.1 g/mol
+- International Chemical Safety Card (ICSC): [0624](https://chemicalsafety.ilo.org/dyn/icsc/showcard.display?p_card_id=0624)
+- Flammability: yes (combustible, flash point 176°C)
+- Description: Hygroscopic viscous colorless liquid. Miscible with water. Generally recognized as safe (GRAS) food ingredient and pharmaceutical excipient.
+
+## NFPA 704 (fire diamond)
+
+![](../media/nfpa704/110.png){width=15% fig-align="center"}
+
+- **Health (blue): 1** - poses no health hazard, requires no precautions, and would offer no hazard beyond that of ordinary combustible materials.
+- **Flammability (red): 1** - must be pre-heated before ignition can occur (flash point 176°C).
+- **Instability–reactivity (yellow): 0** - normally stable, even under fire exposure conditions, and is not reactive with water.
+- **Special notice (white): -**
+
+## Hazard statements
+Glycerol is not classified as hazardous under GHS regulations. However, as a combustible liquid, certain precautions apply:
+
+| Code | Phrase |
+| ---- | ------ |
+| -    | No hazard statements assigned (not classified as hazardous) |
+
+## Precautionary statements
+Despite not being classified as hazardous, the following precautionary measures apply for combustible liquids:
+
+| Code           | Phrase                                                                                                                         |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| P210           | keep away from heat/sparks/open flames/hot surfaces - no smoking                                                             |
+| P280           | wear protective gloves/protective clothing/eye protection/face protection                                                      |
+| P370+P378      | in case of fire: use water spray, foam, dry powder, carbon dioxide for extinction                                            |
+| P403+P235      | store in a well-ventilated place, keep cool                                                                                  |
+
+## Protective measures
+
+### Gloves
+For routine handling of glycerol:
+
+- **Any standard laboratory gloves**: **very good** - glycerol is non-toxic and non-irritating.
+- **Nitrile**: **very good** - prevents skin defatting and provides good grip.
+- **Natural latex or rubber**: **very good** - adequate for normal handling.
+- **PVC**: **good** - suitable for handling viscous liquids.
+- **Vinyl**: **good** - adequate for food-grade applications.
+
+### Safety goggles
+- Standard safety glasses recommended when handling to prevent eye contact.
+- Not required for small quantities but good laboratory practice.
+- Corrective glasses are not considered safety goggles.
+- Eye protection particularly important due to viscous nature.
+
+### Clothing
+- Standard laboratory clothing is sufficient.
+- Long sleeves recommended to prevent prolonged skin contact.
+- Closed-toe shoes required as standard laboratory safety.
+- **Hygroscopic material** - may cause skin dryness with prolonged contact.
+
+### Respiratory protection
+- Generally not required under normal use conditions.
+- Ensure adequate ventilation when heating (produces acrolein fumes).
+- Use appropriate ventilation when handling large quantities.
+- **Important**: Heating above 176°C requires fume hood due to acrolein formation.
+
+## Spill management
+- Clean up spills immediately to prevent slipping hazard (viscous liquid).
+- Absorb with inert material or mop up with water.
+- **Fire prevention**: Eliminate ignition sources during cleanup.
+- Wash area with water to remove residual glycerol.
+- **Slippery when wet** - use caution on wet surfaces.
+- No special disposal requirements - can be disposed with water or as non-hazardous waste.
+- Biodegradable and environmentally safe.
+
+## Special warnings
+- **Hygroscopic** - absorbs moisture from air, may dilute over time if container not sealed.
+- **Combustible liquid** - flash point 176°C, auto-ignition temperature 393°C.
+- **Heating hazard** - produces toxic acrolein fumes when heated above decomposition temperature.
+- **Generally recognized as safe (GRAS)** - approved food ingredient and pharmaceutical excipient.
+- **Skin drying** - prolonged contact may cause dry skin due to hygroscopic properties.
+- **Laxative effect** - ingestion of large quantities may cause diarrhea.
+- Store in tightly closed containers to prevent moisture absorption.
+- **Incompatible with strong oxidants** - may cause fire and explosion risk.
+- Keep away from heat sources when stored.
+- **Slippery** - clean up spills immediately to prevent falls.
+- Explosive limits in air: 2.6-11.3 vol% (when heated to form vapor).

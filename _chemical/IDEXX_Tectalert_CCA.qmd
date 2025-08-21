@@ -14,6 +14,9 @@ format: html
 - Description: Laboratory reagent for bacterial testing. Contains sodium pyruvate and trisodium phosphate as active ingredients.
 
 ## NFPA 704 (fire diamond)
+
+![](../media/nfpa704/200.png){width=15% fig-align="center"}
+
 - **Health (blue): 2** - intense or continued but not chronic exposure could cause temporary incapacitation or possible residual injury.
 - **Flammability (red): 0** - will not burn under typical fire conditions.
 - **Instability–reactivity (yellow): 0** - normally stable, even under fire exposure conditions, and is not reactive with water.

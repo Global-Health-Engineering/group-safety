@@ -1,0 +1,90 @@
+---
+title: "AGAR (AGAR-AGAR)"
+format: html
+---
+
+[← Back to Chemical Safety](../chemical-safety.qmd)
+
+## Basic information
+- Chemical formula(s): Complex polysaccharide (${\rm (C_{12}H_{18}O_9)_n}$)
+- Other names: Agar-agar, gelose, kanten, China grass
+- CAS number: 9002-18-0
+- EC number: 232-658-1
+- Molecular weight: Variable (complex polysaccharide)
+- International Chemical Safety Card (ICSC): N/A (see [Roth Safety Data Sheet](https://www.carlroth.com/medias/SDB-1T8Y-GB-EN.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wyMzMyOTV8YXBwbGljYXRpb24vcGRmfGFERXpMMmcyTkM4NU1UY3dPREUwTmpNeE9UWTJMMU5FUWw4eFZEaFpYMGRDWDBWT0xuQmtaZ3xkOTZkYThiZjIxN2QwOGU0MTI0MDkxYzE2ZjVjZmE0ZjE0MGFjYjU1ZmE4NGViZjk5NWZlYmFhZTk2MWM0ODMx))
+- Flammability: probably combustible (flash point data not available)
+- Description: Beige to white powder derived from red algae cell walls. Odorless and tasteless. Food-grade gelling agent used in microbiology culture media.
+
+## NFPA 704 (fire diamond)
+
+![](../media/nfpa704/010.png){width=15% fig-align="center"}
+
+- **Health (blue): 0** - poses no health hazard.
+- **Flammability (red): 1** - must be pre-heated before ignition can occur (probably combustible).
+- **Instability–reactivity (yellow): 0** - normally stable, even under fire exposure conditions, and is not reactive with water.
+- **Special notice (white): -**
+
+## Hazard statements
+Agar is **not classified** as hazardous under GHS regulations. Therefore, no H-codes are assigned.
+
+| Code | Phrase |
+| ---- | ------ |
+| -    | No hazard statements assigned (not classified as hazardous) |
+
+## Precautionary statements
+Despite not being classified as hazardous, the following general precautionary measures apply for organic powder handling:
+
+| Code           | Phrase                                                                                                                         |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| P261           | avoid breathing dust/fume/gas/mist/vapours/spray                                                                              |
+| P264           | wash hands thoroughly after handling                                                                                           |
+| P280           | wear protective gloves/protective clothing/eye protection/face protection                                                      |
+
+## Protective measures
+
+### Gloves
+- **Any standard laboratory gloves**: **very good** - agar is non-toxic and non-irritating.
+- **Nitrile**: **very good** - prevents contamination and provides good grip with powders.
+- **Natural latex or rubber**: **very good** - adequate for food-grade material handling.
+- **Vinyl**: **very good** - suitable for food-grade applications.
+- **PVC**: **good** - adequate protection for non-hazardous powder.
+
+### Safety goggles
+- Standard safety glasses recommended when handling large quantities to prevent dust irritation.
+- Not required for small quantities but good laboratory practice.
+- Corrective glasses are not considered safety goggles.
+- Dust may cause mechanical irritation to eyes.
+
+### Clothing
+- Standard laboratory clothing is sufficient.
+- Long sleeves recommended when handling large quantities to minimize dust contact.
+- Closed-toe shoes required as standard laboratory safety.
+- No special protective clothing required for food-grade material.
+
+### Respiratory protection
+- Dust mask recommended when handling large quantities or in poorly ventilated areas.
+- **Low hazard** for usual industrial handling but minimize dust generation.
+- Ensure adequate ventilation to prevent dust accumulation.
+- Use full-face respirator if exposure limits are exceeded or irritation occurs.
+
+## Spill management
+- Sweep up material carefully to minimize dust generation.
+- Use vacuum with appropriate filtration if available.
+- Avoid creating dust clouds during cleanup.
+- Collect in appropriate container - can be disposed as non-hazardous waste.
+- Clean area with damp cloth to remove residual dust.
+- **Biodegradable** - environmentally safe material.
+- No special disposal requirements - food-grade material.
+
+## Special warnings
+- **Generally recognized as safe (GRAS)** - approved food ingredient and pharmaceutical excipient.
+- **Practically non-toxic** - oral LD50 >15 g/kg (more than 1 quart for 70 kg person).
+- **Passes through intestinal tract mostly unabsorbed** - minimal systemic toxicity.
+- **Dust irritation** - may cause mechanical irritation to eyes and respiratory tract.
+- **Hygroscopic** - absorbs moisture from air, store in dry conditions.
+- Store in cool, dry place in tightly closed containers.
+- **Incompatible with strong oxidizing agents** - standard organic material precaution.
+- **Fire extinguishing**: Use dry chemical, carbon dioxide, or foam extinguisher.
+- **WHMIS classification**: Not controlled (minimal regulatory requirements).
+- **Water hazard class 2** - slightly hazardous to water (WGK Germany rating).
+- **Derived from natural source** - red algae (Rhodophyta) cell walls.

@@ -1,0 +1,88 @@
+---
+title: "POTASSIUM CHLORIDE"
+format: html
+---
+
+[← Back to Chemical Safety](../chemical-safety.qmd)
+
+## Basic information
+- Chemical formula(s): ${\rm KCl}$
+- Other names: Muriate of potash, potassium muriate, sylvite
+- CAS number: 7447-40-7
+- EC number: 231-211-8
+- Molecular weight: 74.55 g/mol
+- International Chemical Safety Card (ICSC): [1450](https://chemicalsafety.ilo.org/dyn/icsc/showcard.display?p_card_id=1450)
+- Flammability: no
+- Description: White crystalline solid salt. Highly soluble in water. Not classified as hazardous under GHS regulations.
+
+## NFPA 704 (fire diamond)
+
+![](../media/nfpa704/100.png){width=15% fig-align="center"}
+
+- **Health (blue): 1** - poses no health hazard, requires no precautions, and would offer no hazard beyond that of ordinary combustible materials.
+- **Flammability (red): 0** - will not burn under typical fire conditions.
+- **Instability–reactivity (yellow): 0** - normally stable, even under fire exposure conditions, and is not reactive with water.
+- **Special notice (white): -**
+
+## Hazard statements
+Potassium chloride is **not classified** as a hazardous substance according to GHS (Globally Harmonized System). Therefore, no H-codes are assigned.
+
+| Code | Phrase |
+| ---- | ------ |
+| -    | No hazard statements assigned |
+
+## Precautionary statements
+Despite not being classified as hazardous, the following precautionary measures are recommended for safe handling:
+
+| Code           | Phrase                                                                                                                         |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| P261           | avoid breathing dust/fume/gas/mist/vapours/spray                                                                              |
+| P264           | wash hands thoroughly after handling                                                                                           |
+| P280           | wear protective gloves/protective clothing/eye protection/face protection                                                      |
+| P302+P352      | IF ON SKIN: wash with plenty of water                                                                                         |
+| P304+P340      | IF INHALED: remove person to fresh air and keep comfortable for breathing                                                     |
+| P305+P351+P338 | IF IN EYES: rinse cautiously with water for several minutes, remove contact lenses if present and easy to do, continue rinsing |
+
+## Protective measures
+
+### Gloves
+For routine handling of potassium chloride powder or solutions:
+
+- **Nitrile**: **good** - suitable for routine handling and protection from dust.
+- **Natural latex or rubber**: **good** - adequate for normal contact.
+- **PVC**: **fair** - suitable for basic protection.
+- **Leather work gloves**: **poor** - not recommended for chemical handling.
+
+### Safety goggles
+- Wear safety glasses with side shields when handling powder to prevent eye irritation from dust.
+- Corrective glasses are not considered safety goggles.
+- Standard safety glasses adequate for routine use.
+
+### Clothing
+- Wear long sleeves and long pants to minimize skin contact with dust.
+- Standard laboratory clothing is sufficient.
+- Remove contaminated clothing and wash before reuse.
+- Closed-toe shoes required.
+
+### Respiratory protection
+- Ensure adequate ventilation when handling large quantities.
+- Use dust mask if working with fine powder in poorly ventilated areas.
+- N95 respirator recommended for handling large quantities of fine powder.
+
+## Spill management
+- Use standard cleanup procedures for non-hazardous materials.
+- Sweep up or vacuum material and place in appropriate waste container.
+- Avoid creating dust clouds during cleanup.
+- Use water to dampen material if dusty conditions exist.
+- Clean area with water after material removal.
+- Dispose according to local waste management regulations.
+- No special disposal requirements - can typically be disposed as non-hazardous waste.
+
+## Special warnings
+- **Generally recognized as safe (GRAS)** - potassium chloride is used as a food additive and salt substitute.
+- **Low toxicity** - oral LD50 in rats: 2600 mg/kg, indicating low acute toxicity.
+- **May cause mild irritation** - dust may cause minor irritation to eyes, skin, or respiratory tract.
+- **Hygroscopic** - absorbs moisture from air, store in tightly closed containers.
+- Store in cool, dry place away from moisture.
+- Compatible with most materials - no significant incompatibilities under normal conditions.
+- **Large ingestion may cause gastrointestinal irritation** - though this is unlikely in laboratory quantities.
