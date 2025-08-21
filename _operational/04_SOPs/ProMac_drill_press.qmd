@@ -1,0 +1,56 @@
+---
+title: "SOP for the ProMac 378C Drill Press with Slow/Fast Speed Switch"
+format: html
+---
+
+[← Back to Appendix 4](../04_operating_instructions_user_manuals_SOPs.qmd)
+
+![](../../media/ProMac_drill_press.jpg){width=60% fig-align="center"}
+
+## 1. Purpose  
+To establish safe and consistent operating procedures for using the drill press equipped with a simple speed selector switch, minimizing risks and ensuring quality drilling.
+
+## 2. Scope  
+Applies to all authorized and trained personnel operating the drill press in the GHE workshop.
+
+## 3. Personal Protective Equipment (PPE)  
+- Safety glasses or face shield  
+- Hearing protection if needed  
+- **No loose clothing, jewelry, or gloves**  
+- Long hair tied back  
+- Closed-toe shoes  
+
+## 4. Pre-Operation Checks  
+- Ensure the work area is clean, dry, and free of obstructions.  
+- Check that the drill press is securely mounted or stable.  
+- Verify that all guards and safety shields are in place.  
+- Inspect the electrical cord and plug for damage.  
+- Confirm the drill bit is sharp, correctly sized, and securely tightened with the chuck key removed before operation.  
+- Adjust the table height and angle as required and securely lock in position.  
+- Clamp the workpiece securely with a vise or clamps to prevent movement.  
+- Set the depth stop if applicable.  
+
+## 5. Speed Selection  
+- Select **Slow** speed for harder materials or larger diameter bits to prevent overheating and bit damage.  
+- Select **Fast** speed for softer materials or smaller diameter bits for cleaner, faster drilling.  
+
+## 6. Operating Procedures  
+- Stand clear of the rotating drill bit and ensure no body parts or loose items are near moving parts.  
+- Turn the drill press ON using the main switch.  
+- Slowly lower the drill bit to the workpiece, applying moderate, steady pressure—do not force the drill bit.  
+- Use the appropriate coolant or lubricant for metal drilling if necessary.  
+- Drill fully through the workpiece or to the desired depth, then slowly retract the drill bit.  
+- Turn the drill press OFF before removing the workpiece or making adjustments.  
+
+## 7. Post-Operation  
+- Wait for the drill bit to stop moving completely before opening any guards or removing the workpiece.  
+- Use a brush to clean metal or wood chips from the table—never use hands.  
+- Remove and store drill bits properly and clean the chuck if needed.  
+- Ensure the machine is turned OFF and unplugged if cleaning or maintenance is required.  
+- Keep the area around the drill press clean and free of debris.  
+- Clean the area after use, disposing of any waste materials properly.  
+
+## 8. Emergency Procedures  
+- Know the location of the emergency stop and the main power switch.  
+- In case of abnormal noise, vibration, or malfunction, stop the machine immediately.  
+- Report any injuries or malfunctions to the supervisor immediately.
