@@ -1,0 +1,96 @@
+---
+title: "CHLORAMPHENICOL"
+format: html
+---
+
+[← Back to Chemical Safety](../chemical-safety.qmd)
+
+## Basic information
+- Chemical formula(s): ${\rm C_{11}H_{12}Cl_2N_2O_5}$
+- Other names: D-(-)-threo-2,2-dichloro-N-[β-hydroxy-α-(hydroxymethyl)-p-nitrophenethyl]acetamide
+- CAS number: 56-75-7
+- EC number: 200-287-4
+- Molecular weight: 323.13 g/mol
+- International Chemical Safety Card (ICSC): N/A (see [Roth Safety Data Sheet](https://www.carlroth.com/medias/SDB-3886-MT-EN.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wyNjY4NDJ8YXBwbGljYXRpb24vcGRmfGFEVmhMMmhpTUM4NU1UZ3lNalk0TXpVNE5qZzJMMU5FUWw4ek9EZzJYMDFVWDBWT0xuQmtaZ3xjNGFhNmI2MDE1ZGNkNWQ2MGQ1MDU4MzM3MzAzN2U3NWIzZjY2NzU1Njg1NTA1NzUyMTc2NWE0NzM4ZTg2YTNk)) 
+- Flammability: no
+- Description: White or grayish-white crystalline powder. Antibiotic compound. Classified as IARC Group 2A (probably carcinogenic, mutagenic or reprotoxic to humans).
+
+## NFPA 704 (fire diamond)
+
+![](../media/nfpa704/310.png){width=15% fig-align="center"}
+
+- **Health (blue): 3** - short exposure could cause serious temporary or moderate residual injury.
+- **Flammability (red): 1** - must be pre-heated before ignition can occur under typical fire conditions.
+- **Instability–reactivity (yellow): 0** - normally stable, even under fire exposure conditions, and is not reactive with water.
+- **Special notice (white): -**
+
+## Hazard statements
+| Code   | Phrase                                                                   |
+| ------ | ------------------------------------------------------------------------ |
+| H318   | Causes serious eye damage                                                |
+| H351   | Suspected of causing cancer                                              |
+| H361fd | Suspected of damaging fertility. Suspected of damaging the unborn child. |
+
+## Precautionary statements
+| Code           | Phrase                                                                                                                         |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| P202           | Do not handle until all safety precautions have been read and understood |
+| P280           | Wear protective gloves/eye protection |
+| P305+P351+P338 | IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing |
+| P308+P313      | IF exposed or concerned: Get medical advice/attention |
+
+## Protective measures
+
+### Gloves
+For handling chloramphenicol powder (carcinogenic substance):
+
+- **Nitrile**: **very good** - recommended for handling carcinogenic materials, chemical resistant.
+- **Butyl rubber**: **very good** - excellent chemical resistance for extended contact with carcinogens.
+- **Viton™**: **very good** - superior chemical resistance for hazardous substances.
+- **Natural latex or rubber**: **poor (not recommended)** - inadequate protection against carcinogens.
+- **PVC**: **fair** - limited protection, not recommended for carcinogens.
+
+### Safety goggles
+- **Mandatory**: Always wear chemical safety goggles when handling this product.
+- Use eye protection equipment that has been tested and approved by recognized national standards.
+- Corrective glasses are not considered safety goggles.
+- Handle only in well-ventilated areas or fume hood.
+
+### Clothing
+- **Mandatory protective clothing**: Wear chemical resistant protective clothing.
+- Long sleeves and full-length pants required.
+- Closed-toe shoes mandatory.
+- **Disposable clothing recommended** when handling carcinogenic materials.
+- Remove contaminated clothing immediately and dispose properly.
+- Do not take contaminated clothing home.
+
+### Respiratory protection
+- **Mandatory**: Use appropriate respiratory protection when handling.
+- Use HEPA-filtered respirator or work in fume hood.
+- Minimize dust generation during handling.
+- Ensure adequate ventilation with HEPA or charcoal filtration.
+- **Never eat, drink, or smoke** while handling.
+
+## Spill management
+- **Evacuate area** and restrict access to trained personnel only.
+- Wear full protective equipment including respirator.
+- **Minimize dust generation** - do not sweep dry material.
+- Use wet cleanup methods or vacuum with HEPA filter.
+- Collect material in sealed containers labeled for carcinogenic waste.
+- **Special disposal required** - handle as hazardous carcinogenic waste.
+- Decontaminate area thoroughly after cleanup.
+- **Never wash down drains** or dispose in regular waste.
+
+## Special warnings
+- **IARC Group 2A carcinogen** - probable human carcinogen.
+- **Suspected reproductive toxin** - may damage fertility or unborn child.
+- **Causes aplastic anemia** - potentially fatal blood disorder.
+- **Organ damage** - causes damage through prolonged or repeated exposure.
+- **Restricted use** - handle only by trained personnel with appropriate safety measures.
+- Store in locked, secure area away from unauthorized personnel.
+- **Medical surveillance required** for personnel with occupational exposure.
+- Keep exposure logs and provide medical monitoring.
+- **Pregnancy warning** - pregnant or breastfeeding women should not handle.
+- Use only in well-ventilated areas with HEPA filtration.
+- **Emergency procedures** - have emergency eyewash and shower available.
+- **Special training required** before handling this carcinogenic substance.

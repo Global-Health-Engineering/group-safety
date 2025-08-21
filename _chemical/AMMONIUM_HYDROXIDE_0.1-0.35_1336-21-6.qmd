@@ -15,6 +15,9 @@ format: html
 - [NOAA's](https://cameochemicals.noaa.gov/chemical/2434) description: clear colouress liquid consisting, corrosive to tissue and metals. Although ammonia is lighter than air, the vapours from a leak will initially hug the ground
 
 ## NFPA 704 (fire diamond)
+
+![](../media/nfpa704/310_COR.png){width=15% fig-align="center"}
+
 - **Health (blue): 3** - short exposure could cause serious temporary or moderate residual injury.
 - **Flammability (red): 1** - requires considerable preheating, under all ambient temperature conditions, before ignition and combustion can occur. Flash point above 93.3 °C.
 - **Instability–reactivity (yellow): 0** - normally stable, even under fire exposure conditions, and is not reactive with water.

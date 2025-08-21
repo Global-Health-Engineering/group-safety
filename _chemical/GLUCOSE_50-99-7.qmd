@@ -1,0 +1,89 @@
+---
+title: "GLUCOSE (D-GLUCOSE)"
+format: html
+---
+
+[← Back to Chemical Safety](../chemical-safety.qmd)
+
+## Basic information
+- Chemical formula(s): ${\rm C_6H_{12}O_6}$
+- Other names: D-glucose, dextrose, grape sugar, blood sugar, corn sugar
+- CAS number: 50-99-7
+- EC number: 200-075-1
+- Molecular weight: 180.2 g/mol
+- International Chemical Safety Card (ICSC): [ICSC 0865](https://chemicalsafety.ilo.org/dyn/icsc/showcard.display?p_card_id=0865)
+- Flammability: yes (combustible)
+- Description: White crystalline powder with sweet taste. Highly soluble in water. Natural sugar found in fruits, honey, and blood. Generally recognized as safe (GRAS) food ingredient.
+
+## NFPA 704 (fire diamond)
+
+![](../media/nfpa704/010.png){width=15% fig-align="center"}
+
+- **Health (blue): 0** - poses no health hazard.
+- **Flammability (red): 1** - must be pre-heated before ignition can occur under typical fire conditions.
+- **Instability–reactivity (yellow): 0** - normally stable, even under fire exposure conditions, and is not reactive with water.
+- **Special notice (white): -**
+
+## Hazard statements
+Glucose is not classified as hazardous under GHS regulations. However, as a combustible organic powder, certain precautions apply:
+
+| Code | Phrase |
+| ---- | ------ |
+| -    | No hazard statements assigned (not classified as hazardous) |
+
+## Precautionary statements
+Despite not being classified as hazardous, the following precautionary measures apply for combustible powders:
+
+| Code           | Phrase                                                                                                                         |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| P280           | wear protective gloves/protective clothing/eye protection/face protection                                                      |
+| P370+P378      | in case of fire: use water spray, foam, dry powder, carbon dioxide for extinction                                              |
+| P420           | store separately from incompatible materials                                                                                   |
+
+## Protective measures
+
+### Gloves
+For routine handling of glucose powder:
+
+- **Any standard laboratory gloves**: **very good** - glucose is non-toxic and non-irritating.
+- **Nitrile**: **very good** - prevents contamination and provides grip.
+- **Natural latex or rubber**: **very good** - adequate for normal handling.
+- **Vinyl**: **very good** - suitable for food-grade handling.
+
+### Safety goggles
+- Standard safety glasses recommended when handling large quantities to prevent eye irritation from dust.
+- Not required for small quantities but good laboratory practice.
+- Corrective glasses are not considered safety goggles.
+
+### Clothing
+- Standard laboratory clothing is sufficient.
+- Long sleeves recommended when handling large quantities to minimize skin contact with dust.
+- Closed-toe shoes required as standard laboratory safety.
+- No special protective clothing required.
+
+### Respiratory protection
+- Dust mask recommended when handling large quantities or in poorly ventilated areas.
+- Minimize dust generation during handling.
+- Ensure adequate ventilation to prevent dust accumulation.
+- **Dust explosion hazard**: Prevent accumulation of airborne dust in confined spaces.
+
+## Spill management
+- Sweep up material carefully to minimize dust generation.
+- Use non-sparking tools and avoid creating dust clouds.
+- **Fire prevention**: Eliminate ignition sources during cleanup.
+- Collect in appropriate container - can be disposed as non-hazardous waste.
+- Clean area with damp cloth to remove residual dust.
+- Ensure good ventilation during cleanup.
+- No special disposal requirements - food-grade material.
+
+## Special warnings
+- **Combustible powder** - finely dispersed particles can form explosive mixtures in air.
+- **Dust explosion hazard** - prevent accumulation of dust in confined spaces.
+- **Reacts violently with strong oxidants** - store separately from oxidizing agents.
+- **Generally recognized as safe (GRAS)** - approved food ingredient with very low toxicity.
+- **Diabetic considerations** - large ingestion will raise blood glucose levels.
+- Store in cool, dry place in tightly closed containers.
+- **Hygroscopic** - absorbs moisture from air, may cake if stored improperly.
+- Keep away from heat sources and ignition sources.
+- Use closed systems and dust explosion-proof electrical equipment when handling large quantities.
+- **No open flames** during handling of powder.

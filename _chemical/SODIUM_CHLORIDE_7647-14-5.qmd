@@ -1,0 +1,90 @@
+---
+title: "SODIUM CHLORIDE"
+format: html
+---
+
+[← Back to Chemical Safety](../chemical-safety.qmd)
+
+## Basic information
+- Chemical formula(s): ${\rm NaCl}$
+- Other names: Common salt, table salt, halite, rock salt, saline
+- CAS number: 7647-14-5
+- EC number: 231-598-3
+- Molecular weight: 58.44 g/mol
+- International Chemical Safety Card (ICSC): [1119](https://chemicalsafety.ilo.org/dyn/icsc/showcard.display?p_lang=en&p_card_id=1119&p_version=2)
+- Flammability: no (not combustible)
+- Description: White crystalline solid. Highly soluble in water (36 g/100ml at 20°C). Essential nutrient and food preservative. Used in chemical synthesis and de-icing.
+
+## NFPA 704 (fire diamond)
+
+![](../media/nfpa704/000.png){width=15% fig-align="center"}
+
+- **Health (blue): 0** - poses no health hazard.
+- **Flammability (red): 0** - will not burn under typical fire conditions.
+- **Instability–reactivity (yellow): 0** - normally stable, even under fire exposure conditions, and is not reactive with water.
+- **Special notice (white): -** - no special hazards.
+
+## Hazard statements
+Sodium chloride has minimal hazard classification under GHS regulations:
+
+| Code | Phrase                                                         |
+| ---- | -------------------------------------------------------------- |
+| H319 | causes serious eye irritation                                 |
+
+## Precautionary statements
+| Code           | Phrase                                                                                                                         |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| P264           | wash hands thoroughly after handling                                                                                           |
+| P280           | wear protective gloves/protective clothing/eye protection/face protection                                                      |
+| P305+P351+P338 | IF IN EYES: rinse cautiously with water for several minutes, remove contact lenses if present and easy to do, continue rinsing |
+| P337+P313      | if eye irritation persists: get medical advice/attention                                                                       |
+
+## Protective measures
+
+### Gloves
+For routine handling of sodium chloride:
+
+- **Any standard laboratory gloves**: **very good** - sodium chloride is non-toxic and minimally irritating.
+- **Nitrile**: **very good** - prevents contamination and provides good grip.
+- **Natural latex or rubber**: **very good** - adequate for handling salts.
+- **Vinyl**: **very good** - suitable for food-grade applications.
+- **PVC**: **good** - adequate protection for non-hazardous salts.
+
+### Safety goggles
+- Standard safety glasses recommended when handling powder to prevent eye irritation.
+- Corrective glasses are not considered safety goggles.
+- **Important**: Can cause serious eye irritation if powder contacts eyes.
+
+### Clothing
+- Standard laboratory clothing is sufficient.
+- Long sleeves recommended when handling large quantities to minimize skin contact with dust.
+- Closed-toe shoes required as standard laboratory safety.
+- No special protective clothing required for food-grade material.
+
+### Respiratory protection
+- Generally not required under normal use conditions.
+- Dust mask recommended when handling large quantities of fine powder.
+- Ensure adequate ventilation to prevent dust accumulation.
+- Minimize dust generation during handling.
+
+## Spill management
+- Sweep up material carefully to minimize dust generation.
+- Use vacuum with appropriate filtration if available.
+- Avoid creating dust clouds during cleanup.
+- Collect in appropriate container - can be disposed as non-hazardous waste.
+- Clean area with water to remove residual salt.
+- **Environmental consideration**: Avoid release to waterways in large quantities (can affect aquatic life).
+- No special disposal requirements - non-hazardous material.
+
+## Special warnings
+- **Generally recognized as safe (GRAS)** - essential nutrient and food ingredient.
+- **Eye irritant** - fine powder can cause serious eye irritation.
+- **Hygroscopic** - absorbs moisture from air at high humidity (>75%).
+- **Corrosive to metals** - concentrated solutions can corrode some metals over time.
+- **De-icing agent** - can damage vegetation and corrode infrastructure if overused.
+- Store in cool, dry place in tightly closed containers.
+- **Food-grade vs. technical grade** - ensure appropriate grade for intended use.
+- **Aquatic toxicity**: LC50 fish: 5,840 mg/L (96h), Daphnia: 874 mg/L (48h).
+- **Medical note**: Excessive intake may contribute to hypertension in sensitive individuals.
+- **Physical hazard**: Can make surfaces slippery when wet.
+- Compatible with most materials under normal conditions.

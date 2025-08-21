@@ -5,7 +5,6 @@ format: html
 
 [← Back to Chemical Safety](../chemical-safety.qmd)
 
-
 ## Basic information
 - Chemical formula(s): ${\rm C_6H_5(CH_2)_9CH_3}$, ${\rm C_{16}H_{26}}$
 - Other names: decylbenzene, 1-decylbenzene, n-decylbenzene
@@ -15,6 +14,9 @@ format: html
 - [NOAA's](https://cameochemicals.noaa.gov/chemical/8498) description: white liquid, floats on water
 
 ## NFPA 704 (fire diamond)
+
+![](../media/nfpa704/110.png){width=15% fig-align="center"}
+
 - **Health (blue): 1** - poses no health hazard, requires no precautions, and would offer no hazard beyond that of ordinary combustible materials.
 - **Flammability (red): 1** - materials that require considerable preheating, under all ambient temperature conditions, before ignition and combustion can occur. Flash point at 107 °C.
 - **Instability–reactivity (yellow): 0** - normally stable, even under fire exposure conditions, and is not reactive with water.

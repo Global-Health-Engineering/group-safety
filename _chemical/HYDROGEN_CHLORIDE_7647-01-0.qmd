@@ -15,6 +15,9 @@ format: html
 - [NOAA's](https://cameochemicals.noaa.gov/chemical/8731) description: colourless liquid/gas with a sharp, pungent odour, fumes strongly in moist air, corrosive to metals and tissues and irritating to the eyes and respiratory system, heavier than air.
 
 ## NFPA 704 (fire diamond)
+
+![](../media/nfpa704/301_ACID.png){width=15% fig-align="center"}
+
 - **Health (blue): 3** - short exposure could cause serious temporary or moderate residual injury.
 - **Flammability (red): 0** - material will not burn under typical fire conditions, including intrinsically noncombustible materials such as concrete, stone, and sand. Material will not burn in air unless exposed to a temperature of 820 °C for more than 5 minutes.
 - **Instability–reactivity (yellow): 1** - normally stable, but can become unstable at elevated temperatures and pressures.
