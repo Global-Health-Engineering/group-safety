@@ -1,15 +1,17 @@
 ---
-title: "SOP for the Drill Press with Slow/Fast Speed Switch"
+title: "SOP for the ProMac 378C Drill Press with Slow/Fast Speed Switch"
 format: html
 ---
 
-[← Back to Appendix 4: Collection of Operating Instructions, User Manuals, and SOPs"](../04_operating_instructions_user_manuals_SOPs.qmd)
+[← Back to Appendix 4](../04_operating_instructions_user_manuals_SOPs.qmd)
+
+![](../../media/ProMac_drill_press.jpg){width=60% fig-align="center"}
 
 ## 1. Purpose  
 To establish safe and consistent operating procedures for using the drill press equipped with a simple speed selector switch, minimizing risks and ensuring quality drilling.
 
 ## 2. Scope  
-Applies to all authorized and trained personnel operating the drill press in workshops, labs, or similar environments.
+Applies to all authorized and trained personnel operating the drill press in the GHE workshop.
 
 ## 3. Personal Protective Equipment (PPE)  
 - Safety glasses or face shield  

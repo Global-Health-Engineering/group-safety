@@ -26,7 +26,7 @@ The chemicals available in the GHE workshop are:
 ## Standard Operating Procedures
 - [CNC milling machine (Mekanika Pro Education Pack)](04_SOPs/Mekanika_CNC.qmd)
 - [Drill (DeWalt)](04_SOPs/DeWalt_handheld_drill.qmd)
-- [Drill Press](04_SOPs/drill_press.qmd)
+- [Drill Press](04_SOPs/ProMac_drill_press.qmd)
 - [Injection molding machine (HoliPress 38)](04_SOPs/HoliPress_injection_molding.qmd)
 - [Jigsaw (DeWalt)](04_SOPs/DeWalt_jigsaw.qmd)
 - [Laser Cutter (Trotec Q400)](04_SOPs/Trotec_laser_cutter.qmd)
