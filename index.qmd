@@ -20,8 +20,8 @@ This safety concept was adopted by [Dr. Jakub Tkaczuk](https://ghe.ethz.ch/about
 In case of emergency in the laboratory, workshop, or office:
 
 1. call the ETH Emergency Desk: **+41 44 342 11 88** (from mobile) or **888** (from landline)
-2. inform Dr. Jakub Tkaczuk (GSR & BSO): +41 44 632 31 62
-3. inform Prof. Dr. Elizabeth Tilley.
+2. inform Dr. Jakub Tkaczuk (GSR & BSO): +41 44 632 31 62 and [jtkaczuk@ethz.ch](mailto:jtkaczuk@ethz.ch)
+3. inform Prof. Dr. Elizabeth Tilley: [tilleye@ethz.ch](mailto:tilleye@ethz.ch)
 :::
 
 ## Content {.unnumbered}
