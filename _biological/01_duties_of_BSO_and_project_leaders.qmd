@@ -26,6 +26,15 @@ The BSO ensures:
 - that the laboratory managers or project leaders send their reports and authorization re-quests to the Federal Office of Biotechnology Activities. The BSO provides consultative support.
 - that documentation from his area of responsibility is received by the authorities, i.e., via the reporting and authorization documents. This includes the type of activities and the organ-isms, number of exposed persons, names of project leaders, names of occupational physi-cians and other specialists of occupational safety (ASA), and the required protective measures and emergency plan. 
 
+## BSO deputy
+
+The BSO deputy (Bettina Melberg) takes over the duties of the BSO when the BSO is absent, in particular:
+- acting as contact person for incidents in CLA J26 and for the emergency services;
+- granting clearance after decontamination following an incident;
+- informing the BSO about all incidents and decisions taken during the absence.
+
+The BSO keeps the deputy informed about current activities, notifications, and changes to this safety concept.
+
 ## Laboratory Manager and Project Leaders
 
 Duties of the Project Leaders:

@@ -6,3 +6,20 @@ format: html
 [← Back to Operational Safety](../operational-safety.qmd)
 
 # Task schedule
+
+The recurring safety tasks defined in this safety concept are scheduled as follows.
+
+| Task | Frequency | Responsible | Reference |
+| ---- | --------- | ----------- | --------- |
+| Safety introduction for new lab and workshop users, incl. maternity protection information | before first entry | GSR / BSO | [Appendix 8](08_training_certificates.qmd) |
+| Annual safety refresher for all users, incl. maternity protection information | yearly | GSR / BSO | [Appendix 8](08_training_certificates.qmd) |
+| Biosafety instruction for persons working with Group 2 organisms | before starting, then yearly | BSO | [Biological Safety](../biological-safety.qmd#measures_iii) |
+| Review of the BSL2 access list | every six months | BSO | [Biological Safety, Appendix 7](../_biological/07_user_list_with_access_to_BSL2.qmd) |
+| Update of the biological project list | every six months and with each new ECOGEN notification | BSO | [Biological Safety, Appendix 6](../_biological/06_project_list.qmd) |
+| Chemical inventory; disposal of expired chemicals | twice per year | GSR | [Chemical Safety](../chemical-safety.qmd) |
+| Inspection and certification of the biological safety cabinet | yearly | BSO, service company | [Biological Safety, Appendix 13](../_biological/13_service_plan.qmd) |
+| Cleaning of incubator, fridge, and centrifuge | every six months | BSO | [Biological Safety, Appendix 11](../_biological/11_hygene_plan.qmd) |
+| Safety check of the 3D printer enclosure and ventilation | every six months | GSR | [Appendix 7](07_maintenance_and_service_schedule.qmd#safety-check-log) |
+| Review of the hazard identification and risk assessment | yearly and before each new activity | professor, GSR | [Appendix 3](03_hazard_identification_and_risk_assessment.qmd) |
+| Clean-up of the lab and workshop | twice per year | all users | - |
+| Review of the safety concept; update of BED-B | yearly and whenever the risk situation changes | GSR / BSO | [Biological Safety](../biological-safety.qmd#emergency_v) |

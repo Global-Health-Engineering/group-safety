@@ -1,5 +1,5 @@
 ---
-title: "Appendix 10: Use of Class 2 Cabinets"
+title: "Appendix 10: Use of Class 2 Biological Safety Cabinets"
 format: html
 ---
 
@@ -27,7 +27,7 @@ The primary danger of releasing a biological substance from the biosafety cabine
     - no rapid or violent movements;
     - bring bulky equipment into the safety cabinet only if absolutely essential. Do it in the *cleaning mode* before starting your work, take it out in the *cleaning mode* after finishing your work.
     - do not store any unnecessary items in the safety cabinet;
-    - do not use Bunsen burners over extended periods, only ignite as required, using a sensor or foot switch;
+    - open flames disturb the air flow and can damage the HEPA filters (EN 12469:2025, AWEL BSO letter 3/26). Use only the flat, foot-operated Bunsen burner and ignite it only when needed; prefer sterile disposable loops where possible;
     - do not cover air holes.
 - All equipment brought into the safety cabinet must be cleaned and disinfected beforehand. Items of equipment removed from the safety cabinet must be disinfected and cleaned if necessary (in this order).
 - The working surface of the safety cabinet must be cleaned and disinfected at the end of the work. Waste must be disposed of, Pasteur pipettes on hoses must be removed and vacuum hoses must be disinfected (see operating instructions on hygiene and waste disposal). If flammable disinfectants are stipulated, disinfect only by wiping with quantities of less than 20 ml in order to prevent explosion. **However, the flow in biosafety cabinet will cause alcohol evaporation** and degrade the disinfecting capacity, therefore larger volume may be necessary to disinfect working cabinet after use.
@@ -50,12 +50,12 @@ The cabinet does not offer any protection against harmful gases and vapours.
 
 ## Tests, maintenance, and disposal
 
-Servicing and repair work must only be carried out with the permission of the Laboratory Manager and must normally be performed by the manufacturer. The safety cabinet must be checked annually by a specialist. For maintenance, only replacement parts matching the original parts in terms of material and design may be used.
+Servicing and repair work must only be carried out with the permission of the Laboratory Manager and must normally be performed by the manufacturer. The safety cabinet must be checked annually by a specialist according to EN 12469:2025 (see the [service plan](13_service_plan.qmd)). The date of the last check is displayed on the cabinet. For maintenance, only replacement parts matching the original parts in terms of material and design may be used.
 
 ## Accidents and first aid
 
 If a person is wounded while working in the biosafety cabinet, rinse an open wound, allow it to bleed, if possible, and spray it immediately with disinfectant. Apply more disinfectant, if necessary, and allow it to act according to the instructions, though at least for 30 minutes.
 
-If necessary, alert the ETH first-aid team (internal phone number: 888) or the ambulance (144). Pay attention to Emergency planning: action in the event of incidents in the laboratory. Complete the report sheet for laboratory incidents, inform laboratory manager and BSO.
+If necessary, alert the ETH first-aid team (internal phone number: 888) or the ambulance (0-144 from the landline, 144 from mobile). Pay attention to Emergency planning: action in the event of incidents in the laboratory. Complete the report sheet for laboratory incidents, inform laboratory manager and BSO.
 
 

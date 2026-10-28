@@ -7,4 +7,19 @@ format: html
 
 # Hazard identification and risk assessment
 
-To be defined.
+The table lists the main hazards in the GHE wet lab (CLA J26) and workshop (CLA B2.1, A21.1), the measures in place, and the person responsible. It is reviewed at least once per year and whenever a new activity starts. Risk: L = low, M = medium, H = high (after measures).
+
+| Area | Hazard | Source | Measures | Risk | Responsible |
+| ---- | ------ | ------ | -------- | ---- | ----------- |
+| wet lab | infection by ingestion of parasite eggs | *Ascaris suum*, *Toxocara canis* (RG2) | BSL2, work in BSC, closed screw-cap tubes for centrifuging, gloves, lab coat, hand hygiene, autoclaving, annual instruction ([Biological Safety](../biological-safety.qmd)) | M | BSO |
+| wet lab | fungal spores, allergies | spent mushroom substrates (RG1) | handle in closed containers or BSC, lab coat, gloves | L | BSO |
+| wet lab | chemical burns | concentrated HCl, NaOH, acids for egg inactivation | fume hood, goggles, gloves, acid and base cabinets, eyewash | M | GSR |
+| wet lab | toxic, carcinogenic, reprotoxic substances | Hach LCK114, chloramphenicol | closed cuvette tests, gloves, goggles, maternity information, disposal as hazardous waste | M | GSR |
+| wet lab | fire and explosion | methane, isopropanol, ethanol, oxygen | fume hood, gas cabinet, methane sensor, flames only from the foot-operated Bunsen burner in the BSC, flammables cabinet | M | GSR |
+| wet lab | asphyxiation | CO~2~, methane | gas cabinet, CO~2~ sensor with automatic shut-off, work in fume hood | L | GSR |
+| wet lab | burns, pressure | autoclave, oven, ashing furnace | operating instructions, heat-resistant gloves, wait for pressure release | L | GSR |
+| wet lab | cuts, needle sticks | glassware, sharps | plastic instead of glass, sharps container, no recapping | L | GSR |
+| workshop | cuts, crushing, flying parts | drill press, CNC, jigsaw, router, sander | SOPs, training per machine, safety glasses, hearing protection | M | workshop supervisor |
+| workshop | fire, fumes, laser radiation | laser cutter | SOP, enclosure and interlock, exhaust, never leave unattended | M | workshop supervisor |
+| workshop | skin sensitization, vapors, particles | SLA resins, isopropanol, 3D printing | gloves, ventilation, HEPA / carbon filter on printer, closed containers | L | workshop supervisor |
+| wet lab | delayed help in an emergency | working alone, no phone inside CLA J26 | BSc/MSc students never work alone, emergency numbers posted at the door, mobile phone, phone at the safety station on the corridor about 10 m from the door (888) | L | GSR |

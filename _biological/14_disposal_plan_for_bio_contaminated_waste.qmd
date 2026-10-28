@@ -6,14 +6,30 @@ format: html
 [← Back to Biological Safety](../biological-safety.qmd)
 
 
-The procedure for disposal of biological waste is as follows:
-1. All biologically contaminated waste is placed in autoclavable bag.
+All waste that contains or may contain Group 2 organisms (*Ascaris suum*, *Toxocara canis* eggs) is treated as infectious waste and autoclaved in CLA J26 before it leaves the laboratory. Chemical disinfection is not used as inactivation for this waste, because helminth eggs are resistant to it.
+
+| Type of waste | Collection | Inactivation | Final disposal |
+| ------------- | ---------- | ------------ | -------------- |
+| Liquid waste (egg suspensions, treatment solutions) | closed, autoclavable bottles (max. ¾ full, cap loose during autoclaving) | autoclave, 121 °C, at least 20 min | after cooling: sink if free of hazardous chemicals; otherwise hazardous chemical waste |
+| Solid waste (tubes, plates, tips, wipes, gloves) | autoclavable biohazard bag inside the BSC | autoclave, 121 °C, at least 20 min | normal waste (in an outer black bag) |
+| Sharps (needles, scalpels, broken glass, Pasteur pipettes) | puncture-proof sharps container with biohazard label | autoclave the closed container | hazardous waste collection point |
+| Spent mushroom substrates and fungal material (RG1) | closed bag | autoclave | normal waste |
+| Waste containing chemicals (acids, metabolite extracts) | as above | autoclave first (never autoclave volatile solvents) | hazardous chemical waste, [ETH disposal guidelines](https://ethz.ch/content/associates/services/en/organisation/abteilungen/sicherheit-gesundheit-umwelt/sgu-services/umwelt/sonderabfall.html) |
+
+The procedure for solid biological waste is as follows:
+
+1. All biologically contaminated waste is placed in an autoclavable bag.
 2. The bag is kept closed or placed in the biosafety cabinet.
-3. Once the bag is full place it in the autoclave; make sure it is NOT tightly closed.
-4. Run the standard autoclaving cycle (121 degree C, 15 min).
-5. After cooldown, put the bag in a normal black bag and then in a normal waste bin.
+3. Once the bag is full, place it in the autoclave in a secondary tray; make sure it is NOT tightly closed so steam can enter.
+4. Put heat indicator tape on the bag.
+5. Run the cycle at 121 °C for at least 20 minutes.
+6. After cooldown, check the indicator tape. If it did not change color, repeat the cycle and inform the BSO.
+7. Put the bag in a normal black bag and then in a normal waste bin.
 
 Notes:
+
 1. Do not overload the bag above the max load level.
-2. Use only approved autocavable bags for waste decontamination in autoclave.
-3. Once the waste in a bag has been autoclaved, put it in a normal black waste bag. This psychological action will make cleaning services handle the autoclaved biological waste as normal waste.
+2. Use only approved autoclavable bags for waste decontamination in the autoclave.
+3. Once the waste in a bag has been autoclaved, put it in a normal black waste bag. This hides the biohazard sign, so the cleaning services and the disposal chain handle the autoclaved waste as normal waste.
+4. Sharps containers are closed when ¾ full and never placed in the normal waste bin ([ETH information sheet *Working with sharps*](../media/MB_Sharps_EN.pdf)).
+5. Nothing containing Group 2 organisms is poured down the drain before autoclaving.

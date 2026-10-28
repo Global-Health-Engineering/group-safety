@@ -2,17 +2,23 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.545">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>GHE Safety Documentation - Biological Safety</title>
+<title>Biological Safety – GHE Safety Documentation</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -30,15 +36,16 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-09606243866072c1aa00d3ff38fff5fe.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-4fc21ad76c8958e2b92140b27e8ff77a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,8 +75,8 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <script defer="" data-domain="global-health-engineering.github.io/group-safety" src="https://plausible.io/js/script.js"></script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 const typesetMath = (el) => {
@@ -82,7 +89,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -100,7 +107,7 @@ window.Quarto = {
 
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -112,7 +119,7 @@ window.Quarto = {
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -152,7 +159,7 @@ window.Quarto = {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -171,8 +178,9 @@ window.Quarto = {
   <li><a href="#organization" id="toc-organization" class="nav-link" data-scroll-target="#organization"><span class="header-section-number">3</span> Safety organization</a>
   <ul class="collapse">
   <li><a href="#organization_i" id="toc-organization_i" class="nav-link" data-scroll-target="#organization_i"><span class="header-section-number">3.1</span> Responsibility and liability</a></li>
-  <li><a href="#organization_ii" id="toc-organization_ii" class="nav-link" data-scroll-target="#organization_ii"><span class="header-section-number">3.2</span> Duties of the Biosafety Officer, the Laboratory Leader, and the Project Leaders</a></li>
-  <li><a href="#organization_iii" id="toc-organization_iii" class="nav-link" data-scroll-target="#organization_iii"><span class="header-section-number">3.3</span> List of employees</a></li>
+  <li><a href="#organization_chart" id="toc-organization_chart" class="nav-link" data-scroll-target="#organization_chart"><span class="header-section-number">3.2</span> Organization chart</a></li>
+  <li><a href="#organization_ii" id="toc-organization_ii" class="nav-link" data-scroll-target="#organization_ii"><span class="header-section-number">3.3</span> Duties of the Biosafety Officer, the Laboratory Leader, and the Project Leaders</a></li>
+  <li><a href="#organization_iii" id="toc-organization_iii" class="nav-link" data-scroll-target="#organization_iii"><span class="header-section-number">3.4</span> List of employees</a></li>
   </ul></li>
   <li><a href="#emergency" id="toc-emergency" class="nav-link" data-scroll-target="#emergency"><span class="header-section-number">4</span> Emergency organization: Planning and incident management</a>
   <ul class="collapse">
@@ -180,6 +188,7 @@ window.Quarto = {
   <li><a href="#emergency_ii" id="toc-emergency_ii" class="nav-link" data-scroll-target="#emergency_ii"><span class="header-section-number">4.2</span> Emergency planning: Procedures in case of incidents in the laboratory and crisis situations</a></li>
   <li><a href="#emergency_iii" id="toc-emergency_iii" class="nav-link" data-scroll-target="#emergency_iii"><span class="header-section-number">4.3</span> Report sheet for laboratory incidents</a></li>
   <li><a href="#emergency_iv" id="toc-emergency_iv" class="nav-link" data-scroll-target="#emergency_iv"><span class="header-section-number">4.4</span> Health file</a></li>
+  <li><a href="#emergency_v" id="toc-emergency_v" class="nav-link" data-scroll-target="#emergency_v"><span class="header-section-number">4.5</span> Safety documentation for emergency services</a></li>
   </ul></li>
   <li><a href="#risk" id="toc-risk" class="nav-link" data-scroll-target="#risk"><span class="header-section-number">5</span> Risk assessment</a>
   <ul class="collapse">
@@ -193,7 +202,9 @@ window.Quarto = {
   <ul class="collapse">
   <li><a href="#measures_ii_a" id="toc-measures_ii_a" class="nav-link" data-scroll-target="#measures_ii_a"><span class="header-section-number">6.2.1</span> Operating instructions and rules of conduct</a></li>
   <li><a href="#measures_ii_b" id="toc-measures_ii_b" class="nav-link" data-scroll-target="#measures_ii_b"><span class="header-section-number">6.2.2</span> Laboratory safety rules</a></li>
-  <li><a href="#measures_ii_c" id="toc-measures_ii_c" class="nav-link" data-scroll-target="#measures_ii_c"><span class="header-section-number">6.2.3</span> Use of class 2 safety cabinet</a></li>
+  <li><a href="#measures_ii_c" id="toc-measures_ii_c" class="nav-link" data-scroll-target="#measures_ii_c"><span class="header-section-number">6.2.3</span> Use of class 2 biological safety cabinet</a></li>
+  <li><a href="#measures_ii_d" id="toc-measures_ii_d" class="nav-link" data-scroll-target="#measures_ii_d"><span class="header-section-number">6.2.4</span> Biological safety during centrifuging</a></li>
+  <li><a href="#measures_ii_e" id="toc-measures_ii_e" class="nav-link" data-scroll-target="#measures_ii_e"><span class="header-section-number">6.2.5</span> Prevention of infectious diseases transmissible by blood</a></li>
   </ul></li>
   <li><a href="#measures_iii" id="toc-measures_iii" class="nav-link" data-scroll-target="#measures_iii"><span class="header-section-number">6.3</span> Training and information to ensure safety at work</a></li>
   <li><a href="#measures_iv" id="toc-measures_iv" class="nav-link" data-scroll-target="#measures_iv"><span class="header-section-number">6.4</span> Standards for laboratory cleaning</a>
@@ -212,8 +223,17 @@ window.Quarto = {
   <li><a href="#measures_vi_b" id="toc-measures_vi_b" class="nav-link" data-scroll-target="#measures_vi_b"><span class="header-section-number">6.6.2</span> Responsibility for servicing and maintenance of equipment</a></li>
   </ul></li>
   <li><a href="#measures_vii" id="toc-measures_vii" class="nav-link" data-scroll-target="#measures_vii"><span class="header-section-number">6.7</span> Transportation of organisms or infectious biological agents</a></li>
+  <li><a href="#measures_viii" id="toc-measures_viii" class="nav-link" data-scroll-target="#measures_viii"><span class="header-section-number">6.8</span> Chemical safety</a>
+  <ul class="collapse">
+  <li><a href="#measures_viii_a" id="toc-measures_viii_a" class="nav-link" data-scroll-target="#measures_viii_a"><span class="header-section-number">6.8.1</span> Storage and quantities</a></li>
+  <li><a href="#measures_viii_b" id="toc-measures_viii_b" class="nav-link" data-scroll-target="#measures_viii_b"><span class="header-section-number">6.8.2</span> Disposal</a></li>
   </ul></li>
-  <li><a href="#appendices" id="toc-appendices" class="nav-link" data-scroll-target="#appendices"><span class="header-section-number">7</span> Appendices</a></li>
+  <li><a href="#measures_ix" id="toc-measures_ix" class="nav-link" data-scroll-target="#measures_ix"><span class="header-section-number">6.9</span> Planning, building, modification, decommissioning, and relocation</a></li>
+  </ul></li>
+  <li><a href="#appendices" id="toc-appendices" class="nav-link" data-scroll-target="#appendices"><span class="header-section-number">7</span> Appendices</a>
+  <ul class="collapse">
+  <li><a href="#documents" id="toc-documents" class="nav-link" data-scroll-target="#documents"><span class="header-section-number">7.1</span> Further documents</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -240,6 +260,19 @@ window.Quarto = {
 </header>
 
 
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Valid from:</strong> 27 October 2026 (revision 2, aligned with the SSHE template <em>Specific biosafety concept</em>, version 12/2025) <strong>Approved by:</strong> Dr.&nbsp;Jakub Tkaczuk (BSO) and Prof.&nbsp;Dr.&nbsp;Elizabeth Tilley (head of GHE) <strong>Active ECOGEN notification:</strong> <a href="./_biological/06_project_list.html">A260150-00</a>, class 2, CLA J26</p>
+</div>
+</div>
 <section id="validity" class="level1" data-number="1">
 <h1 data-number="1"><span class="header-section-number">1</span> Validity</h1>
 <p>This biological safety concept forms a binding framework for the implementation of the statutory requirements for activities involving pathogenic or Genetically Modified Organisms (GMO) in contained systems (Levels 1 and 2)<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>. This safety concept incorporates the measures adopted by Global Health Engineering for occupational safety and for the safety of people, animals, and the environment.</p>
@@ -255,7 +288,7 @@ window.Quarto = {
 </section>
 <section id="objectives" class="level1" data-number="2">
 <h1 data-number="2"><span class="header-section-number">2</span> Safety objectives</h1>
-<p>Work in the Global Health Engineering laboratory involves using hazardous chemical and biological substances. In this work, it is impossible to entirely rule out a potential risk to people, animals and the environment. GHE takes the necessary safety measures to protect people, animals and the environment from harmful effects. As an employer, the professor of GHE acknowledges its responsibility for occupational safety and protecting its employees’ health and takes the necessary measures accordingly<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>.</p>
+<p>Work in the Global Health Engineering laboratory involves using hazardous chemical and biological substances, including Group 2 parasitic nematodes (<em>Ascaris suum</em> and <em>Toxocara canis</em>) and Group 1 fungi (see <a href="./_biological/06_project_list.html">Appendix 6</a>). In this work, it is impossible to entirely rule out a potential risk to people, animals and the environment. GHE takes the necessary safety measures to protect people, animals and the environment from harmful effects. As an employer, the professor of GHE acknowledges its responsibility for occupational safety and protecting its employees’ health and takes the necessary measures accordingly<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>.</p>
 </section>
 <section id="organization" class="level1" data-number="3">
 <h1 data-number="3"><span class="header-section-number">3</span> Safety organization</h1>
@@ -264,14 +297,65 @@ window.Quarto = {
 <p>The head of GHE assumes the operative responsibility for ensuring the safety of people, the environment, and safety at the workplace<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a>. They ensure that the safety concept is implemented and followed and have established the organizational structure necessary for this purpose. At least one person has been entrusted with monitoring biological safety, the precise details concerning status, duties, and responsibilities have been set out in the job description. These job descriptions also specify the duties, tasks, and competencies of the laboratory managers and project leaders in everyday situations and emergencies. The job descriptions are an integral part of this specific biosafety concept. The necessary financial and personal resources to maintain biological and chemical safety are made available by GHE.</p>
 <p>As a matter of principle, ETH Zurich as an institution (not an individual ETH employee) shall be held liable to third parties, both companies and persons. However, ETH may take recourse against employees who fail to comply with safety provisions deliberately or through gross negligence, thereby inflicting harm on a third party for which the ETH is liable. This covers the liability issue. The criminal law aspect must also be considered. Therefore, the following applies to all persons bearing responsibility for safety at ETH: <em>The responsibility of persons under criminal law is derived from their sphere of responsibility concerning observing safety rules. Only those persons who, by their position, can prevent hazards through their intervention can be held accountable under criminal law. This is the case if they failed to intervene where intervention would have been appropriate and possible.</em></p>
 </section>
-<section id="organization_ii" class="level2" data-number="3.2">
-<h2 data-number="3.2" class="anchored" data-anchor-id="organization_ii"><span class="header-section-number">3.2</span> Duties of the Biosafety Officer, the Laboratory Leader, and the Project Leaders</h2>
-<p>The organizational structure of GHE is described in section 3.ii of the GHE’s <a href="./operational-safety.html">Operational Safety Concept</a>.</p>
-<p>The status, duties and responsibilities of the Biosafety Officer (BSO) and the Project Leaders (PL) are set out in the job description of the respective employees. GHE conforms to the respective guidelines of the Swiss Agency for the Environment, Forests and Landscape (SAEFL)<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a>.</p>
-<p>The duties of the BSO and PL are described in detail in <a href="./_biological/01_duties_of_BSO_and_project_leaders.html">Appendix 1</a>.</p>
+<section id="organization_chart" class="level2" data-number="3.2">
+<h2 data-number="3.2" class="anchored" data-anchor-id="organization_chart"><span class="header-section-number">3.2</span> Organization chart</h2>
+<p>The positions of the Biosafety Officer (BSO) and the BSO deputy are shown below. The general safety organization of GHE is described in the <a href="./operational-safety.html#organization_ii">Operational Safety Concept</a>.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 21%">
+<col style="width: 12%">
+<col style="width: 13%">
+<col style="width: 18%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>role</th>
+<th>name</th>
+<th>building / room</th>
+<th>phone number</th>
+<th>email</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>head of group, employer</td>
+<td>Prof.&nbsp;Dr.&nbsp;Elizabeth Tilley</td>
+<td>CLD D 10.1</td>
+<td>+41 44 632 88 28</td>
+<td>tilleye@ethz.ch</td>
+</tr>
+<tr class="even">
+<td>Biosafety Officer (BSO), lab manager</td>
+<td>Dr.&nbsp;Jakub Tkaczuk</td>
+<td>CLD D 2.1</td>
+<td>+41 44 632 31 62</td>
+<td>jtkaczuk@ethz.ch</td>
+</tr>
+<tr class="odd">
+<td>BSO deputy</td>
+<td>Bettina Melberg</td>
+<td>CLA F 33</td>
+<td>+41 44 632 08 42</td>
+<td>bmelberg@ethz.ch</td>
+</tr>
+<tr class="even">
+<td>project leader, ECOGEN A260150-00</td>
+<td>Jules Peter</td>
+<td>CLA J 26</td>
+<td>+41 79 341 45 51</td>
+<td>jupeter@ethz.ch</td>
+</tr>
+</tbody>
+</table>
 </section>
-<section id="organization_iii" class="level2" data-number="3.3">
-<h2 data-number="3.3" class="anchored" data-anchor-id="organization_iii"><span class="header-section-number">3.3</span> List of employees</h2>
+<section id="organization_ii" class="level2" data-number="3.3">
+<h2 data-number="3.3" class="anchored" data-anchor-id="organization_ii"><span class="header-section-number">3.3</span> Duties of the Biosafety Officer, the Laboratory Leader, and the Project Leaders</h2>
+<p>The status, duties and responsibilities of the Biosafety Officer (BSO) and the Project Leaders (PL) are set out in the job description of the respective employees. GHE conforms to the respective guidelines of the Swiss Agency for the Environment, Forests and Landscape (SAEFL)<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a>.</p>
+<p>The duties of the BSO, the BSO deputy, and PL are described in detail in <a href="./_biological/01_duties_of_BSO_and_project_leaders.html">Appendix 1</a>.</p>
+</section>
+<section id="organization_iii" class="level2" data-number="3.4">
+<h2 data-number="3.4" class="anchored" data-anchor-id="organization_iii"><span class="header-section-number">3.4</span> List of employees</h2>
 <p>Group 2 microorganisms represent a potential hazard for employees. GHE keeps a list of persons who work with Group 2 organisms (see <a href="./_biological/02_list_of_employees_SAMV.html">Appendix 2</a>) and, if required, arranges for a health file to be created according to the Ordinance on the Protection of Personnel from Hazards due to Microorganisms (SAMV) (see <a href="#emergency_iv">Chapter 4.4</a>). GHE shall provide this list to SSHE-BSO upon request.</p>
 </section>
 </section>
@@ -279,15 +363,22 @@ window.Quarto = {
 <h1 data-number="4"><span class="header-section-number">4</span> Emergency organization: Planning and incident management</h1>
 <section id="emergency_i" class="level2" data-number="4.1">
 <h2 data-number="4.1" class="anchored" data-anchor-id="emergency_i"><span class="header-section-number">4.1</span> Emergency telephone numbers and contacts for safety issues</h2>
-<p>The emergency telephone numbers and contact addresses of persons able to provide information on safety matters are available in every laboratory and near the telephones. This is of paramount importance for dealing with an incident quickly. This list is provided in <a href="./_biological/03_emergency_telephone_numbers_and_contacts_for_safety.html">Appendix 3</a>.</p>
+<p>The emergency telephone numbers and contact addresses of persons able to provide information on safety matters are posted in the laboratory next to the door and at the safety station on the corridor. There is no phone inside CLA J26; emergency calls are made from a mobile phone (+41 44 342 11 88) or from the phone at the safety station on the corridor (when you leave CLA J26, turn right; the phone is before the elevators, about 10 m from the door) by dialing 888. This is of paramount importance for dealing with an incident quickly. This list is provided in <a href="./_biological/03_emergency_telephone_numbers_and_contacts_for_safety.html">Appendix 3</a>.</p>
 </section>
 <section id="emergency_ii" class="level2" data-number="4.2">
 <h2 data-number="4.2" class="anchored" data-anchor-id="emergency_ii"><span class="header-section-number">4.2</span> Emergency planning: Procedures in case of incidents in the laboratory and crisis situations</h2>
 <p>When working with organisms, emergencies, which vary in severity, may arise owing to spillage of infectious material, release of aerosols, injuries, fire, explosion and water discharge. While minor incidents are generally dealt with by the person(s) who caused them, with the assistance of the Biosafety Officers if appropriate, the emergency services must always be alerted in the event of serious incidents. The procedures are described in <a href="./_biological/04_emergency_planning_and_procedures.html">Appendix 4</a>.</p>
+<p>CLA J26 is equipped with a spill kit for chemical and biological spills and a first aid kit for injuries in the chemistry and biology lab. The spill kit is a single-use bucket for incineration waste, labelled <em>Spill kit CLA J26</em>, placed under the lab coats. The first aid kit is placed above the sink. After use, the BSO replaces the spill kit and refills the first aid kit.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/spill_kit_small.jpg" class="img-fluid figure-img" style="width:40.0%"></p>
+<figcaption>Spill kit in CLA J26</figcaption>
+</figure>
+</div>
 </section>
 <section id="emergency_iii" class="level2" data-number="4.3">
 <h2 data-number="4.3" class="anchored" data-anchor-id="emergency_iii"><span class="header-section-number">4.3</span> Report sheet for laboratory incidents</h2>
-<p>In a laboratory incident involving Class 2 activities, the precise circumstances leading to contamination of the body or an injury must be recorded, even if only a minor one. All laboratory incidents must be reported to the BSO and the supervisors, i.e., body injuries and material damages. Next, they must be reported to SSHE using <a href="./_biological/05_report_sheet_for_lab_incidents.html">Appendix 5</a>.</p>
+<p>In a laboratory incident involving Class 2 activities, the precise circumstances leading to contamination of the body or an injury must be recorded, even if only a minor one. All laboratory incidents must be reported to the BSO and the supervisors and recorded with the report sheet in <a href="./_biological/05_report_sheet_for_lab_incidents.html">Appendix 5</a>. Incidents involving personal injury or property damage must also be reported to SSHE: <a href="https://ethz.ch/staffnet/en/service/safety-security-health-environment/safety-security-health-environment/notfall-was-tun/unfall-oder-medizinisches-ereignis.html">accident or medical event</a>, <a href="https://ethz.ch/staffnet/en/service/safety-security-health-environment/safety-security-health-environment/sachschaden.html">property damage</a>.</p>
 <p>The BSO, supervisors, and SSHE use the report sheets for laboratory incidents to investigate the causes of incidents so that measures can be initiated to prevent and reduce risks. The BSO, SSHE, and supervisors keep the completed report sheets on file for at least five years.</p>
 </section>
 <section id="emergency_iv" class="level2" data-number="4.4">
@@ -301,6 +392,11 @@ window.Quarto = {
 <li>Results of medical examinations after accidents, incidents, exposure to microorganisms, and suspected infection during occupational activity.</li>
 </ul>
 <p>The attending doctor keeps the health file as a separate dossier or as a component/folder in an existing medical history if, for example, the person examined also consults the same doctor privately<a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a>. Suppose other work-related medical examinations, e.g., concerning radiation protection, are also carried out by the doctor involved. In that case, these shall be included or combined in the same personal dossier.</p>
+<p>No vaccination exists against <em>Ascaris</em> or <em>Toxocara</em>, and no special medical examinations are required for activity A260150-00 (as declared in ECOGEN). After a suspected ingestion of eggs, the affected person consults the ETH occupational physician, who decides on diagnostics and treatment (albendazole for <em>T. canis</em>, mebendazole for <em>A. suum</em>). In that case a health file is opened.</p>
+</section>
+<section id="emergency_v" class="level2" data-number="4.5">
+<h2 data-number="4.5" class="anchored" data-anchor-id="emergency_v"><span class="header-section-number">4.5</span> Safety documentation for emergency services</h2>
+<p>To ensure a reliable response in the event of fire, flooding, power failure or other incidents, the emergency services (B-Pikett, fire brigade, police) are informed about the organisms used, their storage and working locations, the protective measures required, and the inactivation methods. In the canton of Zurich, this is the <em>Betriebseinsatzdokumentation Biologie</em> (BED-B) according to §31 ABCV, which the BSO submits electronically to AWEL (Sektion Biosicherheit) and keeps up to date. For GHE, the BED-B covers room CLA J26 (BSL2), the storage of <em>Ascaris suum</em> and <em>Toxocara canis</em> eggs at 4 °C, and inactivation by autoclaving.</p>
 </section>
 </section>
 <section id="risk" class="level1" data-number="5">
@@ -308,7 +404,8 @@ window.Quarto = {
 <section id="risk_i" class="level2" data-number="5.1">
 <h2 data-number="5.1" class="anchored" data-anchor-id="risk_i"><span class="header-section-number">5.1</span> Compulsory reporting of BSL2 activities</h2>
 <p>The risks of an activity and the reporting and authorization requirements according to ESV (Art. 8-10) and SAMV (Art. 5, 6) are identified/established early. To this end, before the start of the activity, the project leaders report to the BSO all new activities and significant changes, e.g., the use of new organisms with significantly different characteristics or significant new knowledge concerning safety-related aspects of an ongoing activity.</p>
-<p>The BSO and GHE inform the Federal Office of Public Health (FOPH), using <a href="https://www.ecogen.admin.ch/public/#/">ECOGEN</a>, about the start and the end of the BSL2 activities.</p>
+<p>The BSO and GHE inform the federal authorities, using <a href="https://www.ecogen.admin.ch/public/#/">ECOGEN</a>, about the start and the end of the BSL2 activities. Following the advice of AWEL, no end date is entered when a notification is created, unless the end of the activity is certain; otherwise the notification is set to inactive on that date. Purely administrative changes (new persons, addresses, phone numbers) are submitted as an <em>administrative change / supplement</em>. Questions are addressed to the Federal Contact Point for Biotechnology (KBB, <a href="mailto:contact.biotech@bafu.admin.ch">contact.biotech@bafu.admin.ch</a>).</p>
+<p>The risk assessment for each activity is part of its ECOGEN notification. For activity A260150-00, the main points are summarized in <a href="./_biological/06_project_list.html">Appendix 6</a>.</p>
 </section>
 <section id="risk_ii" class="level2" data-number="5.2">
 <h2 data-number="5.2" class="anchored" data-anchor-id="risk_ii"><span class="header-section-number">5.2</span> Project list and inventory of biological agents</h2>
@@ -319,7 +416,7 @@ window.Quarto = {
 <h1 data-number="6"><span class="header-section-number">6</span> Safety measures and rules of conduct</h1>
 <section id="measures_i" class="level2" data-number="6.1">
 <h2 data-number="6.1" class="anchored" data-anchor-id="measures_i"><span class="header-section-number">6.1</span> Access control and signalization of BSL2 working areas</h2>
-<p>Access to the BSL2 laboratory facility is restricted to authorized persons only and is governed by the containment concept of GHE. Nonetheless, it must always be ensured that, in the event of an incident, e.g., fire, the emergency services can access the area quickly and safely and that the escape routes are secured. The list of users with access to the level 2 area is provided in <a href="./_biological/07_user_list_with_access_to_BSL2.html">Appendix 7</a>.</p>
+<p>Access to the BSL2 laboratory facility is restricted to authorized persons only and is governed by the containment concept of GHE. Nonetheless, it must always be ensured that, in the event of an incident, e.g., fire, the emergency services can access the area quickly and safely (fire brigade key) and that the escape routes are secured. The rules on access and the list of users with access to the level 2 area are provided in <a href="./_biological/07_user_list_with_access_to_BSL2.html">Appendix 7</a>.</p>
 <p>The entrance area to level 2 laboratories is signalized, and warning signs (restricted access and warning of the hazards emanating from the organism) are displayed. The guidelines for signalization of laboratories and equipment with the “Biohazard” warning symbol are described in <a href="./_biological/08_meaning_and_use_of_biohazard_symbol.html">Appendix 8</a>.</p>
 </section>
 <section id="measures_ii" class="level2" data-number="6.2">
@@ -330,16 +427,31 @@ window.Quarto = {
 </section>
 <section id="measures_ii_b" class="level3" data-number="6.2.2">
 <h3 data-number="6.2.2" class="anchored" data-anchor-id="measures_ii_b"><span class="header-section-number">6.2.2</span> Laboratory safety rules</h3>
-<p>The staff of GHE adhere to the legally binding “Principles of good microbiological practice” according to Annex 3 of SAMV. Based on it, the laboratory rules applicable to the laboratory of GHE are adapted and supplemented accordingly. The laboratory rules are described in <a href="./_operational/05_general_lab_workshop_rules.html">Appendix 5 of the Operational Safety Concept</a>.</p>
+<p>The staff of GHE adhere to the legally binding “Principles of good microbiological practice” according to Annex 3 of SAMV. Based on it, the laboratory rules applicable to the laboratory of GHE are adapted and supplemented accordingly. The laboratory rules, including the specific rules for BSL2, are described in <a href="./_operational/05_general_lab_workshop_rules.html">Appendix 5 of the Operational Safety Concept</a>. The most important rules are posted on the door of CLA J26 (<a href="./_operational/10_wet_lab_door_rules.html">door poster</a>).</p>
 </section>
 <section id="measures_ii_c" class="level3" data-number="6.2.3">
-<h3 data-number="6.2.3" class="anchored" data-anchor-id="measures_ii_c"><span class="header-section-number">6.2.3</span> Use of class 2 safety cabinet</h3>
-<p>Correct operation and use, including regular maintenance of the safety cabinets, are essential for protecting people and the environment, as well as for the quality of research and test results and are explained in detail in a separate information sheet. GHE is responsible for the maintenance of the safety cabinets. <a href="./_biological/10_use_of_class_2_cabinets.html">Appendix 10</a> contains information on the use of class 2 safety cabinets.</p>
+<h3 data-number="6.2.3" class="anchored" data-anchor-id="measures_ii_c"><span class="header-section-number">6.2.3</span> Use of class 2 biological safety cabinet</h3>
+<p>Correct operation and use, including regular maintenance of the biological safety cabinets (BSC), are essential for protecting people and the environment, as well as for the quality of research and test results and are explained in detail in a separate information sheet. GHE is responsible for the maintenance of the safety cabinets. <a href="./_biological/10_use_of_class_2_cabinets.html">Appendix 10</a> contains information on the use of class 2 safety cabinets. Detailed information is available in the FOEN <em>Guideline for the use of microbiological safety cabinets when handling human-pathogenic microorganisms</em> (2nd edition, 2024) and in EN 12469:2025. Open flames disturb the air flow of the BSC and can damage the HEPA filters (EN 12469:2025, AWEL BSO letter 3/26). Therefore, only a flat, foot-operated Bunsen burner is used in the BSC, and it is ignited only when needed.</p>
+</section>
+<section id="measures_ii_d" class="level3" data-number="6.2.4">
+<h3 data-number="6.2.4" class="anchored" data-anchor-id="measures_ii_d"><span class="header-section-number">6.2.4</span> Biological safety during centrifuging</h3>
+<p>To prevent the formation of aerosols during centrifugation and the dispersal of organisms, users follow the instructions of the centrifuge manufacturer (Thermo Fisher Scientific Sorvall ST8). The centrifuge has no aerosol-tight buckets. The risk is low because <em>Ascaris</em> and <em>Toxocara</em> eggs (about 50–90 µm) are too large to be inhaled and infect only by ingestion. The following measures apply to all samples containing Group 2 organisms:</p>
+<ul>
+<li>only tightly closed screw-cap tubes are used, filled to at most ¾ and balanced;</li>
+<li>after the run, the lid stays closed for at least 5 minutes before opening, so droplets can settle;</li>
+<li>tubes are checked for breakage and opened only inside the BSC;</li>
+<li>if a tube breaks, the lid is kept closed for 30 minutes, then the rotor and buckets are cleaned with detergent-soaked wipes according to the <a href="./_biological/04_emergency_planning_and_procedures.html">emergency plan</a>, and all wipes are autoclaved.</li>
+</ul>
+</section>
+<section id="measures_ii_e" class="level3" data-number="6.2.5">
+<h3 data-number="6.2.5" class="anchored" data-anchor-id="measures_ii_e"><span class="header-section-number">6.2.5</span> Prevention of infectious diseases transmissible by blood</h3>
+<p>GHE does not work with human or animal blood or blood-containing body fluids, so the SSHE annex <em>Measures to prevent infectious diseases transmissible by blood</em> does not apply. Sharps (needles, scalpels, broken glass) are nevertheless handled according to the ETH information sheet <a href="media/MB_Sharps_EN.pdf"><em>Working with sharps</em></a>: their use is avoided where possible, needles are never recapped, and sharps are collected in a puncture-proof sharps container with a biohazard label, which is closed when ¾ full and autoclaved before disposal.</p>
 </section>
 </section>
 <section id="measures_iii" class="level2" data-number="6.3">
 <h2 data-number="6.3" class="anchored" data-anchor-id="measures_iii"><span class="header-section-number">6.3</span> Training and information to ensure safety at work</h2>
-<p>At ETH Zurich, training is essential to ensure people’s and the environment’s safety. ETH Zurich offers its BSO external and internal training courses. The respective project manager is responsible for inducting new employees and instructing them in biosafety (they can, however, delegate this task to the BSO). The confirmation of training completion is recorded in writing and stored in the Record of instructions and trainings.</p>
+<p>At ETH Zurich, training is essential to ensure people’s and the environment’s safety. ETH Zurich offers its BSO external and internal training courses. The respective project manager is responsible for inducting new employees and instructing them in biosafety (they can, however, delegate this task to the BSO).</p>
+<p>Every person working with Group 2 organisms is instructed before starting the work and at least once per year afterwards (annual refresher). The instruction covers the organisms and their risks, the protective measures, the laboratory rules, the emergency procedures, waste disposal, and maternity protection (see <a href="./operational-safety.html#training">Operational Safety Concept, chapter 7</a>). Each instruction is confirmed by the signatures of the employee and the instructor and stored in the record of instructions and trainings (<a href="./_operational/08_training_certificates.html">Appendix 8 of the Operational Safety Concept</a>).</p>
 </section>
 <section id="measures_iv" class="level2" data-number="6.4">
 <h2 data-number="6.4" class="anchored" data-anchor-id="measures_iv"><span class="header-section-number">6.4</span> Standards for laboratory cleaning</h2>
@@ -356,11 +468,11 @@ window.Quarto = {
 <h2 data-number="6.5" class="anchored" data-anchor-id="measures_v"><span class="header-section-number">6.5</span> Disposal of biologically contaminated waste</h2>
 <section id="measures_v_a" class="level3" data-number="6.5.1">
 <h3 data-number="6.5.1" class="anchored" data-anchor-id="measures_v_a"><span class="header-section-number">6.5.1</span> Disposal plan</h3>
-<p>Correct disposal of contaminated waste is a crucial requirement for preventing the escape of organisms from a laboratory and minimizing the risk to people and the environment. A separate disposal plan for biologically contaminated waste contains detailed information on how the handling of waste is organized<a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a><a href="#fn7" class="footnote-ref" id="fnref7" role="doc-noteref"><sup>7</sup></a>.</p>
+<p>Correct disposal of contaminated waste is a crucial requirement for preventing the escape of organisms from a laboratory and minimizing the risk to people and the environment. A separate disposal plan for biologically contaminated waste (<a href="./_biological/14_disposal_plan_for_bio_contaminated_waste.html">Appendix 14</a>) contains detailed information on how the handling of waste is organized<a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a><a href="#fn7" class="footnote-ref" id="fnref7" role="doc-noteref"><sup>7</sup></a>.</p>
 </section>
 <section id="measures_v_b" class="level3" data-number="6.5.2">
 <h3 data-number="6.5.2" class="anchored" data-anchor-id="measures_v_b"><span class="header-section-number">6.5.2</span> Inactivating biological waste by autoclaving</h3>
-<p>The operation of the autoclave is laid down in its operating instructions. Autoclaving procedures are selected so that all biological waste is safely inactivated.</p>
+<p>The operation of the autoclave is laid down in its operating instructions (<a href="https://drive.google.com/drive/folders/1-gGl0Jj20gXjfeDVtdbEAdviQkH1oo-P?usp=sharing">user manuals</a>). The autoclave (HMC) is located in CLA J26. Autoclaving procedures are selected so that all biological waste is safely inactivated: all waste containing <em>Ascaris</em> or <em>Toxocara</em> eggs is autoclaved at 121 °C for at least 20 minutes. Helminth eggs are highly resistant to chemical disinfectants, so autoclaving is the only inactivation method used for them. The effectiveness of inactivation is checked with heat indicator tape on every load, and the autoclave is serviced and calibrated by the manufacturer every two years (see <a href="./_biological/13_service_plan.html">Appendix 13</a>).</p>
 </section>
 </section>
 <section id="measures_vi" class="level2" data-number="6.6">
@@ -378,7 +490,7 @@ window.Quarto = {
 <h2 data-number="6.7" class="anchored" data-anchor-id="measures_vii"><span class="header-section-number">6.7</span> Transportation of organisms or infectious biological agents</h2>
 <p>GHE adheres to the statutory requirements and follows the relevant national and international transport regulations<a href="#fn8" class="footnote-ref" id="fnref8" role="doc-noteref"><sup>8</sup></a> on labelling and packing for transporting organisms or infectious biological agents. Suppose a sample containing organisms is transported outside the laboratory for diagnostic or research purposes. In that case, the smallest quantities and lowest concentration of cells possible<a href="#fn9" class="footnote-ref" id="fnref9" role="doc-noteref"><sup>9</sup></a> are packed and transported with appropriate labelling. If waste involves a contamination risk, e.g., secretions or excreta, or strong-smelling or nauseating waste is transported, the labelling and packing regulations listed in <a href="./_biological/14_disposal_plan_for_bio_contaminated_waste.html">Appendix 14</a> are applied.</p>
 <p>In summary, the following applies:</p>
-<table class="table">
+<table class="caption-top table">
 <colgroup>
 <col style="width: 5%">
 <col style="width: 39%">
@@ -426,6 +538,23 @@ window.Quarto = {
 </tr>
 </tbody>
 </table>
+<p>Isolated <em>Ascaris suum</em> and <em>Toxocara canis</em> eggs are received from an external collaborator as UN 3373 (P650, triple packaging). On arrival, the package is opened inside the BSC, the receipt (species, batch, quantity, date) is documented, and the eggs are stored at 4 °C in sealed, labelled secondary containers in the fridge in CLA J26, which carries a biohazard label. Inside the building, samples are moved only in closed, leak-proof, and break-proof secondary containers.</p>
+</section>
+<section id="measures_viii" class="level2" data-number="6.8">
+<h2 data-number="6.8" class="anchored" data-anchor-id="measures_viii"><span class="header-section-number">6.8</span> Chemical safety</h2>
+<section id="measures_viii_a" class="level3" data-number="6.8.1">
+<h3 data-number="6.8.1" class="anchored" data-anchor-id="measures_viii_a"><span class="header-section-number">6.8.1</span> Storage and quantities</h3>
+<p>Chemicals are kept in the laboratory only in the quantities needed for uninterrupted daily work. Highly flammable liquids are kept in suitable, marked cabinets. When handling and storing chemicals, the stipulations of the safety data sheets are followed. The chemical inventory, the main chemical risks, and the safety information for each chemical are provided in the <a href="./chemical-safety.html">Chemical Safety</a> section.</p>
+</section>
+<section id="measures_viii_b" class="level3" data-number="6.8.2">
+<h3 data-number="6.8.2" class="anchored" data-anchor-id="measures_viii_b"><span class="header-section-number">6.8.2</span> Disposal</h3>
+<p>All chemical waste, such as acids and alkalis or (chlorinated) organic solvents, is collected and disposed of in accordance with the <a href="https://ethz.ch/content/associates/services/en/organisation/abteilungen/sicherheit-gesundheit-umwelt/sgu-services/umwelt/sonderabfall.html">ETH waste disposal concept</a>. Biological waste that also contains chemicals is first inactivated by autoclaving and then disposed of as hazardous chemical waste.</p>
+</section>
+</section>
+<section id="measures_ix" class="level2" data-number="6.9">
+<h2 data-number="6.9" class="anchored" data-anchor-id="measures_ix"><span class="header-section-number">6.9</span> Planning, building, modification, decommissioning, and relocation</h2>
+<p>One of the tasks of the BSO is to keep the safety precautions in line with the latest scientific and technical developments, even if this requires structural modifications. The BSO is consulted whenever building work or structural modifications are carried out in CLA J26 and whenever technical changes are made to safety-relevant facilities, such as the BSC or the autoclave.</p>
+<p>For structural modifications, changes in use, decommissioning, and relocation, specially adapted safety precautions are taken at the appropriate time, especially to decontaminate the laboratory and the technical facilities. If risks due to organisms cannot be completely ruled out despite prior decontamination (e.g., when removing BSC filters), this is covered explicitly in the incident procedures for that phase of the work.</p>
 </section>
 </section>
 <section id="appendices" class="level1" data-number="7">
@@ -437,17 +566,66 @@ window.Quarto = {
 <li><a href="./_biological/04_emergency_planning_and_procedures.html">Appendix 4. Emergency planning: Procedures in case of incidents in the laboratory</a></li>
 <li><a href="./_biological/05_report_sheet_for_lab_incidents.html">Appendix 5. Report sheet for laboratory incidents</a></li>
 <li><a href="./_biological/06_project_list.html">Appendix 6. Project list</a></li>
-<li><a href="./_biological/07_user_list_with_access_to_BSL2.html">Appendix 7. User list with access to level 2 working areas</a></li>
+<li><a href="./_biological/07_user_list_with_access_to_BSL2.html">Appendix 7. Rules on access and user list for level 2 working areas</a></li>
 <li><a href="./_biological/08_meaning_and_use_of_biohazard_symbol.html">Appendix 8. Meaning and use of the «Biohazard» warning symbol</a></li>
 <li><a href="./_biological/09_SOPs.html">Appendix 9. Standard Operating Procedures</a></li>
-<li><a href="./_biological/10_use_of_class_2_cabinets.html">Appendix 10. Use of class 2 safety cabinets</a></li>
-<li><a href="./_biological/11_hygene_plan.html">Appendix 11. Hygiene plan</a></li>
+<li><a href="./_biological/10_use_of_class_2_cabinets.html">Appendix 10. Use of class 2 biological safety cabinets</a></li>
+<li><a href="./_biological/11_hygene_plan.html">Appendix 11. Hygiene plan and list of disinfectants</a></li>
 <li><a href="./_biological/12_safety_for_cleaning_service.html">Appendix 12. Safety during cleaning of laboratories by the cleaning service</a></li>
 <li><a href="./_biological/13_service_plan.html">Appendix 13. Equipment service plan and responsibilities</a></li>
 <li><a href="./_biological/14_disposal_plan_for_bio_contaminated_waste.html">Appendix 14. Disposal plan for biologically contaminated waste</a></li>
 </ul>
+<section id="documents" class="level2" data-number="7.1">
+<h2 data-number="7.1" class="anchored" data-anchor-id="documents"><span class="header-section-number">7.1</span> Further documents</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Document</th>
+<th>Storage location</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Organization chart</td>
+<td><a href="#organization_chart">Chapter 3.2</a></td>
+</tr>
+<tr class="even">
+<td>Job descriptions of the BSO and BSO deputy</td>
+<td>personnel files (HR)</td>
+</tr>
+<tr class="odd">
+<td>ECOGEN notification A260150-00 incl.&nbsp;risk assessment</td>
+<td><a href="https://www.ecogen.admin.ch/">ECOGEN</a>, printed copy in the BSO office (CLD D 2.1)</td>
+</tr>
+<tr class="even">
+<td>Record of instructions and trainings</td>
+<td><a href="./_operational/08_training_certificates.html">Operational Safety, Appendix 8</a></td>
+</tr>
+<tr class="odd">
+<td>Autoclave operating instructions</td>
+<td><a href="https://drive.google.com/drive/folders/1-gGl0Jj20gXjfeDVtdbEAdviQkH1oo-P?usp=sharing">user manuals</a></td>
+</tr>
+<tr class="even">
+<td>Equipment documents and declarations of conformity</td>
+<td><a href="https://drive.google.com/drive/folders/12BPhWmaUQXrYuQz66WqhErdkoFfIk6gz?usp=sharing">declarations of conformity</a>, paper copies in CLD D 2.1</td>
+</tr>
+<tr class="odd">
+<td>Service contracts and service reports</td>
+<td>BSO office (CLD D 2.1)</td>
+</tr>
+<tr class="even">
+<td>Safety data sheets of the chemicals used</td>
+<td><a href="./chemical-safety.html">Chemical Safety</a>, printed copies in CLA J26</td>
+</tr>
+<tr class="odd">
+<td>BED-B (safety documentation for emergency services)</td>
+<td>AWEL online database</td>
+</tr>
+</tbody>
+</table>
 
 
+</section>
 </section>
 
 
@@ -466,43 +644,58 @@ window.Quarto = {
 </ol>
 </section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
-window.document.addEventListener("DOMContentLoaded", function (event) {
-  const toggleBodyColorMode = (bsSheetEl) => {
-    const mode = bsSheetEl.getAttribute("data-mode");
-    const bodyEl = window.document.querySelector("body");
-    if (mode === "dark") {
-      bodyEl.classList.add("quarto-dark");
-      bodyEl.classList.remove("quarto-light");
-    } else {
-      bodyEl.classList.add("quarto-light");
-      bodyEl.classList.remove("quarto-dark");
-    }
-  }
-  const toggleBodyColorPrimary = () => {
-    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
-    if (bsSheetEl) {
-      toggleBodyColorMode(bsSheetEl);
-    }
-  }
-  toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
-  const isCodeAnnotation = (el) => {
-    for (const clz of el.classList) {
-      if (clz.startsWith('code-annotation-')) {                     
-        return true;
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
       }
+      return false;
     }
-    return false;
-  }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
       for (const childEl of codeEl.children) {
         if (isCodeAnnotation(childEl)) {
           childEl.remove();
@@ -510,162 +703,184 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       }
       return codeEl.innerText;
     }
-  });
-  clipboard.on('success', function(e) {
-    // button target
-    const button = e.trigger;
-    // don't keep focus
-    button.blur();
-    // flash "checked"
-    button.classList.add('code-copy-button-checked');
-    var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
-    let tooltip;
-    if (window.bootstrap) {
-      button.setAttribute("data-bs-toggle", "tooltip");
-      button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
-      tooltip = new bootstrap.Tooltip(button, 
-        { trigger: "manual", 
-          customClass: "code-copy-button-tooltip",
-          offset: [0, -8]});
-      tooltip.show();    
-    }
-    setTimeout(function() {
-      if (tooltip) {
-        tooltip.hide();
-        button.removeAttribute("data-bs-title");
-        button.removeAttribute("data-bs-toggle");
-        button.removeAttribute("data-bs-placement");
-      }
-      button.setAttribute("title", currentTitle);
-      button.classList.remove('code-copy-button-checked');
-    }, 1000);
-    // clear code selection
-    e.clearSelection();
-  });
-  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
-    const config = {
-      allowHTML: true,
-      maxWidth: 500,
-      delay: 100,
-      arrow: false,
-      appendTo: function(el) {
-          return el.parentElement;
-      },
-      interactive: true,
-      interactiveBorder: 10,
-      theme: 'quarto',
-      placement: 'bottom-start',
-    };
-    if (contentFn) {
-      config.content = contentFn;
-    }
-    if (onTriggerFn) {
-      config.onTrigger = onTriggerFn;
-    }
-    if (onUntriggerFn) {
-      config.onUntrigger = onUntriggerFn;
-    }
-    window.tippy(el, config); 
-  }
-  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
-  for (var i=0; i<noterefs.length; i++) {
-    const ref = noterefs[i];
-    tippyHover(ref, function() {
-      // use id or data attribute instead here
-      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
-      try { href = new URL(href).hash; } catch {}
-      const id = href.replace(/^#\/?/, "");
-      const note = window.document.getElementById(id);
-      return note.innerHTML;
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
     });
-  }
-  const xrefs = window.document.querySelectorAll('a.quarto-xref');
-  const processXRef = (id, note) => {
-    // Strip column container classes
-    const stripColumnClz = (el) => {
-      el.classList.remove("page-full", "page-columns");
-      if (el.children) {
-        for (const child of el.children) {
-          stripColumnClz(child);
-        }
-      }
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
     }
-    stripColumnClz(note)
-    if (id === null || id.startsWith('sec-')) {
-      // Special case sections, only their first couple elements
-      const container = document.createElement("div");
-      if (note.children && note.children.length > 2) {
-        container.appendChild(note.children[0].cloneNode(true));
-        for (let i = 1; i < note.children.length; i++) {
-          const child = note.children[i];
-          if (child.tagName === "P" && child.innerText === "") {
-            continue;
-          } else {
-            container.appendChild(child.cloneNode(true));
-            break;
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/global-health-engineering\.github\.io\/group-safety");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
           }
         }
-        if (window.Quarto?.typesetMath) {
-          window.Quarto.typesetMath(container);
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
         }
-        return container.innerHTML
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
       } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
         if (window.Quarto?.typesetMath) {
           window.Quarto.typesetMath(note);
         }
-        return note.innerHTML;
-      }
-    } else {
-      // Remove any anchor links if they are present
-      const anchorLink = note.querySelector('a.anchorjs-link');
-      if (anchorLink) {
-        anchorLink.remove();
-      }
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(note);
-      }
-      // TODO in 1.5, we should make sure this works without a callout special case
-      if (note.classList.contains("callout")) {
-        return note.outerHTML;
-      } else {
-        return note.innerHTML;
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
       }
     }
-  }
-  for (var i=0; i<xrefs.length; i++) {
-    const xref = xrefs[i];
-    tippyHover(xref, undefined, function(instance) {
-      instance.disable();
-      let url = xref.getAttribute('href');
-      let hash = undefined; 
-      if (url.startsWith('#')) {
-        hash = url;
-      } else {
-        try { hash = new URL(url).hash; } catch {}
-      }
-      if (hash) {
-        const id = hash.replace(/^#\/?/, "");
-        const note = window.document.getElementById(id);
-        if (note !== null) {
-          try {
-            const html = processXRef(id, note.cloneNode(true));
-            instance.setContent(html);
-          } finally {
-            instance.enable();
-            instance.show();
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
           }
         } else {
-          // See if we can fetch this
-          fetch(url.split('#')[0])
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
           .then(res => res.text())
           .then(html => {
             const parser = new DOMParser();
             const htmlDoc = parser.parseFromString(html, "text/html");
-            const note = htmlDoc.getElementById(id);
+            const note = htmlDoc.querySelector('main.content');
             if (note !== null) {
-              const html = processXRef(id, note);
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
               instance.setContent(html);
             } 
           }).finally(() => {
@@ -673,185 +888,161 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             instance.show();
           });
         }
-      } else {
-        // See if we can fetch a full url (with no hash to target)
-        // This is a special case and we should probably do some content thinning / targeting
-        fetch(url)
-        .then(res => res.text())
-        .then(html => {
-          const parser = new DOMParser();
-          const htmlDoc = parser.parseFromString(html, "text/html");
-          const note = htmlDoc.querySelector('main.content');
-          if (note !== null) {
-            // This should only happen for chapter cross references
-            // (since there is no id in the URL)
-            // remove the first header
-            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
-              note.children[0].remove();
-            }
-            const html = processXRef(null, note);
-            instance.setContent(html);
-          } 
-        }).finally(() => {
-          instance.enable();
-          instance.show();
-        });
-      }
-    }, function(instance) {
-    });
-  }
-      let selectedAnnoteEl;
-      const selectorForAnnotation = ( cell, annotation) => {
-        let cellAttr = 'data-code-cell="' + cell + '"';
-        let lineAttr = 'data-code-annotation="' +  annotation + '"';
-        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
-        return selector;
-      }
-      const selectCodeLines = (annoteEl) => {
-        const doc = window.document;
-        const targetCell = annoteEl.getAttribute("data-target-cell");
-        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
-        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
-        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
-        const lineIds = lines.map((line) => {
-          return targetCell + "-" + line;
-        })
-        let top = null;
-        let height = null;
-        let parent = null;
-        if (lineIds.length > 0) {
-            //compute the position of the single el (top and bottom and make a div)
-            const el = window.document.getElementById(lineIds[0]);
-            top = el.offsetTop;
-            height = el.offsetHeight;
-            parent = el.parentElement.parentElement;
-          if (lineIds.length > 1) {
-            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-            height = bottom - top;
-          }
-          if (top !== null && height !== null && parent !== null) {
-            // cook up a div (if necessary) and position it 
-            let div = window.document.getElementById("code-annotation-line-highlight");
-            if (div === null) {
-              div = window.document.createElement("div");
-              div.setAttribute("id", "code-annotation-line-highlight");
-              div.style.position = 'absolute';
-              parent.appendChild(div);
-            }
-            div.style.top = top - 2 + "px";
-            div.style.height = height + 4 + "px";
-            div.style.left = 0;
-            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-            if (gutterDiv === null) {
-              gutterDiv = window.document.createElement("div");
-              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-              gutterDiv.style.position = 'absolute';
-              const codeCell = window.document.getElementById(targetCell);
-              const gutter = codeCell.querySelector('.code-annotation-gutter');
-              gutter.appendChild(gutterDiv);
-            }
-            gutterDiv.style.top = top - 2 + "px";
-            gutterDiv.style.height = height + 4 + "px";
-          }
-          selectedAnnoteEl = annoteEl;
-        }
-      };
-      const unselectCodeLines = () => {
-        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
-        elementsIds.forEach((elId) => {
-          const div = window.document.getElementById(elId);
-          if (div) {
-            div.remove();
-          }
-        });
-        selectedAnnoteEl = undefined;
-      };
-        // Handle positioning of the toggle
-    window.addEventListener(
-      "resize",
-      throttle(() => {
-        elRect = undefined;
-        if (selectedAnnoteEl) {
-          selectCodeLines(selectedAnnoteEl);
-        }
-      }, 10)
-    );
-    function throttle(fn, ms) {
-    let throttle = false;
-    let timer;
-      return (...args) => {
-        if(!throttle) { // first call gets through
-            fn.apply(this, args);
-            throttle = true;
-        } else { // all the others get throttled
-            if(timer) clearTimeout(timer); // cancel #2
-            timer = setTimeout(() => {
-              fn.apply(this, args);
-              timer = throttle = false;
-            }, ms);
-        }
-      };
-    }
-      // Attach click handler to the DT
-      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
-      for (const annoteDlNode of annoteDls) {
-        annoteDlNode.addEventListener('click', (event) => {
-          const clickedEl = event.target;
-          if (clickedEl !== selectedAnnoteEl) {
-            unselectCodeLines();
-            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
-            if (activeEl) {
-              activeEl.classList.remove('code-annotation-active');
-            }
-            selectCodeLines(clickedEl);
-            clickedEl.classList.add('code-annotation-active');
-          } else {
-            // Unselect the line
-            unselectCodeLines();
-            clickedEl.classList.remove('code-annotation-active');
-          }
-        });
-      }
-  const findCites = (el) => {
-    const parentEl = el.parentElement;
-    if (parentEl) {
-      const cites = parentEl.dataset.cites;
-      if (cites) {
-        return {
-          el,
-          cites: cites.split(' ')
-        };
-      } else {
-        return findCites(el.parentElement)
-      }
-    } else {
-      return undefined;
-    }
-  };
-  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
-  for (var i=0; i<bibliorefs.length; i++) {
-    const ref = bibliorefs[i];
-    const citeInfo = findCites(ref);
-    if (citeInfo) {
-      tippyHover(citeInfo.el, function() {
-        var popup = window.document.createElement('div');
-        citeInfo.cites.forEach(function(cite) {
-          var citeDiv = window.document.createElement('div');
-          citeDiv.classList.add('hanging-indent');
-          citeDiv.classList.add('csl-entry');
-          var biblioDiv = window.document.getElementById('ref-' + cite);
-          if (biblioDiv) {
-            citeDiv.innerHTML = biblioDiv.innerHTML;
-          }
-          popup.appendChild(citeDiv);
-        });
-        return popup.innerHTML;
+      }, function(instance) {
       });
     }
-  }
-});
-</script>
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">

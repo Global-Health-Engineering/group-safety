@@ -5,11 +5,28 @@ format: html
 
 [← Back to Biological Safety](../biological-safety.qmd)
 
+The following list contains the persons working with Group 2 organisms according to Art. 13 SAMV.
 
-| Name        | Biological organisms | Risk group | Activity start | Activity end | Medical policies | Heath dossier |
-| ----------- | -------------------- | ---------- | -------------- | ------------ | ---------------- | ------------- |
-| Jules Peter | Coliforms            | 2          | 2024 Sep 15    | 2025 Dec 31  | Asura insurance  | -             |
+## Current activities
 
+| Name        | ECOGEN no. | Biological organisms                                  | Risk group | Type of activity                                              | Activity start | Activity end | Medical measures | Health file |
+| ----------- | ---------- | ----------------------------------------------------- | ---------- | ------------------------------------------------------------- | -------------- | ------------ | ---------------- | ----------- |
+| Jules Peter | A260150-00 | *Ascaris suum*, *Toxocara canis* (isolated eggs)      | 2          | egg exposure to fungal extracts, slurries, metabolites, acids | 02 Jun 2026    | -            | none required (no vaccine available) | -           |
+| Jules Peter | A260150-00 | *Pleurotus ostreatus*, *Ganoderma lucidum*, *Lentinula edodes*, *Pholiota nameko* | 1 | preparation of mushroom substrate extracts | 02 Jun 2026 | - | - | - |
+
+## Former activities
+
+| Name        | Biological organisms | Risk group | Activity start | Activity end | Medical measures | Health file |
+| ----------- | -------------------- | ---------- | -------------- | ------------ | ---------------- | ----------- |
+| Jules Peter | wild-type *E. coli* (non-GM) from fecal samples | not determined | 15 Sep 2024 | 30 Jun 2026 | - | - |
+
+## Accidents and incidents
+
+| Date | Name | Organism | Description | Report sheet |
+| ---- | ---- | -------- | ----------- | ------------ |
+| -    | -    | -        | no incidents recorded | - |
+
+## Risk groups
 
 Microorganisms are classified into four Risk Groups, and biological laboratories are classified into four corresponding Safety Levels:
 
@@ -17,6 +34,6 @@ Microorganisms are classified into four Risk Groups, and biological laboratories
 | ------------------------ | ---------- | ------------------------- | ------------------------- | ------------------- |
 | Safety level             | 1          | 2                         | 3                         | 4                   |
 | Permitted at GHE         | Yes        | Yes                       | No                        | No                  |
-| Description of organisms | Do not cause disease in health human adults | Can cause disease in humans, but the disease is treatable or preventable | Cause serious disease in humans; treatments and vaccines for these diseases may exist | Cause deadly disease in humans, can easily travel from one person to another; no treatments or vaccines exist |
+| Description of organisms | Do not cause disease in healthy human adults | Can cause disease in humans, but the disease is treatable or preventable | Cause serious disease in humans; treatments and vaccines for these diseases may exist | Cause deadly disease in humans, can easily travel from one person to another; no treatments or vaccines exist |
 | Typical work area        | Open bench | Class 2 biosafety cabinet | Class 3 biosafety cabinet | Full isolation suit |
-| Examples                 | E. coli K-12, S. cerevisiae (yeast), Lactobacillus, B. subtilis | Streptococcus, Herpes virus, most mammalian cell lines | Yersinia pestis (black plague), HIV, SARS virus | Ebola virus, Marburg virus, Lassa virus |
+| Examples                 | E. coli K-12, S. cerevisiae (yeast), Lactobacillus, B. subtilis | *Ascaris suum*, *Toxocara canis*, Streptococcus, Herpes virus | Yersinia pestis (black plague), HIV, SARS virus | Ebola virus, Marburg virus, Lassa virus |

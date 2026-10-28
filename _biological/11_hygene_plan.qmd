@@ -1,5 +1,5 @@
 ---
-title: "Appendix 11: Hygiene Plan"
+title: "Appendix 11: Hygiene Plan and List of Disinfectants"
 format: html
 ---
 
@@ -11,8 +11,13 @@ format: html
 This hygiene plan applies to the BSL2 wet laboratory located in CLA J26. The laboratory manager is Dr Jakub Tkaczuk.
 
 The biological organisms used for the research purposes in the lab are listed below:  
-- Coliforms
-- Fungi
+- *Ascaris suum* and *Toxocara canis* eggs (Risk Group 2, ECOGEN A260150-00)
+- fungi from spent mushroom substrates: *Pleurotus ostreatus*, *Ganoderma lucidum*, *Lentinula edodes*, *Pholiota nameko* (Risk Group 1)
+
+::: {.callout-warning}
+## Helminth eggs resist chemical disinfection
+*Ascaris* and *Toxocara* eggs have a thick, multi-layered shell. 70% ethanol and other chemical disinfectants do **not** reliably inactivate them, so no chemical disinfection is used for them. For surfaces and equipment that may carry eggs, the eggs are removed **mechanically** with detergent-soaked disposable wipes, and all wipes and egg-containing material are **autoclaved** (121 °C, at least 20 minutes). Ethanol is used afterwards only for general hygiene and against the Group 1 fungi.
+:::
 
 ## Disclosure / Circulation of information.
 
@@ -36,24 +41,26 @@ Compliance with the hygiene plan fosters personal safety and health at work in a
 | **what** (surface, object, equipment) | **when** (frequency, time point, interval) | **with what** (cleaning agents and disinfectants to be used) | **how** (clean, disinfect, sterilize, wipe, wash, spray, soak, etc.) | **remarks** |
 | --- | --- | --- | --- | --- |
 | hand cleaning | when leaving the laboratory | soap at the sink | wash hands | see main protection plan |
-| hygienic hand disinfection | after contamination | disinfectant at the sink | spray, wipe | |
-| lab clothing | after 14 days of use or after contamination | | autoclave + laundry | ETH laundry services |
-| safety cabinet | daily disinfection with air circulation turned off<br>replace HEPA filters after 7 years | disinfectants | spray, wipe | |
+| hygienic hand disinfection | after contamination<br>before leaving the lab | hand disinfectant at the sink | rub | hand washing with soap removes eggs mechanically |
+| lab clothing | after 14 days of use or after contamination | | autoclave + laundry | contaminated coats are autoclaved before laundry; ETH laundry services |
+| safety cabinet | after each work session<br>after a spill | detergent solution, then ethanol 70% | wipe (do not spray in the cabinet) | wipes autoclaved; HEPA filters see [service plan](13_service_plan.qmd) |
 | lab glassware | after finished labwork<br>after contact with organisms | autoclave + dishwasher | disinfect, wash | if in contact with chemicals, neutralize first |
-| work surfaces | daily after use<br>after contamination | ethanol 70%<br>suitable disinfectant | disinfect, wipe | |
+| work surfaces | daily after use<br>after contamination | detergent solution, then ethanol 70% | wipe | wipes from egg work are autoclaved |
 | refrigerator | every 6 months<br>after contamination | ethanol 70% | disinfect, wipe | |
-| microbiological incubator | every 6 months<br>after contamination | ethanol 70%<br>suitable disinfectants | disinfect, clean, spray, wipe | |
-| centrifuge | every 6 months<br>after contamination | ethanol 70%<br>suitable disinfectants | disinfect, clean, spray, wipe | |
+| microbiological incubator | every 6 months<br>after contamination | detergent solution, then ethanol 70% | clean, wipe | |
+| centrifuge | every 6 months<br>after contamination | detergent solution, then ethanol 70% | clean, wipe | rotor and buckets after a tube breakage |
 | floor | no contamination - standard cleaning procedure by ETH staff<br>after contamination - disinfection before conventional cleaning | conventional floor cleaning agents | clean, wipe | |
-| waste for which a risk of injury exists | monthly<br>as required | | autoclave in safe packaging, e.g., sharp container | |
-| biological waste | after production | | autoclave | |
+| waste for which a risk of injury exists | when the sharps container is ¾ full | | autoclave in safe packaging, e.g., sharps container | |
+| biological waste | after each work session | | autoclave, 121 °C, at least 20 min | see [disposal plan](14_disposal_plan_for_bio_contaminated_waste.qmd) |
+| microscope stage, pipettes, fridge handle | after each work session | detergent solution, then ethanol 70% | wipe | |
 
 ## Regulations for disinfectant use
 
 | trade name / substance | range of use                              | effective against[^1] | dilution for use | contact time | additional documents[^2] | remarks |
 | ---------------------- | ----------------------------------------- | --------------------- | ---------------- | ------------ | ------------------------ | ------- |
-| 70% EtOH (ethanol)     | hand disinfection<br>surface disinfection | B, Mb, F, bV          | 70%              | 10 min       | [safety information](../../02-chemical-safety/_chemical/ETHANOL_64-17-5.qmd) |         |
-| chlorine bleach        | culture supernatants                      | B, Mb, F, b&ubV, bV   | 0.5% - 2%        | 6 - 15 min   |                          |         |
+| 70% EtOH (ethanol)     | hand disinfection<br>surface disinfection | B, Mb, F, bV          | 70%              | 10 min       | [safety information](../_chemical/ETHANOL_64-17-5.qmd) | not effective against helminth eggs |
+| detergent solution     | mechanical removal of eggs from surfaces  | -                     | as per label     | -            |                          | wipes are autoclaved |
+| autoclave (moist heat) | inactivation of all egg-containing waste  | all, incl. helminth eggs | -             | 121 °C, at least 20 min | [disposal plan](14_disposal_plan_for_bio_contaminated_waste.qmd) | |
 
 [^1]: B - Bactericide, Mb - Mycobactericide (Tuberculocidal), F - Fungicides, b&ubV - enveloped and non-enveloped viruses, bV - enveloped viruses, Bs - Bacteria spores.
 [^2]: directions of use, safety datasheet, storage location.

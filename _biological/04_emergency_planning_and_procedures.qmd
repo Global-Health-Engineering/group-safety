@@ -35,17 +35,28 @@ In the event of a serious incident, the emergency services (internal / external)
 | 1.&nbsp;Keep&nbsp;calm | Get an overall view of the situation                                          | Leave the danger zone in case of aerosol formation, fire, etc.    |
 | 2. Alarm               | Inform BSO                                                                    | Alert the emergency services (internal / external)                |
 | 3. Secure              | Confine the contaminated area                                                 | Rescue (self-protection)                                          |
-| 4. Act                 | Disinfect or decontaminate according to the [hygiene plan](12_hygene_plan.qmd) | Extinguish, shut down power, close valves, etc. (self-protection) |
+| 4. Act                 | Disinfect or decontaminate according to the [hygiene plan](11_hygene_plan.qmd) | Extinguish, shut down power, close valves, etc. (self-protection) |
 
 
 ## <a name="numbers"></a>3. Emergency telephone numbers display
 
-Emergency telephone numbers for external emergency services and in-house persons responsible for safety are available on stickers in the laboratories next to the telephones and by the first-aid boxes.
+Emergency telephone numbers for external emergency services and in-house persons responsible for safety are posted in the laboratory next to the door and by the first-aid boxes. There is no phone inside CLA J26. Call from a mobile phone (+41 44 342 11 88) or from the phone at the safety station on the corridor (when you leave CLA J26, turn right; the phone is before the elevators, about 10 m from the door) (888).
 
 These phone numbers are also listed in [Appendix 3](03_emergency_telephone_numbers_and_contacts_for_safety.qmd).
 
 
 ## <a name="planning"></a>4. Emergency planning
+
+**Spill kit and first aid kit.** The spill kit is a single-use bucket for incineration waste, labelled *Spill kit CLA J26*, placed under the lab coats. It is used for chemical and biological spills. After use, the closed bucket with all collected material is disposed of as waste for incineration, and the BSO is informed so that a new kit is provided. The first aid kit for the chemistry and biology lab is placed above the sink.
+
+![Spill kit in CLA J26](../media/spill_kit_small.jpg){width=40% fig-align="center"}
+
+If the BSO cannot be reached, alert the BSO deputy (Bettina Melberg, see [Appendix 3](03_emergency_telephone_numbers_and_contacts_for_safety.qmd)).
+
+::: {.callout-warning}
+## Spills of *Ascaris* or *Toxocara* eggs
+Helminth eggs are not reliably inactivated by 70% ethanol or other chemical disinfectants. Spilled eggs are therefore **removed mechanically**: take the spill kit, cover the spill with absorbent material, collect all material with disposable wipes into an autoclave bag, wipe the surface again with detergent solution and wipes, and **autoclave all collected material** (121 °C, at least 20 min). Spills inside the BSC stay inside the BSC until collected.
+:::
 
 
 ### <a name="planning_i"></a>4.i Spillage of infectious material WITHOUT aerosol formation
@@ -53,7 +64,7 @@ These phone numbers are also listed in [Appendix 3](03_emergency_telephone_numbe
 | Step      | Action |
 | --------- | ------ |
 | 1. Alarm  | Alert BSO (+41 44 632 31 62)<br>**WHERE** did the incident occur?<br>**WHAT** WAS SPILLED/released?<br>**HOW MANY** people are affected?<br>**WHO** calls? |
-| 2. Secure | Do not leave the affected area if it is safe to stay<br>Keep calm<br>Confine the contaminated area<br>Disinfect or decontaminate according to the [hygiene plan](12_hygene_plan.qmd)<br>Get clearance from BSO |
+| 2. Secure | Do not leave the affected area if it is safe to stay<br>Keep calm<br>Confine the contaminated area<br>Disinfect or decontaminate according to the [hygiene plan](11_hygene_plan.qmd)<br>Get clearance from BSO |
 | 3. Act    | Complete the report sheet for laboratory incidents |
 
 
@@ -63,7 +74,7 @@ These phone numbers are also listed in [Appendix 3](03_emergency_telephone_numbe
 | --------------------------- | ------ |
 | 1. Evacuate the danger zone | **Immediately evacuate all the people from the danger zone**<br>Affected employees should decontaminate themselves immediately, if possible; otherwise, they should remain separated from the crowd to prevent spreading the dangerous substances |
 | 2. Alarm                    | Alert BSO (+41 44 632 31 62)<br>**WHERE** did the incident occur?<br>**WHAT** WAS SPILLED/released?<br>**HOW MANY** people are affected?<br>**WHO** calls? |
-| 3. Secure                   | Seal off the room, switch off ventilation, wait 30 minutes<br>decontaminate people<br>disinfect the room as instructed by the laboratory manager according to the [hygiene plan](12_hygene_plan.qmd)<br>disinfect contaminated equipment<br>issue clearance after checking that everything has been decontaminated |
+| 3. Secure                   | Seal off the room, switch off ventilation, wait 30 minutes<br>decontaminate people<br>disinfect the room as instructed by the laboratory manager according to the [hygiene plan](11_hygene_plan.qmd)<br>disinfect contaminated equipment<br>issue clearance after checking that everything has been decontaminated |
 | 4. Act                      | Complete the report sheet for laboratory incidents |
 
 
@@ -73,7 +84,7 @@ These phone numbers are also listed in [Appendix 3](03_emergency_telephone_numbe
 | Step     | Action |
 | -------- | ------ |
 | 1. Alarm | Alert ETH Emergency Desk (+41 44 342 11 88 or 888)<br>Call the ambulance if necessary (144)<br>**WHERE** did the incident occur?<br>**WHAT** WAS SPILLED/released?<br>**HOW MANY** people are affected?<br>**WHO** calls? |
-| 2. Act   | provide first aid<br>remove gloves and lab coat<br>wash hands and injured areas of the skin<br>disinfect with hand disinfectand or 70% ethanol<br>complete the report sheet for laboratory incidents<br> |
+| 2. Act   | provide first aid (first aid kit above the sink)<br>remove gloves and lab coat<br>wash hands and injured areas of the skin<br>disinfect with hand disinfectand or 70% ethanol<br>complete the report sheet for laboratory incidents<br> |
 
 
 ### <a name="planning_iv"></a>4.iv Fire, explosion

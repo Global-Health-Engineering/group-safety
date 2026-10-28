@@ -6,10 +6,34 @@ format: html
 [← Back to Biological Safety](../biological-safety.qmd)
 
 
-The laboratory equipment is serviced as follows:
-- **Biosafety level 2 cabinet**: HEPA filter replacement after seven years or after notification is displayed.
-- **Autoclave** (HMC): technical review and service once per two years.
-- **Water distilation unit**: filter replacement after notification on the machine, service upon failure.
-- **Universal oven** (Memmert UF55): service upon failure.
-- **Ashing furnace** (Nabertherm L 9/11 BO, C550): service upon failure.
-- **Centifuge** (Thermo Fisher Scientific Sorvall ST8): service once per two years.
+## Overview of equipment and responsibilities
+
+All equipment listed below is located in CLA J26. The person responsible is Dr. Jakub Tkaczuk (BSO), deputy Bettina Melberg. Faults are reported to the BSO.
+
+| Equipment | Servicing / maintenance | Frequency | Done by | Logbook |
+| --------- | ----------------------- | --------- | ------- | ------- |
+| Biological safety cabinet (class 2) | inspection and certification (air flows, HEPA filter integrity, alarms) according to EN 12469:2025 | yearly | manufacturer or certified specialist | yes |
+| Biological safety cabinet (class 2) | HEPA filter replacement (filters are decontaminated before removal) | when indicated by the cabinet or the yearly check | manufacturer or certified specialist | yes |
+| Autoclave (HMC) | technical review and service | every two years | manufacturer | service report |
+| Autoclave (HMC) | heat indicator tape on each load | each run | user | no |
+| Centrifuge (Thermo Fisher Scientific Sorvall ST8) | service; visual check of rotor and buckets | every two years; before each use | manufacturer; user | service report |
+| Incubator, fridge | cleaning and temperature check | every six months | BSO | no |
+| Water distillation unit | filter replacement | when indicated on the machine; service upon failure | BSO | no |
+| Universal oven (Memmert UF55) | service | upon failure | manufacturer | no |
+| Ashing furnace (Nabertherm L 9/11 BO, C550) | service | upon failure | manufacturer | no |
+
+Service reports and contracts are stored in the BSO office (CLD D 2.1). Safety checks done by the BSO are recorded and signed in the [equipment safety check log](../_operational/07_maintenance_and_service_schedule.qmd#safety-check-log).
+
+## Last and next service
+
+| Equipment | Last service | Result | Next service |
+| --------- | ------------ | ------ | ------------ |
+| Biological safety cabinet | 21 Jan 2026 | laminar flow check, alarm reset | 2027 |
+| Autoclave (HMC) | 25 Jun 2025 | cleaning, filter replacement, calibration | 2027 |
+| Centrifuge (Sorvall ST8) | -[^1] | - | - |
+
+## Rules on access for service personnel
+
+CLA J26 is not open to visitors. Service personnel may only enter and work in CLA J26 after prior permission from the BSO or the BSO deputy, accompanied by an authorized person, and after being informed about the potential risks. Before service or repair work, Group 2 material is stored away, and the equipment concerned is decontaminated.
+
+[^1]: No service because of minimal use: until now, it has been use only for a few hours per year, and the rotor is in good condition.

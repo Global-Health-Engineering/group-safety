@@ -7,6 +7,14 @@ format: html
 
 # Certificates of information, instruction, and training
 
+## Rules
+
+- Every lab and workshop user completes the relevant Moodle test before first entry and receives a safety introduction from the GSR / BSO.
+- Persons working with Group 2 organisms receive a biosafety instruction before starting the work and at least once per year afterwards.
+- All users repeat the safety instruction at least once per year (annual refresher).
+- Every introduction and every refresher includes the maternity protection information: *some chemicals and biological agents used in the lab and workshop are hazardous to pregnancy and breastfeeding; pregnant or breastfeeding persons inform the GSR confidentially, so that a risk assessment can be made.*
+- Every instruction is confirmed on a training record sheet with the signatures of the participant and the instructor. The signed sheets are scanned and stored on Google Drive; the paper originals are kept in the GSR office (CLD D 2.1).
+
 ## Laboratory
 
 Results of the Moodle test [*Safety in the laboratory*](https://moodle-app2.let.ethz.ch/enrol/index.php?id=4041) for all lab users are stored on Google Drive.
@@ -17,4 +25,4 @@ Results of the Moodle test [*Safety in the laboratory*](https://moodle-app2.let.
 
 Results of the Moodle test [*Safety in the mechanical shop*](https://moodle-app2.let.ethz.ch/enrol/index.php?id=4042) for all workshop users are stored on Google Drive.
 
-[Safety briefing confirmations]() are stored on Google Drive.
+[Safety briefing confirmations](https://drive.google.com/drive/folders/1YK6C84gHawExi-1WTkUfwDvzZfVt94Wr?usp=drive_link) are stored on Google Drive.

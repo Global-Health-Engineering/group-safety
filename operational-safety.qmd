@@ -16,7 +16,7 @@ This safety concept is continuously updated when the risk situation has changed,
 
 # Safety objectives {#objectives}
 
-In the labs and workshops of GHE, the high-pressure gas (${\rm O_2, CH_4, CO_2}$), ammonia, human excreta, urine, drills, manual saws, hammers, benchtop drill, 3D printer, laser cutters, water cutters are worked with. The risk to people and the environment cannot be entirely excluded from these activities. Global Health Engineering, therefore, takes the necessary action to protect people and the environment from harmful effects. The head of GHE, as the employer's representative, assumes responsibility for the occupational safety and health protection of employees and students and takes the required steps[^3].
+In the labs and workshops of GHE, the high-pressure gas (${\rm O_2, CH_4, CO_2}$), ammonia, acids and bases, human excreta, urine, Group 2 parasitic nematode eggs, drills, manual saws, hammers, benchtop drill, 3D printer, laser cutters, water cutters are worked with. The risk to people and the environment cannot be entirely excluded from these activities. Global Health Engineering, therefore, takes the necessary action to protect people and the environment from harmful effects. The head of GHE, as the employer's representative, assumes responsibility for the occupational safety and health protection of employees and students and takes the required steps[^3].
 
 # Safety organization {#organization}
 
@@ -55,6 +55,7 @@ In the list of names, the position of the GSR and any other necessary safety rol
 | professor           | Elizabeth Tilley | CLD D 10.1      | +41 44 632 88 28 |
 | GSR                 | Jakub Tkaczuk    | CLD D 2.1       | +41 44 632 31 62 |
 | BSO                 | Jakub Tkaczuk    | CLD D 2.1       | +41 44 632 31 62 |
+| BSO deputy          | Bettina Melberg  | CLA F 33        | +41 44 632 08 42 |
 | workshop supervisor | Jakub Tkaczuk    | CLD D 2.1       | +41 44 632 31 62 |
 
 ## Group Safety Representative {#organization_iii}
@@ -130,7 +131,7 @@ Access to the lab and workshop facilities with special hazards is restricted to 
 At GHE, this applies to the following rooms:
 
 - wet laboratory (BSL2) - CLA J26
-- mechanical workshop - CLA B2.2
+- mechanical workshop - CLA B2.1 and CLA A21.1
 
 ## Instructions for safe working {#measures_ii}
 
@@ -160,7 +161,7 @@ User manuals for the equipment in the wet laboratory in their digital versions a
 
 At GHE, all technical devices, operating equipment and tools are serviced regularly so that the quality of the research or diagnostic results, as well as the safety of employees and protection of persons and the environment in general, are guaranteed.
 
-Maintenance schedules for individual devices and delegation of responsibilities are set down in writing in [Appendix 7](_operational/07_maintenance_and_service_schedule.qmd).
+Maintenance schedules for individual devices and delegation of responsibilities are set down in writing in [Appendix 7](_operational/07_maintenance_and_service_schedule.qmd). When the GSR checks a device from the safety point of view or makes a safety-relevant adjustment (e.g., installing or replacing the HEPA filter of a 3D printer), the check, its result, and the date are recorded and signed by the GSR in the safety check log of Appendix 7.
 
 ## Planning, building, rebuilding, dismantling, and relocating {#measures_v}
 
@@ -180,11 +181,17 @@ Safe and health-conscious action implies the corresponding knowledge. This knowl
 
 At ETH Zurich, training and education is a central element in ensuring persons' safety and the environment's protection. ETH Zurich offers its staff diverse training and continuing education courses in all the SSHE-relevant areas. The professor is responsible for initial training of new employees, instructing them on safety issues, and periodic refresher courses. This task is delegated to the GSR. However, the responsibility cannot be delegated. All completed safety training is documented in writing and stored electronically.
 
-Before entering the laboratory, every person must complete the Moodle test [Safety in the laboratory](https://moodle-app2.let.ethz.ch/enrol/index.php?id=4041). Before entering the mechanical workshop, every person must complete the Moodle test [Safety in the mechanical shop](https://moodle-app2.let.ethz.ch/enrol/index.php?id=4042). General training is provided upon entry for the wet lab and the workshop. The equipment-specific training is provided to interested and qualified personnel. The permission for equipment use is granted individually according to the level of training and experience. The attestations of information, instruction, and training are stored in [Appendix 8](_operational/08_training_certificates.qmd).
+Before entering the laboratory, every person must complete the Moodle test [Safety in the laboratory](https://moodle-app2.let.ethz.ch/enrol/index.php?id=4041). Before entering the mechanical workshop, every person must complete the Moodle test [Safety in the mechanical shop](https://moodle-app2.let.ethz.ch/enrol/index.php?id=4042). General training is provided upon entry for the wet lab and the workshop. The equipment-specific training is provided to interested and qualified personnel. The permission for equipment use is granted individually according to the level of training and experience. All lab and workshop users repeat the safety instruction at least once per year (annual refresher).
+
+Every safety introduction and every annual refresher includes the following maternity protection information: *some chemicals and biological agents used in the GHE laboratory and workshop are hazardous to pregnancy and breastfeeding. Persons who are pregnant, planning a pregnancy, or breastfeeding are asked to inform the GSR or their supervisor as early as possible, so that a risk assessment can be made and the work adapted according to the [ETH information sheet: Maternity protection](https://ethz.ch/content/dam/ethz/associates/services/Service/sicherheit-gesundheit-umwelt/files/mutterschutz/en/Maternity_protection-factsheet.pdf). This information is treated confidentially.* By signing the training record, the participant confirms having received this information.
+
+The attestations of information, instruction, and training, signed by the participant and the instructor, are stored in [Appendix 8](_operational/08_training_certificates.qmd).
 
 # Health protection {#protection}
 
 Including ergonomic, occupational hygiene, and occupational psychology principles and rules is a prerequisite for the optimal work design. Health-damaging factors must be recorded systematically, and measures must be taken where necessary. Inspection of personal workplaces and the related ergonomic adjustments can help reduce symptoms or eliminate them. If necessary, the representatives of GHE may consult the ETH occupational physician [Dr. Ines Raabe](https://ethz.ch/staffnet/en/service/safety-security-health-environment/contact-persons/details.html?persid=175624).
+
+Pregnant and breastfeeding employees are protected according to the Maternity Protection Ordinance. Chemicals classified as toxic to reproduction (H360, H361), carcinogenic (H350, H351), or mutagenic (H340) and the Group 2 organisms used at GHE are listed in the [chemical risks](chemical-safety.qmd#chemical-risks) section and in the [Biological Safety](biological-safety.qmd) concept. When the GSR is informed about a pregnancy, a risk assessment is made together with SSHE and, if needed, the occupational physician.
 
 # Review and audits {#audits}
 
@@ -201,6 +208,7 @@ Global Health Engineering checks regularly if the safety and health protection g
 - [Appendix 7: Maintenance and servicing schedule](_operational/07_maintenance_and_service_schedule.qmd)
 - [Appendix 8: Certificates of information, instruction, and training](_operational/08_training_certificates.qmd)
 - [Appendix 9: Task schedule](_operational/09_task_schedule.qmd)
+- [Appendix 10: Wet lab door rules (poster)](_operational/10_wet_lab_door_rules.qmd)
 
 [^1]: [English translation of 832.30 Ordinance on Accident and Occupational Diseases Prevention](https://www.global-regulation.com/translation/switzerland/2976187/rs-832.30-order-of-19-december-1983-on-the-prevention-of-accidents-and-occupational-diseases-%2528ordinance-on-accident-prevention%252c-opa%2529.html).
 [^2]: Safety and Occupational Health | Manual for implementing EKAS Directive 6508.
