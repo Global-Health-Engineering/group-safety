@@ -6,8 +6,31 @@ format: html
 [← Back to Biological Safety](../biological-safety.qmd)
 
 
-This list consists only of projects registered in [Ecogen](https://www.ecogen.admin.ch/public/), a platform managed by the Federal Biotechnology Office and the Federal Office for the Environment. All class 1 and 2 activities must be registered and approved in Ecogen prior to their beginning by the Biosafety Officer in collaboration with the activity's responsible person.
+This list contains the activities with biological organisms in CLA J26. Notified activities are registered in [ECOGEN](https://www.ecogen.admin.ch/public/), a platform managed by the Federal Office for the Environment and the Federal Office of Public Health. All class 1 and 2 activities must be notified in ECOGEN before they begin by the Biosafety Officer in collaboration with the activity's responsible person. The list is updated at least every six months and whenever a new notification is submitted.
 
-| Activity | Ecogen number | Responsible person | Organisms | Class | Room | Start | End |
+| Activity | ECOGEN number | Responsible person | Organisms | Class | Room | Start | End | Status |
+| -------- | ------------- | ------------------ | --------- | ----- | ---- | ----- | --- | ------ |
+| Testing fungal mycelium and fungal extracts against nematode eggs | A260150-00 | Jules Peter | *Ascaris suum* (RG2), *Toxocara canis* (RG2), *Pleurotus ostreatus*, *Ganoderma lucidum*, *Lentinula edodes*, *Pholiota nameko* (all RG1) | 2 | CLA J26 | 02 Jun 2026 | - | submitted 26 May 2026, under consultation |
+
+## Activity A260150-00: summary
+
+**Description.** Development of a decontamination protocol for materials contaminated with parasitic nematode eggs. Isolated eggs of *A. suum* and *T. canis* are exposed in vitro to spent mushroom substrate extracts and slurries, fungal secondary metabolites, and acids at different concentrations, pH, temperatures (typically 25–37 °C), and incubation times. Egg viability is assessed by microscopy and vitality assays. Scale: very small (storage, 0–1 l) to small (1–10 l).
+
+**Activity steps.** (1) reception and storage of eggs at 4 °C; (2) preparation of test materials; (3) egg exposure in tubes or multi-well plates inside the BSC; (4) monitoring and sampling; (5) decontamination and waste management by autoclaving; (6) documentation. The working procedure is described in the [SOP](09_SOPs.qmd#nematode-eggs).
+
+**Risk assessment (summary).**
+
+- *Hazard:* both species are Risk Group 2 zoonotic parasites. Humans can be infected only by ingesting **embryonated** eggs; the eggs cannot multiply in the environment or in the human body.
+- *Exposure route:* accidental ingestion (hand-to-mouth). Inhalation risk is minimal because eggs are kept in liquid suspension; skin contact is negligible.
+- *Embryonation:* eggs are received non-embryonated, but untreated controls and insufficiently treated eggs incubated at 25–37 °C can embryonate within a few weeks and become infectious. **Therefore, all eggs are handled as potentially infectious at all times.**
+- *Severity:* infection is treatable (albendazole for *T. canis*, mebendazole for *A. suum*); toxocariasis can cause visceral or ocular larva migrans in severe cases.
+- *Measures:* all open handling in the BSC, gloves and lab coat, no hand-to-face contact, mechanical removal of spills, inactivation of all egg-containing material by autoclaving, annual instruction of staff.
+- *Conclusion:* moderate occupational risk; BSL2 containment is appropriate and sufficient. No environmental risk is expected.
+
+## Former activities
+
+| Activity | ECOGEN number | Responsible person | Organisms | Class | Room | Start | End |
 | -------- | ------------- | ------------------ | --------- | ----- | ---- | ----- | --- |
-|          |               |                    |           |       |      |       |     |
+| Mycelium degradation of feces, incl. culturing of *E. coli* from fecal samples | - | Jules Peter | wild-type *E. coli* (non-GM) from fecal samples; commercially available edible fungi (RG1) | - | CLA J26 | 15 Sep 2024 | 30 Jun 2026 |
+
+The work was carried out in CLA J26 with the biological safety cabinet, and the biological waste was autoclaved.

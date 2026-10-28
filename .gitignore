@@ -1,3 +1,6 @@
 .DS_Store
 .obsidian/
 /.quarto/
+incoming/
+media/wet_lab_door_rules.pdf
+**/*.quarto_ipynb

@@ -1,22 +1,36 @@
 ---
-title: "Appendix 7: User List with Access to BSL2"
+title: "Appendix 7: Rules on Access and User List for BSL2"
 format: html
 ---
 
 [← Back to Biological Safety](../biological-safety.qmd)
 
+## Rules on access to the BSL2 area (CLA J26)
 
-The following table contains the GHE personnel permitted to access the wet lab located in CLA J26 (the Biosafety Level 2 area).
+- Access to CLA J26 is restricted to persons authorized by the BSO. The door is kept closed and locked; it carries the biohazard sign, the sign "Access for authorized personnel only", and the [door rules](../_operational/10_wet_lab_door_rules.qmd).
+- Authorization requires the Moodle test *Safety in the laboratory*, the biosafety introduction by the BSO (including maternity protection information), and a signed training record ([Operational Safety, Appendix 8](../_operational/08_training_certificates.qmd)).
+- Only persons listed in [Appendix 2](02_list_of_employees_SAMV.qmd) work with Group 2 organisms. Other authorized users may work in the lab but do not handle Group 2 material.
+- Keys are issued by the group's key manager for a limited period. When a person leaves GHE or the access period ends, the key is returned and the end date is entered below.
+- CLA J26 is not open to visitors. Service personnel (technicians, building services) enter only with permission of the BSO or the BSO deputy, accompanied by an authorized person, after being informed about the risks. Before service work, Group 2 material is stored away and the affected equipment is decontaminated.
+- Emergency services can access the room with the fire brigade key at any time.
+- The BSO reviews this list at least every six months.
+
+## Users with access to CLA J26
+
+| Name                   | Key number   | Access to RG2 work | Start date  | End date    |
+| ---------------------- | ------------ | ------------------ | ----------- | ----------- |
+| Elizabeth Tilley       | 910 D, #1    | no                 | 13 Jul 2023 | -           |
+| Jakub Tkaczuk          | 9101 D2, #1  | supervision        | 13 Jul 2023 | -           |
+| Bettina Melberg        | 9101 D2, #10 | supervision (BSO deputy) | 26 Jul 2023 | -     |
+| Jules Peter            | 9101 D2, #2  | yes                | 06 Aug 2024 | 30 Jun 2028 |
+| Elia Weber             | **TODO**     | no                 | 31 Sep 2024 | 30 May 2029 |
+
+## Former users
 
 | Name                   | Key number   | Start date  | End date    |
 | ---------------------- | ------------ | ----------- | ----------- |
-| Elizabeth Tilley       | 910 D, #1    | 13 Jul 2023 | -           |
-| Jakub Tkaczuk          | 9101 D2, #1  | 13 Jul 2023 | -           |
-| Bettina Melberg        | 9101 D2, #10 | 26 Jul 2023 | -           | 
-| Michele Strzelecki     |              | 23 Apr 2024 | 30 Jun 2024 |
-| Mario Loeliger         | 9101 D2, #7  | 23 Apr 2024 | 31 Sep 2024 |
-| Gian Teufen            |              | 23 Apr 2024 | 07 Jul 2024 |
-| Louis Ambuehl          |              | 23 Apr 2024 | 07 Jul 2024 |
-| Nicolas Seemann-Ricard | 9101 D2, #8  | 23 Apr 2024 | 28 Feb 2024 |
-| Jules Peter            | 9101 D2, #2  | 06 Aug 2024 | 31 Dec 2025 |
-| Elia Weber             |              | 31 Sep 2024 | -           |
+| Michele Strzelecki     | -            | 23 Apr 2024 | 30 Jun 2024 |
+| Mario Loeliger         | 9101 D2, #7  | 23 Apr 2024 | 30 Sep 2024 |
+| Gian Teufen            | -            | 23 Apr 2024 | 07 Jul 2024 |
+| Louis Ambuehl          | -            | 23 Apr 2024 | 07 Jul 2024 |
+| Nicolas Seemann-Ricard | 9101 D2, #8  | 23 Apr 2024 | 28 Feb 2026 |

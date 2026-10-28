@@ -5,9 +5,9 @@ format: html
 
 [← Back to Operational Safety](../operational-safety.qmd)
 
-# Desription of workflows and activities
+# Description of workflows and activities
 
-The following activities take place in the workshops and labs of the Global Health Enigneering:
+The following activities take place in the workshops and labs of the Global Health Engineering:
 
 1. Mechanical activities:
     1. sensor development
@@ -18,5 +18,6 @@ The following activities take place in the workshops and labs of the Global Heal
     6. laser cutting
 2. Biological and chemical activities:
     1. growing fungi cultures
-    2. Coliforms testing
-    3. Incubation of feces
+    2. exposure of *Ascaris suum* and *Toxocara canis* eggs (Risk Group 2) to fungal extracts, slurries, secondary metabolites, and acids; incubation at 25–37 °C; microscopic viability assessment (BSL2, see [SOP](../_biological/09_SOPs.qmd#nematode-eggs))
+    3. preparation of extracts from spent mushroom substrates
+    4. autoclaving of biological waste

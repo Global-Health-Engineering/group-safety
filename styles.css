@@ -1,1 +1,20 @@
 /* css styles */
+
+/* wet lab door poster (_operational/10_wet_lab_door_rules.qmd) */
+.door-rules { font-size: 1.25rem; line-height: 1.45; }
+.door-rules ol li { margin-bottom: 0.6em; }
+.door-emergency { border: 3px solid #c00; padding: 0.6em 0.9em; margin: 1em 0; font-size: 1.3rem; }
+
+@media print {
+  #quarto-header, .nav-footer, #quarto-margin-sidebar, #quarto-sidebar, a[href$="operational-safety.html"] { display: none !important; }
+  html, body { height: auto !important; min-height: 0 !important; margin: 0 !important; padding: 0 !important; }
+  #quarto-content, main.content, .page-columns { display: block !important; width: 100% !important; max-width: none !important; margin: 0 !important; padding: 0 !important; }
+  #title-block-header { margin: 0 0 4mm 0 !important; }
+  #title-block-header .title { font-size: 26pt; margin-bottom: 1mm; }
+  #title-block-header .subtitle { font-size: 15pt; }
+  .door-rules { font-size: 14pt; line-height: 1.3; }
+  .door-rules img { width: 28mm !important; }
+  .door-rules ol li { margin-bottom: 2.5mm; }
+  .door-emergency { font-size: 14pt; border-width: 4px; break-inside: avoid; }
+  @page { size: A4; margin: 12mm 15mm; }
+}

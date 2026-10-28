@@ -8,41 +8,63 @@ format: html
 
 The work in the laboratory is only permitted after familiarizing oneself with the following:
 - [User manuals](https://drive.google.com/drive/folders/1-gGl0Jj20gXjfeDVtdbEAdviQkH1oo-P?usp=drive_link) for the wet laboratory equipment.
-- [Rules, hazards, and precautions](../../_chemical-safety.qmd) for chemicals available in the lab are described in the separate section of this safety concept.
-- Standard Operating Procedures for experiments involving biological organisms will be developed for each planned experiment and will be available below.
+- [Rules, hazards, and precautions](../chemical-safety.qmd) for chemicals available in the lab are described in the separate section of this safety concept.
+- Standard Operating Procedures for experiments involving biological organisms are developed for each planned experiment and are available below.
 - Process guides for some experiments conducted in the lab are provided [here](https://drive.google.com/drive/folders/1gTSVTPXE1Uu6BYCSFkvb-adi6UVNAWKj?usp=sharing).
 
 ## Standard Operating Procedures
+
+### Work with *Ascaris suum* and *Toxocara canis* eggs (ECOGEN A260150-00) {#nematode-eggs}
+
+**Scope.** Exposure of isolated nematode eggs (Risk Group 2) to fungal extracts, slurries, secondary metabolites, and acids. Only persons listed in [Appendix 2](02_list_of_employees_SAMV.qmd) perform this work.
+
+**Hazard.** Infection by ingestion of embryonated eggs. Eggs embryonate during incubation, so all eggs are handled as potentially infectious. Eggs are sticky and resistant to ethanol and other chemical disinfectants; they are inactivated reliably only by heat (autoclaving).
+
+**Personal protective equipment.** Buttoned lab coat (worn only in CLA J26), nitrile gloves, safety glasses outside the BSC. Change gloves immediately after contamination; never touch face, phone, or door handles with gloves.
+
+**Procedure.**
+
+1. *Reception.* Open UN 3373 packages inside the BSC. Document species, batch, quantity, and date. Store eggs at 4 °C in sealed, labelled secondary containers in the fridge in CLA J26 (biohazard label on the fridge door).
+2. *Preparation of test materials.* Mushroom substrate extracts, slurries, metabolites, acid solutions, and buffers are prepared outside the BSC (no organisms of Group 2 involved); acids are handled in the fume hood according to the [chemical safety information](../chemical-safety.qmd). Label and store at 4 °C.
+3. *Exposure.* Switch on the BSC at least 10 minutes before work. All open handling of eggs (aliquoting, pipetting, adding treatments, sampling) is done inside the BSC. Use filter tips and mechanical pipettes only; no mouth pipetting. Avoid splashes and aerosols; do not use vortex mixers with open tubes. Use only the flat, foot-operated Bunsen burner, and ignite it only when needed.
+4. *Incubation.* Incubate in closed tubes or sealed multi-well plates (lid taped or sealed with film) in the incubator in CLA J26, which carries a biohazard label during incubation. Run untreated and vehicle controls in parallel.
+5. *Centrifugation.* Use only tightly closed screw-cap tubes (max. ¾ full, balanced). After the run, wait at least 5 minutes before opening the lid. Check for broken tubes and open tubes inside the BSC only. If a tube breaks, keep the lid closed for 30 minutes, then clean the rotor and buckets with detergent-soaked wipes and autoclave the wipes.
+6. *Microscopy and sampling.* Transfer samples to the microscope on closed slides or in closed plates. Disinfect and wipe the microscope stage after use; collect the wipes as biological waste.
+7. *Decontamination.* After each session, collect all egg-containing material, tips, tubes, plates, and wipes in an autoclave bag inside the BSC. Remove eggs from surfaces mechanically with detergent-soaked wipes, then wipe with 70% ethanol. Autoclave all waste (121 °C, at least 20 minutes) according to the [disposal plan](14_disposal_plan_for_bio_contaminated_waste.qmd).
+8. *Leaving the lab.* Remove gloves and lab coat in the lab, wash and disinfect hands.
+
+**Incidents.** Spills and possible ingestion are handled according to the [emergency plan](04_emergency_planning_and_procedures.qmd). After a suspected ingestion, inform the BSO and consult the ETH occupational physician.
 
 ### Biogas measurements
 
 Biogas is a humid mixture of methane and carbon dioxide; with additional components being hydrogen sulphide, hydrogen, nitrogen, oxygen, carbon monoxide, and ammonia. In the laboratory experiments, it is being mimicked with pure methane and pure carbon dioxide.
 
-The flow of both gases is regulated with Bronkhorst Flexiflow mass flow controllers. 
+The flow of both gases is regulated with Bronkhorst Flexiflow mass flow controllers.
 
 Humidity is regulated with two manual valves, splitting the flow so part of it passes through water bath.
 
-Methane is hazardous because it is extremely flammable and it acts as a simple asphyxiant. Rapidly expanding gas may cause frostbites (Joule-Thomson effect). More information about methane are found [here](https://github.com/Global-Health-Engineering/group-safety/blob/main/_chemical/METHANE_74-82-8.qmd).
+Methane is hazardous because it is extremely flammable and it acts as a simple asphyxiant. Rapidly expanding gas may cause frostbites (Joule-Thomson effect). More information about methane is found [here](../_chemical/METHANE_74-82-8.qmd).
 
-Carbon dioxide is hazardous because it is heavier than air and can accumulate in lower parts of closed spaces risking suffocation in inhalation is prolonged. The laboratory is equipped with a CO_2 safety sensor and a shut-off valve on the CO_2 bottle. If CO_2 concentration rises above 1\%, a warning is triggered and the CLA services are informed the gas supply is shut; if it raises above 2\%, alarm is triggered and the CLA services are informed. More information about carbon dioxide can be found [here](https://github.com/Global-Health-Engineering/group-safety/blob/main/_chemical/CARBON_DIOXIDE_124-38-9.qmd).
+Carbon dioxide is hazardous because it is heavier than air and can accumulate in lower parts of closed spaces risking suffocation if inhalation is prolonged. The laboratory is equipped with a CO~2~ safety sensor and a shut-off valve on the CO~2~ bottle. If CO~2~ concentration rises above 1%, a warning is triggered, the CLA services are informed, and the gas supply is shut; if it rises above 2%, the alarm is triggered and the CLA services are informed. More information about carbon dioxide can be found [here](../_chemical/CARBON_DIOXIDE_124-38-9.qmd).
 
 The experimental procedure for work with methane and carbon dioxide is as follows:
+
 1. Know placement of the fire extinguisher and the fire blanket (outside the lab, to the right).
-2. Familiarize yourself with the CO2 display placement. Once the CO2 alarm is triggered, leave the lab immediately and wait outside the lab in the corridor for arrival of the building safety team. You can mute the alarm with a red button just outside the lab door (the alarm is mutted, cannot switched off).
+2. Familiarize yourself with the CO~2~ display placement. Once the CO~2~ alarm is triggered, leave the lab immediately and wait outside the lab in the corridor for arrival of the building safety team. You can mute the alarm with a red button just outside the lab door (the alarm is muted, not switched off).
 3. Experiments with methane and carbon dioxide can be performed only inside the fume hood with the sliding door open to normal operating mode. Only in this mode, the circulation of air inside the fume hood is sufficient and the conditions are safe for operation, preventing the gases to flow outside the fume hood.
 4. Before starting the measurements, always turn on the methane sensor installed in the fume hood. Once the alarm goes off, shut down the methane supply and inform Jakub Tkaczuk.
-4. The senors should be connected to the outlet line, minimizing the risk of CH_4 or CO_2 excaping the fume hood.
-5. Dr. Jakub Tkaczuk is responsible for connecting CH_4 and CO_2 bottles to the system. Do not connect them yourself. The gas cabinet with CH_4 and CO_2 bottles needs to be closed properly (handle pointing downwards).
-6. Connect your test setup to gas supply and to the outlet.
-7. Open the gas on/off valves first.
-8. Use the regulator valves on the safety cabinet to control the gas flow.
-9. Prevent unwanted pressure increase in closed containers; check for pressure valuve with pressure indicator on the fume hood.
-10. After use, close the supply valve on the safety cabinet and the regulating valve. Hand tight is good enough, prevent over-tightening the knobs.
-11. Before leaving the lab, double check whether both valves on the fume hood are closed. There is no need for closing the valve on the gas bottle.
-12. It is forbidden to eat, smoke, and use open fire in the lab.
-13. It is forbidden to open windows and work with open door.
-14. Glasses are mandatory for everyone in the room, when experiments with gasses are under way.
-8.	Do not wear synthetic clothing; they melt and stick to exposed skin when on fire.
-9.	Do not wear headphones, do not listen to music to be able to hear gas leaks.
-11.	In case of emergency: inform the ETH mobile emergency contact from your mobile phone (+41 44 342 11 88) or from the phone next to the safety station on the corridor (888).
-12.	Work with methane and carbon dioxide is permitted with one additional person in the lab.
+5. The sensors should be connected to the outlet line, minimizing the risk of CH~4~ or CO~2~ escaping the fume hood.
+6. Dr. Jakub Tkaczuk is responsible for connecting CH~4~ and CO~2~ bottles to the system. Do not connect them yourself. The gas cabinet with CH~4~ and CO~2~ bottles needs to be closed properly (handle pointing downwards).
+7. Connect your test setup to gas supply and to the outlet.
+8. Open the gas on/off valves first.
+9. Use the regulator valves on the safety cabinet to control the gas flow.
+10. Prevent unwanted pressure increase in closed containers; check the pressure with the pressure indicator on the fume hood.
+11. After use, close the supply valve on the safety cabinet and the regulating valve. Hand tight is good enough, prevent over-tightening the knobs.
+12. Before leaving the lab, double check whether both valves on the fume hood are closed. There is no need for closing the valve on the gas bottle.
+13. It is forbidden to eat, smoke, and use open fire in the lab.
+14. It is forbidden to open windows and work with open door.
+15. Glasses are mandatory for everyone in the room, when experiments with gases are under way.
+16. Do not wear synthetic clothing; they melt and stick to exposed skin when on fire.
+17. Do not wear headphones, do not listen to music to be able to hear gas leaks.
+18. In case of emergency: inform the ETH Emergency Desk from your mobile phone (+41 44 342 11 88) or from the phone at the safety station on the corridor (when you leave CLA J26, turn right; the phone is before the elevators, about 10 m from the door) (888).
+19. Work with methane and carbon dioxide is permitted only with one additional person in the lab.

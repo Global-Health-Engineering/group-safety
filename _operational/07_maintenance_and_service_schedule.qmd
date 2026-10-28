@@ -7,6 +7,20 @@ format: html
 
 # Maintenance and servicing schedule
 
-The workshop equipment is serviced based on the follwing schedule:
-1. Manual devices, such as drill, dremmel service upon failure.
-2. Laser cutter: yearly check up and maintenanance based on the existing contract with the supplier.
+The workshop equipment is serviced based on the following schedule:
+
+1. Manual devices, such as drill, Dremel: service upon failure.
+2. Laser cutter: yearly check-up and maintenance based on the existing contract with the supplier.
+3. SLA 3D printer (Formlabs) with washing and curing stations: filters replaced according to the manufacturer; check of the enclosure and ventilation by the GSR every six months.
+
+The service plan for the wet lab equipment (biological safety cabinet, autoclave, centrifuge) is in [Appendix 13 of the Biological Safety concept](../_biological/13_service_plan.qmd).
+
+# Safety check log {#safety-check-log}
+
+The GSR records every safety check, inspection, or safety-relevant adjustment of equipment here and signs it. The signed paper version is kept in the GSR office (CLD D 2.1).
+
+| Date | Equipment, room | Check / adjustment done | Result, follow-up | Next check | Signature GSR |
+| ---- | --------------- | ----------------------- | ----------------- | ---------- | ------------- |
+| 20 Oct 2026 | 3D printer, CLA A21.1 | HEPA filter checked | | Apr 2027 | |
+| | | | | | |
+| | | | | | |
