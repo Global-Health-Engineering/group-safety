@@ -7,7 +7,6 @@ toc: true
 ---
 
 ::: {.callout-note}
-**Approved by:** Dr. Jakub Tkaczuk (BSO) and Prof. Dr. Elizabeth Tilley (head of GHE)
 **Active ECOGEN notification:** [A260150-00](_biological/06_project_list.qmd), class 2, CLA J26
 :::
 
