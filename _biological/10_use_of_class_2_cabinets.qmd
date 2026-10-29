@@ -36,8 +36,9 @@ The primary danger of releasing a biological substance from the biosafety cabine
 
 ## Malfunctions and dangers
 
-Safe operation is only possible if the window sash is in a correct position and the display marks all zones as green. Never ignore alarm signals.
+Safe operation is only possible if the window sash is in a correct position and the display marks all zones as green. Never ignore alarm signals.  
 The cabinet does not offer any protection against harmful gases and vapours.
+
 - In the event of a complete functional failure during work with potentially dangerous biological substances work must be stopped in a controlled manner. The laboratory manager and the BSO of the group must be informed immediately.
 - In the event of a visual and acoustic alarm, the cause of the malfunction must be identified, if necessary, with the help of the operating instructions and, if possible, corrected by the operator themselves. If it is not possible to correct the malfunction or if attempts are unsuccessful, the responsible person must be notified in accordance with the service plan. The most probable causes of alarms are:
     - obstructed flow - remove any items from the air intake;

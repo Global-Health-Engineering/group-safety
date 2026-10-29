@@ -17,6 +17,7 @@ International biosafety warning symbol:
 ## Purpose
 
 The biohazard warning symbol draws attention to the risks due to Group 2 pathogenic or genetically modified organisms and serves to reduce the dispersal and uncontrolled multiplication of organisms and to protect people from unintentional infection[^1]. The warning symbol is aimed at three different groups of people, with a different purpose in each case:
+
 - It reminds employees that infectious organisms are present in a certain working area and that contamination is to be expected.
 - It warns the group personnel without the necessary knowledge not to enter the designated area or touch instruments and containers marked in this way.
 - It serves to draw the attention of the emergency services to the protective measures to be taken[^2].
@@ -24,6 +25,7 @@ The biohazard warning symbol draws attention to the risks due to Group 2 pathoge
 ## Rules of use
 
 With regard to the the biohazard warning symbol placement, the ETH Zurich is guided by the following principles:
+
 - It is used sparingly to retain its signaling effect.
 - It is positioned at the entrance to the BSL 2 areas.
 - It is attached to equipment, e.g., an incubator, or positioned in working areas **inside** an already marked room if there is a possibility of a **higher biohazard risk** compared with the immediate surrounding working area.

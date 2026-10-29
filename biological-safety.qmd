@@ -88,7 +88,7 @@ The following details are recorded in the health file (according to Art. 14 (3) 
 - Vaccinations.
 - Results of medical examinations after accidents, incidents, exposure to microorganisms, and suspected infection during occupational activity.
 
-The attending doctor keeps the health file as a separate dossier or as a component/folder in an existing medical history if, for example, the person examined also consults the same doctor privately[^5].
+The attending doctor keeps the health file as a separate dossier or as a component/folder in an existing medical history if, for example, the person examined also consults the same doctor privately[^5].  
 Suppose other work-related medical examinations, e.g., concerning radiation protection, are also carried out by the doctor involved. In that case, these shall be included or combined in the same personal dossier.
 
 No vaccination exists against *Ascaris* or *Toxocara*, and no special medical examinations are required for activity A260150-00 (as declared in ECOGEN). After a suspected ingestion of eggs, the affected person consults the ETH occupational physician, who decides on diagnostics and treatment (albendazole for *T. canis*, mebendazole for *A. suum*). In that case a health file is opened.

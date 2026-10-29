@@ -10,7 +10,8 @@ format: html
 
 This hygiene plan applies to the BSL2 wet laboratory located in CLA J26. The laboratory manager is Dr Jakub Tkaczuk.
 
-The biological organisms used for the research purposes in the lab are listed below:  
+The biological organisms used for the research purposes in the lab are listed below:
+
 - *Ascaris suum* and *Toxocara canis* eggs (Risk Group 2, ECOGEN A260150-00)
 - fungi from spent mushroom substrates: *Pleurotus ostreatus*, *Ganoderma lucidum*, *Lentinula edodes*, *Pholiota nameko* (Risk Group 1)
 
