@@ -7,6 +7,7 @@ format: html
 
 
 The work in the laboratory is only permitted after familiarizing oneself with the following:
+
 - [User manuals](https://drive.google.com/drive/folders/1-gGl0Jj20gXjfeDVtdbEAdviQkH1oo-P?usp=drive_link) for the wet laboratory equipment.
 - [Rules, hazards, and precautions](../chemical-safety.qmd) for chemicals available in the lab are described in the separate section of this safety concept.
 - Standard Operating Procedures for experiments involving biological organisms are developed for each planned experiment and are available below.

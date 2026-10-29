@@ -10,10 +10,12 @@ format: html
 ## Biosafety Officer (BSO)
 
 Duties:
+
 - The BSO regularly gets further training.
 - The BSO creates a lab safety concept for biological safety according to ESV guidelines and updates the concept periodically.
 
 The BSO ensures:
+
 - that the laboratory managers or project leaders adhere to the principles of good microbiological practice and the safety regulations.
 - the safe use of equipment and methods.
 - the access rules for an organization in which only authorized persons are permitted access to the Level 2 area.
@@ -29,6 +31,7 @@ The BSO ensures:
 ## BSO deputy
 
 The BSO deputy (Bettina Melberg) takes over the duties of the BSO when the BSO is absent, in particular:
+
 - acting as contact person for incidents in CLA J26 and for the emergency services;
 - granting clearance after decontamination following an incident;
 - informing the BSO about all incidents and decisions taken during the absence.
@@ -38,6 +41,7 @@ The BSO keeps the deputy informed about current activities, notifications, and c
 ## Laboratory Manager and Project Leaders
 
 Duties of the Project Leaders:
+
 - adhere to safety regulations and the principles of good microbiological practice by the laboratory staff.
 - correct disposal of microbiological waste.
 - create, update, and implement work instructions to ensure environmental and occupational safety by means of work regulations and rules of conduct. 
@@ -45,7 +49,8 @@ Duties of the Project Leaders:
 - submit reports and authorization requests to the Federal Office of Biotechnology Activities and the BSO.
 - record all activities with genetically modified or pathogenic organisms.
 
-The Laboratory Managers or Project Leaders: 
+The Laboratory Managers or Project Leaders:
+
 - ensure that employees receive training and work-related instruction regarding safety in working with biological materials (at least once a year) and inform them – possibly in conjunction with the BSO – of the risks, required protective measures as well as of incidents and accidents (Art. 12, SAMV).
 - ensure that the proper protective equipment is available and make certain that, if indicated, the maintenance and cleaning of this equipment is regulated.
 - make sure that the cleaning of specific areas is arranged with the cleaning service, provided they have been assigned with this task. 

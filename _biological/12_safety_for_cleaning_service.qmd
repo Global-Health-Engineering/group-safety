@@ -7,6 +7,7 @@ format: html
 
 
 The following applies to cleaning the wet laboratory (CLA J26):
+
 - The ETH cleaning services shall only clean the floor with conventional detergents. The cleaning staff should not touch, nor clean the desktops and the equipment.
 - Waste from the general, open waste bin should be removed by the cleaning staff.
 - If a "_no cleaning_" sign is displayed at the door, the ETH cleaning services should not clean the laboratory at all, neither they should take away the waste from the general waste container.
