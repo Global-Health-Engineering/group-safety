@@ -117,6 +117,10 @@ The BSO keeps an overview of the activities involving organisms within their are
 
 Access to the BSL2 laboratory facility is restricted to authorized persons only and is governed by the containment concept of GHE. Nonetheless, it must always be ensured that, in the event of an incident, e.g., fire, the emergency services can access the area quickly and safely (fire brigade key) and that the escape routes are secured. The rules on access and the list of users with access to the level 2 area are provided in [Appendix 7](_biological/07_user_list_with_access_to_BSL2.qmd).
 
+The BSL2 working area is room CLA J26. The floor plan below shows the location of the safety-relevant equipment: the biological safety cabinet (26-2), the fume hood (26-8), the autoclave (26-7), the fridge for sample storage (26-11), the chemical cabinet (26-9), the gas cabinet (26-10), the sink (26-5), and the lab coats (26-4).
+
+![Floor plan of the BSL2 laboratory CLA J26](media/BSL2_lab_floor_plan.png){width=50% fig-align="center"}
+
 The entrance area to level 2 laboratories is signalized, and warning signs (restricted access and warning of the hazards emanating from the organism) are displayed. The guidelines for signalization of laboratories and equipment with the "Biohazard" warning symbol are described in [Appendix 8](_biological/08_meaning_and_use_of_biohazard_symbol.qmd).
 
 ## Instructions for safe working {#measures_ii}
