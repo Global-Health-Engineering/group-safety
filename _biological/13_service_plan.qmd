@@ -29,7 +29,8 @@ Service reports and contracts are stored in the BSO office (CLD D 2.1). Safety c
 | Equipment | Last service | Result | Next service |
 | --------- | ------------ | ------ | ------------ |
 | Biological safety cabinet | 21 Jan 2026 | laminar flow check, alarm reset | 2027 |
-| Autoclave (HMC) | 25 Jun 2025 | cleaning, filter replacement, calibration | 2027 |
+| Autoclave (HMC) | 12 Nov 2026 | cleaning, gasket and filter replacement, calibration | 2027 |
+| Fume hood | 17 Sep 2026 | flow and alarm check | 2027 |
 | Centrifuge (Sorvall ST8) | -[^1] | - | - |
 
 ## Rules on access for service personnel
